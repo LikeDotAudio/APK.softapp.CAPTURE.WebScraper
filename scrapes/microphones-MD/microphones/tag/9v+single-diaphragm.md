@@ -1,0 +1,5 @@
+## Mics tagged: 9v AND single-diaphragm
+
+|  |  |
+| --- | --- |
+| [Sony C38B](http://recordinghacks.com/microphones/Sony/C38B "Sony C38B - Features, Specifications, Datasheet") | OmnidirectionalCardioid  [**Sony C38B**](/microphones/Sony/C38B "Sony C38B - Features, Specifications, Datasheet")  Multi-Pattern Condenser Microphone  [side-address](//recordinghacks.com/microphones/tag/side-address "side-address microphones"), [large-diaphragm](//recordinghacks.com/microphones/tag/large-diaphragm "large-diaphragm microphones"), [multipattern](//recordinghacks.com/microphones/tag/multipattern "multipattern microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [yoke-mount](//recordinghacks.com/microphones/tag/yoke-mount "yoke-mount microphones"), [battery-power](//recordinghacks.com/microphones/tag/battery-power "battery-power microphones"), [single-diaphragm](//recordinghacks.com/microphones/tag/single-diaphragm "single-diaphragm microphones"), [9v](//recordinghacks.com/microphones/tag/9v "9v microphones") |

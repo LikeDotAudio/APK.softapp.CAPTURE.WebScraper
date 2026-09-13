@@ -1,0 +1,5 @@
+## Mics tagged: 6s6b-v AND end-address
+
+|  |  |
+| --- | --- |
+| [Soyuz Microphones SU-011](http://recordinghacks.com/microphones/Soyuz/SU-011 "Soyuz Microphones SU-011 - Features, Specifications, Datasheet") | [**Soyuz Microphones SU-011**](/microphones/Soyuz/SU-011 "Soyuz Microphones SU-011 - Features, Specifications, Datasheet")  Pencil Tube Condenser Microphone  [tube](//recordinghacks.com/microphones/tag/tube "tube microphones"), [pencil-mic](//recordinghacks.com/microphones/tag/pencil-mic "pencil-mic microphones"), [transformer-coupled](//recordinghacks.com/microphones/tag/transformer-coupled "transformer-coupled microphones"), [end-address](//recordinghacks.com/microphones/tag/end-address "end-address microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [hybrid-mic](//recordinghacks.com/microphones/tag/hybrid-mic "hybrid-mic microphones"), [6s6b-v](//recordinghacks.com/microphones/tag/6s6b-v "6s6b-v microphones") |

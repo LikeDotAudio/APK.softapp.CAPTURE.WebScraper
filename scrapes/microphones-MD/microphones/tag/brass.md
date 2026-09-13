@@ -1,0 +1,5 @@
+## Mics tagged: brass
+
+|  |  |
+| --- | --- |
+| [beyerdynamic Opus 82](http://recordinghacks.com/microphones/beyerdynamic/Opus-82 "beyerdynamic Opus 82 - Features, Specifications, Datasheet") | Cardioid  [**beyerdynamic Opus 82**](/microphones/beyerdynamic/Opus-82 "beyerdynamic Opus 82 - Features, Specifications, Datasheet")  Cardioid Condenser Microphone  [electret](//recordinghacks.com/microphones/tag/electret "electret microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [gooseneck](//recordinghacks.com/microphones/tag/gooseneck "gooseneck microphones"), [miniature](//recordinghacks.com/microphones/tag/miniature "miniature microphones"), [clip-mount](//recordinghacks.com/microphones/tag/clip-mount "clip-mount microphones"), [brass](//recordinghacks.com/microphones/tag/brass "brass microphones") |

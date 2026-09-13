@@ -1,0 +1,5 @@
+## Mics tagged: 40-series AND video-camera
+
+|  |  |
+| --- | --- |
+| [Audio-Technica AT4073a](http://recordinghacks.com/microphones/Audio-Technica/AT4073a "Audio-Technica AT4073a - Features, Specifications, Datasheet") | Shotgun  [**Audio-Technica AT4073a**](/microphones/Audio-Technica/AT4073a "Audio-Technica AT4073a - Features, Specifications, Datasheet")  Shotgun Condenser Microphone  [externally-biased](//recordinghacks.com/microphones/tag/externally-biased "externally-biased microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [shotgun](//recordinghacks.com/microphones/tag/shotgun "shotgun microphones"), [video-camera](//recordinghacks.com/microphones/tag/video-camera "video-camera microphones"), [40-series](//recordinghacks.com/microphones/tag/40-series "40-series microphones") |

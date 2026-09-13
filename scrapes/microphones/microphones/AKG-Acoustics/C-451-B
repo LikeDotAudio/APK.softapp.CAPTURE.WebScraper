@@ -1,0 +1,278 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>AKG Acoustics C 451 B | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="C 451 B, Cardioid Pencil Condenser Microphone , aka: 451B, C451B - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/AKG-Acoustics/C-451-B" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>C 451 B Microphone Sets</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="AKG C 451 B/ST - microphone set" href="//recordinghacks.com/microphones/AKG-Acoustics/C-451-B-ST"><img src="//cdn.recordinghacks.com/images/sets/00043/00043_75.jpg" width="75" height="75" alt="" title=""   ><br /><span>AKG C 451 B/ST</span></a></li>
+                                                    <li class="mictile"><a title="AKG Drum Set Premium - microphone set" href="//recordinghacks.com/microphones/AKG-Acoustics/Drum-Set-Premium"><img src="//cdn.recordinghacks.com/images/sets/00108/00108_75.jpg" width="75" height="75" alt="" title=""   ><br /><span>AKG Drum Set Premium</span></a></li>
+                                                </ul>
+                        </div>
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The CR1-14 duplicates the 451&#8217;s basic design, including pad and HPF options." href="//recordinghacks.com/microphones/Feilo/CR1-14"><img src="//cdn.recordinghacks.com/images/mics/00461/00461_75.jpg" width="75" height="75" alt="The CR1-14 duplicates the 451&#8217;s basic design, including pad and HPF options." title="The CR1-14 duplicates the 451&#8217;s basic design, including pad and HPF options."   ><br /><span>Feilo CR1-14</span></a></li>
+                                                    <li class="mictile"><a title="The SC-2 duplicates the 451&#8217;s basic design, including pad and HPF options." href="//recordinghacks.com/microphones/ADK/SC-2"><img src="//cdn.recordinghacks.com/images/mics/00462/00462_75.jpg" width="75" height="75" alt="The SC-2 duplicates the 451&#8217;s basic design, including pad and HPF options." title="The SC-2 duplicates the 451&#8217;s basic design, including pad and HPF options."   ><br /><span>ADK SC-2</span></a></li>
+                                                    <li class="mictile"><a title="The C 451 B is a modern interpretation of the classic C451." href="//recordinghacks.com/microphones/AKG-Acoustics/C-451"><img src="//cdn.recordinghacks.com/images/mics/00641/00641_75.jpg" width="75" height="75" alt="The C 451 B is a modern interpretation of the classic C451." title="The C 451 B is a modern interpretation of the classic C451."   ><br /><span>AKG C-451</span></a></li>
+                                                    <li class="mictile"><a title="The C451 Anniversary is a cosmetic upgrade to the C451B." href="//recordinghacks.com/microphones/AKG-Acoustics/C451-Anniversary"><img src="//cdn.recordinghacks.com/images/mics/01629/01629_75.jpg" width="75" height="75" alt="The C451 Anniversary is a cosmetic upgrade to the C451B." title="The C451 Anniversary is a cosmetic upgrade to the C451B."   ><br /><span>AKG C451 Anniversary</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/AKG-Acoustics">AKG microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="AKG Acoustics C 451 B" href="/microphone-photo/00299/AKG-Acoustics/C-451-B.jpg"><img src="//cdn.recordinghacks.com/images/mics/00299/00299_172.jpg" width="172" height="80" alt="AKG Acoustics C 451 B" title="AKG Acoustics C 451 B" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $499</li>
+                                                            </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/electret" alt="electret microphones">electret</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/pencil-mic" alt="pencil-mic microphones">pencil-mic</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformerless" alt="transformerless microphones">transformerless</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/condenser" alt="condenser microphones">condenser</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/hpf" alt="hpf microphones">hpf</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://proaudioreview.com/pages/s.0033/t.7011.html">vs MXL 604</a></li>
+                                                                    <li id="www"><a  href="http://mixonline.com/products/review/audio_akg/">MIX review, 2002-04</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/akg/Resolution-C451B.pdf">Resolution Magazine, 2002-05</a></li>
+                                                                </ul>                    
+                                        <h3>C 451 B Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.akg.com/site/products/powerslave,id,223,pid,223,nodeid,2,_language,EN.html">C451B Product Description</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/akg/C451B-manual.pdf">C451B User manual</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/akg/C451B-brochure.pdf">C451B Brochure</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/akg/C451B-datasheet.pdf">C451B Datasheet (US version)</a></li>
+                                                                </ul>                    
+                                        <h3>C 451 B Awards</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a href="//recordinghacks.com/awards#29">2002 TEC Awards</a> (Nominated)</li>
+                                        </ul>                    
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="299-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>AKG Acoustics C 451 B</h2>
+                    
+                    <h2 class="sub">                    Cardioid Pencil Condenser Microphone</h2>
+                    <p>The original AKG C 451-C, created in 1969, was the company&#8217;s first FET condenser, and was a very successful product due in part to the great sound of the cardioid CK-1 capsule and the modular design of the microphone (which included pads, gooseneck and swivel extensions, plus 10 other capsules covering every polar pattern).</p><p>The &#8220;CMS&#8221; (Condenser Modular System) series was discontinued in the 1990s, after which AKG redesigned and reintroduced what is now called the &#8220;C 451 B.&#8221;</p><p>Features at a glance:</p><ul><li>Identical acoustics to the CK1 capsule</li><li>Precise, nearly frequency-independent cardioid pickup pattern</li><li>Extremely accurate signal transfer and ruler-flat on-axis frequency response</li></ul><p>The new capsule employs a 3-micron gold-sputtered diaphragm designed to be insensitive to handling noise. It is an electret design, according to MIX Magazine.</p><p>The electronics and body were redesigned to be more rugged and reliable, to the extent that the modular-capsule system (which provided versatility at the expense of complexity and increased risk of damage to capsules, threads, and etc) was replaced by a fixed-cardioid capsule.</p><p>The formerly modular pads have been incorporated into the onboard electronics; a switch on the mic body provides a 10 or 20db pad (giving the mic an extremely high max SPL rating of 155 dB, which essentially means you can mic the loudest thing in the studio without fear of distortion).</p><p>A second switch on the body provides a high pass filter (aka bass roll-off), attenuating 12 dB per octave below 75 or 150 Hz (selectable).</p><p>Note that this basic design, including the 3-position pad and 3-position HPF, have been cloned in numerous competitive mics, such as the <a href="http://recordinghacks.com/microphones/Feilo/CR1-14">Feilo CR1-14</a>, <a href="http://recordinghacks.com/microphones/ADK/SC-2">ADK SC-2</a>.</p><p>The SA 40 stand adapter and W 90 windscreen are included as standard accessories.</p><p>These mics are available in computer-matched stereo pairs, known as the C451B/ST. Such pairs are within 1 dB to each other in sensitivity and also within 1 dB to each other in the range of 200 Hz to 15,000 Hz of the individual frequency response when used in cardioid mode. Pairs are selected from a large quantity of individual microphones using the described criteria.</p><p>Using this matched pair for stereo recordings utilizing various techniques will provide for a good and stable balance without frequency-dependent shifting of the stereo panorama.</p><blockquote><p><cite>Resolution, 2002</cite></p><p>The original [C451 + CK-1 Cardioid capsule] was notable for its treble lift, and this reissue is certainly similar in that respect&#8230; with a reduced treble response off-axis you are able to control the sound considerably by placement&#8230;</p></blockquote><p><p>The <a href="//recordinghacks.com/microphones/AKG-Acoustics/C-451-B">AKG Acoustics C 451 B</a> is also known as: 451B, C451B.</p><p>The mic was released in 2001.</p>
+                    <h3>Specifications</h3>
+                                        
+                    <table>
+                                                    <tr><th>Frequency Response - Cardioid<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/0323" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/0/0323.png" width=476 height=159 alt="C 451 B Cardioid Frequency Response Chart" title="C 451 B Cardioid Frequency Response Chart" border=0 /></td></tr>
+                            </table>
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                                                                Cardioid
+                                             (9 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                    <li>Pad: -10 dB<small> (Via Switch)</small></li>
+                                                                        <li>Pad: -20 dB<small> (Via Switch)</small></li>
+                                                                        <li>Filter: -12 dB/octave @ 75Hz<small> (Via Switch)</small></li>
+                                                                        <li>Filter: -12 dB/octave @ 150Hz<small> (Via Switch)</small></li>
+                                                                    </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Capsule Dimensions</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                                                            Diameter n/a<br />
+                                                                                Diaphragm gauge: 3 microns                                                                    </td>
+                            <td>200 Ohms <em class="mute">(Low)</em></td>
+                            <td>Max SPL: 155 dB<br />                                Self-noise: 18.0 dB(A)</td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>125g <em class="mute">(4.41oz)</em></td>
+                            <td>160mm <em class="mute">(6.30&#39;&#39;)</em></td>
+                            <td>19mm <em class="mute">(0.75&#39;&#39;)</em></td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                        <li>Requires phantom power </li>
+                                                                                                                                                                                <li>Phantom voltage: 9 - 52v</li>
+                                        </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('299-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

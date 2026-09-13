@@ -1,0 +1,400 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Chameleon Labs TS-1 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="TS-1, Detachable-Capsule Pencil Tube Condenser Microphone , aka: TS1 - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/Chameleon-Labs/TS-1" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The MA-100 and TS-1 are small-diaphragm condensers built around a 5840 tube." href="//recordinghacks.com/microphones/Mojave-Audio/MA-100"><img src="//cdn.recordinghacks.com/images/mics/00429/00429_75.jpg" width="75" height="75" alt="The MA-100 and TS-1 are small-diaphragm condensers built around a 5840 tube." title="The MA-100 and TS-1 are small-diaphragm condensers built around a 5840 tube."   ><br /><span>Mojave Audio MA-100</span></a></li>
+                                                    <li class="mictile"><a title="The TS-1 Mk II is a revised and improved version of the TS-1." href="//recordinghacks.com/microphones/Chameleon-Labs/TS1-MkII"><img src="//cdn.recordinghacks.com/images/mics/01107/01107_75.jpg" width="75" height="75" alt="The TS-1 Mk II is a revised and improved version of the TS-1." title="The TS-1 Mk II is a revised and improved version of the TS-1."   ><br /><span>Chameleon Labs TS-1 Mk II</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/Chameleon-Labs">Chameleon Labs microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Chameleon Labs TS-1" href="/microphone-photo/00496/Chameleon-Labs/TS-1.jpg"><img src="//cdn.recordinghacks.com/images/mics/00496/00496_172.jpg" width="172" height="81" alt="Chameleon Labs TS-1" title="Chameleon Labs TS-1" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $559</li>
+                                        <li id="none"><em>Discontinued</em></li>                    </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/tube" alt="tube microphones">tube</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/pencil-mic" alt="pencil-mic microphones">pencil-mic</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/detachable-capsule" alt="detachable-capsule microphones">detachable-capsule</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/5840" alt="5840 microphones">5840</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformer-coupled" alt="transformer-coupled microphones">transformer-coupled</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/condenser" alt="condenser microphones">condenser</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/plate-loaded" alt="plate-loaded microphones">plate-loaded</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/hybrid-mic" alt="hybrid-mic microphones">hybrid-mic</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.studioauditions.com/gearreviewdetail.php?GearReviewID=170">StudioAuditions review,2008-03</a></li>
+                                                                    <li id="forum"><a  href="http://recforums.prosoundweb.com/index.php/mv/msg/18089/0/0/0/">ProSoundWeb discussion</a></li>
+                                                                    <li id="www"><a  href="http://www.eqmag.com/article/chameleon-labs-ts1/sep-07/35129">EQ Magazine, 2007-09</a></li>
+                                                                    <li id="www"><a  href="http://www.soundonsound.com/sos/sep09/articles/chameleonlabsts1.htm">SoundOnSound, 2009-09</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/reviews/tapeop/2-chameleon-labs-ts-1/">Tape Op Review (issue #60)</a></li>
+                                                                </ul>                    
+                                        <h3>TS-1 Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.chameleonlabs.com/product2.htm">TS-1 Product Description</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/chameleonlabs/TS1_manual.pdf">TS-1 Owner&#8217;s Manual</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="496-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="496-1" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="496-2" src="//cdn.recordinghacks.com/images/icons/patterns/icon_hc.png" width=27 height=27 alt="Hypercardioid" title="Hypercardioid" ><img id="496-3" src="//cdn.recordinghacks.com/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ><img id="496-4" src="//cdn.recordinghacks.com/images/icons/patterns/icon_sg.png" width=27 height=27 alt="Shotgun" title="Shotgun" ></span>Chameleon Labs TS-1</h2>
+                    
+                    <h2 class="sub">                    Detachable-Capsule Pencil Tube Condenser Microphone</h2>
+                    <p>The TS-1 is a small-diaphragm tube condenser mic with detachable capsules. The TS-1 kit includes cardioid and omni capsules; a hypercardioid capsule is also available.</p><p>Further, Chameleon&#8217;s ADP-1 adapter allows AKG&#8217;s CK series capsules to be used on the TS-1 body, providing a variety of additional capsule styles and pickup patterns &#8212; see below for a list. Of the original CK capsules, all should work except for the CK5 as it had a shorter pin length.</p><p>Chameleon&#8217;s capsules are made in China to meet performance specifications from the designer. The gold-sputtered diaphragm measures 3 microns in thickness and 17mm in diameter. </p><p>The mic and power supply were designed by <a href="http://recordinghacks.com/microphones/Terry-Setter">Terry Setter</a> (the &#8216;TS&#8217; in the model number), who began the project at the request of Chameleon Labs. Setter purchased and gutted some SDCs from ADK to serve as a workbench, and spent a year on the circuit and power supply for the mic that would become the TS-1.</p><p>One of the key components in the mic&#8217;s architecture is the 5840 tube, which is supplied by Chameleon to the Chinese manufacturer. According to Setter, this particular tube is shock-rated for 400 g, meaning that if you drop the mic, you&#8217;re more likely to break the metal housing than the tube inside.</p><blockquote class="pull"><p>If you want extraordinary clarity and realism, there&#8217;s nothing like a plate-loaded circuit.</p></blockquote><p>Another component is that the circuit is plate-loaded rather than using a cathode-follower design. The transformer is of Chinese origin, made to Setter&#8217;s performance specs.</p><p>The power supply is the third innovative component contributing to the mic&#8217;s sound. Unlike common low-end Chinese PSUs with 4-stage filtering, or higher-end supplies with 6-stage filtering, the Chameleon power supply is overbuilt with 7-stage filtering. It&#8217;s unregulated, &#8220;like great supplies of yesteryear.&#8221; It incorporates a toroidal transformer.</p><p>Setter says of the power supply, &#8220;the next level of refinement would be very costly,&#8221; and likely not yield results audible to most users. &#8220;I tried to put everything into that thing that can be put in, and manufactured reliably using readily-available parts.&#8221;</p><p>The final piece of the architecture was the capsule. After months of circuitry experimentation, Setter determined that the prototype&#8217;s performance was being held back by the ADK capsule. Working with Chameleon&#8217;s contacts at the manufacturing plant, a high-end 17mm capsule was identified as meeting Setter&#8217;s needs. </p><p>The finished prototype was then shipped to the manufacturing plant, beginning a second year of design iterations and refinements, with the final result being the mic as is shipped from Chameleon today. </p><p>Unlike most Chinese-made microphones, the TS-1 does not appear to have been cloned or copied; it remains one of a handful of unique small-diaphragm tube condensers on the market.</p><p>Can the TS-1 be modded?</p><p>&#8220;You can <em>always</em> mod,&#8221; Setter laughed. But the physical size of the mic body and PSU are limiting factors. Setter added that his personal TS-1s are stock.</p><blockquote><p><cite>George Massenburg</cite><br />I love the TS-1 Microphones. Seems like every session I do, I find an instrument that they sound great on.</p></blockquote><p>The TS-1 kit includes: the mic preamp, two capsules (cardioid and omni), power supply, shockmount, 7-pin cable, power cord, foam windscreen, flight case, and a 1-year warranty.</p><blockquote><p><cite>SoundOnSound, 2009</cite></p><p>The Chameleon Labs TS1 &#8230; puts in an impressive performance, combining versatility with a subjectively pleasing sound quality &#8230; Its applications parallel those of <a href="http://recordinghacks.com/microphones/Neumann/KM-184">Neumann&#8217;s KM184</a> and similar small-diaphragm mics, though it has its own tonality, the tube adding a touch of warmth and somehow smoothing the highs without sacrificing brightness or detail&#8230; I&#8217;m very impressed.</p></blockquote><p>In 2010, the company launched a new large-diaphragm capsule head for the TS-1. Inside the headbasket is a 35mm OD, 28mm dual-diaphragm capsule that can be switched between Cardioid and Omni pickup patterns.<p>The <a href="//recordinghacks.com/microphones/Chameleon-Labs/TS-1">Chameleon Labs TS-1</a> is also known as: TS1.</p>
+                    <h3>Specifications</h3>
+                    <table><tr><th>Compatible Capsules</th></tr><tr><td><table style="width: 440px">                        <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00155/00155_75.jpg" width="75" height="75" alt="AKG Acoustics CK-1" title="AKG Acoustics CK-1"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap4738" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>AKG Acoustics CK-1</strong><br />
+                        Cardioid capsule<br />
+                        Sensitivity: 9.5 mV/Pa<br />
+                        Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: n/a | <span class="mute">discontinued</span></li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00154/00154_75.jpg" width="75" height="75" alt="AKG Acoustics CK-2" title="AKG Acoustics CK-2"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap4739" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ></span>
+                        <strong>AKG Acoustics CK-2</strong><br />
+                        Omnidirectional capsule<br />
+                        Sensitivity: 6 mV/Pa<br />
+                        Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: n/a | <span class="mute">discontinued</span></li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00159/00159_75.jpg" width="75" height="75" alt="AKG Acoustics CK-22" title="AKG Acoustics CK-22"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap4740" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ></span>
+                        <strong>AKG Acoustics CK-22</strong><br />
+                        Omnidirectional capsule<br />
+                        Sensitivity: 8 mV/Pa<br />
+                        Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: n/a | <span class="mute">discontinued</span></li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00160/00160_75.jpg" width="75" height="75" alt="AKG Acoustics CK-26" title="AKG Acoustics CK-26"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap4741" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ></span>
+                        <strong>AKG Acoustics CK-26</strong><br />
+                        Omnidirectional capsule<br />
+                        Sensitivity: 1.3 mV/Pa<br />
+                        Freq. Resp.: 30 - 30,000 Hz<br />
+                        MSRP: n/a | <span class="mute">discontinued</span></li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00161/00161_75.jpg" width="75" height="75" alt="AKG Acoustics CK-28" title="AKG Acoustics CK-28"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap4742" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>AKG Acoustics CK-28</strong><br />
+                        Cardioid capsule<br />
+                        Sensitivity: 1.3 mV/Pa<br />
+                        Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: n/a | <span class="mute">discontinued</span></li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00162/00162_75.jpg" width="75" height="75" alt="AKG Acoustics CK-3" title="AKG Acoustics CK-3"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap4743" src="//cdn.recordinghacks.com/images/icons/patterns/icon_hc.png" width=27 height=27 alt="Hypercardioid" title="Hypercardioid" ></span>
+                        <strong>AKG Acoustics CK-3</strong><br />
+                        Hypercardioid capsule<br />
+                        Sensitivity: 11 mV/Pa<br />
+                        Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: n/a | <span class="mute">discontinued</span></li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00157/00157_75.jpg" width="75" height="75" alt="AKG Acoustics CK-6" title="AKG Acoustics CK-6"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap4744" src="//cdn.recordinghacks.com/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ></span>
+                        <strong>AKG Acoustics CK-6</strong><br />
+                        Bidirectional capsule<br />
+                        Sensitivity: n/a mV/Pa<br />
+                        Freq. Resp.: n/a<br />
+                        MSRP: n/a | <span class="mute">discontinued</span></li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"></td><td><span class="shaft"><img id="cap4745" src="//cdn.recordinghacks.com/images/icons/patterns/icon_sg.png" width=27 height=27 alt="Shotgun" title="Shotgun" ></span>
+                        <strong>AKG Acoustics CK-8</strong><br />
+                        Shotgun capsule<br />
+                        Sensitivity: 15 mV/Pa<br />
+                        Freq. Resp.: 30 - 18,000 Hz<br />
+                        MSRP: n/a | <span class="mute">discontinued</span></li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00158/00158_75.jpg" width="75" height="75" alt="AKG Acoustics CK-9" title="AKG Acoustics CK-9"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap4746" src="//cdn.recordinghacks.com/images/icons/patterns/icon_sg.png" width=27 height=27 alt="Shotgun" title="Shotgun" ></span>
+                        <strong>AKG Acoustics CK-9</strong><br />
+                        Shotgun capsule<br />
+                        Sensitivity: 11 mV/Pa<br />
+                        Freq. Resp.: 30 - 18,000 Hz<br />
+                        MSRP: n/a | <span class="mute">discontinued</span></li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00165/00165_75.jpg" width="75" height="75" alt="Chameleon Labs TS-1 Cardioid" title="Chameleon Labs TS-1 Cardioid"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap4747" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>Chameleon Labs TS-1 Cardioid</strong><br />
+                        17mm Cardioid capsule<br />
+                        Sensitivity:  mV/Pa<br />
+                        <span class="shaft" id="anchor4747"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show4747">CHART</button></span>Freq. Resp.: 70 - 20,000 Hz<br />
+                        MSRP: $65 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"></td><td><span class="shaft"><img id="cap4748" src="//cdn.recordinghacks.com/images/icons/patterns/icon_hc.png" width=27 height=27 alt="Hypercardioid" title="Hypercardioid" ></span>
+                        <strong>Chameleon Labs TS-1 Hypercardioid</strong><br />
+                        17mm Hypercardioid capsule<br />
+                        Sensitivity:  mV/Pa<br />
+                        Freq. Resp.: 80 - 20,000 Hz<br />
+                        MSRP: $65 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00275/00275_75.jpg" width="75" height="75" alt="Chameleon Labs TS-1 LDC" title="Chameleon Labs TS-1 LDC"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap4749" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>Chameleon Labs TS-1 LDC</strong><br />
+                        28mm large diaphragm Cardioid capsule<br />
+                        Sensitivity: n/a mV/Pa<br />
+                        <span class="shaft" id="anchor4749"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show4749">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $259 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"></td><td><span class="shaft"><img id="cap4750" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ></span>
+                        <strong>Chameleon Labs TS-1 Omni</strong><br />
+                        17mm Omnidirectional capsule<br />
+                        Sensitivity:  mV/Pa<br />
+                        <span class="shaft" id="anchor4750"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show4750">CHART</button></span>Freq. Resp.: 30 - 20,000 Hz<br />
+                        MSRP: $65 | Still In Production</li>
+                        </td></tr>
+                    </table></td></tr></table>
+                    <table>
+                        <tr>
+                            <th>Pads &amp; Filters</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>n/a                                
+                                </td>
+                            <td>200 Ohms <em class="mute">(Low)</em></td>
+                            <td>Max SPL: 130 dB<br />                                Self-noise: 19.0 dB(A)</td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>n/a</em></td>
+                            <td>n/a</td>
+                            <td>n/a</td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                                                                                                                <li>Includes tube power supply </li>
+                                                                                    </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+             
+<script type="text/javascript">
+        YAHOO.namespace("freq");
+
+        function init_freq_graphs() {
+
+            YAHOO.freq.chartPanel4747 = new YAHOO.widget.Panel("chartPanel4747",  {  context:["anchor4747", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel4747.render();
+
+            YAHOO.freq.chartPanel4749 = new YAHOO.widget.Panel("chartPanel4749",  {  context:["anchor4749", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel4749.render();
+
+            YAHOO.freq.chartPanel4750 = new YAHOO.widget.Panel("chartPanel4750",  {  context:["anchor4750", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel4750.render();
+
+                
+            YAHOO.freq.manager = new YAHOO.widget.OverlayManager(); 
+            YAHOO.freq.manager.register([YAHOO.freq.chartPanel4747,
+                                                   YAHOO.freq.chartPanel4749,
+                                                   YAHOO.freq.chartPanel4750,
+                                                   ]);
+
+          
+            YAHOO.util.Event.addListener("show4747", "click", YAHOO.freq.chartPanel4747.show, YAHOO.freq.chartPanel4747, true);
+            YAHOO.util.Event.addListener("hide4747", "click", YAHOO.freq.chartPanel4747.hide, YAHOO.freq.chartPanel4747, true);
+            YAHOO.util.Event.addListener("focus4747", "click", YAHOO.freq.chartPanel4747.focus, YAHOO.freq.chartPanel4747, true);
+
+          
+            YAHOO.util.Event.addListener("show4749", "click", YAHOO.freq.chartPanel4749.show, YAHOO.freq.chartPanel4749, true);
+            YAHOO.util.Event.addListener("hide4749", "click", YAHOO.freq.chartPanel4749.hide, YAHOO.freq.chartPanel4749, true);
+            YAHOO.util.Event.addListener("focus4749", "click", YAHOO.freq.chartPanel4749.focus, YAHOO.freq.chartPanel4749, true);
+
+          
+            YAHOO.util.Event.addListener("show4750", "click", YAHOO.freq.chartPanel4750.show, YAHOO.freq.chartPanel4750, true);
+            YAHOO.util.Event.addListener("hide4750", "click", YAHOO.freq.chartPanel4750.hide, YAHOO.freq.chartPanel4750, true);
+            YAHOO.util.Event.addListener("focus4750", "click", YAHOO.freq.chartPanel4750.focus, YAHOO.freq.chartPanel4750, true);
+
+            
+    
+        }
+        YAHOO.util.Event.addListener(window, "load", init_freq_graphs);
+</script>
+
+
+<div id="chartPanel4747" style="visibility:hidden">
+    <div class="hd"><span>Chameleon Labs TS-1 Frequency Chart: Cardioid</span></div>
+    <div class="bd">
+    <img name="graph4747" src="http://recordinghacks.com/images/graphs/chameleon/ts1_cardioid.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel4749" style="visibility:hidden">
+    <div class="hd"><span>Chameleon Labs TS-1 Frequency Chart: Cardioid</span></div>
+    <div class="bd">
+    <img name="graph4749" src="http://recordinghacks.com/images/graphs/chameleon/TS1LDC.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel4750" style="visibility:hidden">
+    <div class="hd"><span>Chameleon Labs TS-1 Frequency Chart: Omnidirectional</span></div>
+    <div class="bd">
+    <img name="graph4750" src="http://recordinghacks.com/images/graphs/chameleon/ts1_omni.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('496-0');uniqueids.push('496-1');uniqueids.push('496-2');uniqueids.push('496-3');uniqueids.push('496-4');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

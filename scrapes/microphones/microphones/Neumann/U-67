@@ -1,0 +1,287 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Neumann U 67 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="U 67, Multi-Pattern Tube Condenser Microphone , aka: U 60, U67 - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/Neumann/U-67" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The M 269 is a U 67 with an AC701 tube, developed for the German broadcast market." href="//recordinghacks.com/microphones/Neumann/M-269"><img src="//cdn.recordinghacks.com/images/mics/00817/00817_75.jpg" width="75" height="75" alt="The M 269 is a U 67 with an AC701 tube, developed for the German broadcast market." title="The M 269 is a U 67 with an AC701 tube, developed for the German broadcast market."   ><br /><span>Neumann M 269 C</span></a></li>
+                                                    <li class="mictile"><a title="The TLM 67 is said to be a modern version of the U 67." href="//recordinghacks.com/microphones/Neumann/TLM-67"><img src="//cdn.recordinghacks.com/images/mics/00506/00506_75.jpg" width="75" height="75" alt="The TLM 67 is said to be a modern version of the U 67." title="The TLM 67 is said to be a modern version of the U 67."   ><br /><span>Neumann TLM 67</span></a></li>
+                                                    <li class="mictile"><a title="The JZ Vintage V67 is said to recreate the sound of the Neumann U67." href="//recordinghacks.com/microphones/JZ/Vintage-V67"><img src="//cdn.recordinghacks.com/images/mics/00970/00970_75.jpg" width="75" height="75" alt="The JZ Vintage V67 is said to recreate the sound of the Neumann U67." title="The JZ Vintage V67 is said to recreate the sound of the Neumann U67."   ><br /><span>JZ Vintage V67</span></a></li>
+                                                    <li class="mictile"><a title="The U87 is the FET counterpart to the U 67." href="//recordinghacks.com/microphones/Neumann/U-87"><img src="//cdn.recordinghacks.com/images/mics/01112/01112_75.jpg" width="75" height="75" alt="The U87 is the FET counterpart to the U 67." title="The U87 is the FET counterpart to the U 67."   ><br /><span>Neumann U 87</span></a></li>
+                                                    <li class="mictile"><a title="The P-67 is a recreation of the Neumann U 67." href="//recordinghacks.com/microphones/Peluso-Microphone-Lab/P-67"><img src="//cdn.recordinghacks.com/images/mics/01153/01153_75.jpg" width="75" height="75" alt="The P-67 is a recreation of the Neumann U 67." title="The P-67 is a recreation of the Neumann U 67."   ><br /><span>Peluso P-67</span></a></li>
+                                                    <li class="mictile"><a title="The Wunder CM67 is a recreation of the U67." href="//recordinghacks.com/microphones/Wunder-Audio/CM67"><img src="//cdn.recordinghacks.com/images/mics/01302/01302_75.jpg" width="75" height="75" alt="The Wunder CM67 is a recreation of the U67." title="The Wunder CM67 is a recreation of the U67."   ><br /><span>Wunder Audio CM67</span></a></li>
+                                                    <li class="mictile"><a title="The CM-67 is a modern tube mic modeled after the U67." href="//recordinghacks.com/microphones/Advanced-Audio-Microphones/CM-67"><img src="//cdn.recordinghacks.com/images/mics/01426/01426_75.jpg" width="75" height="75" alt="The CM-67 is a modern tube mic modeled after the U67." title="The CM-67 is a modern tube mic modeled after the U67."   ><br /><span>Advanced Audio CM-67</span></a></li>
+                                                    <li class="mictile"><a title="The U67-CG is intended as a replica of the Neumann U67." href="//recordinghacks.com/microphones/Cathedral-Guitars/CG-U67"><img src="//cdn.recordinghacks.com/images/mics/01621/01621_75.jpg" width="75" height="75" alt="The U67-CG is intended as a replica of the Neumann U67." title="The U67-CG is intended as a replica of the Neumann U67."   ><br /><span>Cathedral Guitars U 67 CG</span></a></li>
+                                                    <li class="mictile"><a title="The ADK Z-67 is their tribute to the Neumann U 67" href="//recordinghacks.com/microphones//"><img src="//cdn.recordinghacks.com/images/mics/01840/01840_75.jpg" width="75" height="75" alt="The ADK Z-67 is their tribute to the Neumann U 67" title="The ADK Z-67 is their tribute to the Neumann U 67"   ><br /><span> </span></a></li>
+                                                    <li class="mictile"><a title="The WA-67 is inspired by the U 67." href="//recordinghacks.com/microphones//"><img src="//cdn.recordinghacks.com/images/mics/01898/01898_75.jpg" width="75" height="75" alt="The WA-67 is inspired by the U 67." title="The WA-67 is inspired by the U 67."   ><br /><span> </span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/Neumann">Neumann microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                            <a name="mods"></a><div class="graybox"><h3>Mods for the U 67</h3>
+                        <ul class="mod_list">
+                                                    <li style="font-family: Georgia, Serif;"><b>The Mic Shop</b><a href="//recordinghacks.com/microphones/MicShop"><img style="border: 0; padding: 0 0 6px 3px" src="//recordinghacks.com/images/logos/logo_micshop.jpg" height=75 width=75 alt="The Mic Shop" /></a>                            <br />Bill Bradley restores vintage mics in Nashville, TN.</li>
+                                                    <li style="font-family: Georgia, Serif;"><b>Hamptone</b><a href="//recordinghacks.com/microphones/Hamptone"><img style="border: 0; padding: 0 0 6px 3px" src="//recordinghacks.com/images/logos/logo_hamptone.jpg" height=75 width=75 alt="Hamptone" /></a>                            <br />Scott Hampton repairs vintage tube mics, especially those needing new power supplies. His mic repairs involve replacing and updating selected components, fine-tuning the circuitry, and restoration of the mic's original sonic character. He can also furnish a Hamptone second-generation Tube Mic Power Supply.</li>
+                                                </ul><br clear="all" />
+                    </div>            
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Neumann U 67" href="/microphone-photo/01152/Neumann/U-67.jpg"><img src="//cdn.recordinghacks.com/images/mics/01152/01152_172.jpg" width="172" height="94" alt="Neumann U 67" title="Neumann U 67" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: n/a</li>
+                                        <li id="none"><em>Discontinued</em></li>                    </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/side-address" alt="side-address microphones">side-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/large-diaphragm" alt="large-diaphragm microphones">large-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/dual-diaphragm" alt="dual-diaphragm microphones">dual-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/tube" alt="tube microphones">tube</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/multipattern" alt="multipattern microphones">multipattern</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/k67" alt="k67 microphones">k67</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformer-coupled" alt="transformer-coupled microphones">transformer-coupled</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/center-terminated" alt="center-terminated microphones">center-terminated</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/ef86" alt="ef86 microphones">ef86</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/condenser" alt="condenser microphones">condenser</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/bv12" alt="bv12 microphones">bv12</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="forum"><a  href="http://recforums.prosoundweb.com/index.php/t/20245/0/">Klaus Heyne on Neumann U 60</a></li>
+                                                                    <li id="forum"><a  href="http://recording.org/pro-recording-forum/5520-neumann-u67-reissue-vs-original.html">Stephen Paul on reissue U67s</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/neumann/U67-history.pdf">U 67 History</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/2012/07/15/oceanway-vocal-microphone-test/">Oceanway Vocal Mic Shootout</a></li>
+                                                                </ul>                    
+                                        <h3>U 67 Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/neumann/U67-brochure.pdf">U 67 Brochure (1966)</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/neumann/U67-manual-1963.pdf">U67 Manual (1963)</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/neumann/U67-manual-1992.pdf">U67 Re-release Manual (1992)</a></li>
+                                                                    <li id="image"><a rel="shadowbox" href="http://recordinghacks.com/images/mic_extras/neumann/U67-schematic.jpg">U67 Schematic (Gotham)</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="1152-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="1152-1" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="1152-2" src="//cdn.recordinghacks.com/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ></span>Neumann U 67</h2>
+                    
+                    <h2 class="sub">                    Multi-Pattern Tube Condenser Microphone</h2>
+                    <p>The Neumann U 67 is a multipattern large-diaphragm condenser microphone with a tube-and-transformer topology. It was introduced by Neumann in 1960 with the intention of replacing the U 47 in Neumann&#8217;s product line.</p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/neumann/U67-parts.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/neumann/U67-parts-sm.jpg" class="thumb shaft" alt="U 67, disassembled" width="200" /></a>The new microphone, originally christened the U 60 for the year of its development, brought numerous innovations to market. </p><p>The K67 capsule, which since 1960 has become the most common and most copied condenser capsule in the world, was designed to avoid the challenges and costs of tuning the K47 so that both diaphragms produce identical frequency responses. Unlike the K47, the K67 utilizes a two-piece backplate, allowing the diaphragms to be tuned individually and then matched for equivalent response.</p><p>A -10dB pad was incorporated, in response to the trend of placing microphones closer to sources. </p><p>For the same reason, the mic had a switchable high-pass filter to roll off low frequencies. The Neumann manual gives a 100Hz corner frequency, but the published graphs show attenuation as high as 300Hz. In addition, a fixed 30Hz rolloff was incorporated into the amplifier circuit to reduce pickup of mechanically transmitted noise (rumble).</p><p>According to Roessler, the tapered body shape was purely a cosmetic change, intended to satisfy an increasingly style-conscious market. This body design is also used for the U87 and U87A microphones.</p><p>The tube was a Telefunken EF86, a pentode wired into this circuit as a triode. It used a 6.3V filament voltage, and was wired to the PCB via a Teflon socket.</p><p>The mic&#8217;s output transformer is somewhat unique. According to David Bock, &#8220;it uses a tertiary winding for negative feedback through the capsule to the tube.&#8221;</p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/neumann/U60-capsule.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/neumann/U60-capsule-sm.jpg" class="thumb shaft" alt="U 60 Capsule" width="133" /></a>An initial production run of approximately 20 microphones was labeled and sold as the &#8220;U 60.&#8221; All of these reportedly used the K67 capsule, but according to Klaus Heyne, a variety of prototype mounting methods were employed, such as the wire wrap pictured at right.</p><p>Neumann reportedly produced a reissue of the U67 sometime in the late 1980&#8217;s or early 1990&#8217;s. According to the late Stephen Paul, the reissue U67s suffered from what he characterized as reduced tolerances on the CNC-lathed K67 capsule. The reduced tolerances affected the capsule&#8217;s high-frequency response.</p><p>Nonetheless, Neumann staff maintain that the reissue U67 was identical to the original in every way but one &#8212; the output connector differed.</p><p>The original U 67 shipped with its dedicated power supply, p/n NU 67.<p>The <a href="//recordinghacks.com/microphones/Neumann/U-67">Neumann U 67</a> is also known as: U 60, U67.</p><p>The mic was released in 1960.</p>
+                    <h3>Specifications</h3>
+                                        
+                    <table>
+                                                    <tr><th>Frequency Response - Omnidirectional<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/1606" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/1/1606.png" width=476 height=159 alt="U 67 Omnidirectional Frequency Response Chart" title="U 67 Omnidirectional Frequency Response Chart" border=0 /></td></tr>
+                                                        <tr><th>Frequency Response - Cardioid<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/1605" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/1/1605.png" width=476 height=159 alt="U 67 Cardioid Frequency Response Chart" title="U 67 Cardioid Frequency Response Chart" border=0 /></td></tr>
+                                                        <tr><th>Frequency Response - Bidirectional<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/1607" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/1/1607.png" width=476 height=159 alt="U 67 Bidirectional Frequency Response Chart" title="U 67 Bidirectional Frequency Response Chart" border=0 /></td></tr>
+                            </table>
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                                                                Omnidirectional
+                                             (11 mV/Pa; 30 - 16,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                                                            Cardioid
+                                             (20 mV/Pa; 30 - 16,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                                                            Bidirectional
+                                             (14 mV/Pa; 30 - 16,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                    <li>Pad: -10dB<small> (Via Switch)</small></li>
+                                                                        <li>Filter: HPF @ 100Hz<small> (Via Switch)</small></li>
+                                                                    </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Capsule Dimensions</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                                                            Diameter n/a<br />
+                                                                                Diaphragm gauge: 6 microns                                                                    </td>
+                            <td>200 Ohms <em class="mute">(Low)</em></td>
+                            <td>Max SPL: 116 dB<br />                                </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>540g <em class="mute">(19.05oz)</em></td>
+                            <td>201mm <em class="mute">(7.91&#39;&#39;)</em></td>
+                            <td>n/a</td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                                                                                                                <li>Includes tube power supply </li>
+                                                                                    </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('1152-0');uniqueids.push('1152-1');uniqueids.push('1152-2');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

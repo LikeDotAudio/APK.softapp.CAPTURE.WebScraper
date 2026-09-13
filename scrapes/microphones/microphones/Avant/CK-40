@@ -1,0 +1,292 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Avantone Pro CK-40 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="CK-40, Multi-Pattern Condenser Stereo Microphone , aka: CK40 - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/Avant/CK-40" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The CK-40 and CK-33 are stereo FET condensers; the CK-40 offers larger diaphragms and multipattern control." href="//recordinghacks.com/microphones/Avant/CK-33"><img src="//cdn.recordinghacks.com/images/mics/00694/00694_75.jpg" width="75" height="75" alt="The CK-40 and CK-33 are stereo FET condensers; the CK-40 offers larger diaphragms and multipattern control." title="The CK-40 and CK-33 are stereo FET condensers; the CK-40 offers larger diaphragms and multipattern control."   ><br /><span>Avant CK-33</span></a></li>
+                                                    <li class="mictile"><a title="The Avant CK-40 and Studio Projects LSD2 are both stereo multipattern FET LDCs." href="//recordinghacks.com/microphones/Studio-Projects/LSD2"><img src="//cdn.recordinghacks.com/images/mics/00759/00759_75.jpg" width="75" height="75" alt="The Avant CK-40 and Studio Projects LSD2 are both stereo multipattern FET LDCs." title="The Avant CK-40 and Studio Projects LSD2 are both stereo multipattern FET LDCs."   ><br /><span>Studio Projects LSD2</span></a></li>
+                                                    <li class="mictile"><a title="The STM400 and CK-40 offer similar features, but have slightly different circuits." href="//recordinghacks.com/microphones/Alctron/STM400"><img src="//cdn.recordinghacks.com/images/mics/01609/01609_75.jpg" width="75" height="75" alt="The STM400 and CK-40 offer similar features, but have slightly different circuits." title="The STM400 and CK-40 offer similar features, but have slightly different circuits."   ><br /><span>Alctron STM400</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/Avant">Avant microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Avantone Pro CK-40" href="/microphone-photo/00693/Avant/CK-40.jpg"><img src="//cdn.recordinghacks.com/images/mics/00693/00693_172.jpg" width="172" height="89" alt="Avantone Pro CK-40" title="Avantone Pro CK-40" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $599</li>
+                                                            </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/side-address" alt="side-address microphones">side-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/large-diaphragm" alt="large-diaphragm microphones">large-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/dual-diaphragm" alt="dual-diaphragm microphones">dual-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/stereo" alt="stereo microphones">stereo</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/multipattern" alt="multipattern microphones">multipattern</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformerless" alt="transformerless microphones">transformerless</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/center-terminated" alt="center-terminated microphones">center-terminated</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/dual-capsule" alt="dual-capsule microphones">dual-capsule</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/mid-side" alt="mid-side microphones">mid-side</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/xy-stereo" alt="xy-stereo microphones">xy-stereo</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/blumlein" alt="blumlein microphones">blumlein</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://emusician.com/mics/avant_electronics_ck-40/">Electronic Musician, 2008-04</a></li>
+                                                                    <li id="www"><a  href="http://www.studioauditions.com/gearreviewdetail.php?GearReviewID=166">StudioAuditions rvw, 2007-12</a></li>
+                                                                    <li id="www"><a  href="http://mixonline.com/gear/reviews/audio_avant_electronics_avantone/">MIX review, 2008-08</a></li>
+                                                                    <li id="forum"><a rel="nofollow" href="http://www.gearslutz.com/board/work-progress-advice-requested-show-tell-artist-showcase/171002-avant-ck-40-acid-test-propped-infront-acoustic-trio.html">CK-40 acoustic trio demo MP3</a></li>
+                                                                    <li id="film"><a  href="http://emusician.com/ms/namm08/video/avant_electronics_mics/">Ken Avant intro video, NAMM&#8217;08</a></li>
+                                                                    <li id="www"><a  href="http://www.soundonsound.com/sos/mar13/articles/avantone-ck40.htm">SOS Review, 2013-03</a></li>
+                                                                </ul>                    
+                                        <h3>CK-40 Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.avantonepro.com/Avantone-CK-40-Stereo-Multi-Pattern-FET-Microphone.html">CK-40 Product Description</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="693-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="693-1" src="//cdn.recordinghacks.com/images/icons/patterns/icon_xy.png" width=27 height=27 alt="X/Y Stereo" title="X/Y Stereo" ><img id="693-2" src="//cdn.recordinghacks.com/images/icons/patterns/icon_ms.png" width=27 height=27 alt="Mid-Side Stereo" title="Mid-Side Stereo" ><img id="693-3" src="//cdn.recordinghacks.com/images/icons/patterns/icon_bl.png" width=27 height=27 alt="Blumlein" title="Blumlein" ></span>Avantone Pro CK-40</h2>
+                    
+                    <h2 class="sub">                    Multi-Pattern Condenser Stereo Microphone</h2>
+                    <p>Avant&#8217;s CK-40 is a dual-large-diaphragm stereo FET condenser that is capable of mid-side, Blumlein, or coincident XY-stereo recording.</p><p>Two dual-diaphragm, 35mm center-terminated capsules are mounted one atop the other; the top capsule rotates 270 degrees. Both capsules can be switched among cardioid, omni, or figure-of-8. This provides a variety of stereo miking options, including:</p><ul><li>Single-point XY-stereo (with both capsules set to cardioid, offsetting the top capsule 90&deg;)</li><li>Mid-side (with the front-facing capsule set to cardioid and the &#8220;side&#8221; capsule offset 90&deg; and set to figure-8)</li><li>Blumlein (with both capsules set to figure-8, 90&deg; opposed)</li></ul><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/avant/CK40-pcb.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/avant/CK40-pcb-sm.jpg" class="thumb shaft" alt="CK-40 PCB" width="200" /></a>Although previously described here as a transformer-coupled  mic, the schematic and circuit board photos that we&#8217;ve seen show the transformerless circuit (derived from the Schoeps circuit) that is common to many transformerless Chinese-made microphones. </p><p>The CK-40 includes a vinyl pouch for the mic, a suspension shockmount, a splitter box (5-pin XLRF into two 3-pin XLRM), foam windscreen, a 30&#39; 5-pin mic cable, a padded flight case, and a 5-year warranty.</p><blockquote><p><cite>Electronic Musician</cite></p><p>Over the course of the next few weeks, I ran the CK-40 through a variety of preamps&#8230; on drums, vocals, piano, electric bass, and acoustic and electric guitars. In every scenario, the CK-40 impressed me, often standing up next to reference mics costing a lot more.</p><p>In cardioid mode, using only one capsule, the CK-40 captured the depth and fullness, but also the presence and growl, of the electric instruments. Grand piano sounded particularly open and natural using the Blumlein technique, where both capsules are set to figure-8 at 90 degrees from each other.</p></blockquote><p></p><blockquote><p><cite>StudioAuditions</cite></p><p>&#8230;I propped it on a small stand at a kind of a middling nowhere &#8212; a fews rows back, to the side of the center aisle. Not really in the sweet spot of the PA, not really close to the stage, just planted in the midst, sure to get the evening as it happened. I set the capsules to their figure-8 patterns and rotated the top capsule 90 degrees. The results were beyond stunning. You couldn&#8217;t tell there was a PA &#8212; the clarity of the singers and guitars was searing&#8230; When the music welled up, it filled every pore&#8212;real smooth, liquid-sounding. It sounded like a multi-track production.</p></blockquote><p>The mic was announced at Winter NAMM 2007, and began shipping mid-year.<p>The <a href="//recordinghacks.com/microphones/Avant/CK-40">Avantone Pro CK-40</a> is also known as: CK40.</p><p>The mic was released in 2007.</p>
+                    <h3>Specifications</h3>
+                                        
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                                                                Cardioid
+                                             (10 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                                                            X/Y Stereo
+                                             (10 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                                                            Mid-Side Stereo
+                                             (10 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                                                            Blumlein
+                                             (10 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                    <li>Pad: -10dB<small> (Via Switch)</small></li>
+                                                                        <li>Filter: HPF: -6dB/octave @ 80Hz<small> (Via Switch)</small></li>
+                                                                    </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Capsule Dimensions</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                                                                                                        Capsule diameter: 35mm<br />
+                                                                                                                                                    </td>
+                            <td>200 Ohms <em class="mute">(Low)</em></td>
+                            <td>Max SPL: 147 dB<br />                                Self-noise: 17.0 dB(A)</td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>950g <em class="mute">(33.51oz)</em></td>
+                            <td>276mm <em class="mute">(10.87&#39;&#39;)</em></td>
+                            <td>49mm <em class="mute">(1.93&#39;&#39;)</em></td>
+                            <td><ul><li>3-pin XLR male (2)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                        <li>Requires phantom power </li>
+                                                                                                                                                                                <li>Phantom voltage: 48v</li>
+                                        </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+             
+<script type="text/javascript">
+        YAHOO.namespace("freq");
+
+        function init_freq_graphs() {
+
+                
+            YAHOO.freq.manager = new YAHOO.widget.OverlayManager(); 
+            YAHOO.freq.manager.register([]);
+        
+
+
+        }
+        YAHOO.util.Event.addListener(window, "load", init_freq_graphs);
+</script>
+
+
+    <script type="text/javascript">
+    function swap_graph(id) {
+        if (1==0) {}
+    }
+    </script>
+
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('693-0');uniqueids.push('693-1');uniqueids.push('693-2');uniqueids.push('693-3');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

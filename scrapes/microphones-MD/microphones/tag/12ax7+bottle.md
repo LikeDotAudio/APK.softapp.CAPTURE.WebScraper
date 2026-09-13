@@ -1,0 +1,5 @@
+## Mics tagged: 12ax7 AND bottle
+
+|  |  |
+| --- | --- |
+| [ART Pro Audio M-Four](http://recordinghacks.com/microphones/ART/M-Four "ART Pro Audio M-Four - Features, Specifications, Datasheet") | 9 polar patterns [**ART Pro Audio M-Four**](/microphones/ART/M-Four "ART Pro Audio M-Four - Features, Specifications, Datasheet")  Multi-Pattern Tube Condenser Microphone  [side-address](//recordinghacks.com/microphones/tag/side-address "side-address microphones"), [large-diaphragm](//recordinghacks.com/microphones/tag/large-diaphragm "large-diaphragm microphones"), [dual-diaphragm](//recordinghacks.com/microphones/tag/dual-diaphragm "dual-diaphragm microphones"), [tube](//recordinghacks.com/microphones/tag/tube "tube microphones"), [multipattern](//recordinghacks.com/microphones/tag/multipattern "multipattern microphones"), [12ax7](//recordinghacks.com/microphones/tag/12ax7 "12ax7 microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [bottle](//recordinghacks.com/microphones/tag/bottle "bottle microphones") |

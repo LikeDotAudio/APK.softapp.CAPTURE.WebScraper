@@ -1,0 +1,5 @@
+## Mics tagged: 12ax7 AND dual-triode
+
+|  |  |
+| --- | --- |
+| [SE Electronics 2200T](http://recordinghacks.com/microphones/SE-Electronics/2200T "SE Electronics 2200T - Features, Specifications, Datasheet") | Cardioid  [**SE Electronics 2200T**](/microphones/SE-Electronics/2200T "SE Electronics 2200T - Features, Specifications, Datasheet")  Cardioid Tube Condenser Microphone  [side-address](//recordinghacks.com/microphones/tag/side-address "side-address microphones"), [large-diaphragm](//recordinghacks.com/microphones/tag/large-diaphragm "large-diaphragm microphones"), [tube](//recordinghacks.com/microphones/tag/tube "tube microphones"), [transformer-coupled](//recordinghacks.com/microphones/tag/transformer-coupled "transformer-coupled microphones"), [12ax7](//recordinghacks.com/microphones/tag/12ax7 "12ax7 microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [ecc83](//recordinghacks.com/microphones/tag/ecc83 "ecc83 microphones"), [dual-triode](//recordinghacks.com/microphones/tag/dual-triode "dual-triode microphones") |

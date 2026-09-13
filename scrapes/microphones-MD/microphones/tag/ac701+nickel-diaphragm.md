@@ -1,0 +1,5 @@
+## Mics tagged: ac701 AND nickel-diaphragm
+
+|  |  |
+| --- | --- |
+| [Neumann KM 54](http://recordinghacks.com/microphones/Neumann/KM-54 "Neumann KM 54 - Features, Specifications, Datasheet") | Cardioid  [**Neumann KM 54**](/microphones/Neumann/KM-54 "Neumann KM 54 - Features, Specifications, Datasheet")  Cardioid Pencil Tube Condenser Microphone  [tube](//recordinghacks.com/microphones/tag/tube "tube microphones"), [pencil-mic](//recordinghacks.com/microphones/tag/pencil-mic "pencil-mic microphones"), [transformer-coupled](//recordinghacks.com/microphones/tag/transformer-coupled "transformer-coupled microphones"), [end-address](//recordinghacks.com/microphones/tag/end-address "end-address microphones"), [nickel-diaphragm](//recordinghacks.com/microphones/tag/nickel-diaphragm "nickel-diaphragm microphones"), [ac701](//recordinghacks.com/microphones/tag/ac701 "ac701 microphones") |

@@ -1,0 +1,5 @@
+## Mics tagged: aa AND detachable-capsule
+
+|  |  |
+| --- | --- |
+| [Audio-Technica ATM31](http://recordinghacks.com/microphones/Audio-Technica/ATM31 "Audio-Technica ATM31 - Features, Specifications, Datasheet") | Cardioid  [**Audio-Technica ATM31**](/microphones/Audio-Technica/ATM31 "Audio-Technica ATM31 - Features, Specifications, Datasheet")  Cardioid Condenser Microphone  [electret](//recordinghacks.com/microphones/tag/electret "electret microphones"), [detachable-capsule](//recordinghacks.com/microphones/tag/detachable-capsule "detachable-capsule microphones"), [transformer-coupled](//recordinghacks.com/microphones/tag/transformer-coupled "transformer-coupled microphones"), [end-address](//recordinghacks.com/microphones/tag/end-address "end-address microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [battery-power](//recordinghacks.com/microphones/tag/battery-power "battery-power microphones"), [aa](//recordinghacks.com/microphones/tag/aa "aa microphones") |

@@ -1,0 +1,5 @@
+## Mics tagged: rycote
+
+|  |  |
+| --- | --- |
+| [Cathedral Pipes Notre Dame](http://recordinghacks.com/microphones/Cathedral-Pipes/Notre-Dame "Cathedral Pipes Notre Dame - Features, Specifications, Datasheet") | [**Cathedral Pipes Notre Dame**](/microphones/Cathedral-Pipes/Notre-Dame "Cathedral Pipes Notre Dame - Features, Specifications, Datasheet")  Tube Condenser Microphone  [side-address](//recordinghacks.com/microphones/tag/side-address "side-address microphones"), [large-diaphragm](//recordinghacks.com/microphones/tag/large-diaphragm "large-diaphragm microphones"), [tube](//recordinghacks.com/microphones/tag/tube "tube microphones"), [transformer-coupled](//recordinghacks.com/microphones/tag/transformer-coupled "transformer-coupled microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [continuously-variable](//recordinghacks.com/microphones/tag/continuously-variable "continuously-variable microphones"), [rycote](//recordinghacks.com/microphones/tag/rycote "rycote microphones") |

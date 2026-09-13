@@ -1,0 +1,5 @@
+## Mics tagged: 16-bit AND detachable-capsule
+
+|  |  |
+| --- | --- |
+| [Oktava MK-012-USB](http://recordinghacks.com/microphones/Oktava/MK-012-USB "Oktava MK-012-USB - Features, Specifications, Datasheet") | OmnidirectionalCardioidHypercardioidBidirectionalWide Cardioid  [**Oktava MK-012-USB**](/microphones/Oktava/MK-012-USB "Oktava MK-012-USB - Features, Specifications, Datasheet")  Detachable-Capsule Condenser Microphone  [usb](//recordinghacks.com/microphones/tag/usb "usb microphones"), [detachable-capsule](//recordinghacks.com/microphones/tag/detachable-capsule "detachable-capsule microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [16-bit](//recordinghacks.com/microphones/tag/16-bit "16-bit microphones"), [48-khz](//recordinghacks.com/microphones/tag/48-khz "48-khz microphones") |

@@ -1,0 +1,5 @@
+## Mics tagged: cutaway
+
+|  |  |
+| --- | --- |
+| [Roswell Pro Audio Mini K87](http://recordinghacks.com/microphones/Roswell/Mini-K87 "Roswell Pro Audio Mini K87 - Features, Specifications, Datasheet") | Cardioid  [**Roswell Pro Audio Mini K87**](/microphones/Roswell/Mini-K87 "Roswell Pro Audio Mini K87 - Features, Specifications, Datasheet")  Cardioid Condenser Microphone  [side-address](//recordinghacks.com/microphones/tag/side-address "side-address microphones"), [large-diaphragm](//recordinghacks.com/microphones/tag/large-diaphragm "large-diaphragm microphones"), [k67](//recordinghacks.com/microphones/tag/k67 "k67 microphones"), [transformerless](//recordinghacks.com/microphones/tag/transformerless "transformerless microphones"), [neutral](//recordinghacks.com/microphones/tag/neutral "neutral microphones"), [cutaway](//recordinghacks.com/microphones/tag/cutaway "cutaway microphones"), [mini-k](//recordinghacks.com/microphones/tag/mini-k "mini-k microphones") |

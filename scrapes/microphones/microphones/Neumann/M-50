@@ -1,0 +1,272 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Neumann M 50 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="M 50, Omnidirectional Tube Condenser Microphone , aka: M50 - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/Neumann/M-50" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The Bock 50 is a modern reincarnation of the Neumann M 50." href="//recordinghacks.com/microphones/bock-audio/50"><img src="//cdn.recordinghacks.com/images/mics/00911/00911_75.jpg" width="75" height="75" alt="The Bock 50 is a modern reincarnation of the Neumann M 50." title="The Bock 50 is a modern reincarnation of the Neumann M 50."   ><br /><span>Bock Audio 50</span></a></li>
+                                                    <li class="mictile"><a title="The M49 and M50 shared a tube, circuit design, and body; capsules and patterns differed." href="//recordinghacks.com/microphones/Neumann/M-49"><img src="//cdn.recordinghacks.com/images/mics/00913/00913_75.jpg" width="75" height="75" alt="The M49 and M50 shared a tube, circuit design, and body; capsules and patterns differed." title="The M49 and M50 shared a tube, circuit design, and body; capsules and patterns differed."   ><br /><span>Neumann M 49</span></a></li>
+                                                    <li class="mictile"><a title="The M 150 borrows several components and design elements from the M 50." href="//recordinghacks.com/microphones/Neumann/M-150"><img src="//cdn.recordinghacks.com/images/mics/00915/00915_75.jpg" width="75" height="75" alt="The M 150 borrows several components and design elements from the M 50." title="The M 150 borrows several components and design elements from the M 50."   ><br /><span>Neumann M 150 Tube</span></a></li>
+                                                    <li class="mictile"><a title="The TLM 50 owes some of its heritage to the M 50." href="//recordinghacks.com/microphones/Neumann/TLM-50"><img src="//cdn.recordinghacks.com/images/mics/00916/00916_75.jpg" width="75" height="75" alt="The TLM 50 owes some of its heritage to the M 50." title="The TLM 50 owes some of its heritage to the M 50."   ><br /><span>Neumann TLM 50</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/Neumann">Neumann microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                            <a name="mods"></a><div class="graybox"><h3>Mods for the M 50</h3>
+                        <ul class="mod_list">
+                                                    <li style="font-family: Georgia, Serif;"><b>Hamptone</b><a href="//recordinghacks.com/microphones/Hamptone"><img style="border: 0; padding: 0 0 6px 3px" src="//recordinghacks.com/images/logos/logo_hamptone.jpg" height=75 width=75 alt="Hamptone" /></a>                            <br />Scott Hampton repairs vintage tube mics, especially those needing new power supplies. His mic repairs involve replacing and updating selected components, fine-tuning the circuitry, and restoration of the mic's original sonic character. He can also furnish a Hamptone second-generation Tube Mic Power Supply.</li>
+                                                    <li style="font-family: Georgia, Serif;"><b>The Mic Shop</b><a href="//recordinghacks.com/microphones/MicShop"><img style="border: 0; padding: 0 0 6px 3px" src="//recordinghacks.com/images/logos/logo_micshop.jpg" height=75 width=75 alt="The Mic Shop" /></a>                            <br />Bill Bradley restores vintage mics in Nashville, TN.</li>
+                                                </ul><br clear="all" />
+                    </div>            
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Neumann M 50" href="/microphone-photo/00910/Neumann/M-50.jpg"><img src="//cdn.recordinghacks.com/images/mics/00910/00910_172.jpg" width="172" height="116" alt="Neumann M 50" title="Neumann M 50" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: n/a</li>
+                                        <li id="none"><em>Discontinued</em></li>                    </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/side-address" alt="side-address microphones">side-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/tube" alt="tube microphones">tube</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/condenser" alt="condenser microphones">condenser</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/pvc" alt="pvc microphones">pvc</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/ac701" alt="ac701 microphones">ac701</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/kk83" alt="kk83 microphones">kk83</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/msc2" alt="msc2 microphones">msc2</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/spherical-capsule" alt="spherical-capsule microphones">spherical-capsule</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/kk50" alt="kk50 microphones">kk50</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/kk53" alt="kk53 microphones">kk53</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/neumann/M50-history.pdf">M50 History (from Neumann)</a></li>
+                                                                    <li id="www"><a  href="http://mixguides.com/microphones/vintage_products/audio_vintage_microphones_part_2/">Stephen Paul on the M 50</a></li>
+                                                                    <li id="www"><a  href="http://www.coutant.org/m50/index.html">M50 at Coutant.org</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/neumann/omni_sphere_aes_schneider.pdf">Omni Spheres / AES lecture</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/neumann/TLM50-dev-peus.pdf">Omni Spheres II / Stephan Peus</a></li>
+                                                                </ul>                    
+                                        <h3>M 50 Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/neumann/M49-M50.pdf">M49, M50 Product Description</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/neumann/M49-M50-manual.pdf">M49, M50 User&#8217;s Guide (1960)</a></li>
+                                                                    <li id="image"><a rel="shadowbox" href="http://recordinghacks.com/images/mic_extras/neumann/m49-1.jpg">M50 Cutsheet (page 1)</a></li>
+                                                                    <li id="image"><a rel="shadowbox" href="http://recordinghacks.com/images/mic_extras/neumann/m49-2.jpg">M50 Cutsheet (page 2)</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="910-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ></span>Neumann M 50</h2>
+                    
+                    <h2 class="sub">                    Omnidirectional Tube Condenser Microphone</h2>
+                    <p>Neumann&#8217;s M 50 was an omnidirectional tube mic based on the chassis and amplifier of the multipattern M 49. The primary difference between the two was the innovative capsule used in the M 50.</p><p>The M50 used a small omnidirectional transducer mounted on a 4cm-diameter acrylic sphere, such that the diaphragm of the capsule lay flush with the face of the sphere. Because sound flows differently around a sphere than around other surfaces, the microphone&#8217;s frequency response is altered by this capsule construction. Specifically, the M50 had a smoothly rising frequency response that looks nearly like a high-shelf EQ set to +5dB above 2500Hz.<img src="//cdn.recordinghacks.com/images/mic_extras/neumann/M50-capsule.jpg" class="thumb shaft" alt="Neumann M-50 Capsule" width="150" /></p><blockquote><p><cite>Neumann</cite></p><p>With a diffuse sound field, this results in an almost linear frequency response from 40 [Hz] to 15000 [Hz].</p></blockquote><p>The value of this response characteristic is beautifully explained by Stephen Paul in his classic survey of vintage mics:</p><blockquote><p><cite>Stephen Paul</cite></p><p>High frequencies roll off as the square of the reciprocal of the distance from the sound source due to frictional effects. This means that the viscosity of the air is sufficient to dissipate sound energy in the form of heat, and <b>as there is less power in the treble range, it suffers the most</b> from this effect. Therefore, when a mic is hung high above an orchestra in the auditorium, a boost in the response above 5 kHz is desirable. Even today, these microphones still make some of the most wonderful orchestral recordings in the world.</p></blockquote><p>Related to the effect of the rising frequency response is the directional characteristic of the microphone. Simply put, the mic &#8212; although technically speaking still an &#8220;omnidirectional&#8221; &#8212; is more directional at higher frequencies.<br /><a href="//cdn.recordinghacks.com/images//mic_extras/neumann/M50-M49-capsules.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/neumann/M50-capsule-sm.jpg" alt="Neumann M50 and M49 capsules" class="thumb shaft" alt="" width="150" /></a></p><blockquote><p><cite>Neumann</cite></p><p>The unique feature of the microphone is its high frequency directivity, similar to that of a pressure gradient type, combined with the linear response at low frequencies, well-known for pressure microphones.</p></blockquote><p>Neumann changed components in the M50 several times during its production run from 1951&ndash;1971, although not all of the changes were indicated by a model-number designation. The following details are taken from Martin Schneider&#8217;s AES presentation on spherical omni microphones (see sidebar link):</p><ul><li><b>M 50</b>, 1951: The first commercial release used a Hiller MSC2 tube and a PVC-diaphragm KK50 capsule. According to Neumann&#8217;s Martin Schneider, the PVC material was not well suited to the &#8220;extreme mechanical tension&#8221; required.</li><li><b>M 50a</b>, 1952: the &#8216;a&#8217; version indicated a capsule change, from KK50 PVC to an aluminum-diaphragm KK53.</li><li>1954: the MSC2 tube was replaced with a Telefunken AC701. (This tube/capsule combination was reproduced in the KM53, a tube omni pencil mic.)</li><li><b>M 50b</b>, 1963: &#8220;a negligible change, of resistor power ratings.&#8221;</li><li>1965: The KK53 capsule was replaced with the Mylar-diaphragm KK83.</li><li><b>M 50c</b>, 1965: the &#8220;filament topology&#8221; of the amplifier circuit was changed, lowering the self-noise by 4dB.</li></ul><p></p><blockquote><p><cite>Anselm Roessler</cite></p><p>This microphone was, however, extraordinarily difficult to produe and the rejection rate was enormous, so production was halted in 1971.</p></blockquote><p>The concept of altering an omnidirectional condenser transducer&#8217;s frequency response by embedding it into a Perspex sphere originated with the NWDR (<em>Nordwestdeutscher Rundfunk</em>) Laboratory, which was Northwest German Broadcast&#8217;s research institute, under the direction of Herbert Gro&szlig;kopf.</p><p>Neumann has since released the TLM50, a transformerless interpretation of the spherical-omni-capsule concept.</p><p>The M 49 and M 50 shared a case and grille design &#8212; the grill employs Neumann&#8217;s traditional 3-layer metal mesh with a slanted, flattened face. The only visible exterior difference between the two mics is the color of the &#8220;jewel&#8221; above the Neumann logo on the body. On the M 50, the bead is white. On the M 49, the bead is red.</p><p><img src="//cdn.recordinghacks.com/images/mic_extras/neumann/M50-circuit.gif" class="thumb shaft" alt="Neumann M50 Circuit Diagram" width="200" />The amplifier circuitry for the M49 and M50 is &#8220;virtually identical,&#8221; according to Neumann historian Anselm Roessler, although the M49 employed a dual-diaphragm capsule with remote pattern-switching circuitry. </p><p>On both mics, the amplifier circuit board is shockmounted on a solid rubber disc. Both mic capsules are shockmounted (via rubber inserts) onto the acrylic cover above the circuit board.</p><p>Neumann has created several newer microphones based on the technologies pioneered in the M 50. See the sidebar links to the M150 Tube and TLM 50 microphones.</p><p><em>Summary of distinguishing characteristics of Neumann&#8217;s spherical-capsule microphones</em></p><table><thead><tr><td></td><td><u>M 50</u></td><td><u>TLM 50</u></td><td><u>M 150 Tube</u></td></tr></thead><tr><td><b>Amplifier type</b></td><td>tube (AC701)</td><td>FET</td><td>tube (6111)</td></tr><tr><td><b>Capsule</b></td><td>KK83</td><td>AK 33 TI</td><td>K 33 TI</td></tr><tr><td><b>Diaphragm</b></td><td>Mylar</td><td>Titanium</td><td>Titanium</td></tr><tr><td><b>Output type</b></td><td>transformer</td><td>transistor</td><td>transistor</td></tr><tr><td><b>Grille</b></td><td>sloped</td><td>rounded</td><td>sloped</td></tr><tr><td colspan="4" ></p><ol><li>Only the latest version of each mic is indicated; for example, the earliest TLM 50s had a K33 capsule with nickel membrane.</li><li>The AK 33 TI and K 33 TI capsules are believed to be identical, save for the presence of &#8220;active&#8221; electronics providing a first stage of amplification in the TLM 50.</li></ol><p></td></tr></table><p><p>The <a href="//recordinghacks.com/microphones/Neumann/M-50">Neumann M 50</a> is also known as: M50.</p><p>The mic was released in 1951.</p>
+                    <h3>Specifications</h3>
+                                        
+                    <table>
+                                                    <tr><th>Frequency Response - Omnidirectional<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/1194" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/1/1194.png" width=476 height=159 alt="M 50 Omnidirectional Frequency Response Chart" title="M 50 Omnidirectional Frequency Response Chart" border=0 /></td></tr>
+                            </table>
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                                                                Omnidirectional
+                                             (15 mV/Pa; 40 - 16,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Capsule Dimensions</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                                                                                                        Diaphragm diameter: 12mm<br />
+                                                                                                                                                                                                </td>
+                            <td>n/a</td>
+                            <td>Max SPL: 114 dB<br />                                </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>800g <em class="mute">(28.22oz)</em></td>
+                            <td>163mm <em class="mute">(6.42&#39;&#39;)</em></td>
+                            <td>80mm <em class="mute">(3.15&#39;&#39;)</em></td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                                                                                                                <li>Includes tube power supply </li>
+                                                                                    </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('910-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

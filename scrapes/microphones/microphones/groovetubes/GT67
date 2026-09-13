@@ -1,0 +1,340 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Groove Tubes GT67 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="GT67, Multi-Pattern Tube Condenser Microphone , aka: GT-67 - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/groovetubes/GT67" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The GT67 is the tube version of the GT57 FET." href="//recordinghacks.com/microphones/groovetubes/GT57"><img src="//cdn.recordinghacks.com/images/mics/01396/01396_75.jpg" width="75" height="75" alt="The GT67 is the tube version of the GT57 FET." title="The GT67 is the tube version of the GT57 FET."   ><br /><span>Groove Tubes GT57</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/groovetubes">Groove Tubes microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Groove Tubes GT67" href="/microphone-photo/01397/groovetubes/GT67.jpg"><img src="//cdn.recordinghacks.com/images/mics/01397/01397_172.jpg" width="172" height="96" alt="Groove Tubes GT67" title="Groove Tubes GT67" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $999</li>
+                                        <li id="none"><em>Discontinued</em></li>                    </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/side-address" alt="side-address microphones">side-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/large-diaphragm" alt="large-diaphragm microphones">large-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/tube" alt="tube microphones">tube</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/multipattern" alt="multipattern microphones">multipattern</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformer-coupled" alt="transformer-coupled microphones">transformer-coupled</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/condenser" alt="condenser microphones">condenser</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/hpf" alt="hpf microphones">hpf</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/class-a" alt="class-a microphones">class-a</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/6205" alt="6205 microphones">6205</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/gt6205m" alt="gt6205m microphones">gt6205m</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/disk-resonator" alt="disk-resonator microphones">disk-resonator</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.soundonsound.com/sos/apr03/articles/groovetubes.asp">Sound On Sound, 2003-04</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/reviews/groove-tubes-condenser-microphones-review/">Pro Audio Review, 2005</a></li>
+                                                                </ul>                    
+                                        <h3>GT67 Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/groovetubes/GT67-cutsheet.pdf">GT67 Cutsheet</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/groovetubes/GT67-schematic.pdf">GT67 Schematic</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/groovetubes/GT-PSM1-schematic.pdf">GT PSU Schematic</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="1397-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="1397-1" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="1397-2" src="//cdn.recordinghacks.com/images/icons/patterns/icon_hc.png" width=27 height=27 alt="Hypercardioid" title="Hypercardioid" ><img id="1397-3" src="//cdn.recordinghacks.com/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ></span>Groove Tubes GT67</h2>
+                    
+                    <h2 class="sub">                    Multi-Pattern Tube Condenser Microphone</h2>
+                    <p>The GT-67 is a multipattern tube condenser &#8212; essentially, a multipattern version of the GT-66 Cardioid tube condenser. It was for several years the flagship microphone in the Groove Tubes line.</p><p>The GT-67 uses components familiar to the GT product line: a 32mm, center-terminated true condenser capsule with Aspen Pittman&#8217;s disk resonator system, a custom-wound nickel-core output transformer, and a GT6205M vacuum tube-based impedance conversion circuit.</p><p>The mic has very high sensitivity, 35 mV/Pa, making it useful for quiet sources at the possible expense of clipping on very loud sources. The mic has a switchable -10dB pad to provide extra headroom in such cases, giving it a max SPL (padded) of 140dB.</p><p>A switchable high-pass filter provides a -12dB rolloff below 75Hz.</p><p>The mic provided four polar patterns: Cardioid, Omni, Hypercardioid, and Figure-8. From what we can discern, the polar pattern is selectable via a pair of mini toggle switches on the rear of the microphone body (confirmation forthcoming), rather than from the power supply.</p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/groovetubes/GT67-dress.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/groovetubes/GT67-dress-sm.jpg" class="thumb shaft" alt="GT67 Cosmetic Changes" width="133" /></a>Cosmetic changes during the course of the product&#8217;s lifetime included subtle finish and logo changes, and a change to the outer layer of grille material.</p><p>The GT67 included an elastic shockmount (p/n SM4), a power supply, a 25-foot cable, and a hard mount (p/n HM1).</p><blockquote><p><cite>Sound On Sound</cite></p><p>The supercardioid and cardioid polar patterns on the GT67 were interesting to play with. Both seemed to have a significant rear tail at high frequencies, and the cardioid setting was very much wider than the supercardioid option at middle and low frequencies. The provision of this extra [supercardioid] switch increased the flexibility of the mic, and I found I tended to use the supercardioid mode when close miking, to maximise separation. More distant sources &#8212; and especially those that tended to move &#8212; benefited from the cardioid setting.</p></blockquote><p><p>The <a href="//recordinghacks.com/microphones/groovetubes/GT67">Groove Tubes GT67</a> is also known as: GT-67.</p>
+                    <h3>Specifications</h3>
+                                        
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                    <span class="shaft" id="anchor1916"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show1916">CHART</button></span>                                            Omnidirectional
+                                             (35 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                <span class="shaft" id="anchor1915"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show1915">CHART</button></span>                                            Cardioid
+                                             (35 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                <span class="shaft" id="anchor1917"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show1917">CHART</button></span>                                            Hypercardioid
+                                             (35 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                <span class="shaft" id="anchor1918"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show1918">CHART</button></span>                                            Bidirectional
+                                             (35 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                    <li>Pad: -10dB<small> (Via Switch)</small></li>
+                                                                        <li>Filter: HPF: -12dB/octave @ 75Hz<small> (Via Switch)</small></li>
+                                                                    </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Capsule Dimensions</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                                                                                                        Diaphragm diameter: 26mm<br />
+                                                                                            Capsule diameter: 32mm<br />
+                                                                                                                            Diaphragm gauge: 3 microns                                                                    </td>
+                            <td>200 Ohms <em class="mute">(Low)</em></td>
+                            <td>Max SPL: 140 dB<br />                                Self-noise: 23.0 dB(A)</td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>680g <em class="mute">(23.99oz)</em></td>
+                            <td>190mm <em class="mute">(7.48&#39;&#39;)</em></td>
+                            <td>n/a</td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                                                                                                                <li>Includes tube power supply </li>
+                                                                                    </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+             
+<script type="text/javascript">
+        YAHOO.namespace("freq");
+
+        function init_freq_graphs() {
+
+            YAHOO.freq.chartPanel1916 = new YAHOO.widget.Panel("chartPanel1916",  {  context:["anchor1916", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel1916.render();
+            YAHOO.freq.chartPanel1915 = new YAHOO.widget.Panel("chartPanel1915",  {  context:["anchor1915", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel1915.render();
+            YAHOO.freq.chartPanel1917 = new YAHOO.widget.Panel("chartPanel1917",  {  context:["anchor1917", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel1917.render();
+            YAHOO.freq.chartPanel1918 = new YAHOO.widget.Panel("chartPanel1918",  {  context:["anchor1918", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel1918.render();
+                
+            YAHOO.freq.manager = new YAHOO.widget.OverlayManager(); 
+            YAHOO.freq.manager.register([YAHOO.freq.chartPanel1916,
+                                                   YAHOO.freq.chartPanel1915,
+                                                   YAHOO.freq.chartPanel1917,
+                                                   YAHOO.freq.chartPanel1918,
+                                                   ]);
+                    YAHOO.util.Event.addListener("show1916", "click", YAHOO.freq.chartPanel1916.show, YAHOO.freq.chartPanel1916, true);
+            YAHOO.util.Event.addListener("hide1916", "click", YAHOO.freq.chartPanel1916.hide, YAHOO.freq.chartPanel1916, true);
+            YAHOO.util.Event.addListener("focus1916", "click", YAHOO.freq.chartPanel1916.focus, YAHOO.freq.chartPanel1916, true);
+                    YAHOO.util.Event.addListener("show1915", "click", YAHOO.freq.chartPanel1915.show, YAHOO.freq.chartPanel1915, true);
+            YAHOO.util.Event.addListener("hide1915", "click", YAHOO.freq.chartPanel1915.hide, YAHOO.freq.chartPanel1915, true);
+            YAHOO.util.Event.addListener("focus1915", "click", YAHOO.freq.chartPanel1915.focus, YAHOO.freq.chartPanel1915, true);
+                    YAHOO.util.Event.addListener("show1917", "click", YAHOO.freq.chartPanel1917.show, YAHOO.freq.chartPanel1917, true);
+            YAHOO.util.Event.addListener("hide1917", "click", YAHOO.freq.chartPanel1917.hide, YAHOO.freq.chartPanel1917, true);
+            YAHOO.util.Event.addListener("focus1917", "click", YAHOO.freq.chartPanel1917.focus, YAHOO.freq.chartPanel1917, true);
+                    YAHOO.util.Event.addListener("show1918", "click", YAHOO.freq.chartPanel1918.show, YAHOO.freq.chartPanel1918, true);
+            YAHOO.util.Event.addListener("hide1918", "click", YAHOO.freq.chartPanel1918.hide, YAHOO.freq.chartPanel1918, true);
+            YAHOO.util.Event.addListener("focus1918", "click", YAHOO.freq.chartPanel1918.focus, YAHOO.freq.chartPanel1918, true);
+        
+
+
+        }
+        YAHOO.util.Event.addListener(window, "load", init_freq_graphs);
+</script>
+
+
+<div id="chartPanel1916" style="visibility:hidden">
+    <div class="hd"><span>Groove Tubes GT67 Frequency Chart: Omnidirectional</span></div>
+    <div class="bd">
+    <img name="graph1916" src="http://recordinghacks.com/images/graphs/groovetubes/GT67-omni.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel1915" style="visibility:hidden">
+    <div class="hd"><span>Groove Tubes GT67 Frequency Chart: Cardioid</span></div>
+    <div class="bd">
+    <img name="graph1915" src="http://recordinghacks.com/images/graphs/groovetubes/GT67-cardioid.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel1917" style="visibility:hidden">
+    <div class="hd"><span>Groove Tubes GT67 Frequency Chart: Hypercardioid</span></div>
+    <div class="bd">
+    <img name="graph1917" src="http://recordinghacks.com/images/graphs/groovetubes/GT67-hyper.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel1918" style="visibility:hidden">
+    <div class="hd"><span>Groove Tubes GT67 Frequency Chart: Bidirectional</span></div>
+    <div class="bd">
+    <img name="graph1918" src="http://recordinghacks.com/images/graphs/groovetubes/GT67-fig8.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+    <script type="text/javascript">
+    function swap_graph(id) {
+        if (1==0) {}
+    }
+    </script>
+
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('1397-0');uniqueids.push('1397-1');uniqueids.push('1397-2');uniqueids.push('1397-3');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

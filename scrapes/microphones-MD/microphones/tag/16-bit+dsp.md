@@ -1,0 +1,5 @@
+## Mics tagged: 16-bit AND dsp
+
+|  |  |
+| --- | --- |
+| [Blue Microphones Nessie](http://recordinghacks.com/microphones/Blue-Microphones/Nessie "Blue Microphones Nessie - Features, Specifications, Datasheet") | Cardioid  [**Blue Microphones Nessie**](/microphones/Blue-Microphones/Nessie "Blue Microphones Nessie - Features, Specifications, Datasheet")  Cardioid Condenser Microphone  [side-address](//recordinghacks.com/microphones/tag/side-address "side-address microphones"), [transformerless](//recordinghacks.com/microphones/tag/transformerless "transformerless microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [16-bit](//recordinghacks.com/microphones/tag/16-bit "16-bit microphones"), [48-khz](//recordinghacks.com/microphones/tag/48-khz "48-khz microphones"), [headphone-jack](//recordinghacks.com/microphones/tag/headphone-jack "headphone-jack microphones"), [dsp](//recordinghacks.com/microphones/tag/dsp "dsp microphones") |

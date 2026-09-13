@@ -1,0 +1,281 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Manley Laboratories, Inc Reference Gold | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="Reference Gold, Multi-Pattern Tube Condenser Microphone  - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/Manley/Reference-Gold" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The two Manley Reference microphones share an amplifier circuit design, body and grille components." href="//recordinghacks.com/microphones/Manley/Reference-Cardioid"><img src="//cdn.recordinghacks.com/images/mics/01175/01175_75.jpg" width="75" height="75" alt="The two Manley Reference microphones share an amplifier circuit design, body and grille components." title="The two Manley Reference microphones share an amplifier circuit design, body and grille components."   ><br /><span>Manley Reference Cardioid</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/Manley">Manley microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Manley Laboratories, Inc Reference Gold" href="/microphone-photo/01178/Manley/Reference-Gold.jpg"><img src="//cdn.recordinghacks.com/images/mics/01178/01178_172.jpg" width="172" height="104" alt="Manley Laboratories, Inc Reference Gold" title="Manley Laboratories, Inc Reference Gold" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $5,500</li>
+                                                            </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/side-address" alt="side-address microphones">side-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/tube" alt="tube microphones">tube</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/multipattern" alt="multipattern microphones">multipattern</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformer-coupled" alt="transformer-coupled microphones">transformer-coupled</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/ck12" alt="ck12 microphones">ck12</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/condenser" alt="condenser microphones">condenser</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/12at7" alt="12at7 microphones">12at7</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/single-layer" alt="single-layer microphones">single-layer</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/continuously-variable" alt="continuously-variable microphones">continuously-variable</a></li></ul>
+                                        
+                                        <h3>Reference Gold Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.manley.com/refgold.php">Reference Gold Product Descr</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/manley/Reference-Mics-Manual.pdf">Owner&#8217;s Manual (pre-2011)</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/manley/refmic_manual.pdf">Owner&#8217;s Manual (2011)</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img src="//cdn.recordinghacks.com/images/icons/patterns/icon_cv.png" id="1178-0" width=27 height=27 alt="continuously variable pattern selection" title="Continuously variable pattern selection"></span>Manley Laboratories, Inc Reference Gold</h2>
+                    
+                    <h2 class="sub">                    Multi-Pattern Tube Condenser Microphone</h2>
+                    <p>The Reference Gold is Manley Labs&#8217; flagship tube condenser. It combines a multipattern dual-triode amplifier circuit with a CK12-style capsule and open headbasket design.</p><p>The transformer, body, and grille components are shared with the Reference Cardioid. The primary differences between these microphones are the capsule, the pattern control feature, and the gold-plated finish.</p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/manley/gold-capsule.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/manley/gold-capsule-sm.jpg" class="thumb shaft" alt="Reference Gold Microphone Capsule CK-12" width="133" /></a>Whereas the Reference Cardioid uses an imported K67-style capsule, the Gold uses a capsule modeled after the AKG CK-12. These capsules are painstakingly handcrafted by <a href="http://recordinghacks.com/microphones/Josephson">Josephson Engineering</a> in California, using proprietary diaphragm-tensioning techniques, German Mylar film, and precision milling machinery.</p><p>The Gold capsule has a 34mm outside diameter and twin diaphragms made of 5-micron Mylar.</p><p>This capsule was made with thinner (3-micron) diaphragms through 2001; Manley switched to the slightly heavier film to improve the capsule&#8217;s performance in high SPL conditions (in which the thinner film would be more prone to shorting against the backplate).</p><p>The tube, as in the Reference Cardioid, has changed over this produc&#8217;s lifetime, from a 6072 to 12AX7 to, in 2011, a low-noise 12AT7. The tube is socketed, enabling users to swap it as necessary.</p><p>The Gold&#8217;s amplifier circuit is similar to the one used in the Reference Cardioid, with the additional capability of multiple polar patterns. A small rotary control located at the bottom of the mic body enables selection of any pattern from Omni to Figure-8. The pot is continuously variable, not stepped, enabling fine-tuning of the pattern.<br /><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/manley/gold-pattern.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/manley/gold-pattern-sm.jpg" class="thumb shaft" alt="Reference Gold Pattern Control Switch" width="200" /></a></p><blockquote><p><cite>Manley Labs</cite></p><p>Remember that proximity effect is primarily affected by polar pattern. Often with vocalists, one wants a certain amount of bass boost&#8230; Rather than just hoping that the CARDIOID setting will do the right thing, try adjusting the PATTERN SELECT POT to &#8220;dial in&#8221; the [desired] amount of proximity&#8230; More OMNI will give less proximity effect, while more FIGURE 8 will bring in more lows. In other words, while this is only true for close miking, the PATTERN SELECT can be an effective bass control.</p></blockquote><p>Because the pattern control is located on the microphone, rather than the PSU, the Gold shares a PSU and 6-pin cable design with the Reference Cardioid.</p><p>As with the Reference Cardioid, the Gold has a transformer-coupled output. The transformer is described as &#8220;employing nickel laminations with &#8216;hum-bucking&#8217; bi-filar windings, encased in mu-metal.&#8221; Since 1994, the transformer has been manufactured in-house by Manley Labs. Prior to 1994, this microphone used a Sowter tranfsormer.</p><p>The open grille design reduces reflections and standing waves within the headbasket area. For close-miked vocals, a pop filter is most likely required.</p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/manley/gold-vertical.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/manley/gold-vertical-sm.jpg" class="thumb shaft" alt="Manley Reference Gold" width="133" /></a>The mic&#8217;s distinctive body is machined from brass, plated with 24-karat gold, and fitted to an integral shockmount. The shockmount is designed to stay on the mic at all times, and fits as pictured into the included storage case.</p><p>Spare shockmount O-rings and a swivel mount are included with the mic, along with the power supply and cable. The entire kit is packed into a rigid plastic suitcase.<p>Permalink: <a href="//recordinghacks.com/microphones/Manley/Reference-Gold">Manley Laboratories, Inc Reference-Gold</a></p><p>The mic was released in 1990.</p>
+                    <h3>Specifications</h3>
+                                        
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                                                                Omnidirectional
+                                             (17 mV/Pa; 10 - 30,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                                                            Cardioid
+                                             (17 mV/Pa; 10 - 30,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                                                            Bidirectional
+                                             (17 mV/Pa; 10 - 30,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                    <li>Pad: -10dB<small> (Via Switch)</small></li>
+                                                                    </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Capsule Dimensions</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                                                                                                        Capsule diameter: 34mm<br />
+                                                                                Diaphragm gauge: 5 microns                                                                    </td>
+                            <td>n/a</td>
+                            <td>Max SPL: 150 dB<br />                                </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>1020g <em class="mute">(35.98oz)</em></td>
+                            <td>246mm <em class="mute">(9.69&#39;&#39;)</em></td>
+                            <td>51mm <em class="mute">(2.01&#39;&#39;)</em></td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                                                                                                                <li>Includes tube power supply </li>
+                                                                                    </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+             
+<script type="text/javascript">
+        YAHOO.namespace("freq");
+
+        function init_freq_graphs() {
+
+                
+            YAHOO.freq.manager = new YAHOO.widget.OverlayManager(); 
+            YAHOO.freq.manager.register([]);
+        
+
+
+        }
+        YAHOO.util.Event.addListener(window, "load", init_freq_graphs);
+</script>
+
+
+    <script type="text/javascript">
+    function swap_graph(id) {
+        if (1==0) {}
+    }
+    </script>
+
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('1178-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

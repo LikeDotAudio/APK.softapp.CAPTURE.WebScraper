@@ -1,0 +1,291 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Audio-Technica ATM250 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="ATM250, Hypercardioid Dynamic Microphone , aka: ATM-250 - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/Audio-Technica/ATM250" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The ATM250DE and ATM250 share a hypercardioid dynamic capsule." href="//recordinghacks.com/microphones/Audio-Technica/ATM250DE"><img src="//cdn.recordinghacks.com/images/mics/00589/00589_75.jpg" width="75" height="75" alt="The ATM250DE and ATM250 share a hypercardioid dynamic capsule." title="The ATM250DE and ATM250 share a hypercardioid dynamic capsule."   ><br /><span>Audio-Technica ATM250DE</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/Audio-Technica">Audio-Technica microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Audio-Technica ATM250" href="/microphone-photo/00591/Audio-Technica/ATM250.jpg"><img src="//cdn.recordinghacks.com/images/mics/00591/00591_172.jpg" width="172" height="100" alt="Audio-Technica ATM250" title="Audio-Technica ATM250" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $329</li>
+                                                            </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/dynamic" alt="dynamic microphones">dynamic</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/end-address" alt="end-address microphones">end-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/kick-drum" alt="kick-drum microphones">kick-drum</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/neodymium" alt="neodymium microphones">neodymium</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.proaudioreview.com/pages/s.0033/t.1105.html">ProAudioReview, 2007-01</a></li>
+                                                                    <li id="www"><a  href="http://www.eqmag.com/article/audio-technica-artist/oct-06/23728">EQ Magazine, 2006-10</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/2012/06/08/kick-drum-mic-shootout/">Kick Drum Mic Shootout</a></li>
+                                                                </ul>                    
+                                        <h3>ATM250 Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.audio-technica.com/cms/wired_mics/0b0ed4ab7b8f724e/index.html">ATM250 Product Description</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/audio-technica/atm250_ss_e.pdf">ATM250 Cutsheet</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://www.audio-technica.com/cms/resource_library/literature/b38c30a09ed9f7f8/atm250_submit.pdf">ATM250 Spec Sheet</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="591-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_hc.png" width=27 height=27 alt="Hypercardioid" title="Hypercardioid" ></span>Audio-Technica ATM250</h2>
+                    
+                    <h2 class="sub">                    Hypercardioid Dynamic Microphone</h2>
+                    <p>The ATM250 is a hypercardioid dynamic microphone designed for high-SPL sources such as kick drum and brass.</p><p>The frequency response graph shows a profile similar to that seen in many kick-drum mics &#8212; a peak below 100Hz to capture the body of the drum, a somewhat scooped midrange, and a peak at 3000-4000Hz to capture the attack or click of the beater. </p><p>That said, the graph for the ATM250 reveals a more-subtle interpretation of the traditional kick-drum EQ curve, with peaks around +3dB rather than +5-6dB as is sometimes seen (such as in the Audix D2 and D6 mics) and a midrange at 0dB rather than -5dB (as in the D6).</p><p>A related mic, the ATM250DE, incorporates a cardioid condenser element mounted within the same housing, providing interesting additional options in capturing an instrument&#8217;s sound.</p><blockquote><p><cite>ProAudioReview</cite></p><p>The 250 yields a great natural kick sound that doesn&#8217;t have the over pronounced low end of some other popular kick-dedicated models. Consequently, it has a nice attack that means you won&#8217;t have to boost 2kHz-3kHz on the channel. With the HPF off [Ed. note: the ATM250 has no HPF; the writer may have been thinking of the ATM250DE], a bit of 80 Hz boost, and a moderate reduction in the 400 Hz range, I was able to get a very satisfactory sound.</p></blockquote><p></p><blockquote><p><cite>EQ Magazine</cite></p><p>This one has a big, bold, and punchy tone that takes hot source levels and begs for more&#8230; I placed it about 4&#39;&#39; above the floor tom and angled slightly inward; the result was a big and deep tom tone, with a ton of chest thumping bottom end beef. I would describe the sound of this mic to be almost &#8220;pre-EQed&#8230;&#8221; It is nearly perfectly optimized for toms and kicks.</p></blockquote><p><p>The <a href="//recordinghacks.com/microphones/Audio-Technica/ATM250">Audio-Technica ATM250</a> is also known as: ATM-250.</p><p>The mic was released in 2006.</p>
+                    <h3>Specifications</h3>
+                                        
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                    <span class="shaft" id="anchor721"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show721">CHART</button></span>                                            Hypercardioid
+                                             (1.9 mV/Pa; 40 - 15,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Coil Diameter</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                    n/a                                </td>
+                            <td>600 Ohms <em class="mute">(Low)</em></td>
+                            <td><a href="/2008/02/26/maximum-spl-of-dynamic-microphones/">SPL n/a</a><br />                                </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>252g <em class="mute">(8.89oz)</em></td>
+                            <td>128mm <em class="mute">(5.04&#39;&#39;)</em></td>
+                            <td>55mm <em class="mute">(2.17&#39;&#39;)</em></td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                                                                                                                                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+             
+<script type="text/javascript">
+        YAHOO.namespace("freq");
+
+        function init_freq_graphs() {
+
+            YAHOO.freq.chartPanel721 = new YAHOO.widget.Panel("chartPanel721",  {  context:["anchor721", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel721.render();
+                
+            YAHOO.freq.manager = new YAHOO.widget.OverlayManager(); 
+            YAHOO.freq.manager.register([YAHOO.freq.chartPanel721,
+                                                   ]);
+                    YAHOO.util.Event.addListener("show721", "click", YAHOO.freq.chartPanel721.show, YAHOO.freq.chartPanel721, true);
+            YAHOO.util.Event.addListener("hide721", "click", YAHOO.freq.chartPanel721.hide, YAHOO.freq.chartPanel721, true);
+            YAHOO.util.Event.addListener("focus721", "click", YAHOO.freq.chartPanel721.focus, YAHOO.freq.chartPanel721, true);
+        
+
+
+        }
+        YAHOO.util.Event.addListener(window, "load", init_freq_graphs);
+</script>
+
+
+<div id="chartPanel721" style="visibility:hidden">
+    <div class="hd"><span>Audio-Technica ATM250 Frequency Chart: Hypercardioid</span></div>
+    <div class="bd">
+    <img name="graph721" src="http://www.audio-technica.com/cms/resource_library/product_images/c08bb244a08d18fc/orig/atm250_freq.jpg" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+    <script type="text/javascript">
+    function swap_graph(id) {
+        if (1==0) {}
+    }
+    </script>
+
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('591-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

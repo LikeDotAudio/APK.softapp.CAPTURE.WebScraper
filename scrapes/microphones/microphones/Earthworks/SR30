@@ -1,0 +1,272 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Earthworks Audio SR30 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="SR30, Cardioid Condenser Microphone , aka: SR77, SR-30 - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/Earthworks/SR30" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>SR30 Microphone Sets</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="Earthworks DK50/R - microphone set" href="//recordinghacks.com/microphones/Earthworks/DK50-R"><img src="//cdn.recordinghacks.com/images/sets/00048/00048_75.jpg" width="75" height="75" alt="" title=""   ><br /><span>Earthworks DK50/R</span></a></li>
+                                                </ul>
+                        </div>
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The P30/C is an SR30 with a gooseneck mount." href="//recordinghacks.com/microphones/Earthworks/P30-C"><img src="//cdn.recordinghacks.com/images/mics/01392/01392_75.jpg" width="75" height="75" alt="The P30/C is an SR30 with a gooseneck mount." title="The P30/C is an SR30 with a gooseneck mount."   ><br /><span>Earthworks P30/C</span></a></li>
+                                                    <li class="mictile"><a title="The SR30, SR77, and Z30X were essentially identical cardioid condenser mics." href="//recordinghacks.com/microphones/Earthworks/Z30X"><img src="//cdn.recordinghacks.com/images/mics/01001/01001_75.jpg" width="75" height="75" alt="The SR30, SR77, and Z30X were essentially identical cardioid condenser mics." title="The SR30, SR77, and Z30X were essentially identical cardioid condenser mics."   ><br /><span>Earthworks Z30X</span></a></li>
+                                                    <li class="mictile"><a title="The SR30 and SR25 differ primarily in frequency response." href="//recordinghacks.com/microphones/Earthworks/SR25"><img src="//cdn.recordinghacks.com/images/mics/01097/01097_75.jpg" width="75" height="75" alt="The SR30 and SR25 differ primarily in frequency response." title="The SR30 and SR25 differ primarily in frequency response."   ><br /><span>Earthworks SR25</span></a></li>
+                                                    <li class="mictile"><a title="The SR40 is a higher-end version of the SR30." href="//recordinghacks.com/microphones/Earthworks/SR40"><img src="//cdn.recordinghacks.com/images/mics/01162/01162_75.jpg" width="75" height="75" alt="The SR40 is a higher-end version of the SR30." title="The SR40 is a higher-end version of the SR30."   ><br /><span>Earthworks SR40</span></a></li>
+                                                    <li class="mictile"><a title="The SR30HC is a hypercardioid version of the SR30." href="//recordinghacks.com/microphones/Earthworks/SR30HC"><img src="//cdn.recordinghacks.com/images/mics/01163/01163_75.jpg" width="75" height="75" alt="The SR30HC is a hypercardioid version of the SR30." title="The SR30HC is a hypercardioid version of the SR30."   ><br /><span>Earthworks SR30HC</span></a></li>
+                                                    <li class="mictile"><a title="The DP30/C and SR30 share a 9mm Cardioid element." href="//recordinghacks.com/microphones/Earthworks/DP30-C"><img src="//cdn.recordinghacks.com/images/mics/01482/01482_75.jpg" width="75" height="75" alt="The DP30/C and SR30 share a 9mm Cardioid element." title="The DP30/C and SR30 share a 9mm Cardioid element."   ><br /><span>Earthworks DP30/C</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/Earthworks">Earthworks microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Earthworks Audio SR30" href="/microphone-photo/00930/Earthworks/SR30.jpg"><img src="//cdn.recordinghacks.com/images/mics/00930/00930_172.jpg" width="172" height="76" alt="Earthworks Audio SR30" title="Earthworks Audio SR30" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $1,199</li>
+                                                            </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/electret" alt="electret microphones">electret</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformerless" alt="transformerless microphones">transformerless</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/end-address" alt="end-address microphones">end-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/condenser" alt="condenser microphones">condenser</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/made-in-usa" alt="made-in-usa microphones">made-in-usa</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://emusician.com/mag/emusic_microphone_smalldiaphragm_condenser/">SR77 History</a></li>
+                                                                    <li id="www"><a  href="http://emusician.com/mics/emusic_tell_truth/">Emusician SDC shootout, 2000</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/reviews/earthworks-sr77-review/">Down Beat review</a></li>
+                                                                </ul>                    
+                                        <h3>SR30 Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.earthworksaudio.com/our-microphones/sr-series-2/sr30/">SR30 Product Description</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/earthworks/SR30-manual.pdf">SR30 Owner&#8217;s Guide</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/earthworks/SR77_manual.pdf">SR77 Manual</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="930-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>Earthworks Audio SR30</h2>
+                    
+                    <h2 class="sub">                    Cardioid Condenser Microphone</h2>
+                    <p>The SR30 is a cardioid condenser microphone with extremely flat frequency response across an extended frequency range, and Earthworks&#8217; trademark &#8220;fast impulse response&#8221; capsule.</p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/earthworks/SR77.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/earthworks/SR77-sm.jpg" class="thumb shaft" alt="Earthworks SR77" width="200" /></a>The mic was initially introduced in 2000, as the SR77. According to Earthworks, the two mics are the same.</p><p>The SR77 is reportedly identical internally to an older mic, Earthworks&#8217; Z30X. According to Electronic Musician, the Z30X had a 3-piece stainless-steel body, whereas the SR77 packaged the same capsule and electronics into a 1-piece aluminum body that could be produced more easily.</p><p>See the <a href="http://recordinghacks.com/microphones/Earthworks/Z30X">Z30X</a> profile for reviews.</p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/earthworks/cardioid-patent.png"><img src="//cdn.recordinghacks.com/images/mic_extras/earthworks/cardioid-patent-sm.png" class="thumb shaft" alt="SR25" width="200" /></a>The mic&#8217;s physical housing, particularly the internal components engineered to produce a consistent Cardioid polar response, are covered by David Blackmer&#8217;s July, 2000 patent #6,091,829. The patent describes a conical, tapered structure behind the capsule, which serves multiple benefits to the mic&#8217;s polar response.</p><blockquote><p><cite>Patent 6,091,829</cite></p><p>The tapered structure has a generally conic shape to provide a gradually increasing acoustic impedance&#8230; [it] preferentially collects signal components from behind the microphone and ducts them into the rear ports of the [capsule]; and guides reflected, unwanted signals outwardly and away&#8230;</p><p>[It] improves the front frequency response of the microphone, and [provides] more-effective rear-port signal cancellation, thereby providing a better front-to-back signal ratio than provided in the prior art.</p></blockquote><p><em>How does the SR30 differ from the SR25?</em><br /></p><table><tr><td ></td><td><a title="Earthworks Audio SR25" href="http://recordinghacks.com/microphones/Earthworks/SR25"><strong>SR25</strong><br /><img width="75" height="75" src="//cdn.recordinghacks.com/images/mics/01097/01097_75.jpg" alt="Earthworks Audio SR25" class="thumb shift" /></a></td><td><a title="Earthworks Audio SR30" href="http://recordinghacks.com/microphones/Earthworks/SR30"><strong>SR30</strong><br /><img width="75" height="75" src="//cdn.recordinghacks.com/images/mics/00930/00930_75.jpg" alt="Earthworks Audio SR30" class="thumb shift" /></a></td></tr><tr><td><strong>Sensitivity</strong></td><td>10 mV/Pa</td><td>10 mV/Pa</td></tr><tr><td><strong>Frequency Response</strong></td><td>50 - 25,000 Hz &plusmn;2dB</td><td>30 - 30,000 Hz &plusmn;1.5dB</td></tr><tr><td><strong>Self-Noise</strong></td><td>22 dBA</td><td>22 dBA</td></tr><tr><td><strong>Max SPL</strong></td><td>145dB</td><td>145dB</td></tr><tr><td><strong>Length</strong></td><td>165mm</td><td>212mm</td></tr><tr><td><strong>Weight</strong></td><td>160g</td><td>225g</td></tr><tr><td><strong>MSRP</strong> (2010)</td><td>$795</td><td>$1095</td></table><p></p><p>The SR30 is also available in matched pairs; the pair of mics ships with two mic clips in a cherry-wood box.</p><blockquote><p><cite>Electronic Musician, 2000</cite></p><p>[T]he SR77 maintained its reputation for capturing realistic, uncolored sound with exceptional dynamic response. However, compared to some of the other mics&#8217; tracks, the realism was not always flattering to the source.</p></blockquote><p><p>The <a href="//recordinghacks.com/microphones/Earthworks/SR30">Earthworks Audio SR30</a> is also known as: SR77, SR-30.</p>
+                    <h3>Specifications</h3>
+                                        
+                    <table>
+                                                    <tr><th>Frequency Response - Cardioid<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/1231" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/1/1231.png" width=476 height=159 alt="SR30 Cardioid Frequency Response Chart" title="SR30 Cardioid Frequency Response Chart" border=0 /></td></tr>
+                            </table>
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                                                                Cardioid
+                                             (10 mV/Pa; 30 - 30,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Capsule Dimensions</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                                                                                                        Capsule diameter: 9mm<br />
+                                                                                                                                                    </td>
+                            <td>100 Ohms <em class="mute">(Low)</em></td>
+                            <td>Max SPL: 145 dB<br />                                Self-noise: 22.0 dB(A)</td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>225g <em class="mute">(7.94oz)</em></td>
+                            <td>212mm <em class="mute">(8.35&#39;&#39;)</em></td>
+                            <td>22mm <em class="mute">(0.87&#39;&#39;)</em></td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                        <li>Requires phantom power </li>
+                                                                                                                                                                                <li>Phantom voltage: 48v</li>
+                                        </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('930-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

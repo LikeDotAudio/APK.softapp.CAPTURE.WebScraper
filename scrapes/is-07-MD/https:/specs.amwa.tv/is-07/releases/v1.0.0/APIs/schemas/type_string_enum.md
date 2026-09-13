@@ -1,0 +1,48 @@
+{
+"$id": "https://www.amwa.tv/event\_and\_tally/type\_string\_enum.json",
+"$schema": "http://json-schema.org/draft-04/schema#",
+"additionalProperties": false,
+"description": "Type definition for the string enum type",
+"properties": {
+"type": {
+"description": "Base type name",
+"enum": [
+"string"
+],
+"type": "string"
+},
+"values": {
+"description": "List of allowed values",
+"items": {
+"properties": {
+"description": {
+"description": "Enum description",
+"type": "string"
+},
+"label": {
+"description": "Enum label",
+"type": "string"
+},
+"value": {
+"description": "Enum value",
+"type": "string"
+}
+},
+"required": [
+"value",
+"label",
+"description"
+],
+"title": "Enum Element",
+"type": "object"
+},
+"type": "array"
+}
+},
+"required": [
+"type",
+"values"
+],
+"title": "String Enum Type",
+"type": "object"
+}

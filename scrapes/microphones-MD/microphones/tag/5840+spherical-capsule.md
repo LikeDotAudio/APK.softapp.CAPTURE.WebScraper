@@ -1,0 +1,5 @@
+## Mics tagged: 5840 AND spherical-capsule
+
+|  |  |
+| --- | --- |
+| [Bock Audio 50](http://recordinghacks.com/microphones/bock-audio/50 "Bock Audio 50 - Features, Specifications, Datasheet") | Omnidirectional  [**Bock Audio 50**](/microphones/bock-audio/50 "Bock Audio 50 - Features, Specifications, Datasheet")  Omnidirectional Tube Condenser Microphone  [side-address](//recordinghacks.com/microphones/tag/side-address "side-address microphones"), [tube](//recordinghacks.com/microphones/tag/tube "tube microphones"), [5840](//recordinghacks.com/microphones/tag/5840 "5840 microphones"), [ef732](//recordinghacks.com/microphones/tag/ef732 "ef732 microphones"), [transformer-coupled](//recordinghacks.com/microphones/tag/transformer-coupled "transformer-coupled microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [ami](//recordinghacks.com/microphones/tag/ami "ami microphones"), [spherical-capsule](//recordinghacks.com/microphones/tag/spherical-capsule "spherical-capsule microphones"), [small-diameter](//recordinghacks.com/microphones/tag/small-diameter "small-diameter microphones") |

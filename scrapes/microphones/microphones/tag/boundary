@@ -1,0 +1,299 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>boundary microphones | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+                
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+			<div id="content">
+                <div id="sidebar">                  
+                    					<h2 class="search">search for mics</h2>
+					<form action="/microphones" method="POST">
+										<script language="JavaScript" type="text/javascript">
+function clearText(field){
+
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+
+}
+					</script>
+						<fieldset>
+						    <input type="text" name="s" size="20" value="Microphone name or model number" style="color: #667;margin-left: 0;margin-bottom: 8px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)"><br />
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<fieldset class="checks">
+							<span class="shaft">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+							</span>
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">&nbsp;<input style="font-size: 8px" type="reset" name="button" value="Reset Form">
+						</fieldset>
+					</form>
+                            
+<h3>Refine Search</h3><p>Find mics tagged '<b>boundary</b> AND:'</p> 
+<p><a rel="nofollow" href="//recordinghacks.com/microphones/tag/boundary+condenser" title="Mics tagged boundary AND condenser">condenser</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/boundary+electret" title="Mics tagged boundary AND electret">electret</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/boundary+kick-drum" title="Mics tagged boundary AND kick-drum">kick-drum</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/boundary+evolution" title="Mics tagged boundary AND evolution">evolution</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/boundary+tec-award" title="Mics tagged boundary AND tec-award">tec-award</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/boundary+battery-power" title="Mics tagged boundary AND battery-power">battery-power</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/boundary+hpf" title="Mics tagged boundary AND hpf">hpf</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/boundary+detachable-capsule" title="Mics tagged boundary AND detachable-capsule">detachable-capsule</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/boundary+stereo" title="Mics tagged boundary AND stereo">stereo</a> </p>
+<h3>Expand Search</h3><p>Find mics tagged '<b>boundary</b> OR:'</p>
+<p><a rel="nofollow" href="//recordinghacks.com/microphones/tag/boundary|condenser" title="Mics tagged boundary OR condenser">condenser</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/boundary|electret" title="Mics tagged boundary OR electret">electret</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/boundary|kick-drum" title="Mics tagged boundary OR kick-drum">kick-drum</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/boundary|evolution" title="Mics tagged boundary OR evolution">evolution</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/boundary|tec-award" title="Mics tagged boundary OR tec-award">tec-award</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/boundary|battery-power" title="Mics tagged boundary OR battery-power">battery-power</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/boundary|hpf" title="Mics tagged boundary OR hpf">hpf</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/boundary|detachable-capsule" title="Mics tagged boundary OR detachable-capsule">detachable-capsule</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/boundary|stereo" title="Mics tagged boundary OR stereo">stereo</a> </p>
+                </div><!-- /#sidebar -->
+                <div id="column" style="width: auto">
+						    <h2>Mics tagged: boundary</h2>
+			    <table>
+				                    <tr><td><a title="Bartlett Audio Stage Floor Mic-EC - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/bartlett/Stage-Floor-Mic" ><img src="//cdn.recordinghacks.com/images/mics/01832/01832_75.jpg" width="75" height="75" alt="Bartlett Audio Stage Floor Mic-EC" title="Bartlett Audio Stage Floor Mic-EC"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1832-0" src="/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" >                        </span>
+                        <a title="Bartlett Audio Stage Floor Mic-EC - Features, Specifications, Datasheet" href="/microphones/bartlett/Stage-Floor-Mic"><strong>Bartlett Audio Stage Floor Mic-EC</strong></a><br />
+                        Supercardioid Boundary Microphone<br />
+                        <a title="boundary microphones"  href="//recordinghacks.com/microphones/tag/boundary">boundary</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audix M60 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audix/M60" ><img src="//cdn.recordinghacks.com/images/mics/01495/01495_75.jpg" width="75" height="75" alt="Audix M60" title="Audix M60"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1495-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Audix M60 - Features, Specifications, Datasheet" href="/microphones/Audix/M60"><strong>Audix M60</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="boundary microphones"  href="//recordinghacks.com/microphones/tag/boundary">boundary</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Shure Beta 91A - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Shure/Beta-91A" ><img src="//cdn.recordinghacks.com/images/mics/01094/01094_75.jpg" width="75" height="75" alt="Shure Beta 91A" title="Shure Beta 91A"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1094-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Shure Beta 91A - Features, Specifications, Datasheet" href="/microphones/Shure/Beta-91A"><strong>Shure Beta 91A</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="kick-drum microphones"  href="//recordinghacks.com/microphones/tag/kick-drum">kick-drum</a>, <a title="boundary microphones"  href="//recordinghacks.com/microphones/tag/boundary">boundary</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Sennheiser Electronics Corporation e 901 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Sennheiser/e901" ><img src="//cdn.recordinghacks.com/images/mics/01054/01054_75.jpg" width="75" height="75" alt="Sennheiser Electronics Corporation e 901" title="Sennheiser Electronics Corporation e 901"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1054-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Sennheiser Electronics Corporation e 901 - Features, Specifications, Datasheet" href="/microphones/Sennheiser/e901"><strong>Sennheiser Electronics Corporation e 901</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="kick-drum microphones"  href="//recordinghacks.com/microphones/tag/kick-drum">kick-drum</a>, <a title="boundary microphones"  href="//recordinghacks.com/microphones/tag/boundary">boundary</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="evolution microphones"  href="//recordinghacks.com/microphones/tag/evolution">evolution</a>, <a title="tec-award microphones"  href="//recordinghacks.com/microphones/tag/tec-award">tec-award</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Sennheiser Electronics Corporation MKE 212 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Sennheiser/MKE-212" ><img src="//cdn.recordinghacks.com/images/mics/00997/00997_75.jpg" width="75" height="75" alt="Sennheiser Electronics Corporation MKE 212" title="Sennheiser Electronics Corporation MKE 212"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="997-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="Sennheiser Electronics Corporation MKE 212 - Features, Specifications, Datasheet" href="/microphones/Sennheiser/MKE-212"><strong>Sennheiser Electronics Corporation MKE 212</strong></a><br />
+                        Omnidirectional Boundary Microphone<br />
+                        <a title="boundary microphones"  href="//recordinghacks.com/microphones/tag/boundary">boundary</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="beyerdynamic Opus 51 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/beyerdynamic/Opus-51" ><img src="//cdn.recordinghacks.com/images/mics/00796/00796_75.jpg" width="75" height="75" alt="beyerdynamic Opus 51" title="beyerdynamic Opus 51"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="796-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="beyerdynamic Opus 51 - Features, Specifications, Datasheet" href="/microphones/beyerdynamic/Opus-51"><strong>beyerdynamic Opus 51</strong></a><br />
+                        Omnidirectional Boundary Microphone<br />
+                        <a title="kick-drum microphones"  href="//recordinghacks.com/microphones/tag/kick-drum">kick-drum</a>, <a title="boundary microphones"  href="//recordinghacks.com/microphones/tag/boundary">boundary</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="battery-power microphones"  href="//recordinghacks.com/microphones/tag/battery-power">battery-power</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="AKG Acoustics C 680 BL - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/AKG-Acoustics/C-680-BL" ><img src="//cdn.recordinghacks.com/images/mics/00314/00314_75.jpg" width="75" height="75" alt="AKG Acoustics C 680 BL" title="AKG Acoustics C 680 BL"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="314-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="AKG Acoustics C 680 BL - Features, Specifications, Datasheet" href="/microphones/AKG-Acoustics/C-680-BL"><strong>AKG Acoustics C 680 BL</strong></a><br />
+                        Cardioid Boundary Microphone<br />
+                        <a title="boundary microphones"  href="//recordinghacks.com/microphones/tag/boundary">boundary</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="AKG Acoustics C 562 CM - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/AKG-Acoustics/C-562-CM" ><img src="//cdn.recordinghacks.com/images/mics/00309/00309_75.jpg" width="75" height="75" alt="AKG Acoustics C 562 CM" title="AKG Acoustics C 562 CM"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="309-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="AKG Acoustics C 562 CM - Features, Specifications, Datasheet" href="/microphones/AKG-Acoustics/C-562-CM"><strong>AKG Acoustics C 562 CM</strong></a><br />
+                        Omnidirectional Boundary Microphone<br />
+                        <a title="boundary microphones"  href="//recordinghacks.com/microphones/tag/boundary">boundary</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="AKG Acoustics C 547 BL - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/AKG-Acoustics/C-547-BL" ><img src="//cdn.recordinghacks.com/images/mics/00308/00308_75.jpg" width="75" height="75" alt="AKG Acoustics C 547 BL" title="AKG Acoustics C 547 BL"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="308-0" src="/images/icons/patterns/icon_hc.png" width=27 height=27 alt="Hypercardioid" title="Hypercardioid" >                        </span>
+                        <a title="AKG Acoustics C 547 BL - Features, Specifications, Datasheet" href="/microphones/AKG-Acoustics/C-547-BL"><strong>AKG Acoustics C 547 BL</strong></a><br />
+                        Hypercardioid Boundary Microphone<br />
+                        <a title="boundary microphones"  href="//recordinghacks.com/microphones/tag/boundary">boundary</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="AKG Acoustics C 542 BL - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/AKG-Acoustics/C-542-BL" ><img src="//cdn.recordinghacks.com/images/mics/00307/00307_75.jpg" width="75" height="75" alt="AKG Acoustics C 542 BL" title="AKG Acoustics C 542 BL"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="307-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="AKG Acoustics C 542 BL - Features, Specifications, Datasheet" href="/microphones/AKG-Acoustics/C-542-BL"><strong>AKG Acoustics C 542 BL</strong></a><br />
+                        Omnidirectional Boundary Microphone<br />
+                        <a title="boundary microphones"  href="//recordinghacks.com/microphones/tag/boundary">boundary</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="AKG Acoustics C 400 BL - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/AKG-Acoustics/C-400-BL" ><img src="//cdn.recordinghacks.com/images/mics/00276/00276_75.jpg" width="75" height="75" alt="AKG Acoustics C 400 BL" title="AKG Acoustics C 400 BL"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="276-0" src="/images/icons/patterns/icon_hc.png" width=27 height=27 alt="Hypercardioid" title="Hypercardioid" >                        </span>
+                        <a title="AKG Acoustics C 400 BL - Features, Specifications, Datasheet" href="/microphones/AKG-Acoustics/C-400-BL"><strong>AKG Acoustics C 400 BL</strong></a><br />
+                        Hypercardioid Boundary Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="boundary microphones"  href="//recordinghacks.com/microphones/tag/boundary">boundary</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Shure Beta 91 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Shure/Beta-91" ><img src="//cdn.recordinghacks.com/images/mics/00213/00213_75.jpg" width="75" height="75" alt="Shure Beta 91" title="Shure Beta 91"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="213-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="213-1" src="/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" >                        </span>
+                        <a title="Shure Beta 91 - Features, Specifications, Datasheet" href="/microphones/Shure/Beta-91"><strong>Shure Beta 91</strong></a><br />
+                        Detachable-Capsule Boundary Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="detachable-capsule microphones"  href="//recordinghacks.com/microphones/tag/detachable-capsule">detachable-capsule</a>, <a title="kick-drum microphones"  href="//recordinghacks.com/microphones/tag/kick-drum">kick-drum</a>, <a title="boundary microphones"  href="//recordinghacks.com/microphones/tag/boundary">boundary</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica U891RC - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/U891RC" ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="181-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="Audio-Technica U891RC - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/U891RC"><strong>Audio-Technica U891RC</strong></a><br />
+                        Omnidirectional Boundary Microphone<br />
+                        <a title="boundary microphones"  href="//recordinghacks.com/microphones/tag/boundary">boundary</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica U891R - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/U891R" ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="180-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="Audio-Technica U891R - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/U891R"><strong>Audio-Technica U891R</strong></a><br />
+                        Omnidirectional Boundary Microphone<br />
+                        <a title="boundary microphones"  href="//recordinghacks.com/microphones/tag/boundary">boundary</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica U851A - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/U851A" ><img src="//cdn.recordinghacks.com/images/mics/00153/00153_75.jpg" width="75" height="75" alt="Audio-Technica U851A" title="Audio-Technica U851A"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="153-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="Audio-Technica U851A - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/U851A"><strong>Audio-Technica U851A</strong></a><br />
+                        Omnidirectional Boundary Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="boundary microphones"  href="//recordinghacks.com/microphones/tag/boundary">boundary</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica U841A - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/U841A" ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="152-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="Audio-Technica U841A - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/U841A"><strong>Audio-Technica U841A</strong></a><br />
+                        Omnidirectional Boundary Microphone<br />
+                        <a title="boundary microphones"  href="//recordinghacks.com/microphones/tag/boundary">boundary</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica PRO 44 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/PRO-44" ><img src="//cdn.recordinghacks.com/images/mics/00142/00142_75.jpg" width="75" height="75" alt="Audio-Technica PRO 44" title="Audio-Technica PRO 44"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="142-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="Audio-Technica PRO 44 - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/PRO-44"><strong>Audio-Technica PRO 44</strong></a><br />
+                        Omnidirectional Boundary Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="boundary microphones"  href="//recordinghacks.com/microphones/tag/boundary">boundary</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica PRO 42 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/PRO-42" ><img src="//cdn.recordinghacks.com/images/mics/00141/00141_75.jpg" width="75" height="75" alt="Audio-Technica PRO 42" title="Audio-Technica PRO 42"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="141-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="Audio-Technica PRO 42 - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/PRO-42"><strong>Audio-Technica PRO 42</strong></a><br />
+                        Omnidirectional Boundary Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="boundary microphones"  href="//recordinghacks.com/microphones/tag/boundary">boundary</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica ES961 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/ES961" ><img src="//cdn.recordinghacks.com/images/mics/00111/00111_75.jpg" width="75" height="75" alt="Audio-Technica ES961" title="Audio-Technica ES961"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="111-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="Audio-Technica ES961 - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/ES961"><strong>Audio-Technica ES961</strong></a><br />
+                        Omnidirectional Condenser Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="boundary microphones"  href="//recordinghacks.com/microphones/tag/boundary">boundary</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica ES947 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/ES947" ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="109-0" src="/images/icons/patterns/" width=27 height=27 alt="" title="" >                        </span>
+                        <a title="Audio-Technica ES947 - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/ES947"><strong>Audio-Technica ES947</strong></a><br />
+                         Boundary Microphone<br />
+                        <a title="boundary microphones"  href="//recordinghacks.com/microphones/tag/boundary">boundary</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica ES945 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/ES945" ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="107-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="Audio-Technica ES945 - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/ES945"><strong>Audio-Technica ES945</strong></a><br />
+                        Omnidirectional Boundary Microphone<br />
+                        <a title="boundary microphones"  href="//recordinghacks.com/microphones/tag/boundary">boundary</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica ATR97 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/ATR97" ><img src="//cdn.recordinghacks.com/images/mics/00078/00078_75.jpg" width="75" height="75" alt="Audio-Technica ATR97" title="Audio-Technica ATR97"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="78-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="Audio-Technica ATR97 - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/ATR97"><strong>Audio-Technica ATR97</strong></a><br />
+                        Omnidirectional Boundary Microphone<br />
+                        <a title="boundary microphones"  href="//recordinghacks.com/microphones/tag/boundary">boundary</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica AT849 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/AT849" ><img src="//cdn.recordinghacks.com/images/mics/00040/00040_75.jpg" width="75" height="75" alt="Audio-Technica AT849" title="Audio-Technica AT849"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="40-0" src="/images/icons/patterns/icon_xy.png" width=27 height=27 alt="X/Y Stereo" title="X/Y Stereo" >                        </span>
+                        <a title="Audio-Technica AT849 - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/AT849"><strong>Audio-Technica AT849</strong></a><br />
+                        X/Y Stereo Condenser Stereo Microphone<br />
+                        <a title="stereo microphones"  href="//recordinghacks.com/microphones/tag/stereo">stereo</a>, <a title="boundary microphones"  href="//recordinghacks.com/microphones/tag/boundary">boundary</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a><br />                        </td></tr>
+	
+                                </table>
+
+
+                 <!-- end of $nada test -->
+                </div><!-- /#column -->
+			</div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('1832-0');uniqueids.push('1495-0');uniqueids.push('1094-0');uniqueids.push('1054-0');uniqueids.push('997-0');uniqueids.push('796-0');uniqueids.push('314-0');uniqueids.push('309-0');uniqueids.push('308-0');uniqueids.push('307-0');uniqueids.push('276-0');uniqueids.push('213-0');uniqueids.push('213-1');uniqueids.push('181-0');uniqueids.push('180-0');uniqueids.push('153-0');uniqueids.push('152-0');uniqueids.push('142-0');uniqueids.push('141-0');uniqueids.push('111-0');uniqueids.push('109-0');uniqueids.push('107-0');uniqueids.push('78-0');uniqueids.push('40-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

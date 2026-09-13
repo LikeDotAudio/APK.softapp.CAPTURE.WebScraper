@@ -1,0 +1,208 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>bv8 microphones | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+                
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+			<div id="content">
+                <div id="sidebar">                  
+                    					<h2 class="search">search for mics</h2>
+					<form action="/microphones" method="POST">
+										<script language="JavaScript" type="text/javascript">
+function clearText(field){
+
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+
+}
+					</script>
+						<fieldset>
+						    <input type="text" name="s" size="20" value="Microphone name or model number" style="color: #667;margin-left: 0;margin-bottom: 8px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)"><br />
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<fieldset class="checks">
+							<span class="shaft">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+							</span>
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">&nbsp;<input style="font-size: 8px" type="reset" name="button" value="Reset Form">
+						</fieldset>
+					</form>
+                            
+<h3>Refine Search</h3><p>Find mics tagged '<b>bv8</b> AND:'</p> 
+<p><a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8+large-diaphragm" title="Mics tagged bv8 AND large-diaphragm">large-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8+tube" title="Mics tagged bv8 AND tube">tube</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8+multipattern" title="Mics tagged bv8 AND multipattern">multipattern</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8+transformer-coupled" title="Mics tagged bv8 AND transformer-coupled">transformer-coupled</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8+condenser" title="Mics tagged bv8 AND condenser">condenser</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8+vf14" title="Mics tagged bv8 AND vf14">vf14</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8+m7" title="Mics tagged bv8 AND m7">m7</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8+ef14" title="Mics tagged bv8 AND ef14">ef14</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8+uf14" title="Mics tagged bv8 AND uf14">uf14</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8+replica" title="Mics tagged bv8 AND replica">replica</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8+f7" title="Mics tagged bv8 AND f7">f7</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8+side-address" title="Mics tagged bv8 AND side-address">side-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8+ak67" title="Mics tagged bv8 AND ak67">ak67</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8+k67" title="Mics tagged bv8 AND k67">k67</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8+ef86" title="Mics tagged bv8 AND ef86">ef86</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8+ef806" title="Mics tagged bv8 AND ef806">ef806</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8+dual-diaphragm" title="Mics tagged bv8 AND dual-diaphragm">dual-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8+center-terminated" title="Mics tagged bv8 AND center-terminated">center-terminated</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8+thiersch" title="Mics tagged bv8 AND thiersch">thiersch</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8+vf14k" title="Mics tagged bv8 AND vf14k">vf14k</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8+ef732" title="Mics tagged bv8 AND ef732">ef732</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8+tk47" title="Mics tagged bv8 AND tk47">tk47</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8+ami" title="Mics tagged bv8 AND ami">ami</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8+telefunken" title="Mics tagged bv8 AND telefunken">telefunken</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8+k47" title="Mics tagged bv8 AND k47">k47</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8+mogami" title="Mics tagged bv8 AND mogami">mogami</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8+cathode-follower" title="Mics tagged bv8 AND cathode-follower">cathode-follower</a> </p>
+<h3>Expand Search</h3><p>Find mics tagged '<b>bv8</b> OR:'</p>
+<p><a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8|large-diaphragm" title="Mics tagged bv8 OR large-diaphragm">large-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8|tube" title="Mics tagged bv8 OR tube">tube</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8|multipattern" title="Mics tagged bv8 OR multipattern">multipattern</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8|transformer-coupled" title="Mics tagged bv8 OR transformer-coupled">transformer-coupled</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8|condenser" title="Mics tagged bv8 OR condenser">condenser</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8|vf14" title="Mics tagged bv8 OR vf14">vf14</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8|m7" title="Mics tagged bv8 OR m7">m7</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8|ef14" title="Mics tagged bv8 OR ef14">ef14</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8|uf14" title="Mics tagged bv8 OR uf14">uf14</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8|replica" title="Mics tagged bv8 OR replica">replica</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8|f7" title="Mics tagged bv8 OR f7">f7</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8|side-address" title="Mics tagged bv8 OR side-address">side-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8|ak67" title="Mics tagged bv8 OR ak67">ak67</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8|k67" title="Mics tagged bv8 OR k67">k67</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8|ef86" title="Mics tagged bv8 OR ef86">ef86</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8|ef806" title="Mics tagged bv8 OR ef806">ef806</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8|dual-diaphragm" title="Mics tagged bv8 OR dual-diaphragm">dual-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8|center-terminated" title="Mics tagged bv8 OR center-terminated">center-terminated</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8|thiersch" title="Mics tagged bv8 OR thiersch">thiersch</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8|vf14k" title="Mics tagged bv8 OR vf14k">vf14k</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8|ef732" title="Mics tagged bv8 OR ef732">ef732</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8|tk47" title="Mics tagged bv8 OR tk47">tk47</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8|ami" title="Mics tagged bv8 OR ami">ami</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8|telefunken" title="Mics tagged bv8 OR telefunken">telefunken</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8|k47" title="Mics tagged bv8 OR k47">k47</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8|mogami" title="Mics tagged bv8 OR mogami">mogami</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/bv8|cathode-follower" title="Mics tagged bv8 OR cathode-follower">cathode-follower</a> </p>
+                </div><!-- /#sidebar -->
+                <div id="column" style="width: auto">
+						    <h2>Mics tagged: bv8</h2>
+			    <table>
+				                    <tr><td><a title="FLEA 47 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/FLEA/FLEA-47" ><img src="//cdn.recordinghacks.com/images/mics/01641/01641_75.jpg" width="75" height="75" alt="FLEA 47" title="FLEA 47"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1641-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="1641-1" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="FLEA 47 - Features, Specifications, Datasheet" href="/microphones/FLEA/FLEA-47"><strong>FLEA 47</strong></a><br />
+                        Multi-Pattern Tube Condenser Microphone<br />
+                        <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="tube microphones"  href="//recordinghacks.com/microphones/tag/tube">tube</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="vf14 microphones"  href="//recordinghacks.com/microphones/tag/vf14">vf14</a>, <a title="m7 microphones"  href="//recordinghacks.com/microphones/tag/m7">m7</a>, <a title="ef14 microphones"  href="//recordinghacks.com/microphones/tag/ef14">ef14</a>, <a title="bv8 microphones"  href="//recordinghacks.com/microphones/tag/bv8">bv8</a>, <a title="uf14 microphones"  href="//recordinghacks.com/microphones/tag/uf14">uf14</a>, <a title="replica microphones"  href="//recordinghacks.com/microphones/tag/replica">replica</a>, <a title="f7 microphones"  href="//recordinghacks.com/microphones/tag/f7">f7</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Advanced Audio Microphones CM-67 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Advanced-Audio-Microphones/CM-67" ><img src="//cdn.recordinghacks.com/images/mics/01426/01426_75.jpg" width="75" height="75" alt="Advanced Audio Microphones CM-67" title="Advanced Audio Microphones CM-67"   ></a></td>
+                        <td><span class="shaft">
+					    <img src="/images/icons/patterns/icon_9.png" id="1426-0" width=27 height=27 alt="9 polar patterns" title="Cardioid, Omni, Figure 8, and six intermediate positions" ></span>
+                        <a title="Advanced Audio Microphones CM-67 - Features, Specifications, Datasheet" href="/microphones/Advanced-Audio-Microphones/CM-67"><strong>Advanced Audio Microphones CM-67</strong></a><br />
+                        Multi-Pattern Tube Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="tube microphones"  href="//recordinghacks.com/microphones/tag/tube">tube</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="bv8 microphones"  href="//recordinghacks.com/microphones/tag/bv8">bv8</a>, <a title="ak67 microphones"  href="//recordinghacks.com/microphones/tag/ak67">ak67</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Stellar Sounds CM-6 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Stellar/CM-6" ><img src="//cdn.recordinghacks.com/images/mics/01149/01149_75.jpg" width="75" height="75" alt="Stellar Sounds CM-6" title="Stellar Sounds CM-6"   ></a></td>
+                        <td><span class="shaft">
+					    <img src="/images/icons/patterns/icon_9.png" id="1149-0" width=27 height=27 alt="9 polar patterns" title="Cardioid, Omni, Figure 8, and six intermediate positions" ></span>
+                        <a title="Stellar Sounds CM-6 - Features, Specifications, Datasheet" href="/microphones/Stellar/CM-6"><strong>Stellar Sounds CM-6</strong></a><br />
+                        Multi-Pattern Tube Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="tube microphones"  href="//recordinghacks.com/microphones/tag/tube">tube</a>, <a title="k67 microphones"  href="//recordinghacks.com/microphones/tag/k67">k67</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="ef86 microphones"  href="//recordinghacks.com/microphones/tag/ef86">ef86</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="bv8 microphones"  href="//recordinghacks.com/microphones/tag/bv8">bv8</a>, <a title="ef806 microphones"  href="//recordinghacks.com/microphones/tag/ef806">ef806</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Telefunken Elektroakustik U-47 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Telefunken-USA/U47" ><img src="//cdn.recordinghacks.com/images/mics/01073/01073_75.jpg" width="75" height="75" alt="Telefunken Elektroakustik U-47" title="Telefunken Elektroakustik U-47"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1073-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="1073-1" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Telefunken Elektroakustik U-47 - Features, Specifications, Datasheet" href="/microphones/Telefunken-USA/U47"><strong>Telefunken Elektroakustik U-47</strong></a><br />
+                        Multi-Pattern Tube Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="dual-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/dual-diaphragm">dual-diaphragm</a>, <a title="tube microphones"  href="//recordinghacks.com/microphones/tag/tube">tube</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="center-terminated microphones"  href="//recordinghacks.com/microphones/tag/center-terminated">center-terminated</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="m7 microphones"  href="//recordinghacks.com/microphones/tag/m7">m7</a>, <a title="bv8 microphones"  href="//recordinghacks.com/microphones/tag/bv8">bv8</a>, <a title="thiersch microphones"  href="//recordinghacks.com/microphones/tag/thiersch">thiersch</a>, <a title="vf14k microphones"  href="//recordinghacks.com/microphones/tag/vf14k">vf14k</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Telefunken Elektroakustik R-F-T AK47 Mk II - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Telefunken-USA/AK47-MkII" ><img src="//cdn.recordinghacks.com/images/mics/01071/01071_75.jpg" width="75" height="75" alt="Telefunken Elektroakustik R-F-T AK47 Mk II" title="Telefunken Elektroakustik R-F-T AK47 Mk II"   ></a></td>
+                        <td><span class="shaft">
+					    <img src="/images/icons/patterns/icon_9.png" id="1071-0" width=27 height=27 alt="9 polar patterns" title="Cardioid, Omni, Figure 8, and six intermediate positions" ></span>
+                        <a title="Telefunken Elektroakustik R-F-T AK47 Mk II - Features, Specifications, Datasheet" href="/microphones/Telefunken-USA/AK47-MkII"><strong>Telefunken Elektroakustik R-F-T AK47 Mk II</strong></a><br />
+                        Multi-Pattern Tube Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="dual-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/dual-diaphragm">dual-diaphragm</a>, <a title="tube microphones"  href="//recordinghacks.com/microphones/tag/tube">tube</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="k67 microphones"  href="//recordinghacks.com/microphones/tag/k67">k67</a>, <a title="ef732 microphones"  href="//recordinghacks.com/microphones/tag/ef732">ef732</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="center-terminated microphones"  href="//recordinghacks.com/microphones/tag/center-terminated">center-terminated</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="bv8 microphones"  href="//recordinghacks.com/microphones/tag/bv8">bv8</a>, <a title="tk47 microphones"  href="//recordinghacks.com/microphones/tag/tk47">tk47</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Lucas Engineering CS-4 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/lucas/CS-4" ><img src="//cdn.recordinghacks.com/images/mics/00982/00982_75.jpg" width="75" height="75" alt="Lucas Engineering CS-4" title="Lucas Engineering CS-4"   ></a></td>
+                        <td><span class="shaft">
+					    <img src="/images/icons/patterns/icon_cv.png" id="982-0" width=27 height=27 alt="continuously variable pattern selection" title="Continuously variable pattern selection"></span>
+                        <a title="Lucas Engineering CS-4 - Features, Specifications, Datasheet" href="/microphones/lucas/CS-4"><strong>Lucas Engineering CS-4</strong></a><br />
+                        Multi-Pattern Tube Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="dual-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/dual-diaphragm">dual-diaphragm</a>, <a title="tube microphones"  href="//recordinghacks.com/microphones/tag/tube">tube</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="center-terminated microphones"  href="//recordinghacks.com/microphones/tag/center-terminated">center-terminated</a>, <a title="m7 microphones"  href="//recordinghacks.com/microphones/tag/m7">m7</a>, <a title="bv8 microphones"  href="//recordinghacks.com/microphones/tag/bv8">bv8</a>, <a title="ami microphones"  href="//recordinghacks.com/microphones/tag/ami">ami</a>, <a title="thiersch microphones"  href="//recordinghacks.com/microphones/tag/thiersch">thiersch</a>, <a title="telefunken microphones"  href="//recordinghacks.com/microphones/tag/telefunken">telefunken</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Wunder Audio CM7 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Wunder-Audio/CM7" ><img src="//cdn.recordinghacks.com/images/mics/00753/00753_75.jpg" width="75" height="75" alt="Wunder Audio CM7" title="Wunder Audio CM7"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="753-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="753-1" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Wunder Audio CM7 - Features, Specifications, Datasheet" href="/microphones/Wunder-Audio/CM7"><strong>Wunder Audio CM7</strong></a><br />
+                        Multi-Pattern Tube Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="tube microphones"  href="//recordinghacks.com/microphones/tag/tube">tube</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="vf14 microphones"  href="//recordinghacks.com/microphones/tag/vf14">vf14</a>, <a title="k47 microphones"  href="//recordinghacks.com/microphones/tag/k47">k47</a>, <a title="m7 microphones"  href="//recordinghacks.com/microphones/tag/m7">m7</a>, <a title="mogami microphones"  href="//recordinghacks.com/microphones/tag/mogami">mogami</a>, <a title="ef14 microphones"  href="//recordinghacks.com/microphones/tag/ef14">ef14</a>, <a title="bv8 microphones"  href="//recordinghacks.com/microphones/tag/bv8">bv8</a>, <a title="uf14 microphones"  href="//recordinghacks.com/microphones/tag/uf14">uf14</a>, <a title="ami microphones"  href="//recordinghacks.com/microphones/tag/ami">ami</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Telefunken Elektroakustik U 47M - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Telefunken-USA/U-47M" ><img src="//cdn.recordinghacks.com/images/mics/00743/00743_75.jpg" width="75" height="75" alt="Telefunken Elektroakustik U 47M" title="Telefunken Elektroakustik U 47M"   ></a></td>
+                        <td><span class="shaft">
+					    <img src="/images/icons/patterns/icon_9.png" id="743-0" width=27 height=27 alt="9 polar patterns" title="Cardioid, Omni, Figure 8, and six intermediate positions" ></span>
+                        <a title="Telefunken Elektroakustik U 47M - Features, Specifications, Datasheet" href="/microphones/Telefunken-USA/U-47M"><strong>Telefunken Elektroakustik U 47M</strong></a><br />
+                        Multi-Pattern Tube Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="dual-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/dual-diaphragm">dual-diaphragm</a>, <a title="tube microphones"  href="//recordinghacks.com/microphones/tag/tube">tube</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="center-terminated microphones"  href="//recordinghacks.com/microphones/tag/center-terminated">center-terminated</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="m7 microphones"  href="//recordinghacks.com/microphones/tag/m7">m7</a>, <a title="ef14 microphones"  href="//recordinghacks.com/microphones/tag/ef14">ef14</a>, <a title="bv8 microphones"  href="//recordinghacks.com/microphones/tag/bv8">bv8</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Advanced Audio Microphones CM-47 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Advanced-Audio-Microphones/CM-47" ><img src="//cdn.recordinghacks.com/images/mics/00493/00493_75.jpg" width="75" height="75" alt="Advanced Audio Microphones CM-47" title="Advanced Audio Microphones CM-47"   ></a></td>
+                        <td><span class="shaft">
+					    <img src="/images/icons/patterns/icon_9.png" id="493-0" width=27 height=27 alt="9 polar patterns" title="Cardioid, Omni, Figure 8, and six intermediate positions" ></span>
+                        <a title="Advanced Audio Microphones CM-47 - Features, Specifications, Datasheet" href="/microphones/Advanced-Audio-Microphones/CM-47"><strong>Advanced Audio Microphones CM-47</strong></a><br />
+                        Multi-Pattern Tube Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="tube microphones"  href="//recordinghacks.com/microphones/tag/tube">tube</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="cathode-follower microphones"  href="//recordinghacks.com/microphones/tag/cathode-follower">cathode-follower</a>, <a title="bv8 microphones"  href="//recordinghacks.com/microphones/tag/bv8">bv8</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Soundelux E47 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Soundelux/E47" ><img src="//cdn.recordinghacks.com/images/mics/00489/00489_75.jpg" width="75" height="75" alt="Soundelux E47" title="Soundelux E47"   ></a></td>
+                        <td><span class="shaft">
+					    <img src="/images/icons/patterns/icon_cv.png" id="489-0" width=27 height=27 alt="continuously variable pattern selection" title="Continuously variable pattern selection"></span>
+                        <a title="Soundelux E47 - Features, Specifications, Datasheet" href="/microphones/Soundelux/E47"><strong>Soundelux E47</strong></a><br />
+                        Multi-Pattern Tube Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="dual-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/dual-diaphragm">dual-diaphragm</a>, <a title="tube microphones"  href="//recordinghacks.com/microphones/tag/tube">tube</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="k47 microphones"  href="//recordinghacks.com/microphones/tag/k47">k47</a>, <a title="bv8 microphones"  href="//recordinghacks.com/microphones/tag/bv8">bv8</a><br />                        </td></tr>
+	
+                                </table>
+
+
+                 <!-- end of $nada test -->
+                </div><!-- /#column -->
+			</div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('1641-0');uniqueids.push('1641-1');uniqueids.push('1426-0');uniqueids.push('1149-0');uniqueids.push('1073-0');uniqueids.push('1073-1');uniqueids.push('1071-0');uniqueids.push('982-0');uniqueids.push('753-0');uniqueids.push('753-1');uniqueids.push('743-0');uniqueids.push('493-0');uniqueids.push('489-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

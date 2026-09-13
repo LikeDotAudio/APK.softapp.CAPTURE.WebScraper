@@ -1,0 +1,282 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Cloud Microphones JRS-34 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="JRS-34, Bidirectional Active Ribbon Microphone , aka: JRS-34-P, JRS-34-SPE - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/Cloud/JRS-34" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The JRS-34 and Cloud 44 share an exterior body design." href="//recordinghacks.com/microphones/Cloud/44"><img src="//cdn.recordinghacks.com/images/mics/01450/01450_75.jpg" width="75" height="75" alt="The JRS-34 and Cloud 44 share an exterior body design." title="The JRS-34 and Cloud 44 share an exterior body design."   ><br /><span>Cloud 44</span></a></li>
+                                                    <li class="mictile"><a title="The 44-A and JRS-34 share a body and ribbon design." href="//recordinghacks.com/microphones/Cloud/44-A"><img src="//cdn.recordinghacks.com/images/mics/01690/01690_75.jpg" width="75" height="75" alt="The 44-A and JRS-34 share a body and ribbon design." title="The 44-A and JRS-34 share a body and ribbon design."   ><br /><span>Cloud 44-A</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/Cloud">Cloud microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Cloud Microphones JRS-34" href="/microphone-photo/00897/Cloud/JRS-34.jpg"><img src="//cdn.recordinghacks.com/images/mics/00897/00897_172.jpg" width="172" height="104" alt="Cloud Microphones JRS-34" title="Cloud Microphones JRS-34" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $1,799</li>
+                                                            </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/ribbon" alt="ribbon microphones">ribbon</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/active-ribbon" alt="active-ribbon microphones">active-ribbon</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/neodymium" alt="neodymium microphones">neodymium</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/cinemag" alt="cinemag microphones">cinemag</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/made-in-usa" alt="made-in-usa microphones">made-in-usa</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/cloud/JRS34-press-release.pdf">JRS-34 Press Release, 2010-01</a></li>
+                                                                    <li id="www"><a  href="http://mixonline.com/gear/reviews/clooud_jrs34_ribbon_microphone/">MIX review, 2010-12</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/reviews/recordingmag/cloud-jrs-34-and-cloudlifter/">Recording Mag Review (2010-06)</a></li>
+                                                                </ul>                    
+                                        <h3>JRS-34 Documentation</h3><ul class="man_list" id="icons16">
+                                                                                        <li id="www"><a  href="http://cloudmicrophones.com/cloud12/?page_id=231">JRS-34 Product Description</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="897-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ></span>Cloud Microphones JRS-34</h2>
+                    
+                    <h2 class="sub">                    Bidirectional Active Ribbon Microphone</h2>
+                    <p>The JRS-34 is a bidirectional ribbon microphone designed by Stephen Sank, son of former RCA ribbon microphone designer Jon R. Sank. The new microphone is said to combine the best attributes of the RCA 44A and the Jon-Sank-designed RCA BK-11A.</p><blockquote><p><cite>Stephen Sank</cite></p><p>The JRS-34 I have designed is, to my ears at least, one of the most natural sounding mics you will ever find.</p></blockquote><p>The JRS-34 incorporates an innovative and patent-pending shockmounting system (see <a href="http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=1&amp;f=G&amp;l=50&amp;s1=%2220090279730%22.PGNR.&amp;OS=DN/20090279730&amp;RS=DN/20090279730">patent application #20090279730</a>): the entire ribbon motor is suspended within the microphone body by springs. The shockmount design is not compromised by anchoring the ribbon motor with output wires; rather, two of the four springs are made of high grade, nickel-plated beryllium-copper alloy, and are used to carry the ribbon transducer&#8217;s signal to the output circuit. This design allows the ribbon motor to float within the housing, isolating it from mechanical vibrations.</p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/cloud/JRS-34-case.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/cloud/JRS-34-case-sm.jpg" class="thumb shaft" alt="Cloud JRS-34 Ribbon Mic in Case" width="160" /></a>The springs are damped to eliminate resonance within the motor assembly.</p><p>The ribbon material is 1.8-micron pure aluminum, specially tempered, then cut and corrugated to match the RCA 44 ribbon specifications: 2.5&#39;&#39; length, 0.19&#39;&#39; wide, 13 corrugations/inch. Sank&#8217;s testing indicates that the new material outperforms original RCA ribbon material. He tunes the ribbon to 12Hz.</p><p>The corrugation machine used for these ribbons belonged to Harry F. Olson, former head of acoustical research at RCA and inventor of the RCA 44 and 77-series ribbon microphones. Olson designed the tool in 1931, and used it for all his personal prototyping. </p><p>Borrowing a lesson from Jon Sank&#8217;s BK-11, the ribbon motor assembly in the JRS-34 was designed to minimize acoustic reflectivity, to reduce the amount of reflected sound impinging on the ribbon. Specifically, this means that the faces of the Neodymium magnets facing the ribbon have been rounded, to reduce the reflection of audio waves from the ribbon back onto the ribbon where they might cause comb filtering or other coloration effects.</p><p>Stephen Sank has designed an &#8220;ultra-transparent&#8221; phantom-powered pre-preamp circuit for the new mic. Given 48V phantom power, it provides 18&ndash;24dB boost in gain, depending on the input impedance of the downstream preamp. The circuit&#8217;s input impedance is 3000&Omega;, said by Sank to be ideal for most vintage and contemporary ribbon microphones. This insulates the mic from changes in sound quality or coloration due to impedance loading from external preamps. </p><p>The amplifier has no resistors or capacitors in the signal path. It is based on high-grade JFETs, and is a very low-noise circuit.</p><p>(This amplification circuit can be purchased separately, in a 2-channel passive preamp box called the Cloudlifter. See our <a href="http://recordinghacks.com/2010/02/08/cloudlifter-review/">Cloudlifter review</a> for more information.)</p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/cloud/JRS-34-pair.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/cloud/JRS-34-pair-sm.jpg" class="thumb shaft" alt="Cloud Microphones JRS-34" width="160" /></a>Four configurations of the microphone have been announced:</p><ul><li><b>JRS-34</b> ($1799) - the default configuration includes the phantom-powered amplifier circuit described above. This model has a nonreflective black powder-coated finish and a silver Cloud logo.</li><li><b>JRS-34-P</b> ($1499) - The passive version of the mic is indicated by the &#8216;P&#8217; suffix in the model name. This model is finished in grey, with nickel-coated grilles.</li><li><b>JRS-34-SPE</b> - the &#8220;special edition&#8221; can be ordered in active or passive designs, with chrome-plated grilles.</li></ul><p>The JRS-34 is made in the US, of US-sourced parts. The ribbon motor&#8217;s aluminum frame, the steel body parts, and other components are manufactured by an aerospace-parts manufacturer in Tucson. The ribbon&#8217;s transformer is provided by Cinemag, and has a ratio of 1:35. The Neodymium magnets are formed and machined in California. The microphones are assembled by hand in Tucson, and individually inspected prior to shipping by Stephen Sank.</p><p>Cloud Microphones provides a 2-year warranty on the JRS-34 ribbon.<p>The <a href="//recordinghacks.com/microphones/Cloud/JRS-34">Cloud Microphones JRS-34</a> is also known as: JRS-34-P, JRS-34-SPE.</p><p>The mic was released in 2009.</p>
+                    <h3>Specifications</h3>
+                                        
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                                                                Bidirectional
+                                             (44 mV/Pa; n/a)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Ribbon Construction</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                                                                                                                                                        Length: 59.7mm<br />
+                                                                                                                                        Width: 4.8mm<br />
+                                                                                                                                        Gauge: 1.8 microns
+                                                                                                                                                        </td>
+                            <td>n/a</td>
+                            <td>Max SPL: 138 dB<br />                                </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>409g <em class="mute">(14.43oz)</em></td>
+                            <td>208mm <em class="mute">(8.19&#39;&#39;)</em></td>
+                            <td>n/a</td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                        <li>Requires phantom power </li>
+                                                                                                                                                                                <li>Phantom voltage: 48v</li>
+                                        </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+             
+<script type="text/javascript">
+        YAHOO.namespace("freq");
+
+        function init_freq_graphs() {
+
+                
+            YAHOO.freq.manager = new YAHOO.widget.OverlayManager(); 
+            YAHOO.freq.manager.register([]);
+        
+
+
+        }
+        YAHOO.util.Event.addListener(window, "load", init_freq_graphs);
+</script>
+
+
+    <script type="text/javascript">
+    function swap_graph(id) {
+        if (1==0) {}
+    }
+    </script>
+
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('897-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

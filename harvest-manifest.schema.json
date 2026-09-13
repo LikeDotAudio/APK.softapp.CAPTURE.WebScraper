@@ -1,0 +1,62 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://apkaudio.contracts/HarvestManifest.schema.json",
+  "title": "HarvestManifest",
+  "$comment": "HAND-WRITTEN, and deliberately not in contracts/schemas/ — everything there is GENERATED from contracts/src by gen.ts, and every one of them is an MQTT wire payload. This is a file sidecar for a Python harvester with no bus surface. It moves into contracts the day a SECOND producer, in another language, writes one. PLAN-314.01.",
+  "description": "Where one harvested file came from, written by the tool that fetched it, at the moment it fetched it. A manifest records a FETCH, not a file: a derivative (the Markdown rendering of a page, a summary PDF) carries no manifest of its own and names its source's instead.",
+  "type": "object",
+  "required": ["schemaVersion", "source_url", "retrieved_at", "fetcher", "content_length", "sha256"],
+  "additionalProperties": false,
+  "properties": {
+    "schemaVersion": {
+      "type": "number",
+      "const": 1
+    },
+    "source_url": {
+      "type": "string",
+      "description": "The absolute URL fetched, query and fragment included if they were sent. This is the field the whole file exists for: `scrapes/` encodes it in the DIRECTORY PATH today, which is why four of those paths contain `|` and `+` and CLAUDE.md §1 calls them unsafe to touch. Encoding a URL as a path is what a manifest exists to stop.",
+      "minLength": 1
+    },
+    "retrieved_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "UTC, ISO 8601, Z-suffixed. When the fetch returned — not when the document was authored, and not when the file was last written."
+    },
+    "http_status": {
+      "type": ["integer", "null"],
+      "description": "The status of the response that produced this file. Null only where the record is reconstructed and the status is unknowable.",
+      "minimum": 100,
+      "maximum": 599
+    },
+    "content_type": {
+      "type": ["string", "null"],
+      "description": "The Content-Type header as received. What the server SAID it was, which is not always what the extension claims."
+    },
+    "content_length": {
+      "type": "integer",
+      "description": "Bytes written to disk. Compared against sha256 by the checker: a length that matches a stale digest is a file edited in place.",
+      "minimum": 0
+    },
+    "sha256": {
+      "type": "string",
+      "description": "Of the bytes on disk. This is what makes 'is this the same document as that one' answerable — the question the AES 60 corpus could not answer, which left four pairs of genuinely different drafts labelled 'Duplicate Copy'.",
+      "pattern": "^[0-9a-f]{64}$"
+    },
+    "fetcher": {
+      "type": "string",
+      "description": "What wrote this. `Scraper.py` is the only one today; `browser` is the honest value for the AES 60 corpus, whose ' (1)' suffixes are a browser's duplicate-download naming and not a tool's.",
+      "minLength": 1
+    },
+    "provenance": {
+      "type": "string",
+      "enum": ["fetched", "reconstructed"],
+      "default": "fetched",
+      "description": "`fetched` means every field above was observed at fetch time. `reconstructed` means a human backfilled it afterwards and at least one field is inference. A backfilled row that looks identical to a fetched one is worse than no row, so the distinction is a required part of the record rather than a comment.",
+      "$comment": "Absent means `fetched` only for files written by a fetcher. A backfill MUST state it."
+    },
+    "note": {
+      "type": ["string", "null"],
+      "description": "Free text for what the fields cannot carry — which of two near-identical drafts this is, why a status is null."
+    }
+  }
+}

@@ -1,0 +1,266 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Nevaton MC47 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="MC47, Multi-Pattern Condenser Stereo Microphone , aka: MK47 - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/Nevaton/MC47" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The MC47 and MC48 differ primarily in width of stereo field." href="//recordinghacks.com/microphones/Nevaton/MC48"><img src="//cdn.recordinghacks.com/images/mics/00844/00844_75.jpg" width="75" height="75" alt="The MC47 and MC48 differ primarily in width of stereo field." title="The MC47 and MC48 differ primarily in width of stereo field."   ><br /><span>Nevaton MC48</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/Nevaton">Nevaton microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Nevaton MC47" href="/microphone-photo/00836/Nevaton/MC47.jpg"><img src="//cdn.recordinghacks.com/images/mics/00836/00836_172.jpg" width="172" height="85" alt="Nevaton MC47" title="Nevaton MC47" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $1,699</li>
+                                                            </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/side-address" alt="side-address microphones">side-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/large-diaphragm" alt="large-diaphragm microphones">large-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/stereo" alt="stereo microphones">stereo</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformerless" alt="transformerless microphones">transformerless</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/condenser" alt="condenser microphones">condenser</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/dual-capsule" alt="dual-capsule microphones">dual-capsule</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/xy-stereo" alt="xy-stereo microphones">xy-stereo</a></li></ul>
+                                        
+                                        <h3>MC47 Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/nevaton/nev_mc47.pdf">MC47 Cutsheet</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/nevaton/nevaton_mc47.pdf">MC47 Owner&#8217;s Manual</a></li>
+                                                                    <li id="www"><a  href="http://nevatonmics.com/mics_mc47.php">MC47 Product Description</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="836-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="836-1" src="//cdn.recordinghacks.com/images/icons/patterns/icon_xy.png" width=27 height=27 alt="X/Y Stereo" title="X/Y Stereo" ><img id="836-2" src="//cdn.recordinghacks.com/images/icons/patterns/icon_wc.png" width=27 height=27 alt="Wide Cardioid" title="Wide Cardioid" ></span>Nevaton MC47</h2>
+                    
+                    <h2 class="sub">                    Multi-Pattern Condenser Stereo Microphone</h2>
+                    <p>The MC47 is a FET condenser microphone with two large-diaphragm capsules shockmounted on a unique parallel-swivel device that allows the capsules to be offset from 0&deg; to &plusmn;45&deg;.</p><p>Th swivel control is marked with four numbered positions, with intermediate steps in between. There are no detents; operation from one extreme to the other is smooth. </p><p><img src="//cdn.recordinghacks.com/images/mic_extras/nevaton/MC47-switches.jpg" class="thumb shaft" alt="MC47 Switch Detail" />The &#8220;1&#8221; position points both capsules directly forward (0&deg;). The &#8220;2&#8221; position rotates one capsule clockwise 15&deg; and the other counter-clockwise 15&deg;, creating a 30&deg; spread. Position &#8220;3&#8221; creates a 60&deg; spread. Position &#8220;4&#8221; creates a 90&deg; spread (with the two capsules pointing &plusmn;45&deg; from the LED marking the front-center of the microphone).</p><p>At 90&deg;, the two capsules produce an XY stereo pickup pattern. </p><p>The mic has a 5-pin XLRM jack and is supplied with a Y-cable so that the signal from each capsule can be recorded separately.</p><p>The mic has an innovative &#8220;mono mode&#8221; that sums the outputs of both capsules. This allows the creation of an infinite variety of cardioid pickup patterns, from 0&deg; to 90&deg; </p><p>Mono mode effectively doubles the mic&#8217;s sensitivity (to 20 mV/Pa) without affecting the noise level. The switch for this is labeled &#8220;mV/Pa,&#8221; with the two available options marked &#8220;10&#8221; and &#8220;20.&#8221;</p><p>The mic therefore has two cardioid pickup options: either single capsule (at 10mV/Pa) or the sum of both, at 0&deg; (20mV/Pa).</p><p>Both capsules have 25mm diaphragms made of 3-micron polyethylene-terephtalate film (aka Mylar). </p><p>The amplifier circuits are class-A transformerless, like most of Nevaton&#8217;s microphones. </p><p><a href="//cdn.recordinghacks.com/images//mic_extras/nevaton/MC47-case.jpg" /><img src="//cdn.recordinghacks.com/images/mic_extras/nevaton/MC47-case-sm.jpg" class="thumb shaft" alt="Nevaton MC47 case" width="200" /></a>The mic ships in a padded hardwood box with an &#8220;isolation&#8221; mic clip and an individual frequency-response plot.</p><p>All Nevaton microphones are manufactured in St. Petersburg, Russia.<p>The <a href="//recordinghacks.com/microphones/Nevaton/MC47">Nevaton MC47</a> is also known as: MK47.</p><p>The mic was released in 1987.</p>
+                    <h3>Specifications</h3>
+                                        
+                    <table>
+                                                    <tr><th>Frequency Response - Cardioid<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/1085" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/1/1085.png" width=476 height=159 alt="MC47 Cardioid Frequency Response Chart" title="MC47 Cardioid Frequency Response Chart" border=0 /></td></tr>
+                                                        <tr><th>Frequency Response - X/Y Stereo<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/1087" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/1/1087.png" width=476 height=159 alt="MC47 X/Y Stereo Frequency Response Chart" title="MC47 X/Y Stereo Frequency Response Chart" border=0 /></td></tr>
+                                                        <tr><th>Frequency Response - Wide Cardioid<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/1086" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/1/1086.png" width=476 height=159 alt="MC47 Wide Cardioid Frequency Response Chart" title="MC47 Wide Cardioid Frequency Response Chart" border=0 /></td></tr>
+                            </table>
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                                                                Cardioid
+                                             (10 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                                                            X/Y Stereo
+                                             (10 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                                                            Wide Cardioid
+                                             (20 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Capsule Dimensions</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                                                                                                        Diaphragm diameter: 25mm<br />
+                                                                                                                            Diaphragm gauge: 3 microns                                                                    </td>
+                            <td>50 Ohms <em class="mute">(Low)</em></td>
+                            <td>                                Self-noise: 12.0 dB(A)</td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>500g <em class="mute">(17.64oz)</em></td>
+                            <td>249mm <em class="mute">(9.80&#39;&#39;)</em></td>
+                            <td>n/a</td>
+                            <td><ul><li>5-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                        <li>Requires phantom power </li>
+                                                                                                                                                                                <li>Phantom voltage: 48 &plusmn; 4v</li>
+                                        </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('836-0');uniqueids.push('836-1');uniqueids.push('836-2');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

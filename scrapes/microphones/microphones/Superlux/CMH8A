@@ -1,0 +1,292 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Superlux CMH8A | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="CMH8A, Cardioid Condenser Microphone , aka: CM-H8A - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/Superlux/CMH8A" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="CMH8C is a multi-pattern version of CMH8A" href="//recordinghacks.com/microphones/Superlux/CMH8C"><img src="//cdn.recordinghacks.com/images/mics/01514/01514_75.jpg" width="75" height="75" alt="CMH8C is a multi-pattern version of CMH8A" title="CMH8C is a multi-pattern version of CMH8A"   ><br /><span>Superlux CMH8C</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/Superlux">Superlux microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Superlux CMH8A" href="/microphone-photo/01455/Superlux/CMH8A.jpg"><img src="//cdn.recordinghacks.com/images/mics/01455/01455_172.jpg" width="172" height="97" alt="Superlux CMH8A" title="Superlux CMH8A" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: n/a</li>
+                                        <li id="none"><em>Discontinued</em></li>                    </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/side-address" alt="side-address microphones">side-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/large-diaphragm" alt="large-diaphragm microphones">large-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformer-coupled" alt="transformer-coupled microphones">transformer-coupled</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/condenser" alt="condenser microphones">condenser</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.soundonsound.com/sos/jan02/articles/superluxmics.asp">Sound On Sound Review 2002-01</a></li>
+                                                                </ul>                    
+                                        <h3>CMH8A Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.superlux.com.tw/productInfo.do?pdctid=6606266f-0d07-4e82-969f-373d0d972134&amp;pdkid=b1dfcdc3-f1e7-4ae0-8786-5da613871d05&amp;level=2&amp;lv0=1#resource_zone_li">CMH8A Product Description</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/superlux/ug_CMH8A_8B_8C_en.pdf">CMH8 series user guide</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="1455-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>Superlux CMH8A</h2>
+                    
+                    <h2 class="sub">                    Cardioid Condenser Microphone</h2>
+                    <p>The Superlux CMH8A is a fixed-cardioid large diaphragm condenser. The &#8216;A&#8217; is the most basic of the CMH8 series, with no externally switchable filter or pad features.</p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/superlux/CM-H8A-pcb.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/superlux/CM-H8A-pcb-sm.jpg" class="thumb shaft" alt="CMH8A" width="150" /></a>The circuit board has a slide switch to enable a high-pass filter, but because the microphone requires a special tool to remove the body, this switch is unlikely to be of any use in a session.</p><p>The mic uses a single, one-inch, 3 micron evaporated-gold diaphragm; it is connected to the JFET through a 470pF ceramic coupling capacitor. The JFET (in our sample microphone, at least) is a K105 (2SK105). The mic&#8217;s output circuit uses a PCB-mounted transformer.</p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/superlux/CMH8A-sweep.png"><img src="//cdn.recordinghacks.com/images/mic_extras/superlux/CMH8A-sweep.png" class="thumb shaft" alt="CMH8A circuit frequency sweep" width="400" /></a>Our sweep test of the circuit shows a linear response over most of the audible spectrum, with a rise in subsonic response in the 10Hz&ndash;20Hz octave, with a corresponding rise in harmonic distortion.</p><blockquote><p><cite>Sound On Sound - 2002</cite><br />In my tests, the CMH8A turned out to be a nicely neutral vocal mic, similar in sensitivity and overall tonal characteristics to my reference <a href="http://recordinghacks.com/microphones/Rode/NT1">Rode NT1</a>, though with perhaps marginally less &#8216;weight&#8217; at chest frequencies. The high end is less splashy than some of the transformerless models I&#8217;ve tested in the past and, because the presence colorations are quite subtle, the mic should suit a wide range of voice types, making it ideal as a project studio all-rounder. It&#8217;s also quite at home recording acoustic instruments and would work adequately well as a drum overhead, especially in a matched pair.</p></blockquote><p>A dual-layer mesh protects the capsule. The aluminum body has a &#8220;champagne silver&#8221; finish.</p><p>The mic ships with HM8 hardmount and A3 hardcase.</p><p>We&#8217;ve seen photos of the t.bone SC-550 that show an identical circuit board, suggesting that the SC-550 was a rebadged CM-8HA.<p>The <a href="//recordinghacks.com/microphones/Superlux/CMH8A">Superlux CMH8A</a> is also known as: CM-H8A.</p>
+                    <h3>Specifications</h3>
+                                        
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                    <span class="shaft" id="anchor1994"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show1994">CHART</button></span>                                            Cardioid
+                                             (20 mV/Pa; 30 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                    <li>Filter: HPF @ 200Hz<small> (Via Switch)</small></li>
+                                                                    </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Capsule Dimensions</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                                                                                                        Diaphragm diameter: 25.4mm<br />
+                                                                                                                            Diaphragm gauge: 3 microns                                                                    </td>
+                            <td>200 Ohms <em class="mute">(Low)</em></td>
+                            <td>Max SPL: 132 dB<br />                                Self-noise: 18.0 dB(A)</td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>550g <em class="mute">(19.40oz)</em></td>
+                            <td>209mm <em class="mute">(8.23&#39;&#39;)</em></td>
+                            <td>54mm <em class="mute">(2.13&#39;&#39;)</em></td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                        <li>Requires phantom power </li>
+                                                                                                                                                                                <li>Phantom voltage: 48v</li>
+                                        </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+             
+<script type="text/javascript">
+        YAHOO.namespace("freq");
+
+        function init_freq_graphs() {
+
+            YAHOO.freq.chartPanel1994 = new YAHOO.widget.Panel("chartPanel1994",  {  context:["anchor1994", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel1994.render();
+                
+            YAHOO.freq.manager = new YAHOO.widget.OverlayManager(); 
+            YAHOO.freq.manager.register([YAHOO.freq.chartPanel1994,
+                                                   ]);
+                    YAHOO.util.Event.addListener("show1994", "click", YAHOO.freq.chartPanel1994.show, YAHOO.freq.chartPanel1994, true);
+            YAHOO.util.Event.addListener("hide1994", "click", YAHOO.freq.chartPanel1994.hide, YAHOO.freq.chartPanel1994, true);
+            YAHOO.util.Event.addListener("focus1994", "click", YAHOO.freq.chartPanel1994.focus, YAHOO.freq.chartPanel1994, true);
+        
+
+
+        }
+        YAHOO.util.Event.addListener(window, "load", init_freq_graphs);
+</script>
+
+
+<div id="chartPanel1994" style="visibility:hidden">
+    <div class="hd"><span>Superlux CMH8A Frequency Chart: Cardioid</span></div>
+    <div class="bd">
+    <img name="graph1994" src="http://recordinghacks.com/images/graphs/superlux/CMH8-freq.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+    <script type="text/javascript">
+    function swap_graph(id) {
+        if (1==0) {}
+    }
+    </script>
+
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('1455-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

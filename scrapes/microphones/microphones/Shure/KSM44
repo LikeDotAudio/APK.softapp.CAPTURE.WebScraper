@@ -1,0 +1,278 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Shure KSM44 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="KSM44, Multi-Pattern Condenser Microphone , aka: KSM-44, KSM44/SL - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/Shure/KSM44" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The KSM44 is a dual-diaphragm, multi-pattern version of the KSM27." href="//recordinghacks.com/microphones/Shure/KSM27"><img src="//cdn.recordinghacks.com/images/mics/00219/00219_75.jpg" width="75" height="75" alt="The KSM44 is a dual-diaphragm, multi-pattern version of the KSM27." title="The KSM44 is a dual-diaphragm, multi-pattern version of the KSM27."   ><br /><span>Shure KSM27</span></a></li>
+                                                    <li class="mictile"><a title="The KSM32 has a different capsule than the KSM44, but offers similar packaging and features." href="//recordinghacks.com/microphones/Shure/KSM32"><img src="//cdn.recordinghacks.com/images/mics/00220/00220_75.jpg" width="75" height="75" alt="The KSM32 has a different capsule than the KSM44, but offers similar packaging and features." title="The KSM32 has a different capsule than the KSM44, but offers similar packaging and features."   ><br /><span>Shure KSM32</span></a></li>
+                                                    <li class="mictile"><a title="The KSM44A is a lower-noise version of the KSM44." href="//recordinghacks.com/microphones/Shure/KSM44A"><img src="//cdn.recordinghacks.com/images/mics/01039/01039_75.jpg" width="75" height="75" alt="The KSM44A is a lower-noise version of the KSM44." title="The KSM44A is a lower-noise version of the KSM44."   ><br /><span>Shure KSM44A</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/Shure">Shure microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Shure KSM44" href="/microphone-photo/00221/Shure/KSM44.jpg"><img src="//cdn.recordinghacks.com/images/mics/00221/00221_172.jpg" width="172" height="114" alt="Shure KSM44" title="Shure KSM44" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $999</li>
+                                        <li id="none"><em>Discontinued</em></li>                    </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/side-address" alt="side-address microphones">side-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/large-diaphragm" alt="large-diaphragm microphones">large-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/dual-diaphragm" alt="dual-diaphragm microphones">dual-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/externally-biased" alt="externally-biased microphones">externally-biased</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformerless" alt="transformerless microphones">transformerless</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/condenser" alt="condenser microphones">condenser</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/hpf" alt="hpf microphones">hpf</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/ksm" alt="ksm microphones">ksm</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://mixguides.com/microphones/reviews/audio_shure_ksm_january/">MIX, 2002-01</a></li>
+                                                                    <li id="www"><a  href="http://www.soundonsound.com/sos/mar01/articles/shureksm44.asp">SoundOnSound, 2001-03</a></li>
+                                                                    <li id="www"><a  href="http://www.proaudioreview.com/article/1388">ProAudioReview.com, 2001-01</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/reviews/shure-ksm44-review/">ProAudioReview sidebar,2001-01</a></li>
+                                                                    <li id="www"><a  href="http://www.prorec.com/Articles/tabid/109/EntryId/167/RODE-NT1000-and-NTK-Microphones.aspx">vs. Rode NTK, NT1000</a></li>
+                                                                    <li id="www"><a  href="http://www.discmakers.com/community/resources/pse/2009/vocalmics.asp">Discmakers shootout, 2009-05</a></li>
+                                                                    <li id="www"><a  href="http://emusician.com/mics/emusic_shure_ksm_2/">Electronic Musician, 2001-07</a></li>
+                                                                </ul>                    
+                                        <h3>KSM44 Documentation</h3><ul class="man_list" id="icons16">
+                                                                                        <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/shure/us_pro_ksm44_en_ug.pdf">KSM44 User Guide</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="221-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="221-1" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="221-2" src="//cdn.recordinghacks.com/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ></span>Shure KSM44</h2>
+                    
+                    <h2 class="sub">                    Multi-Pattern Condenser Microphone</h2>
+                    <p>The KSM44 is a multipattern, dual large-diaphragm condenser microphone with extremely low self-noise (7dB). </p><p>The capsule employs two 1-inch, externally biased, 2.5 micron, 24-karat gold-layered, low mass, Mylar diaphragms. The FET preamp uses Class A, discrete, transformerless circuitry designed for transparency and extremely fast transient response without crossover distortion. Internal and external connectors are gold plated.</p><p>As on the KSM27, a subsonic filter eliminates rumble from mechanical vibration below 17 Hz. A 3-stage pop/blast filter reduces breath and wind noise. An internal shock mount reduces handling noise. In addition, a 15dB pad switch is available on the mic body, as well as a 3-position high pass filter:</p><ul><li>flat</li><li>-18dB per octave at 80Hz (Low frequency &#8220;cutoff&#8221;)</li><li>-6dB per octave at 115Hz (Low frequency &#8220;rolloff&#8221;)</li></ul><p>The mic body is die-cast zinc. The grille is hardened low-carbon steel. The protective pouch is velvteen. (It&#8217;s smooth. It&#8217;s silky. You just want to keep touching it!)</p><p>The KSM44 ships with a mic clip, spider-style shockmount, aforementioned velveteen pouch, and an aluminum carrying case.</p><p><em>How is the KSM-44 different from the KSM-27?</em></p><p>The <a href="http://recordinghacks.com/microphones/Shure/KSM27">KSM27</a> is smaller (but heavier) than the KSM44, but the two mics offer similar features, such as the -15dB pad and the 3-way HPF. The primary difference is that the KSM27 has a fixed cardioid pickup pattern, whereas the KSM44 has a dual-diaphragm capsule and offers 3 pickup patterns (omni, bidirectional, and cardioid).</p><p>The KSM44 has superior pop protection<sup><a href="http://shure.custhelp.com/cgi-bin/shure.cfg/php/enduser/std_adp.php?p_faqid=2592" rel="nofollow">1</a></sup> and a less hyped response above 4000Hz.</p><blockquote><p><cite>MIX</cite></p><p>The KSM44 has a very solid low end with a much &#8220;drier and cleaner&#8221; sound than [the KSM27 or KSM32].</p></blockquote><p></p><blockquote><p><cite>SoundOnSound</cite></p><p>Because of its bass extension, the KSM44 makes its mark by performing particularly well with bass instruments.</p></blockquote><p></p><blockquote><p><cite>Electronic Musician, 2001</cite></p><p>Although the KSM44 has a noticeable yet smooth peak in the 6 kHz region and another bump around 12 kHz, it sounded considerably less colored than the other mics. The low mids and bottom end are quite full and lush &#8212; very Neumann-like &#8212; and yet the top end was more open and natural sounding than the <a href="http://recordinghacks.com/microphones/Neumann/U-87-Ai">U 87</a>&#8217;s. In fact, compared with the other mics, the KSM44 exhibited the best overall balance of detail, presence, body, and thickness. It also proved the best mic for my voice, sounding clear and full and providing a nice forward nudge without excessive rasp or edge. (Second and third picks for my voice were the <a href="http://recordinghacks.com/microphones/Audio-Technica/AT4047-SV">4047</a> and <a href="http://recordinghacks.com/microphones/Audio-Technica/AT4050">4050</a>, respectively.)</p></blockquote><p>The KSM44 was discontinued in 2010 in favor of the KSM44A.<p>The <a href="//recordinghacks.com/microphones/Shure/KSM44">Shure KSM44</a> is also known as: KSM-44, KSM44/SL.</p>
+                    <h3>Specifications</h3>
+                                        
+                    <table>
+                                                    <tr><th>Frequency Response - Omnidirectional<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/0235" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/0/0235.png" width=476 height=159 alt="KSM44 Omnidirectional Frequency Response Chart" title="KSM44 Omnidirectional Frequency Response Chart" border=0 /></td></tr>
+                                                        <tr><th>Frequency Response - Cardioid<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/0233" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/0/0233.png" width=476 height=159 alt="KSM44 Cardioid Frequency Response Chart" title="KSM44 Cardioid Frequency Response Chart" border=0 /></td></tr>
+                                                        <tr><th>Frequency Response - Bidirectional<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/0234" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/0/0234.png" width=476 height=159 alt="KSM44 Bidirectional Frequency Response Chart" title="KSM44 Bidirectional Frequency Response Chart" border=0 /></td></tr>
+                            </table>
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                                                                Omnidirectional
+                                             (14.2 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                                                            Cardioid
+                                             (28.2 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                                                            Bidirectional
+                                             (15.8 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                    <li>Pad: -0 dB<small> (Via Switch)</small></li>
+                                                                        <li>Pad: -15 dB<small> (Via Switch)</small></li>
+                                                                        <li>Filter: -6 dB @ 115 Hz<small> (Via Switch)</small></li>
+                                                                        <li>Filter: -18 dB @ 80 Hz<small> (Via Switch)</small></li>
+                                                                    </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Capsule Dimensions</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                                                                                                        Diaphragm diameter: 25mm<br />
+                                                                                                                            Diaphragm gauge: 2.5 microns                                                                    </td>
+                            <td>150 Ohms <em class="mute">(Low)</em></td>
+                            <td>Max SPL: 150 dB<br />                                Self-noise: 7.0 dB(A)</td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>491g <em class="mute">(17.32oz)</em></td>
+                            <td>187mm <em class="mute">(7.36&#39;&#39;)</em></td>
+                            <td>56mm <em class="mute">(2.20&#39;&#39;)</em></td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                        <li>Requires phantom power </li>
+                                                                                                                                                                                <li>Phantom voltage: 48v</li>
+                                        </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('221-0');uniqueids.push('221-1');uniqueids.push('221-2');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

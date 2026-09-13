@@ -1,0 +1,297 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Audix f6 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="f6, Hypercardioid Dynamic Microphone  - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/Audix/f6" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>f6 Microphone Sets</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="Audix FP7 - microphone set" href="//recordinghacks.com/microphones/Audix/FP7"><img src="//cdn.recordinghacks.com/images/sets/00069/00069_75.jpg" width="75" height="75" alt="" title=""   ><br /><span>Audix FP7</span></a></li>
+                                                    <li class="mictile"><a title="Audix FP5 - microphone set" href="//recordinghacks.com/microphones/Audix/FP5"><img src="//cdn.recordinghacks.com/images/sets/00070/00070_75.jpg" width="75" height="75" alt="" title=""   ><br /><span>Audix FP5</span></a></li>
+                                                    <li class="mictile"><a title="Audix FP QUAD - microphone set" href="//recordinghacks.com/microphones/Audix/FP-QUAD"><img src="//cdn.recordinghacks.com/images/sets/00071/00071_75.jpg" width="75" height="75" alt="" title=""   ><br /><span>Audix FP QUAD</span></a></li>
+                                                </ul>
+                        </div>
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The f6 is a lower-cost sibling to the Audix D6." href="//recordinghacks.com/microphones/Audix/D6"><img src="//cdn.recordinghacks.com/images/mics/00477/00477_75.jpg" width="75" height="75" alt="The f6 is a lower-cost sibling to the Audix D6." title="The f6 is a lower-cost sibling to the Audix D6."   ><br /><span>Audix D6</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/Audix">Audix microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Audix f6" href="/microphone-photo/01402/Audix/f6.jpg"><img src="//cdn.recordinghacks.com/images/mics/01402/01402_172.jpg" width="172" height="102" alt="Audix f6" title="Audix f6" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $180</li>
+                                                            </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/dynamic" alt="dynamic microphones">dynamic</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/end-address" alt="end-address microphones">end-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/kick-drum" alt="kick-drum microphones">kick-drum</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="forum"><a  href="http://www.pearldrummersforum.com/showthread.php?259469-Shootout-New-Audix-Fusion-Series-VS-Audix-D-Series-mics!&amp;s=b17fd1521f73a18283971558c7c94d11">fusion vs D-series shootout</a></li>
+                                                                    <li id="www"><a  href="http://www.emusician.com/article/141724">Electronic Musician 2011-10</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/audix/FUSIONS-ModernDrummerReview-May2010.pdf">Modern Drummer review 2010-06</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://www.audixusa.com/docs_12/specs_pdf/f6.pdf">f6 Cutsheet</a></li>
+                                                                </ul>                    
+                                        <h3>f6 Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.audixusa.com/docs_12/units/f6.shtml">Audix f6 Product Description</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="1402-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_hc.png" width=27 height=27 alt="Hypercardioid" title="Hypercardioid" ></span>Audix f6</h2>
+                    
+                    <h2 class="sub">                    Hypercardioid Dynamic Microphone</h2>
+                    <p>The Audix f6 is a large-diaphragm dynamic for kick drum.</p><p>The f6 is part of the new &#8220;fusion&#8221; series, a lower cost alternative to the company&#8217;s popular D series microphones. The previous fusion series was built overseas, the new line is assembled and tested in USA.</p><blockquote><p><cite>Electronic Musician, 2011</cite><br />Designed expressly for kick drums, the f6 has a huge scoop in the midrange, so it provides plenty of low end with a rising high end around 5kHz that captures the beater attack on each hit &#8212; without the midrange mush. The net effect is an aggressive kick sound that&#8217;s reminiscent of a <a href="http://recordinghacks.com/microphones/Shure/Beta-52A">Shure Beta 52</a>. Like its sibling, the <a href="http://recordinghacks.com/microphones/Audix/D6" >Audix D6</a>, there&#8217;s little need to add EQ with the f6 on kick; it&#8217;s plug-and-play, giving you exactly what you need in a hurry.</p></blockquote><p><p>Permalink: <a href="//recordinghacks.com/microphones/Audix/f6">Audix f6</a></p>
+                    <h3>Specifications</h3>
+                                        
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                    <span class="shaft" id="anchor1923"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show1923">CHART</button></span>                                            Hypercardioid
+                                             (0.6 mV/Pa; 40 - 16,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Coil Diameter</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                    n/a                                </td>
+                            <td>580 Ohms <em class="mute">(Low)</em></td>
+                            <td><a href="/2008/02/26/maximum-spl-of-dynamic-microphones/">SPL n/a</a><br />                                </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>311g <em class="mute">(10.97oz)</em></td>
+                            <td>121mm <em class="mute">(4.76&#39;&#39;)</em></td>
+                            <td>n/a</td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                                                                                                                                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+             
+<script type="text/javascript">
+        YAHOO.namespace("freq");
+
+        function init_freq_graphs() {
+
+            YAHOO.freq.chartPanel1923 = new YAHOO.widget.Panel("chartPanel1923",  {  context:["anchor1923", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel1923.render();
+                
+            YAHOO.freq.manager = new YAHOO.widget.OverlayManager(); 
+            YAHOO.freq.manager.register([YAHOO.freq.chartPanel1923,
+                                                   ]);
+                    YAHOO.util.Event.addListener("show1923", "click", YAHOO.freq.chartPanel1923.show, YAHOO.freq.chartPanel1923, true);
+            YAHOO.util.Event.addListener("hide1923", "click", YAHOO.freq.chartPanel1923.hide, YAHOO.freq.chartPanel1923, true);
+            YAHOO.util.Event.addListener("focus1923", "click", YAHOO.freq.chartPanel1923.focus, YAHOO.freq.chartPanel1923, true);
+        
+
+
+        }
+        YAHOO.util.Event.addListener(window, "load", init_freq_graphs);
+</script>
+
+
+<div id="chartPanel1923" style="visibility:hidden">
+    <div class="hd"><span>Audix f6 Frequency Chart: Hypercardioid</span></div>
+    <div class="bd">
+    <img name="graph1923" src="http://recordinghacks.com/images/graphs/audix/f6-freq.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+    <script type="text/javascript">
+    function swap_graph(id) {
+        if (1==0) {}
+    }
+    </script>
+
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('1402-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

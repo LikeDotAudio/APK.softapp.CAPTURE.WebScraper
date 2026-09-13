@@ -1,0 +1,5 @@
+## Mics tagged: aaa AND eng
+
+|  |  |
+| --- | --- |
+| [Sennheiser Electronics Corporation MKE 400](http://recordinghacks.com/microphones/Sennheiser/MKE-400 "Sennheiser Electronics Corporation MKE 400 - Features, Specifications, Datasheet") | Supercardioid  [**Sennheiser Electronics Corporation MKE 400**](/microphones/Sennheiser/MKE-400 "Sennheiser Electronics Corporation MKE 400 - Features, Specifications, Datasheet")  Condenser Microphone  [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [battery-power](//recordinghacks.com/microphones/tag/battery-power "battery-power microphones"), [shotgun](//recordinghacks.com/microphones/tag/shotgun "shotgun microphones"), [video-camera](//recordinghacks.com/microphones/tag/video-camera "video-camera microphones"), [eng](//recordinghacks.com/microphones/tag/eng "eng microphones"), [aaa](//recordinghacks.com/microphones/tag/aaa "aaa microphones") |

@@ -1,0 +1,635 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Red Microphones Type A | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="Type A, Detachable-Capsule Tube Condenser Microphone , aka: typea - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/Red/Type-A" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The Red Type A and Blue Bottle share interchangeable capsules." href="//recordinghacks.com/microphones/Blue-Microphones/Bottle"><img src="//cdn.recordinghacks.com/images/mics/00184/00184_75.jpg" width="75" height="75" alt="The Red Type A and Blue Bottle share interchangeable capsules." title="The Red Type A and Blue Bottle share interchangeable capsules."   ><br /><span>Blue Bottle</span></a></li>
+                                                    <li class="mictile"><a title="The Type A and Type B mics both utilized the same Red, Blue, Violet, and Neumann bayonet capsules." href="//recordinghacks.com/microphones/Red/Type-B"><img src="//cdn.recordinghacks.com/images/mics/00183/00183_75.jpg" width="75" height="75" alt="The Type A and Type B mics both utilized the same Red, Blue, Violet, and Neumann bayonet capsules." title="The Type A and Type B mics both utilized the same Red, Blue, Violet, and Neumann bayonet capsules."   ><br /><span>Red Type B</span></a></li>
+                                                    <li class="mictile"><a title="The Red Mic Type A has been rebadged as the Blue Bottle Rocket Stage Two." href="//recordinghacks.com/microphones/Blue-Microphones/Stage-Two"><img src="//cdn.recordinghacks.com/images/mics/00708/00708_75.jpg" width="75" height="75" alt="The Red Mic Type A has been rebadged as the Blue Bottle Rocket Stage Two." title="The Red Mic Type A has been rebadged as the Blue Bottle Rocket Stage Two."   ><br /><span>Blue Stage Two</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/Red">Red microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Red Microphones Type A" href="/microphone-photo/00707/Red/Type-A.jpg"><img src="//cdn.recordinghacks.com/images/mics/00707/00707_172.jpg" width="172" height="113" alt="Red Microphones Type A" title="Red Microphones Type A" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $1,345</li>
+                                        <li id="none"><em>Discontinued</em></li>                    </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/side-address" alt="side-address microphones">side-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/large-diaphragm" alt="large-diaphragm microphones">large-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/tube" alt="tube microphones">tube</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformerless" alt="transformerless microphones">transformerless</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/detachable-capsule" alt="detachable-capsule microphones">detachable-capsule</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/condenser" alt="condenser microphones">condenser</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/ecc88" alt="ecc88 microphones">ecc88</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://mixonline.com/gear/reviews/audio_red_type_tube/">MIX review, 2007-05</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/reviews/tapeop/neumann-cmv563-blue-bottle-red-mics/">Tape Op Review (issue #49)</a></li>
+                                                                </ul>                    
+                                        <h3>Type A Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/redmic/red_typea_manual.pdf">Type A Owner&#8217;s Manual</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/redmic/red_typea_prodsheet.pdf">Type A Product Description</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/redmic/red_productbrochure.pdf">RED Product Brochure</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="707-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="707-1" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="707-2" src="//cdn.recordinghacks.com/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ></span>Red Microphones Type A</h2>
+                    
+                    <h2 class="sub">                    Detachable-Capsule Tube Condenser Microphone</h2>
+                    <p>The Red Type A was manufactured by Blue Mics as one of a pair of low-cost microphone bodies that served as the foundation for a system of interchangeable capsules. The Type A was a tube condenser; the Type B was a FET condenser.</p><p>The tube was an ECC88; this is a dual-triode tube. The output circuit is transformerless; it uses 3 transistors (presumably one phase-splitter and two bipolars) to produce balanced output.</p><p><img src="//cdn.recordinghacks.com/images/mic_extras/blue/TypeA-kit.jpg" class="thumb shaft" alt="Type A Kit" width="150" />As of May, 2007, pricing for the Type A was as follows:</p><ul><li>$1345 for the Type A body, no capsule</li><li>$649 for most of the Red capsules (R0-R7, not R4)</li><li>$849 for the R4, aka &#8220;The Big Omni,&#8221; described as a &#8220;small diaphragm sphere pressure omni&#8221; capsule</li></ul><p>The Red mic line was discontinued in 2008, and rebranded by Blue as the Stage 1 and Stage 2; the capsules are now called Bottle Rockets.<p>The <a href="//recordinghacks.com/microphones/Red/Type-A">Red Microphones Type A</a> is also known as: typea.</p>
+                    <h3>Specifications</h3>
+                    <table><tr><th>Compatible Capsules</th></tr><tr><td><table style="width: 440px">                        <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00101/00101_75.jpg" width="75" height="75" alt="Blue Microphones B0 Large Diaphragm Bottlecap" title="Blue Microphones B0 Large Diaphragm Bottlecap"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap3434" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>Blue Microphones B0 Large Diaphragm Bottlecap</strong><br />
+                        24mm large diaphragm Cardioid capsule<br />
+                        Sensitivity:  mV/Pa<br />
+                        <span class="shaft" id="anchor3434"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show3434">CHART</button></span>Freq. Resp.: 20-20,000 Hz<br />
+                        MSRP: $649 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00102/00102_75.jpg" width="75" height="75" alt="Blue Microphones B1 Small Diaphragm Bottlecap" title="Blue Microphones B1 Small Diaphragm Bottlecap"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap3435" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>Blue Microphones B1 Small Diaphragm Bottlecap</strong><br />
+                        18mm Cardioid capsule<br />
+                        Sensitivity:  mV/Pa<br />
+                        <span class="shaft" id="anchor3435"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show3435">CHART</button></span>Freq. Resp.: 35 - 20,000 Hz<br />
+                        MSRP: $649 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00103/00103_75.jpg" width="75" height="75" alt="Blue Microphones B2 Figure-of-8 Lg Diaphragm Bottlecap" title="Blue Microphones B2 Figure-of-8 Lg Diaphragm Bottlecap"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap3436" src="//cdn.recordinghacks.com/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ></span>
+                        <strong>Blue Microphones B2 Figure-of-8 Lg Diaphragm Bottlecap</strong><br />
+                        24mm large diaphragm Bidirectional capsule<br />
+                        Sensitivity:  mV/Pa<br />
+                        <span class="shaft" id="anchor3436"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show3436">CHART</button></span>Freq. Resp.: 35 - 20,000 Hz<br />
+                        MSRP: $649.95 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00104/00104_75.jpg" width="75" height="75" alt="Blue Microphones B3 Cardioid Mid-Size Diaphragm Bottlecap" title="Blue Microphones B3 Cardioid Mid-Size Diaphragm Bottlecap"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap3437" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>Blue Microphones B3 Cardioid Mid-Size Diaphragm Bottlecap</strong><br />
+                        22mm Cardioid capsule<br />
+                        Sensitivity:  mV/Pa<br />
+                        <span class="shaft" id="anchor3437"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show3437">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $649 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00105/00105_75.jpg" width="75" height="75" alt="Blue Microphones B4 Perspex Sphere Pressure Omni Small Diaphragm Bottlecap" title="Blue Microphones B4 Perspex Sphere Pressure Omni Small Diaphragm Bottlecap"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap3438" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ></span>
+                        <strong>Blue Microphones B4 Perspex Sphere Pressure Omni Small Diaphragm Bottlecap</strong><br />
+                        18mm Omnidirectional capsule<br />
+                        Sensitivity:  mV/Pa<br />
+                        <span class="shaft" id="anchor3438"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show3438">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $849 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00106/00106_75.jpg" width="75" height="75" alt="Blue Microphones B5 Pressure Omni Large Diaphragm Bottlecap" title="Blue Microphones B5 Pressure Omni Large Diaphragm Bottlecap"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap3439" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ></span>
+                        <strong>Blue Microphones B5 Pressure Omni Large Diaphragm Bottlecap</strong><br />
+                        25mm large diaphragm Omnidirectional capsule<br />
+                        Sensitivity:  mV/Pa<br />
+                        <span class="shaft" id="anchor3439"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show3439">CHART</button></span>Freq. Resp.: 35 - 20,000 Hz<br />
+                        MSRP: $649 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00107/00107_75.jpg" width="75" height="75" alt="Blue Microphones B6 Cardioid Large Diaphragm Dual Backplate Bottlecap" title="Blue Microphones B6 Cardioid Large Diaphragm Dual Backplate Bottlecap"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap3440" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>Blue Microphones B6 Cardioid Large Diaphragm Dual Backplate Bottlecap</strong><br />
+                        24mm large diaphragm Cardioid capsule<br />
+                        Sensitivity:  mV/Pa<br />
+                        <span class="shaft" id="anchor3440"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show3440">CHART</button></span>Freq. Resp.: 20 - 18,000 Hz<br />
+                        MSRP: $649.95 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00108/00108_75.jpg" width="75" height="75" alt="Blue Microphones B7 Cardioid Large Diaphragm Single Backplate Bottlecap" title="Blue Microphones B7 Cardioid Large Diaphragm Single Backplate Bottlecap"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap3441" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>Blue Microphones B7 Cardioid Large Diaphragm Single Backplate Bottlecap</strong><br />
+                        24mm large diaphragm Cardioid capsule<br />
+                        Sensitivity:  mV/Pa<br />
+                        <span class="shaft" id="anchor3441"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show3441">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $649.95 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00239/00239_75.jpg" width="75" height="75" alt="Blue Microphones B8 Edge-Terminated Large-diaphragm" title="Blue Microphones B8 Edge-Terminated Large-diaphragm"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap3442" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>Blue Microphones B8 Edge-Terminated Large-diaphragm</strong><br />
+                        25mm large diaphragm Cardioid capsule<br />
+                        Sensitivity:  mV/Pa<br />
+                        Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $595 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00168/00168_75.jpg" width="75" height="75" alt="Violet Design Ltd. VIN12" title="Violet Design Ltd. VIN12"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap3443" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>Violet Design Ltd. VIN12</strong><br />
+                        26mm large diaphragm Cardioid capsule<br />
+                        Sensitivity: n/a mV/Pa<br />
+                        <span class="shaft" id="anchor3443"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show3443">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $1027 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00169/00169_75.jpg" width="75" height="75" alt="Violet Design Ltd. VIN26" title="Violet Design Ltd. VIN26"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap3444" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>Violet Design Ltd. VIN26</strong><br />
+                        26mm large diaphragm Cardioid capsule<br />
+                        Sensitivity: n/a mV/Pa<br />
+                        <span class="shaft" id="anchor3444"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show3444">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $1027 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00170/00170_75.jpg" width="75" height="75" alt="Violet Design Ltd. VIN27" title="Violet Design Ltd. VIN27"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap3445" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>Violet Design Ltd. VIN27</strong><br />
+                        27mm large diaphragm Cardioid capsule<br />
+                        Sensitivity: n/a mV/Pa<br />
+                        <span class="shaft" id="anchor3445"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show3445">CHART</button></span>Freq. Resp.: 22 - 20,000 Hz<br />
+                        MSRP: $1027 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00171/00171_75.jpg" width="75" height="75" alt="Violet Design Ltd. VIN44" title="Violet Design Ltd. VIN44"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap3446" src="//cdn.recordinghacks.com/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ></span>
+                        <strong>Violet Design Ltd. VIN44</strong><br />
+                        26mm large diaphragm Bidirectional capsule<br />
+                        Sensitivity: n/a mV/Pa<br />
+                        <span class="shaft" id="anchor3446"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show3446">CHART</button></span>Freq. Resp.: 28 - 10,000 Hz<br />
+                        MSRP: $1027 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00172/00172_75.jpg" width="75" height="75" alt="Violet Design Ltd. VIN47" title="Violet Design Ltd. VIN47"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap3447" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>Violet Design Ltd. VIN47</strong><br />
+                        26mm large diaphragm Cardioid capsule<br />
+                        Sensitivity: n/a mV/Pa<br />
+                        <span class="shaft" id="anchor3447"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show3447">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $1068 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00173/00173_75.jpg" width="75" height="75" alt="Violet Design Ltd. VIN55" title="Violet Design Ltd. VIN55"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap3448" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ></span>
+                        <strong>Violet Design Ltd. VIN55</strong><br />
+                        26mm large diaphragm Omnidirectional capsule<br />
+                        Sensitivity: n/a mV/Pa<br />
+                        <span class="shaft" id="anchor3448"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show3448">CHART</button></span>Freq. Resp.: 24 - 20,000 Hz<br />
+                        MSRP: $1027 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00174/00174_75.jpg" width="75" height="75" alt="Violet Design Ltd. VIN67" title="Violet Design Ltd. VIN67"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap3449" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>Violet Design Ltd. VIN67</strong><br />
+                        26mm large diaphragm Cardioid capsule<br />
+                        Sensitivity: n/a mV/Pa<br />
+                        <span class="shaft" id="anchor3449"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show3449">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $1068 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00175/00175_75.jpg" width="75" height="75" alt="Violet Design Ltd. VIN89" title="Violet Design Ltd. VIN89"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap3450" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>Violet Design Ltd. VIN89</strong><br />
+                        22mm Cardioid capsule<br />
+                        Sensitivity: n/a mV/Pa<br />
+                        <span class="shaft" id="anchor3450"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show3450">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $1068 | Still In Production</li>
+                        </td></tr>
+                    </table></td></tr></table>
+                    <table>
+                        <tr>
+                            <th>Pads &amp; Filters</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>n/a                                
+                                </td>
+                            <td>50 Ohms <em class="mute">(Low)</em></td>
+                            <td>Max SPL: 139 dB<br />                                Self-noise: 9.0 dB(A)</td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>n/a</em></td>
+                            <td>n/a</td>
+                            <td>n/a</td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                                                                                                                <li>Includes tube power supply </li>
+                                                                                    </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+             
+<script type="text/javascript">
+        YAHOO.namespace("freq");
+
+        function init_freq_graphs() {
+
+            YAHOO.freq.chartPanel3434 = new YAHOO.widget.Panel("chartPanel3434",  {  context:["anchor3434", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel3434.render();
+
+            YAHOO.freq.chartPanel3435 = new YAHOO.widget.Panel("chartPanel3435",  {  context:["anchor3435", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel3435.render();
+
+            YAHOO.freq.chartPanel3436 = new YAHOO.widget.Panel("chartPanel3436",  {  context:["anchor3436", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel3436.render();
+
+            YAHOO.freq.chartPanel3437 = new YAHOO.widget.Panel("chartPanel3437",  {  context:["anchor3437", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel3437.render();
+
+            YAHOO.freq.chartPanel3438 = new YAHOO.widget.Panel("chartPanel3438",  {  context:["anchor3438", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel3438.render();
+
+            YAHOO.freq.chartPanel3439 = new YAHOO.widget.Panel("chartPanel3439",  {  context:["anchor3439", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel3439.render();
+
+            YAHOO.freq.chartPanel3440 = new YAHOO.widget.Panel("chartPanel3440",  {  context:["anchor3440", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel3440.render();
+
+            YAHOO.freq.chartPanel3441 = new YAHOO.widget.Panel("chartPanel3441",  {  context:["anchor3441", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel3441.render();
+
+            YAHOO.freq.chartPanel3443 = new YAHOO.widget.Panel("chartPanel3443",  {  context:["anchor3443", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel3443.render();
+
+            YAHOO.freq.chartPanel3444 = new YAHOO.widget.Panel("chartPanel3444",  {  context:["anchor3444", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel3444.render();
+
+            YAHOO.freq.chartPanel3445 = new YAHOO.widget.Panel("chartPanel3445",  {  context:["anchor3445", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel3445.render();
+
+            YAHOO.freq.chartPanel3446 = new YAHOO.widget.Panel("chartPanel3446",  {  context:["anchor3446", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel3446.render();
+
+            YAHOO.freq.chartPanel3447 = new YAHOO.widget.Panel("chartPanel3447",  {  context:["anchor3447", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel3447.render();
+
+            YAHOO.freq.chartPanel3448 = new YAHOO.widget.Panel("chartPanel3448",  {  context:["anchor3448", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel3448.render();
+
+            YAHOO.freq.chartPanel3449 = new YAHOO.widget.Panel("chartPanel3449",  {  context:["anchor3449", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel3449.render();
+
+            YAHOO.freq.chartPanel3450 = new YAHOO.widget.Panel("chartPanel3450",  {  context:["anchor3450", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel3450.render();
+
+                
+            YAHOO.freq.manager = new YAHOO.widget.OverlayManager(); 
+            YAHOO.freq.manager.register([YAHOO.freq.chartPanel3434,
+                                                   YAHOO.freq.chartPanel3435,
+                                                   YAHOO.freq.chartPanel3436,
+                                                   YAHOO.freq.chartPanel3437,
+                                                   YAHOO.freq.chartPanel3438,
+                                                   YAHOO.freq.chartPanel3439,
+                                                   YAHOO.freq.chartPanel3440,
+                                                   YAHOO.freq.chartPanel3441,
+                                                   YAHOO.freq.chartPanel3443,
+                                                   YAHOO.freq.chartPanel3444,
+                                                   YAHOO.freq.chartPanel3445,
+                                                   YAHOO.freq.chartPanel3446,
+                                                   YAHOO.freq.chartPanel3447,
+                                                   YAHOO.freq.chartPanel3448,
+                                                   YAHOO.freq.chartPanel3449,
+                                                   YAHOO.freq.chartPanel3450,
+                                                   ]);
+
+          
+            YAHOO.util.Event.addListener("show3434", "click", YAHOO.freq.chartPanel3434.show, YAHOO.freq.chartPanel3434, true);
+            YAHOO.util.Event.addListener("hide3434", "click", YAHOO.freq.chartPanel3434.hide, YAHOO.freq.chartPanel3434, true);
+            YAHOO.util.Event.addListener("focus3434", "click", YAHOO.freq.chartPanel3434.focus, YAHOO.freq.chartPanel3434, true);
+
+          
+            YAHOO.util.Event.addListener("show3435", "click", YAHOO.freq.chartPanel3435.show, YAHOO.freq.chartPanel3435, true);
+            YAHOO.util.Event.addListener("hide3435", "click", YAHOO.freq.chartPanel3435.hide, YAHOO.freq.chartPanel3435, true);
+            YAHOO.util.Event.addListener("focus3435", "click", YAHOO.freq.chartPanel3435.focus, YAHOO.freq.chartPanel3435, true);
+
+          
+            YAHOO.util.Event.addListener("show3436", "click", YAHOO.freq.chartPanel3436.show, YAHOO.freq.chartPanel3436, true);
+            YAHOO.util.Event.addListener("hide3436", "click", YAHOO.freq.chartPanel3436.hide, YAHOO.freq.chartPanel3436, true);
+            YAHOO.util.Event.addListener("focus3436", "click", YAHOO.freq.chartPanel3436.focus, YAHOO.freq.chartPanel3436, true);
+
+          
+            YAHOO.util.Event.addListener("show3437", "click", YAHOO.freq.chartPanel3437.show, YAHOO.freq.chartPanel3437, true);
+            YAHOO.util.Event.addListener("hide3437", "click", YAHOO.freq.chartPanel3437.hide, YAHOO.freq.chartPanel3437, true);
+            YAHOO.util.Event.addListener("focus3437", "click", YAHOO.freq.chartPanel3437.focus, YAHOO.freq.chartPanel3437, true);
+
+          
+            YAHOO.util.Event.addListener("show3438", "click", YAHOO.freq.chartPanel3438.show, YAHOO.freq.chartPanel3438, true);
+            YAHOO.util.Event.addListener("hide3438", "click", YAHOO.freq.chartPanel3438.hide, YAHOO.freq.chartPanel3438, true);
+            YAHOO.util.Event.addListener("focus3438", "click", YAHOO.freq.chartPanel3438.focus, YAHOO.freq.chartPanel3438, true);
+
+          
+            YAHOO.util.Event.addListener("show3439", "click", YAHOO.freq.chartPanel3439.show, YAHOO.freq.chartPanel3439, true);
+            YAHOO.util.Event.addListener("hide3439", "click", YAHOO.freq.chartPanel3439.hide, YAHOO.freq.chartPanel3439, true);
+            YAHOO.util.Event.addListener("focus3439", "click", YAHOO.freq.chartPanel3439.focus, YAHOO.freq.chartPanel3439, true);
+
+          
+            YAHOO.util.Event.addListener("show3440", "click", YAHOO.freq.chartPanel3440.show, YAHOO.freq.chartPanel3440, true);
+            YAHOO.util.Event.addListener("hide3440", "click", YAHOO.freq.chartPanel3440.hide, YAHOO.freq.chartPanel3440, true);
+            YAHOO.util.Event.addListener("focus3440", "click", YAHOO.freq.chartPanel3440.focus, YAHOO.freq.chartPanel3440, true);
+
+          
+            YAHOO.util.Event.addListener("show3441", "click", YAHOO.freq.chartPanel3441.show, YAHOO.freq.chartPanel3441, true);
+            YAHOO.util.Event.addListener("hide3441", "click", YAHOO.freq.chartPanel3441.hide, YAHOO.freq.chartPanel3441, true);
+            YAHOO.util.Event.addListener("focus3441", "click", YAHOO.freq.chartPanel3441.focus, YAHOO.freq.chartPanel3441, true);
+
+          
+            YAHOO.util.Event.addListener("show3443", "click", YAHOO.freq.chartPanel3443.show, YAHOO.freq.chartPanel3443, true);
+            YAHOO.util.Event.addListener("hide3443", "click", YAHOO.freq.chartPanel3443.hide, YAHOO.freq.chartPanel3443, true);
+            YAHOO.util.Event.addListener("focus3443", "click", YAHOO.freq.chartPanel3443.focus, YAHOO.freq.chartPanel3443, true);
+
+          
+            YAHOO.util.Event.addListener("show3444", "click", YAHOO.freq.chartPanel3444.show, YAHOO.freq.chartPanel3444, true);
+            YAHOO.util.Event.addListener("hide3444", "click", YAHOO.freq.chartPanel3444.hide, YAHOO.freq.chartPanel3444, true);
+            YAHOO.util.Event.addListener("focus3444", "click", YAHOO.freq.chartPanel3444.focus, YAHOO.freq.chartPanel3444, true);
+
+          
+            YAHOO.util.Event.addListener("show3445", "click", YAHOO.freq.chartPanel3445.show, YAHOO.freq.chartPanel3445, true);
+            YAHOO.util.Event.addListener("hide3445", "click", YAHOO.freq.chartPanel3445.hide, YAHOO.freq.chartPanel3445, true);
+            YAHOO.util.Event.addListener("focus3445", "click", YAHOO.freq.chartPanel3445.focus, YAHOO.freq.chartPanel3445, true);
+
+          
+            YAHOO.util.Event.addListener("show3446", "click", YAHOO.freq.chartPanel3446.show, YAHOO.freq.chartPanel3446, true);
+            YAHOO.util.Event.addListener("hide3446", "click", YAHOO.freq.chartPanel3446.hide, YAHOO.freq.chartPanel3446, true);
+            YAHOO.util.Event.addListener("focus3446", "click", YAHOO.freq.chartPanel3446.focus, YAHOO.freq.chartPanel3446, true);
+
+          
+            YAHOO.util.Event.addListener("show3447", "click", YAHOO.freq.chartPanel3447.show, YAHOO.freq.chartPanel3447, true);
+            YAHOO.util.Event.addListener("hide3447", "click", YAHOO.freq.chartPanel3447.hide, YAHOO.freq.chartPanel3447, true);
+            YAHOO.util.Event.addListener("focus3447", "click", YAHOO.freq.chartPanel3447.focus, YAHOO.freq.chartPanel3447, true);
+
+          
+            YAHOO.util.Event.addListener("show3448", "click", YAHOO.freq.chartPanel3448.show, YAHOO.freq.chartPanel3448, true);
+            YAHOO.util.Event.addListener("hide3448", "click", YAHOO.freq.chartPanel3448.hide, YAHOO.freq.chartPanel3448, true);
+            YAHOO.util.Event.addListener("focus3448", "click", YAHOO.freq.chartPanel3448.focus, YAHOO.freq.chartPanel3448, true);
+
+          
+            YAHOO.util.Event.addListener("show3449", "click", YAHOO.freq.chartPanel3449.show, YAHOO.freq.chartPanel3449, true);
+            YAHOO.util.Event.addListener("hide3449", "click", YAHOO.freq.chartPanel3449.hide, YAHOO.freq.chartPanel3449, true);
+            YAHOO.util.Event.addListener("focus3449", "click", YAHOO.freq.chartPanel3449.focus, YAHOO.freq.chartPanel3449, true);
+
+          
+            YAHOO.util.Event.addListener("show3450", "click", YAHOO.freq.chartPanel3450.show, YAHOO.freq.chartPanel3450, true);
+            YAHOO.util.Event.addListener("hide3450", "click", YAHOO.freq.chartPanel3450.hide, YAHOO.freq.chartPanel3450, true);
+            YAHOO.util.Event.addListener("focus3450", "click", YAHOO.freq.chartPanel3450.focus, YAHOO.freq.chartPanel3450, true);
+
+            
+    
+        }
+        YAHOO.util.Event.addListener(window, "load", init_freq_graphs);
+</script>
+
+
+<div id="chartPanel3434" style="visibility:hidden">
+    <div class="hd"><span>Red Microphones Type A Frequency Chart: Cardioid</span></div>
+    <div class="bd">
+    <img name="graph3434" src="http://www.bluemic.com/images/BcapFreqCharts/B0.jpg" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel3435" style="visibility:hidden">
+    <div class="hd"><span>Red Microphones Type A Frequency Chart: Cardioid</span></div>
+    <div class="bd">
+    <img name="graph3435" src="http://www.bluemic.com/images/BcapFreqCharts/B1.jpg" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel3436" style="visibility:hidden">
+    <div class="hd"><span>Red Microphones Type A Frequency Chart: Bidirectional</span></div>
+    <div class="bd">
+    <img name="graph3436" src="http://www.bluemic.com/images/BcapFreqCharts/B2.jpg" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel3437" style="visibility:hidden">
+    <div class="hd"><span>Red Microphones Type A Frequency Chart: Cardioid</span></div>
+    <div class="bd">
+    <img name="graph3437" src="http://www.bluemic.com/images/BcapFreqCharts/B3.jpg" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel3438" style="visibility:hidden">
+    <div class="hd"><span>Red Microphones Type A Frequency Chart: Omnidirectional</span></div>
+    <div class="bd">
+    <img name="graph3438" src="http://www.bluemic.com/images/BcapFreqCharts/B4.jpg" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel3439" style="visibility:hidden">
+    <div class="hd"><span>Red Microphones Type A Frequency Chart: Omnidirectional</span></div>
+    <div class="bd">
+    <img name="graph3439" src="http://www.bluemic.com/images/BcapFreqCharts/B5.jpg" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel3440" style="visibility:hidden">
+    <div class="hd"><span>Red Microphones Type A Frequency Chart: Cardioid</span></div>
+    <div class="bd">
+    <img name="graph3440" src="http://www.bluemic.com/images/BcapFreqCharts/B6.jpg" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel3441" style="visibility:hidden">
+    <div class="hd"><span>Red Microphones Type A Frequency Chart: Cardioid</span></div>
+    <div class="bd">
+    <img name="graph3441" src="http://www.bluemic.com/images/BcapFreqCharts/B7.jpg" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel3443" style="visibility:hidden">
+    <div class="hd"><span>Red Microphones Type A Frequency Chart: Cardioid</span></div>
+    <div class="bd">
+    <img name="graph3443" src="http://recordinghacks.com/images/graphs/violet/vin12.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel3444" style="visibility:hidden">
+    <div class="hd"><span>Red Microphones Type A Frequency Chart: Cardioid</span></div>
+    <div class="bd">
+    <img name="graph3444" src="http://recordinghacks.com/images/graphs/violet/vin26.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel3445" style="visibility:hidden">
+    <div class="hd"><span>Red Microphones Type A Frequency Chart: Cardioid</span></div>
+    <div class="bd">
+    <img name="graph3445" src="http://recordinghacks.com/images/graphs/violet/vin27.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel3446" style="visibility:hidden">
+    <div class="hd"><span>Red Microphones Type A Frequency Chart: Bidirectional</span></div>
+    <div class="bd">
+    <img name="graph3446" src="http://recordinghacks.com/images/graphs/violet/vin44.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel3447" style="visibility:hidden">
+    <div class="hd"><span>Red Microphones Type A Frequency Chart: Cardioid</span></div>
+    <div class="bd">
+    <img name="graph3447" src="http://recordinghacks.com/images/graphs/violet/vin47.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel3448" style="visibility:hidden">
+    <div class="hd"><span>Red Microphones Type A Frequency Chart: Omnidirectional</span></div>
+    <div class="bd">
+    <img name="graph3448" src="http://recordinghacks.com/images/graphs/violet/vin55.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel3449" style="visibility:hidden">
+    <div class="hd"><span>Red Microphones Type A Frequency Chart: Cardioid</span></div>
+    <div class="bd">
+    <img name="graph3449" src="http://recordinghacks.com/images/graphs/violet/vin67.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel3450" style="visibility:hidden">
+    <div class="hd"><span>Red Microphones Type A Frequency Chart: Cardioid</span></div>
+    <div class="bd">
+    <img name="graph3450" src="http://recordinghacks.com/images/graphs/violet/vin89.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('707-0');uniqueids.push('707-1');uniqueids.push('707-2');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

@@ -1,0 +1,642 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://recordinghacks.example/schemas/microphone.schema.json",
+  "title": "RecordingHacks Microphone Profile",
+  "description": "Data model for a single microphone (or microphone set) profile page scraped from recordinghacks.com/microphones. Shapes were derived empirically from all 1761 profile pages in the scrape; see AUDIT.md and audit_report.json for the evidence behind every field. Every parsed section also retains a raw form so no page content is lost when a value does not match an expected pattern.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["source", "identity", "classification", "pricing", "specifications"],
+
+  "properties": {
+    "source": {
+      "type": "object",
+      "description": "Provenance of this record.",
+      "additionalProperties": false,
+      "required": ["url", "scraped_file"],
+      "properties": {
+        "url": {
+          "type": "string",
+          "format": "uri",
+          "description": "Canonical page URL, e.g. https://recordinghacks.com/microphones/ADK/Cremona-251-Au"
+        },
+        "permalink": {
+          "type": ["string", "null"],
+          "description": "Permalink printed in the page body. Present on 53% of pages."
+        },
+        "scraped_file": {
+          "type": "string",
+          "description": "Path of the saved HTML relative to the scrape root, e.g. 'ADK/Cremona-251-Au'."
+        },
+        "brand_slug": {
+          "type": "string",
+          "description": "URL path segment for the manufacturer, e.g. 'AKG-Acoustics'."
+        },
+        "model_slug": {
+          "type": "string",
+          "description": "URL path segment for the model, e.g. 'C-414-XLS'."
+        },
+        "mic_id": {
+          "type": ["string", "null"],
+          "description": "Site-internal numeric mic id, recovered from image paths such as /images/mics/01705/. Useful as a stable primary key."
+        }
+      }
+    },
+
+    "identity": {
+      "type": "object",
+      "description": "Make, model, and display naming.",
+      "additionalProperties": false,
+      "required": ["manufacturer", "model", "full_name"],
+      "properties": {
+        "manufacturer": {
+          "type": "string",
+          "description": "Manufacturer display name, e.g. 'Audio-Technica', 'RØDE'."
+        },
+        "manufacturer_url": {
+          "type": ["string", "null"],
+          "description": "URL of the manufacturer's listing page on the site."
+        },
+        "model": {
+          "type": "string",
+          "description": "Model name as shown, e.g. 'Cremona 251-Au'."
+        },
+        "full_name": {
+          "type": "string",
+          "description": "The page's <h2> title, normally '<manufacturer> <model>'."
+        }
+      }
+    },
+
+    "classification": {
+      "type": "object",
+      "description": "How the site categorizes the product. 'subtitle' is the authoritative human label (81 distinct values across the corpus); the derived fields below are parsed from it and from the tag list.",
+      "additionalProperties": false,
+      "required": ["subtitle", "product_type"],
+      "properties": {
+        "subtitle": {
+          "type": "string",
+          "description": "The <h2 class=\"sub\"> descriptor, e.g. 'Multi-Pattern Tube Condenser Microphone', 'Stereo Mic Set'. Present on 100% of pages."
+        },
+        "product_type": {
+          "type": "string",
+          "enum": ["microphone", "set"],
+          "description": "Discriminator. 'set' pages (105 of 1761) describe a bundle of other mics and use a different table layout: they carry `set` and omit most of `specifications`."
+        },
+        "transducer_type": {
+          "type": "string",
+          "enum": ["condenser", "dynamic", "ribbon", "boundary", "carbon", "combination", "hybrid", "unknown"],
+          "description": "Derived from the subtitle and tags. The spec-table shape corroborates it: condensers carry a 'Capsule Dimensions' column (1128 pages), dynamics 'Coil Diameter' (286), ribbons 'Ribbon Construction' (159)."
+        },
+        "is_tube": {
+          "type": "boolean",
+          "description": "True when the subtitle or tags mark a valve/tube circuit."
+        },
+        "is_multipattern": {
+          "type": "boolean",
+          "description": "True for switchable or continuously variable polar patterns."
+        },
+        "is_stereo": { "type": "boolean" },
+        "form_factor": {
+          "type": ["string", "null"],
+          "enum": ["side-address", "end-address", "pencil", "handheld", "boundary", "shotgun", "lavalier", "headworn", "boom", null],
+          "description": "Derived from tags where available."
+        },
+        "pattern_icons": {
+          "type": "array",
+          "description": "Polar-pattern icons shown beside the title. Includes summary markers such as '9 polar patterns' and 'continuously variable pattern selection' that are not single patterns.",
+          "items": { "type": "string" }
+        },
+        "tags": {
+          "type": "array",
+          "description": "Site tag vocabulary; 393 distinct values observed, present on 94% of pages. Top values: condenser, side-address, large-diaphragm, transformerless, end-address, transformer-coupled, multipattern, dynamic, hpf, tube. Full frequency table in audit_report.json -> tags.",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["name"],
+            "properties": {
+              "name": { "type": "string" },
+              "url": { "type": ["string", "null"] }
+            }
+          }
+        }
+      }
+    },
+
+    "pricing": {
+      "type": "object",
+      "description": "From the sidebar 'Pricing & Availability' list. Present on 100% of pages; only two list markers exist in the corpus: id='money' (MSRP, always present) and id='none' (Discontinued, 509 pages).",
+      "additionalProperties": false,
+      "required": ["msrp_raw", "availability"],
+      "properties": {
+        "msrp_raw": {
+          "type": "string",
+          "description": "Verbatim MSRP line, e.g. 'MSRP: $1,695' or 'MSRP: n/a'."
+        },
+        "msrp_amount": {
+          "type": ["number", "null"],
+          "description": "Parsed numeric MSRP; null when the page says n/a."
+        },
+        "currency": {
+          "type": ["string", "null"],
+          "description": "ISO-4217 code inferred from the symbol; 'USD' for '$'."
+        },
+        "availability": {
+          "type": "string",
+          "enum": ["current", "discontinued", "unknown"]
+        },
+        "notes": {
+          "type": "array",
+          "description": "Any other line in the pricing list, kept verbatim.",
+          "items": { "type": "string" }
+        }
+      }
+    },
+
+    "specifications": {
+      "type": "object",
+      "description": "Parsed from the <table> blocks under the 'Specifications' heading. Columns are identified by their <th> label; 36 distinct labels exist. Absent sub-objects mean the page had no such column.",
+      "additionalProperties": false,
+      "properties": {
+        "pickup_patterns": {
+          "type": "array",
+          "description": "'Pickup Patterns' column (1572 pages). Each entry is a pattern followed by '(<sensitivity> mV/Pa; <frequency response>)'. Multi-pattern mics list several.",
+          "items": { "$ref": "#/$defs/pickupPattern" }
+        },
+        "pads": {
+          "type": "array",
+          "description": "'Pad: -10dB (Via Switch)' entries from the 'Pads & Filters' column (557 occurrences).",
+          "items": { "$ref": "#/$defs/padOrFilter" }
+        },
+        "filters": {
+          "type": "array",
+          "description": "'Filter: ...' entries from the 'Pads & Filters' column (638 occurrences).",
+          "items": { "$ref": "#/$defs/padOrFilter" }
+        },
+        "capsule": {
+          "type": "object",
+          "description": "'Capsule Dimensions' column (condenser mics, 1128 pages). 351 of those read only 'Diameter n/a'.",
+          "additionalProperties": false,
+          "properties": {
+            "diaphragm_diameter_mm": { "type": ["number", "null"] },
+            "capsule_diameter_mm": { "type": ["number", "null"] },
+            "diaphragm_gauge_microns": { "type": ["number", "null"] },
+            "raw": { "type": "string" }
+          }
+        },
+        "coil": {
+          "type": "object",
+          "description": "'Coil Diameter' column (dynamic mics, 286 pages). NOTE: this column reads 'n/a' on every page in the corpus, so the site never populates it. Modeled for completeness.",
+          "additionalProperties": false,
+          "properties": {
+            "diameter_mm": { "type": ["number", "null"] },
+            "raw": { "type": "string" }
+          }
+        },
+        "ribbon": {
+          "type": "object",
+          "description": "'Ribbon Construction' column (ribbon mics, 159 pages). Partly labeled (Length/Width/Gauge) and partly free prose such as '50x5mm, 2-micron aluminum ribbon'.",
+          "additionalProperties": false,
+          "properties": {
+            "length_mm": { "type": ["number", "null"] },
+            "width_mm": { "type": ["number", "null"] },
+            "gauge_microns": { "type": ["number", "null"] },
+            "material": { "type": ["string", "null"] },
+            "description": { "type": ["string", "null"] },
+            "raw": { "type": "string" }
+          }
+        },
+        "impedance": {
+          "type": "object",
+          "description": "'Impedance' column (1656 pages). Format '<n> Ohms (<category>)', e.g. '200 Ohms (Low)'.",
+          "additionalProperties": false,
+          "properties": {
+            "ohms": { "type": ["number", "null"] },
+            "category": {
+              "type": ["string", "null"],
+              "enum": ["Low", "Medium", "High", null]
+            },
+            "raw": { "type": "string" }
+          }
+        },
+        "spl_noise": {
+          "type": "object",
+          "description": "'SPL/Noise' column (1656 pages): 'Max SPL' (1189) and 'Self-noise' (866). 220 pages read only 'SPL n/a'.",
+          "additionalProperties": false,
+          "properties": {
+            "max_spl_db": { "type": ["number", "null"] },
+            "max_spl_note": {
+              "type": ["string", "null"],
+              "description": "Qualifier such as a THD percentage stated alongside max SPL."
+            },
+            "self_noise_dba": { "type": ["number", "null"] },
+            "self_noise_note": { "type": ["string", "null"] },
+            "raw": { "type": "string" }
+          }
+        },
+        "physical": {
+          "type": "object",
+          "description": "'Weight', 'Length' and 'Max Diameter' columns (1656 pages each). Each cell states metric first with the imperial equivalent in parentheses.",
+          "additionalProperties": false,
+          "properties": {
+            "weight": { "$ref": "#/$defs/mass" },
+            "length": { "$ref": "#/$defs/dimension" },
+            "max_diameter": { "$ref": "#/$defs/dimension" }
+          }
+        },
+        "interfaces": {
+          "type": "array",
+          "description": "'Interface(s)' column (1656 pages). Format '<connector> (<count>)', e.g. '3-pin XLR male (1)' (1435 pages), 'USB (1)', 'Apple Lightning (iPhone 5) (1)'.",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["connector"],
+            "properties": {
+              "connector": { "type": "string" },
+              "count": { "type": ["integer", "null"] },
+              "raw": { "type": "string" }
+            }
+          }
+        },
+        "power": {
+          "type": "object",
+          "description": "'Power Specifications' column (1656 pages). A set of flag lines plus an optional labeled 'Phantom voltage' (807 pages).",
+          "additionalProperties": false,
+          "properties": {
+            "requires_phantom_power": { "type": "boolean" },
+            "phantom_voltage_v": {
+              "type": "array",
+              "description": "One or more accepted phantom voltages, e.g. [48] or [12, 24, 48].",
+              "items": { "type": "number" }
+            },
+            "includes_tube_power_supply": {
+              "type": "boolean",
+              "description": "True on 254 pages, effectively the tube-mic marker."
+            },
+            "has_battery_compartment": { "type": "boolean" },
+            "battery_type": {
+              "type": ["string", "null"],
+              "description": "Parenthetical battery spec, e.g. '1.5V AA/UM3', '9V', '2x 9V'."
+            },
+            "other": {
+              "type": "array",
+              "description": "Unrecognized power lines, kept verbatim.",
+              "items": { "type": "string" }
+            },
+            "raw": { "type": "string" }
+          }
+        },
+        "compatible_capsules": {
+          "type": "array",
+          "description": "'Compatible Capsules' column (84 pages, modular bodies with detachable capsules). Each entry names another product on the site and repeats its pattern and sensitivity.",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "name": { "type": "string" },
+              "url": { "type": ["string", "null"] },
+              "pattern": { "type": ["string", "null"] },
+              "diameter_mm": { "type": ["number", "null"] },
+              "sensitivity_mv_pa": { "type": ["number", "null"] },
+              "raw": { "type": "string" }
+            }
+          }
+        },
+        "raw_tables": {
+          "type": "array",
+          "description": "Loss-free capture of every specification table exactly as published: the <th> labels and the aligned cell text. This is the guarantee that the model 'fits it all' — anything the typed fields above do not recognize is still recoverable here.",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["headers", "cells"],
+            "properties": {
+              "headers": { "type": "array", "items": { "type": "string" } },
+              "cells": { "type": "array", "items": { "type": "string" } }
+            }
+          }
+        }
+      }
+    },
+
+    "frequency_graphs": {
+      "type": "array",
+      "description": "Per-pattern frequency-response charts, published as tables headed 'Frequency Response - <Pattern>'. 664 pages (38%) carry at least one, for 933 charts in total; a single table can hold several patterns, so multi-pattern mics have one entry per pattern.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["pattern"],
+        "properties": {
+          "pattern": {
+            "type": "string",
+            "description": "Pattern the chart belongs to, including qualifiers such as 'Cardioid (Kick Drum mode)' or 'Bidirectional (Front of ribbon)'."
+          },
+          "graph_id": {
+            "type": ["string", "null"],
+            "description": "Site graph id, e.g. '0542' from /frequency-graphs.php/0542."
+          },
+          "image_url": { "type": ["string", "null"] },
+          "compare_url": { "type": ["string", "null"] },
+          "alt": { "type": ["string", "null"] }
+        }
+      }
+    },
+
+    "related_microphones": {
+      "type": "array",
+      "description": "The 'Related Microphones' / 'Related Microphone Sets' tile strip, present on 1326 pages (75%). Each tile carries an editorial relationship note in its title attribute ('The SF-1 is the mono version of the SF-12.', 'The KM-69 was designed to reproduce the sound of the KM-84.'), which makes this the site's explicit product-lineage graph. NOTE: this section sits outside div#column, so a main-content-only extractor misses it entirely.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["url"],
+        "properties": {
+          "name": {
+            "type": ["string", "null"],
+            "description": "Display name from the tile caption, e.g. 'Royer Labs SF-12'."
+          },
+          "url": { "type": "string" },
+          "relationship_note": {
+            "type": ["string", "null"],
+            "description": "Editorial note stating how the two products relate."
+          },
+          "image": { "$ref": "#/$defs/image" },
+          "is_set": {
+            "type": "boolean",
+            "description": "True when listed under a 'Microphone Sets' heading rather than 'Related Microphones'."
+          }
+        }
+      }
+    },
+
+    "content": {
+      "type": "object",
+      "description": "Editorial body copy. Present on 100% of pages.",
+      "additionalProperties": false,
+      "properties": {
+        "description_text": {
+          "type": "string",
+          "description": "Body prose with markup stripped."
+        },
+        "description_html": {
+          "type": "string",
+          "description": "Body prose as published, preserving inline links to related mics and capsules."
+        },
+        "quotes": {
+          "type": "array",
+          "description": "<blockquote> pull-quotes from reviews (636 pages).",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "cite": {
+                "type": ["string", "null"],
+                "description": "Attribution, e.g. 'Russ Long, PSN (2010)'."
+              },
+              "text": { "type": "string" }
+            }
+          }
+        },
+        "release_year": {
+          "type": ["integer", "null"],
+          "description": "Parsed from sentences such as 'The mic was released in 2009.'"
+        }
+      }
+    },
+
+    "links": {
+      "type": "object",
+      "description": "Every outbound and cross-reference link, grouped by the sidebar section it appeared under. The list-item id encodes the medium: www (3330), pdf (1831), forum (155), film (112), image (60).",
+      "additionalProperties": false,
+      "properties": {
+        "documentation": {
+          "type": "array",
+          "description": "From the '<Model> Documentation' section (1624 pages): manuals, spec sheets, frequency-response PDFs, product pages.",
+          "items": { "$ref": "#/$defs/link" }
+        },
+        "reviews_news": {
+          "type": "array",
+          "description": "From the 'Reviews & News' section (979 pages).",
+          "items": { "$ref": "#/$defs/link" }
+        },
+        "awards": {
+          "type": "array",
+          "description": "From a '<Model> Awards' section (~150 pages), e.g. '2011 TEC Awards'.",
+          "items": { "$ref": "#/$defs/link" }
+        },
+        "related_products": {
+          "type": "array",
+          "description": "In-body links to other mic profiles on the site — the basis for a 'variant of' / 'based on' graph.",
+          "items": { "$ref": "#/$defs/link" }
+        },
+        "other": {
+          "type": "array",
+          "description": "Links from any section not matched above, kept so nothing is dropped.",
+          "items": { "$ref": "#/$defs/link" }
+        }
+      }
+    },
+
+    "media": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "primary_photo": {
+          "$ref": "#/$defs/image",
+          "description": "Sidebar hero shot, present on 94% of pages."
+        },
+        "images": {
+          "type": "array",
+          "description": "All other images in the body: capsule photos, alternate views, diagrams.",
+          "items": { "$ref": "#/$defs/image" }
+        },
+        "capsule_links": {
+          "type": "array",
+          "description": "Links into the site's capsule reference, e.g. /capsules/#CK12.",
+          "items": { "$ref": "#/$defs/link" }
+        }
+      }
+    },
+
+    "set": {
+      "type": "object",
+      "description": "Only for product_type='set' (105 pages). These pages replace the specification tables with a bundle manifest.",
+      "additionalProperties": false,
+      "properties": {
+        "included_accessories": {
+          "type": "object",
+          "description": "Label/value table present on all 105 set pages.",
+          "additionalProperties": false,
+          "properties": {
+            "stereo_bar": { "type": ["string", "null"] },
+            "drum_rim_clamps": { "type": ["string", "null"] },
+            "case_style": { "type": ["string", "null"] }
+          }
+        },
+        "included_microphones": {
+          "type": "array",
+          "description": "Member mics, each cross-linked to its own profile page.",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["name"],
+            "properties": {
+              "name": { "type": "string" },
+              "url": { "type": ["string", "null"] },
+              "subtitle": { "type": ["string", "null"] },
+              "image": { "$ref": "#/$defs/image" },
+              "quantity_in_set": { "type": ["integer", "null"] },
+              "includes_hard_mounts": { "type": ["boolean", "null"] },
+              "includes_shockmounts": { "type": ["boolean", "null"] },
+              "includes_foam_windscreens": { "type": ["boolean", "null"] }
+            }
+          }
+        }
+      }
+    },
+
+    "extraction": {
+      "type": "object",
+      "description": "Extractor bookkeeping, so a record carries its own confidence signal.",
+      "additionalProperties": false,
+      "properties": {
+        "schema_version": { "type": "string" },
+        "unmapped_sections": {
+          "type": "array",
+          "description": "Section headings the extractor did not recognize.",
+          "items": { "type": "string" }
+        },
+        "unmapped_columns": {
+          "type": "array",
+          "description": "Specification <th> labels the extractor did not map to a typed field.",
+          "items": { "type": "string" }
+        },
+        "warnings": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      }
+    }
+  },
+
+  "allOf": [
+    {
+      "if": { "properties": { "classification": { "properties": { "product_type": { "const": "set" } }, "required": ["product_type"] } } },
+      "then": { "required": ["set"] }
+    }
+  ],
+
+  "$defs": {
+    "pickupPattern": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["pattern"],
+      "properties": {
+        "pattern": {
+          "type": "string",
+          "description": "Pattern label as published, including any qualifier."
+        },
+        "pattern_base": {
+          "type": ["string", "null"],
+          "enum": [
+            "Cardioid", "Omnidirectional", "Bidirectional", "Hypercardioid",
+            "Supercardioid", "Wide Cardioid", "Shotgun", "X/Y Stereo",
+            "Mid-Side Stereo", "Blumlein", "Binaural", null
+          ],
+          "description": "Normalized pattern, qualifier removed."
+        },
+        "pattern_variant": {
+          "type": ["string", "null"],
+          "description": "Parenthetical qualifier, e.g. 'Kick Drum mode', 'Warm', 'tube circuit', 'Front of ribbon'."
+        },
+        "sensitivity_mv_pa": { "type": ["number", "null"] },
+        "frequency_response": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "low_hz": { "type": ["number", "null"] },
+            "high_hz": { "type": ["number", "null"] },
+            "raw": { "type": ["string", "null"] }
+          }
+        },
+        "has_graph": {
+          "type": "boolean",
+          "description": "True when the cell carried a CHART marker linking to a frequency-response graph."
+        },
+        "raw": { "type": "string" }
+      }
+    },
+
+    "padOrFilter": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["raw"],
+      "properties": {
+        "value_db": {
+          "type": ["number", "null"],
+          "description": "Attenuation in dB for a pad, e.g. -10."
+        },
+        "frequency_hz": {
+          "type": ["number", "null"],
+          "description": "Corner frequency for a filter, e.g. 100."
+        },
+        "slope": {
+          "type": ["string", "null"],
+          "description": "Filter slope where stated, e.g. '-6dB/octave'."
+        },
+        "mechanism": {
+          "type": ["string", "null"],
+          "description": "The <small> qualifier, e.g. 'Via Switch', 'Via Remote Control'."
+        },
+        "raw": { "type": "string" }
+      }
+    },
+
+    "dimension": {
+      "type": "object",
+      "description": "A length published as metric with an imperial equivalent, e.g. \"213mm (8.39'')\".",
+      "additionalProperties": false,
+      "properties": {
+        "mm": { "type": ["number", "null"] },
+        "inches": { "type": ["number", "null"] },
+        "raw": { "type": ["string", "null"] }
+      }
+    },
+
+    "mass": {
+      "type": "object",
+      "description": "A weight published as metric with an imperial equivalent, e.g. '500g (17.64oz)'.",
+      "additionalProperties": false,
+      "properties": {
+        "grams": { "type": ["number", "null"] },
+        "ounces": { "type": ["number", "null"] },
+        "raw": { "type": ["string", "null"] }
+      }
+    },
+
+    "link": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["url"],
+      "properties": {
+        "title": { "type": ["string", "null"] },
+        "url": { "type": "string" },
+        "link_type": {
+          "type": ["string", "null"],
+          "enum": ["www", "pdf", "forum", "film", "image", "internal", null],
+          "description": "From the list-item id on the page; 'internal' for same-site cross references."
+        },
+        "is_internal": { "type": "boolean" }
+      }
+    },
+
+    "image": {
+      "type": ["object", "null"],
+      "additionalProperties": false,
+      "properties": {
+        "thumb_url": { "type": ["string", "null"] },
+        "full_url": { "type": ["string", "null"] },
+        "alt": { "type": ["string", "null"] },
+        "width": { "type": ["integer", "null"] },
+        "height": { "type": ["integer", "null"] }
+      }
+    }
+  }
+}

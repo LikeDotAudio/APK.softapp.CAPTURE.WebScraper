@@ -1,0 +1,332 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Avantone Pro CV-28 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="CV-28, Detachable-Capsule Pencil Tube Condenser Microphone , aka: CV28 - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/Avant/CV-28" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The Avant CV-28 is believed to be very closely related to the ShuaiYin SYT-28." href="//recordinghacks.com/microphones/ShuaiYin/SYT-28"><img src="//cdn.recordinghacks.com/images/mics/00575/00575_75.jpg" width="75" height="75" alt="The Avant CV-28 is believed to be very closely related to the ShuaiYin SYT-28." title="The Avant CV-28 is believed to be very closely related to the ShuaiYin SYT-28."   ><br /><span>ShuaiYin SYT-28</span></a></li>
+                                                    <li class="mictile"><a title="The GT44 and CV28 employ similar metalwork and circuit designs." href="//recordinghacks.com/microphones/groovetubes/GT-44"><img src="//cdn.recordinghacks.com/images/mics/01369/01369_75.jpg" width="75" height="75" alt="The GT44 and CV28 employ similar metalwork and circuit designs." title="The GT44 and CV28 employ similar metalwork and circuit designs."   ><br /><span>Groove Tubes GT-44</span></a></li>
+                                                    <li class="mictile"><a title="The CM-28 and CV-28 provide similar features and specifications." href="//recordinghacks.com/microphones/Advanced-Audio-Microphones/CM-28"><img src="//cdn.recordinghacks.com/images/mics/01461/01461_75.jpg" width="75" height="75" alt="The CM-28 and CV-28 provide similar features and specifications." title="The CM-28 and CV-28 provide similar features and specifications."   ><br /><span>Advanced Audio CM-28</span></a></li>
+                                                    <li class="mictile"><a title="The CV-28 and TC3 offer similar features." href="//recordinghacks.com/microphones/GoldenAge/TC3"><img src="//cdn.recordinghacks.com/images/mics/01483/01483_75.jpg" width="75" height="75" alt="The CV-28 and TC3 offer similar features." title="The CV-28 and TC3 offer similar features."   ><br /><span>GAP TC 3</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/Avant">Avant microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Avantone Pro CV-28" href="/microphone-photo/00572/Avant/CV-28.jpg"><img src="//cdn.recordinghacks.com/images/mics/00572/00572_172.jpg" width="172" height="82" alt="Avantone Pro CV-28" title="Avantone Pro CV-28" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $449</li>
+                                                            </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/tube" alt="tube microphones">tube</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/pencil-mic" alt="pencil-mic microphones">pencil-mic</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/multipattern" alt="multipattern microphones">multipattern</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/detachable-capsule" alt="detachable-capsule microphones">detachable-capsule</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformer-coupled" alt="transformer-coupled microphones">transformer-coupled</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/end-address" alt="end-address microphones">end-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/6j1b" alt="6j1b microphones">6j1b</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://recordinghacks.com/2012/09/17/massive-tube-sdc-review/">Massive tube SDC shootout</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/2012/09/20/acoustic-guitar-tube-mic-test/">Omni Tube Mics on Acoustic Gtr</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/2012/10/07/tube-mics-drum-overheads/">Tube mic shootout: drum OH</a></li>
+                                                                    <li id="www"><a  href="http://www.musictech.net/2013/06/avantone-pro-cv12-cv28-review/">MusicTech Review 2013-06</a></li>
+                                                                </ul>                    
+                                        <h3>CV-28 Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.avantonepro.com/products.php?p=1010">CV-28 Product Description</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="recordinghacks.com/pdf/avantone/CV28-manual.pdf">CV-28 User Guide</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="572-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="572-1" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="572-2" src="//cdn.recordinghacks.com/images/icons/patterns/icon_hc.png" width=27 height=27 alt="Hypercardioid" title="Hypercardioid" ></span>Avantone Pro CV-28</h2>
+                    
+                    <h2 class="sub">                    Detachable-Capsule Pencil Tube Condenser Microphone</h2>
+                    <p>The CV-28 is a small-diaphragm tube condenser with three interchangeable capsules providing three pickup patterns: cardioid, omni, and hypercardioid. Unlike related multipattern SDCs, only the internal capsule is changed &#8212; the external grille assembly must be removed first, to expose the threaded capsule head.</p><p>The diaphragm in these capsules measures 6 microns in thickness, with an approximate diaphragm diameter (measured by us within the inside diameter of the trim ring at the top of the capsule assembly) of 17mm.</p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/avant/CV28-circuit.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/avant/CV28-circuit-sm.jpg" class="thumb shaft" alt="CV-28 Circuit" width="200" /></a>The microphone shares exterior metalwork with a few other models, such as the Advanced Audio CM-28, the Groove Tubes GT44, and the Sterling ST44. However, the GT44 and ST44 circuits differ considerably from the CV-28. Further, the capsule mounting platform on the ST44/GT44 is slightly different than the CV-28.</p><p>The tube is a 6J1B, a Chinese-made tube sourced by the manufacturer. The transformer is also of Chinese origin.</p><p>The mic includes a padded wooden box, suspension shockmount, dedicated power supply, power cable, 3 interchangeable capsules (omni, cardioid, hypercardioid) within a plastic pillbox, an aluminum flightcase, and a 5-year warranty.<p>The <a href="//recordinghacks.com/microphones/Avant/CV-28">Avantone Pro CV-28</a> is also known as: CV28.</p><p>The mic was released in 2006.</p>
+                    <h3>Specifications</h3>
+                    <table><tr><th>Compatible Capsules</th></tr><tr><td><table style="width: 440px">                        <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00201/00201_75.jpg" width="75" height="75" alt="Avantone Pro CV-28 Cardioid" title="Avantone Pro CV-28 Cardioid"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap6641" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>Avantone Pro CV-28 Cardioid</strong><br />
+                        17mm Cardioid capsule<br />
+                        Sensitivity: 20 mV/Pa<br />
+                        <span class="shaft" id="anchor6641"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show6641">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: n/a | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00202/00202_75.jpg" width="75" height="75" alt="Avantone Pro CV-28 Hypercardioid" title="Avantone Pro CV-28 Hypercardioid"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap6642" src="//cdn.recordinghacks.com/images/icons/patterns/icon_hc.png" width=27 height=27 alt="Hypercardioid" title="Hypercardioid" ></span>
+                        <strong>Avantone Pro CV-28 Hypercardioid</strong><br />
+                        17mm Hypercardioid capsule<br />
+                        Sensitivity: 20 mV/Pa<br />
+                        <span class="shaft" id="anchor6642"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show6642">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: n/a | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00200/00200_75.jpg" width="75" height="75" alt="Avantone Pro CV-28 Omni" title="Avantone Pro CV-28 Omni"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap6643" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ></span>
+                        <strong>Avantone Pro CV-28 Omni</strong><br />
+                        17mm Omnidirectional capsule<br />
+                        Sensitivity: 20 mV/Pa<br />
+                        <span class="shaft" id="anchor6643"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show6643">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: n/a | Still In Production</li>
+                        </td></tr>
+                    </table></td></tr></table>
+                    <table>
+                        <tr>
+                            <th>Pads &amp; Filters</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                <ul>                                    <li>Pad: -15dB<small> (Via Switch)</small></li>
+                                                                        <li>Filter: HPF @ 80 Hz<small> (Via Switch)</small></li>
+                                                                    </ul></td>
+                            <td>250 Ohms <em class="mute">(Low)</em></td>
+                            <td>Max SPL: 136 dB<br />                                Self-noise: 17.0 dB(A)</td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>280g <em class="mute">(9.88oz)</em></td>
+                            <td>194mm <em class="mute">(7.64&#39;&#39;)</em></td>
+                            <td>28mm <em class="mute">(1.10&#39;&#39;)</em></td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                                                                                                                <li>Includes tube power supply </li>
+                                                                                    </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+             
+<script type="text/javascript">
+        YAHOO.namespace("freq");
+
+        function init_freq_graphs() {
+
+            YAHOO.freq.chartPanel6641 = new YAHOO.widget.Panel("chartPanel6641",  {  context:["anchor6641", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel6641.render();
+
+            YAHOO.freq.chartPanel6642 = new YAHOO.widget.Panel("chartPanel6642",  {  context:["anchor6642", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel6642.render();
+
+            YAHOO.freq.chartPanel6643 = new YAHOO.widget.Panel("chartPanel6643",  {  context:["anchor6643", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel6643.render();
+
+                
+            YAHOO.freq.manager = new YAHOO.widget.OverlayManager(); 
+            YAHOO.freq.manager.register([YAHOO.freq.chartPanel6641,
+                                                   YAHOO.freq.chartPanel6642,
+                                                   YAHOO.freq.chartPanel6643,
+                                                   ]);
+
+          
+            YAHOO.util.Event.addListener("show6641", "click", YAHOO.freq.chartPanel6641.show, YAHOO.freq.chartPanel6641, true);
+            YAHOO.util.Event.addListener("hide6641", "click", YAHOO.freq.chartPanel6641.hide, YAHOO.freq.chartPanel6641, true);
+            YAHOO.util.Event.addListener("focus6641", "click", YAHOO.freq.chartPanel6641.focus, YAHOO.freq.chartPanel6641, true);
+
+          
+            YAHOO.util.Event.addListener("show6642", "click", YAHOO.freq.chartPanel6642.show, YAHOO.freq.chartPanel6642, true);
+            YAHOO.util.Event.addListener("hide6642", "click", YAHOO.freq.chartPanel6642.hide, YAHOO.freq.chartPanel6642, true);
+            YAHOO.util.Event.addListener("focus6642", "click", YAHOO.freq.chartPanel6642.focus, YAHOO.freq.chartPanel6642, true);
+
+          
+            YAHOO.util.Event.addListener("show6643", "click", YAHOO.freq.chartPanel6643.show, YAHOO.freq.chartPanel6643, true);
+            YAHOO.util.Event.addListener("hide6643", "click", YAHOO.freq.chartPanel6643.hide, YAHOO.freq.chartPanel6643, true);
+            YAHOO.util.Event.addListener("focus6643", "click", YAHOO.freq.chartPanel6643.focus, YAHOO.freq.chartPanel6643, true);
+
+            
+    
+        }
+        YAHOO.util.Event.addListener(window, "load", init_freq_graphs);
+</script>
+
+
+<div id="chartPanel6641" style="visibility:hidden">
+    <div class="hd"><span>Avantone Pro CV-28 Frequency Chart: Cardioid</span></div>
+    <div class="bd">
+    <img name="graph6641" src="http://recordinghacks.com/images/graphs/avant/CV28-card.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel6642" style="visibility:hidden">
+    <div class="hd"><span>Avantone Pro CV-28 Frequency Chart: Hypercardioid</span></div>
+    <div class="bd">
+    <img name="graph6642" src="http://recordinghacks.com/images/graphs/avant/CV28-hyper.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel6643" style="visibility:hidden">
+    <div class="hd"><span>Avantone Pro CV-28 Frequency Chart: Omnidirectional</span></div>
+    <div class="bd">
+    <img name="graph6643" src="http://recordinghacks.com/images/graphs/avant/CV28-omni.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('572-0');uniqueids.push('572-1');uniqueids.push('572-2');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

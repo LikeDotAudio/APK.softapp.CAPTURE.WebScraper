@@ -1,0 +1,5 @@
+## Mics tagged: aa AND rohs
+
+|  |  |
+| --- | --- |
+| [Audio-Technica AT897](http://recordinghacks.com/microphones/Audio-Technica/AT897 "Audio-Technica AT897 - Features, Specifications, Datasheet") | Shotgun  [**Audio-Technica AT897**](/microphones/Audio-Technica/AT897 "Audio-Technica AT897 - Features, Specifications, Datasheet")  Shotgun Condenser Microphone  [electret](//recordinghacks.com/microphones/tag/electret "electret microphones"), [end-address](//recordinghacks.com/microphones/tag/end-address "end-address microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [battery-power](//recordinghacks.com/microphones/tag/battery-power "battery-power microphones"), [aa](//recordinghacks.com/microphones/tag/aa "aa microphones"), [shotgun](//recordinghacks.com/microphones/tag/shotgun "shotgun microphones"), [rohs](//recordinghacks.com/microphones/tag/rohs "rohs microphones"), [video-camera](//recordinghacks.com/microphones/tag/video-camera "video-camera microphones") |

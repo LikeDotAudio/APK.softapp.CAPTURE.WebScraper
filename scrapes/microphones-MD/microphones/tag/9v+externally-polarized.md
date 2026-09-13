@@ -1,0 +1,5 @@
+## Mics tagged: 9v AND externally-polarized
+
+|  |  |
+| --- | --- |
+| [RØDE NT4](http://recordinghacks.com/microphones/Rode/NT4 "RØDE NT4 - Features, Specifications, Datasheet") | X/Y Stereo  [**RØDE NT4**](/microphones/Rode/NT4 "RØDE NT4 - Features, Specifications, Datasheet")  X/Y Stereo Condenser Stereo Microphone  [stereo](//recordinghacks.com/microphones/tag/stereo "stereo microphones"), [transformerless](//recordinghacks.com/microphones/tag/transformerless "transformerless microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [externally-polarized](//recordinghacks.com/microphones/tag/externally-polarized "externally-polarized microphones"), [battery-power](//recordinghacks.com/microphones/tag/battery-power "battery-power microphones"), [9v](//recordinghacks.com/microphones/tag/9v "9v microphones") |

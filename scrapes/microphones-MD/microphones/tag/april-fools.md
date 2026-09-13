@@ -1,0 +1,7 @@
+## Mics tagged: april-fools
+
+|  |  |
+| --- | --- |
+| [Blue Microphones Poseidon](http://recordinghacks.com/microphones/Blue-Microphones/Poseidon "Blue Microphones Poseidon - Features, Specifications, Datasheet") | [**Blue Microphones Poseidon**](/microphones/Blue-Microphones/Poseidon "Blue Microphones Poseidon - Features, Specifications, Datasheet")  Condenser Microphone  [side-address](//recordinghacks.com/microphones/tag/side-address "side-address microphones"), [large-diaphragm](//recordinghacks.com/microphones/tag/large-diaphragm "large-diaphragm microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [april-fools](//recordinghacks.com/microphones/tag/april-fools "april-fools microphones") |
+| [Telefunken Ela M 570](http://recordinghacks.com/microphones/Telefunken/Ela-M-570 "Telefunken Ela M 570 - Features, Specifications, Datasheet") | X/Y StereoMid-Side StereoBlumlein  [**Telefunken Ela M 570**](/microphones/Telefunken/Ela-M-570 "Telefunken Ela M 570 - Features, Specifications, Datasheet")  Multi-Pattern Tube Condenser Microphone  [april-fools](//recordinghacks.com/microphones/tag/april-fools "april-fools microphones") |
+| [RØDE i16](http://recordinghacks.com/microphones/Rode/i16 "RØDE i16 - Features, Specifications, Datasheet") | continuously variable pattern selection [**RØDE i16**](/microphones/Rode/i16 "RØDE i16 - Features, Specifications, Datasheet")  Multi-Pattern Condenser Microphone  [april-fools](//recordinghacks.com/microphones/tag/april-fools "april-fools microphones") |

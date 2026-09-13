@@ -1,0 +1,5 @@
+## Mics tagged: 16-bit AND hpf
+
+|  |  |
+| --- | --- |
+| [Shure PG42-USB](http://recordinghacks.com/microphones/Shure/PG42-USB "Shure PG42-USB - Features, Specifications, Datasheet") | Cardioid  [**Shure PG42-USB**](/microphones/Shure/PG42-USB "Shure PG42-USB - Features, Specifications, Datasheet")  Cardioid Condenser Microphone  [side-address](//recordinghacks.com/microphones/tag/side-address "side-address microphones"), [large-diaphragm](//recordinghacks.com/microphones/tag/large-diaphragm "large-diaphragm microphones"), [transformerless](//recordinghacks.com/microphones/tag/transformerless "transformerless microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [hpf](//recordinghacks.com/microphones/tag/hpf "hpf microphones"), [16-bit](//recordinghacks.com/microphones/tag/16-bit "16-bit microphones"), [48-khz](//recordinghacks.com/microphones/tag/48-khz "48-khz microphones"), [surface-mount](//recordinghacks.com/microphones/tag/surface-mount "surface-mount microphones") |

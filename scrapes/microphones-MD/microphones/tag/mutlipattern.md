@@ -1,0 +1,5 @@
+## Mics tagged: mutlipattern
+
+|  |  |
+| --- | --- |
+| [Behringer B-2 Pro](http://recordinghacks.com/microphones/Behringer/B-2Pro "Behringer B-2 Pro - Features, Specifications, Datasheet") | OmnidirectionalCardioidBidirectional  [**Behringer B-2 Pro**](/microphones/Behringer/B-2Pro "Behringer B-2 Pro - Features, Specifications, Datasheet")  Multi-Pattern Condenser Microphone  [side-address](//recordinghacks.com/microphones/tag/side-address "side-address microphones"), [large-diaphragm](//recordinghacks.com/microphones/tag/large-diaphragm "large-diaphragm microphones"), [transformerless](//recordinghacks.com/microphones/tag/transformerless "transformerless microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [tripolar](//recordinghacks.com/microphones/tag/tripolar "tripolar microphones"), [mutlipattern](//recordinghacks.com/microphones/tag/mutlipattern "mutlipattern microphones") |

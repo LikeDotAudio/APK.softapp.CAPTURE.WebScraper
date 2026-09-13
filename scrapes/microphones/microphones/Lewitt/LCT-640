@@ -1,0 +1,293 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Lewitt Audio LCT 640 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="LCT 640, Multi-Pattern Condenser Microphone  - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/Lewitt/LCT-640" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The LCT 640 is a multipattern version of the LCT 540, and includes additional pad and filter options." href="//recordinghacks.com/microphones/Lewitt/LCT-540"><img src="//cdn.recordinghacks.com/images/mics/00972/00972_75.jpg" width="75" height="75" alt="The LCT 640 is a multipattern version of the LCT 540, and includes additional pad and filter options." title="The LCT 640 is a multipattern version of the LCT 540, and includes additional pad and filter options."   ><br /><span>Lewitt LCT 540</span></a></li>
+                                                    <li class="mictile"><a title="LCT 840 is a multipattern tube condenser based on LCT 640." href="//recordinghacks.com/microphones/Lewitt/LCT-840"><img src="//cdn.recordinghacks.com/images/mics/01293/01293_75.jpg" width="75" height="75" alt="LCT 840 is a multipattern tube condenser based on LCT 640." title="LCT 840 is a multipattern tube condenser based on LCT 640."   ><br /><span>Lewitt LCT 840</span></a></li>
+                                                    <li class="mictile"><a title="In &#8220;Crystal&#8221; mode, the LCT-940 reproduces the sound of the LCT-640." href="//recordinghacks.com/microphones/Lewitt/LCT-940"><img src="//cdn.recordinghacks.com/images/mics/01294/01294_75.jpg" width="75" height="75" alt="In &#8220;Crystal&#8221; mode, the LCT-940 reproduces the sound of the LCT-640." title="In &#8220;Crystal&#8221; mode, the LCT-940 reproduces the sound of the LCT-640."   ><br /><span>Lewitt LCT 940</span></a></li>
+                                                    <li class="mictile"><a title="The LCT 640, like the TLM 107, provides electronic feature control of pad, filter, and pattern." href="//recordinghacks.com/microphones/Neumann/TLM-107"><img src="//cdn.recordinghacks.com/images/mics/01620/01620_75.jpg" width="75" height="75" alt="The LCT 640, like the TLM 107, provides electronic feature control of pad, filter, and pattern." title="The LCT 640, like the TLM 107, provides electronic feature control of pad, filter, and pattern."   ><br /><span>Neumann TLM 107</span></a></li>
+                                                    <li class="mictile"><a title="The LCT640 is a single-output version of the LCT640TS" href="//recordinghacks.com/microphones/Lewitt/LCT640TS"><img src="//cdn.recordinghacks.com/images/mics/01769/01769_75.jpg" width="75" height="75" alt="The LCT640 is a single-output version of the LCT640TS" title="The LCT640 is a single-output version of the LCT640TS"   ><br /><span>Lewitt LCT640TS</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/Lewitt">Lewitt microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Lewitt Audio LCT 640" href="/microphone-photo/00971/Lewitt/LCT-640.jpg"><img src="//cdn.recordinghacks.com/images/mics/00971/00971_172.jpg" width="172" height="101" alt="Lewitt Audio LCT 640" title="Lewitt Audio LCT 640" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $799</li>
+                                                            </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/side-address" alt="side-address microphones">side-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/large-diaphragm" alt="large-diaphragm microphones">large-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/dual-diaphragm" alt="dual-diaphragm microphones">dual-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/externally-biased" alt="externally-biased microphones">externally-biased</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/multipattern" alt="multipattern microphones">multipattern</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/k67" alt="k67 microphones">k67</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformerless" alt="transformerless microphones">transformerless</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/center-terminated" alt="center-terminated microphones">center-terminated</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/condenser" alt="condenser microphones">condenser</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/hpf" alt="hpf microphones">hpf</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/surface-mount" alt="surface-mount microphones">surface-mount</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/authentica" alt="authentica microphones">authentica</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://recordinghacks.com/2011/01/01/lewitt-lct540-lct640-review/">RH LCT 640 Review, 2011-01</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/2011/09/04/lewitt-audio-drum-microphone-review/">RH LCT640 Drum OH Review</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/2010/09/20/acoustic-guitar-mic-shootout/">RH Acoustic Gtr Mic Shootout</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/2012/03/15/live-sax-condenser-microphones/">Live Sax Mic Shootout, 2012</a></li>
+                                                                    <li id="www"><a  href="http://www.soundonsound.com/sos/aug12/articles/lewitt-lct640.htm">SOS Review 2012-08</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/2012/07/20/lewitt-lct640-review/">LCT 640 Review, 2012</a></li>
+                                                                    <li id="www"><a  href="http://www.musictech.net/2012/08/lct-640-review/">MusicTech Review 2012-08</a></li>
+                                                                </ul>                    
+                                        <h3>LCT 640 Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.lewitt-audio.com/LCT-Series/LCT-640">LCT 640 Product Description</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/lewitt/LCT_640.pdf">LCT 640 Spec Sheet</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/lewitt/LCT-640-Manual.pdf">LCT 640 Manual</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="971-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="971-1" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="971-2" src="//cdn.recordinghacks.com/images/icons/patterns/icon_hc.png" width=27 height=27 alt="Hypercardioid" title="Hypercardioid" ><img id="971-3" src="//cdn.recordinghacks.com/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ><img id="971-4" src="//cdn.recordinghacks.com/images/icons/patterns/icon_wc.png" width=27 height=27 alt="Wide Cardioid" title="Wide Cardioid" ></span>Lewitt Audio LCT 640</h2>
+                    
+                    <h2 class="sub">                    Multi-Pattern Condenser Microphone</h2>
+                    <p>The Authentica LCT 640 is a large-diaphragm FET condenser from Lewitt. It is a multipattern design with a transformerless output and multiple pad and filter options.</p><p>The capsule in the LCT 640 is a dual-diaphragm version of the capsule in the fixed-cardioid LCT 540. Both mics use a large-diaphragm design whose backplate drilling pattern closely resembles the Neumann K67. The diaphragm material is 4-micron Mylar, sputtered with gold. The active diaphragm area measures 25.4mm in diameter, within a 33mm capsule.</p><p>Pattern control is provided by an electronic pushbutton switch reminiscent of the AKG C414; the mic provides Omni, Wide Cardioid, Cardioid, Hypercardioid, and Figure-8 patterns.</p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/lewitt/LCT640-cutaway.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/lewitt/LCT640-cutaway-sm.jpg" class="thumb shaft" alt="Lewitt Audio LCT640 Cutaway View" width="200" /></a>A second pushbutton switch cycles through the four preattenuation pad options: 0dB, -6dB, -12dB, and -18dB. At -18dB, the mic&#8217;s max SPL (at 0.5% distortion) is 160dB, suitable for kick drums and loud brass.</p><p>A third pushbutton switch cycles through four high-pass filters, offering different slopes and cutoffs:</p><ul><li>-12dB/octave at 40Hz</li><li>-6dB/octave at 150Hz</li><li>-6dB/octave at 300Hz</li></ul><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/lewitt/LCT640-side.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/lewitt/LCT640-side-sm.jpg" class="thumb shaft" alt="Lewitt LCT640 Side View" width="200" /></a>The currently-selected pattern, pad, and filter options are indicated by LED lights behind the microphone&#8217;s faceplate. The pushbuttons operate without causing audible clicks or pops through the signal chain.</p><p>The mic&#8217;s PCB employs surface-mount components.</p><p>The transformerless amplifier circuit is very low-noise: 10dBA in Cardioid, 12dBA in Omni.</p><p>The unusually open mesh grille is made of &#8220;ruthenium-galvanized&#8221; steel, backed by a fine-gauge screen.</p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/lewitt/LCT640-kit.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/lewitt/LCT640-kit-sm.jpg" class="thumb shaft" alt="Lewitt Audio LCT 640 Kit" width="133" /></a>The mic ships with a shockmount (Lewitt p/n LCT 40 SHx), foam windscreen (p/n LCT 40 Wx), leather storage pouch (p/n DTP 40 Lb), and a foam-lined black aluminum flightcase.<p>Permalink: <a href="//recordinghacks.com/microphones/Lewitt/LCT-640">Lewitt Audio LCT-640</a></p><p>The mic was released in 2010.</p>
+                    <h3>Specifications</h3>
+                                        
+                    <table>
+                                                    <tr><th>Frequency Response - Omnidirectional<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/1300" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/1/1300.png" width=476 height=159 alt="LCT 640 Omnidirectional Frequency Response Chart" title="LCT 640 Omnidirectional Frequency Response Chart" border=0 /></td></tr>
+                                                        <tr><th>Frequency Response - Cardioid<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/1299" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/1/1299.png" width=476 height=159 alt="LCT 640 Cardioid Frequency Response Chart" title="LCT 640 Cardioid Frequency Response Chart" border=0 /></td></tr>
+                                                        <tr><th>Frequency Response - Hypercardioid<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/1303" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/1/1303.png" width=476 height=159 alt="LCT 640 Hypercardioid Frequency Response Chart" title="LCT 640 Hypercardioid Frequency Response Chart" border=0 /></td></tr>
+                                                        <tr><th>Frequency Response - Bidirectional<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/1301" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/1/1301.png" width=476 height=159 alt="LCT 640 Bidirectional Frequency Response Chart" title="LCT 640 Bidirectional Frequency Response Chart" border=0 /></td></tr>
+                                                        <tr><th>Frequency Response - Wide Cardioid<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/1302" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/1/1302.png" width=476 height=159 alt="LCT 640 Wide Cardioid Frequency Response Chart" title="LCT 640 Wide Cardioid Frequency Response Chart" border=0 /></td></tr>
+                            </table>
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                                                                Omnidirectional
+                                             (10 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                                                            Cardioid
+                                             (13 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                                                            Hypercardioid
+                                             (n/a mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                                                            Bidirectional
+                                             (9 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                                                            Wide Cardioid
+                                             (n/a mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                    <li>Pad: -6dB<small> (Via Switch)</small></li>
+                                                                        <li>Pad: -12dB<small> (Via Switch)</small></li>
+                                                                        <li>Pad: -18dB<small> (Via Switch)</small></li>
+                                                                        <li>Filter: -12 dB/octave @ 40Hz<small> (Via Switch)</small></li>
+                                                                        <li>Filter: -6 dB/octave @ 150Hz<small> (Via Switch)</small></li>
+                                                                        <li>Filter: -6 dB/octave @ 300Hz<small> (Via Switch)</small></li>
+                                                                    </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Capsule Dimensions</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                                                                                                        Diaphragm diameter: 25.4mm<br />
+                                                                                            Capsule diameter: 33mm<br />
+                                                                                                                            Diaphragm gauge: 4 microns                                                                    </td>
+                            <td>150 Ohms <em class="mute">(Low)</em></td>
+                            <td>Max SPL: 163 dB<br />                                Self-noise: 10.0 dB(A)</td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>432g <em class="mute">(15.24oz)</em></td>
+                            <td>158mm <em class="mute">(6.22&#39;&#39;)</em></td>
+                            <td>n/a</td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                        <li>Requires phantom power </li>
+                                                                                                                                                                                <li>Phantom voltage: 48 &plusmn; 4v</li>
+                                        </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('971-0');uniqueids.push('971-1');uniqueids.push('971-2');uniqueids.push('971-3');uniqueids.push('971-4');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

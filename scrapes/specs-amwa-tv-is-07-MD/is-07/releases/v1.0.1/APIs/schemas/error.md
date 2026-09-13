@@ -1,0 +1,31 @@
+{
+"$id": "https://www.amwa.tv/event\_and\_tally/error.json",
+"$schema": "http://json-schema.org/draft-04/schema#",
+"description": "Describes the standard error response which is returned with HTTP codes 400 and above",
+"properties": {
+"code": {
+"description": "HTTP error code",
+"maximum": 599,
+"minimum": 400,
+"type": "integer"
+},
+"debug": {
+"description": "Debug information which may assist a programmer working with the API",
+"type": [
+"null",
+"string"
+]
+},
+"error": {
+"description": "Human readable message which is suitable for user interface display, and helpful to the user",
+"type": "string"
+}
+},
+"required": [
+"code",
+"error",
+"debug"
+],
+"title": "Error response",
+"type": "object"
+}

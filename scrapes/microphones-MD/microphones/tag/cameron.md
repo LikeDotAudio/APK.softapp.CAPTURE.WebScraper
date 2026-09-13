@@ -1,0 +1,5 @@
+## Mics tagged: cameron
+
+|  |  |
+| --- | --- |
+| [Equation Audio F.20](http://recordinghacks.com/microphones/Equation/F.20 "Equation Audio F.20 - Features, Specifications, Datasheet") | Supercardioid  [**Equation Audio F.20**](/microphones/Equation/F.20 "Equation Audio F.20 - Features, Specifications, Datasheet")  Supercardioid Condenser Microphone  [side-address](//recordinghacks.com/microphones/tag/side-address "side-address microphones"), [electret](//recordinghacks.com/microphones/tag/electret "electret microphones"), [transformerless](//recordinghacks.com/microphones/tag/transformerless "transformerless microphones"), [center-terminated](//recordinghacks.com/microphones/tag/center-terminated "center-terminated microphones"), [yoke-mount](//recordinghacks.com/microphones/tag/yoke-mount "yoke-mount microphones"), [cameron](//recordinghacks.com/microphones/tag/cameron "cameron microphones") |

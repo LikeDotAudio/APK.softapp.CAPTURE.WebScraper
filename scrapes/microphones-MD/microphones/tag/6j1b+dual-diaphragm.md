@@ -1,0 +1,5 @@
+## Mics tagged: 6j1b AND dual-diaphragm
+
+|  |  |
+| --- | --- |
+|  | OmnidirectionalCardioidBidirectional  [**Ningbo Alctron Electronics Co., Ltd. HAT60**](/microphones/Alctron/HAT60 "Ningbo Alctron Electronics Co., Ltd. HAT60 - Features, Specifications, Datasheet")  Multi-Pattern Tube Condenser Microphone  [side-address](//recordinghacks.com/microphones/tag/side-address "side-address microphones"), [large-diaphragm](//recordinghacks.com/microphones/tag/large-diaphragm "large-diaphragm microphones"), [dual-diaphragm](//recordinghacks.com/microphones/tag/dual-diaphragm "dual-diaphragm microphones"), [tube](//recordinghacks.com/microphones/tag/tube "tube microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [6j1b](//recordinghacks.com/microphones/tag/6j1b "6j1b microphones") |

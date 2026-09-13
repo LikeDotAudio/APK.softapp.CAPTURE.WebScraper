@@ -1,0 +1,5 @@
+## Mics tagged: 12ax7 AND neodymium
+
+|  |  |
+| --- | --- |
+| [SE Electronics RT1](http://recordinghacks.com/microphones/SE-Electronics/RT1 "SE Electronics RT1 - Features, Specifications, Datasheet") | Bidirectional  [**SE Electronics RT1**](/microphones/SE-Electronics/RT1 "SE Electronics RT1 - Features, Specifications, Datasheet")  Bidirectional Tube Ribbon Microphone  [side-address](//recordinghacks.com/microphones/tag/side-address "side-address microphones"), [ribbon](//recordinghacks.com/microphones/tag/ribbon "ribbon microphones"), [active-ribbon](//recordinghacks.com/microphones/tag/active-ribbon "active-ribbon microphones"), [tube](//recordinghacks.com/microphones/tag/tube "tube microphones"), [12ax7](//recordinghacks.com/microphones/tag/12ax7 "12ax7 microphones"), [neodymium](//recordinghacks.com/microphones/tag/neodymium "neodymium microphones"), [ecc83a](//recordinghacks.com/microphones/tag/ecc83a "ecc83a microphones") |

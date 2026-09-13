@@ -1,0 +1,173 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>variable-d microphones | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+                
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+			<div id="content">
+                <div id="sidebar">                  
+                    					<h2 class="search">search for mics</h2>
+					<form action="/microphones" method="POST">
+										<script language="JavaScript" type="text/javascript">
+function clearText(field){
+
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+
+}
+					</script>
+						<fieldset>
+						    <input type="text" name="s" size="20" value="Microphone name or model number" style="color: #667;margin-left: 0;margin-bottom: 8px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)"><br />
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<fieldset class="checks">
+							<span class="shaft">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+							</span>
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">&nbsp;<input style="font-size: 8px" type="reset" name="button" value="Reset Form">
+						</fieldset>
+					</form>
+                            <p></p><h3>Definition of "variable-d":</h3><p><b>Variable-D&trade;</b> is the name of a technology developed by Electro-Voice in 1954 to reduce proximity effect of cardioid microphones.</p><p>Cardioid microphones achieve directionality by allowing sound from the front of the microphone to enter the space behind the transducer, usually via ports (holes) in the microphone case behind the capsule. Most microphone designs have their ports located at a single, fixed distance from the microphone capsule. E-V terms these &#8220;Single-D&#8221; designs, for &#8220;single distance.&#8221;</p><p>The &#8220;Varible-D&#8221; design uses multiple ports along the length of the microphone body. According to Electro-Voice, &#8220;high frequencies [enter] the port closest to the diaphragm, mid frequencies [enter] midway along the length of the microphone case, and low frequencies [enter] the port farthest from the diaphragm.&#8221; </p><p>The result is the &#8220;virtual elimination of proximity effect.&#8221;</p><p>Electro-Voice patented this development; see <a href="http://www.google.com/patents?id=mPVKAAAAEBAJ">Patent 3,115,207</a>.</p><p>See also <b>Continuously Variable-D&trade;</b>, a refinement to the original design.</p><p>The term &#8220;Variable-D&#8221; is a registered trademark of Electro-Voice.</p><p>For more information, see this (PDF) excerpt from the <a href="/pdf/ev/PA_Bible_1980.pdf">1980 Electro-Voice PA Bible</a>.</p>
+<h3>Refine Search</h3><p>Find mics tagged '<b>variable-d</b> AND:'</p> 
+<p><a rel="nofollow" href="//recordinghacks.com/microphones/tag/variable-d+dynamic" title="Mics tagged variable-d AND dynamic">dynamic</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/variable-d+transformerless" title="Mics tagged variable-d AND transformerless">transformerless</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/variable-d+end-address" title="Mics tagged variable-d AND end-address">end-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/variable-d+kick-drum" title="Mics tagged variable-d AND kick-drum">kick-drum</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/variable-d+neodymium" title="Mics tagged variable-d AND neodymium">neodymium</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/variable-d+humbucking-coil" title="Mics tagged variable-d AND humbucking-coil">humbucking-coil</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/variable-d+broadcast" title="Mics tagged variable-d AND broadcast">broadcast</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/variable-d+dual-voice" title="Mics tagged variable-d AND dual-voice">dual-voice</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/variable-d+hpf" title="Mics tagged variable-d AND hpf">hpf</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/variable-d+transformer-coupled" title="Mics tagged variable-d AND transformer-coupled">transformer-coupled</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/variable-d+acoustalloy" title="Mics tagged variable-d AND acoustalloy">acoustalloy</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/variable-d+handheld" title="Mics tagged variable-d AND handheld">handheld</a> </p>
+<h3>Expand Search</h3><p>Find mics tagged '<b>variable-d</b> OR:'</p>
+<p><a rel="nofollow" href="//recordinghacks.com/microphones/tag/variable-d|dynamic" title="Mics tagged variable-d OR dynamic">dynamic</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/variable-d|transformerless" title="Mics tagged variable-d OR transformerless">transformerless</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/variable-d|end-address" title="Mics tagged variable-d OR end-address">end-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/variable-d|kick-drum" title="Mics tagged variable-d OR kick-drum">kick-drum</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/variable-d|neodymium" title="Mics tagged variable-d OR neodymium">neodymium</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/variable-d|humbucking-coil" title="Mics tagged variable-d OR humbucking-coil">humbucking-coil</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/variable-d|broadcast" title="Mics tagged variable-d OR broadcast">broadcast</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/variable-d|dual-voice" title="Mics tagged variable-d OR dual-voice">dual-voice</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/variable-d|hpf" title="Mics tagged variable-d OR hpf">hpf</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/variable-d|transformer-coupled" title="Mics tagged variable-d OR transformer-coupled">transformer-coupled</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/variable-d|acoustalloy" title="Mics tagged variable-d OR acoustalloy">acoustalloy</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/variable-d|handheld" title="Mics tagged variable-d OR handheld">handheld</a> </p>
+                </div><!-- /#sidebar -->
+                <div id="column" style="width: auto">
+						    <h2>Mics tagged: variable-d</h2>
+			    <table>
+				                    <tr><td><a title="Electro-Voice RE320 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Electro-Voice/RE320" ><img src="//cdn.recordinghacks.com/images/mics/01119/01119_75.jpg" width="75" height="75" alt="Electro-Voice RE320" title="Electro-Voice RE320"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1119-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Electro-Voice RE320 - Features, Specifications, Datasheet" href="/microphones/Electro-Voice/RE320"><strong>Electro-Voice RE320</strong></a><br />
+                        Dynamic Microphone<br />
+                        <a title="dynamic microphones"  href="//recordinghacks.com/microphones/tag/dynamic">dynamic</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="kick-drum microphones"  href="//recordinghacks.com/microphones/tag/kick-drum">kick-drum</a>, <a title="neodymium microphones"  href="//recordinghacks.com/microphones/tag/neodymium">neodymium</a>, <a title="variable-d microphones"  href="//recordinghacks.com/microphones/tag/variable-d">variable-d</a>, <a title="humbucking-coil microphones"  href="//recordinghacks.com/microphones/tag/humbucking-coil">humbucking-coil</a>, <a title="broadcast microphones"  href="//recordinghacks.com/microphones/tag/broadcast">broadcast</a>, <a title="dual-voice microphones"  href="//recordinghacks.com/microphones/tag/dual-voice">dual-voice</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Electro-Voice 664 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Electro-Voice/664" ><img src="//cdn.recordinghacks.com/images/mics/00611/00611_75.jpg" width="75" height="75" alt="Electro-Voice 664" title="Electro-Voice 664"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="611-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Electro-Voice 664 - Features, Specifications, Datasheet" href="/microphones/Electro-Voice/664"><strong>Electro-Voice 664</strong></a><br />
+                        Cardioid Dynamic Microphone<br />
+                        <a title="dynamic microphones"  href="//recordinghacks.com/microphones/tag/dynamic">dynamic</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="variable-d microphones"  href="//recordinghacks.com/microphones/tag/variable-d">variable-d</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Electro-Voice RE27N/D - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Electro-Voice/RE27N-D" ><img src="//cdn.recordinghacks.com/images/mics/00389/00389_75.jpg" width="75" height="75" alt="Electro-Voice RE27N/D" title="Electro-Voice RE27N/D"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="389-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Electro-Voice RE27N/D - Features, Specifications, Datasheet" href="/microphones/Electro-Voice/RE27N-D"><strong>Electro-Voice RE27N/D</strong></a><br />
+                        Cardioid Dynamic Microphone<br />
+                        <a title="dynamic microphones"  href="//recordinghacks.com/microphones/tag/dynamic">dynamic</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="kick-drum microphones"  href="//recordinghacks.com/microphones/tag/kick-drum">kick-drum</a>, <a title="neodymium microphones"  href="//recordinghacks.com/microphones/tag/neodymium">neodymium</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="variable-d microphones"  href="//recordinghacks.com/microphones/tag/variable-d">variable-d</a>, <a title="broadcast microphones"  href="//recordinghacks.com/microphones/tag/broadcast">broadcast</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Electro-Voice RE20 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Electro-Voice/RE20" ><img src="//cdn.recordinghacks.com/images/mics/00388/00388_75.jpg" width="75" height="75" alt="Electro-Voice RE20" title="Electro-Voice RE20"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="388-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Electro-Voice RE20 - Features, Specifications, Datasheet" href="/microphones/Electro-Voice/RE20"><strong>Electro-Voice RE20</strong></a><br />
+                        Cardioid Dynamic Microphone<br />
+                        <a title="dynamic microphones"  href="//recordinghacks.com/microphones/tag/dynamic">dynamic</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="kick-drum microphones"  href="//recordinghacks.com/microphones/tag/kick-drum">kick-drum</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="variable-d microphones"  href="//recordinghacks.com/microphones/tag/variable-d">variable-d</a>, <a title="acoustalloy microphones"  href="//recordinghacks.com/microphones/tag/acoustalloy">acoustalloy</a>, <a title="broadcast microphones"  href="//recordinghacks.com/microphones/tag/broadcast">broadcast</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Electro-Voice RE16 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Electro-Voice/RE16" ><img src="//cdn.recordinghacks.com/images/mics/00371/00371_75.jpg" width="75" height="75" alt="Electro-Voice RE16" title="Electro-Voice RE16"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="371-0" src="/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" >                        </span>
+                        <a title="Electro-Voice RE16 - Features, Specifications, Datasheet" href="/microphones/Electro-Voice/RE16"><strong>Electro-Voice RE16</strong></a><br />
+                        Supercardioid Dynamic Microphone<br />
+                        <a title="dynamic microphones"  href="//recordinghacks.com/microphones/tag/dynamic">dynamic</a>, <a title="handheld microphones"  href="//recordinghacks.com/microphones/tag/handheld">handheld</a>, <a title="variable-d microphones"  href="//recordinghacks.com/microphones/tag/variable-d">variable-d</a>, <a title="acoustalloy microphones"  href="//recordinghacks.com/microphones/tag/acoustalloy">acoustalloy</a>, <a title="humbucking-coil microphones"  href="//recordinghacks.com/microphones/tag/humbucking-coil">humbucking-coil</a><br />                        </td></tr>
+	
+                                </table>
+
+
+                 <!-- end of $nada test -->
+                </div><!-- /#column -->
+			</div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('1119-0');uniqueids.push('611-0');uniqueids.push('389-0');uniqueids.push('388-0');uniqueids.push('371-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

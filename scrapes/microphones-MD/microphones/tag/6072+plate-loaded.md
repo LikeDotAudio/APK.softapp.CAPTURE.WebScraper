@@ -1,0 +1,5 @@
+## Mics tagged: 6072 AND plate-loaded
+
+|  |  |
+| --- | --- |
+| [Cascade Microphones V55 Custom](http://recordinghacks.com/microphones/Cascade/V55-Custom "Cascade Microphones V55 Custom - Features, Specifications, Datasheet") | Cardioid  [**Cascade Microphones V55 Custom**](/microphones/Cascade/V55-Custom "Cascade Microphones V55 Custom - Features, Specifications, Datasheet")  Cardioid Tube Condenser Microphone  [side-address](//recordinghacks.com/microphones/tag/side-address "side-address microphones"), [large-diaphragm](//recordinghacks.com/microphones/tag/large-diaphragm "large-diaphragm microphones"), [tube](//recordinghacks.com/microphones/tag/tube "tube microphones"), [transformer-coupled](//recordinghacks.com/microphones/tag/transformer-coupled "transformer-coupled microphones"), [6072](//recordinghacks.com/microphones/tag/6072 "6072 microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [plate-loaded](//recordinghacks.com/microphones/tag/plate-loaded "plate-loaded microphones"), [ami](//recordinghacks.com/microphones/tag/ami "ami microphones") |

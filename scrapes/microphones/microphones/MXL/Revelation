@@ -1,0 +1,267 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>MXL Revelation | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="Revelation, Multi-Pattern Tube Condenser Microphone  - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/MXL/Revelation" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The multipattern MXL Revelation is the successor to the cardioid-only Genesis." href="//recordinghacks.com/microphones/MXL/Genesis"><img src="//cdn.recordinghacks.com/images/mics/00687/00687_75.jpg" width="75" height="75" alt="The multipattern MXL Revelation is the successor to the cardioid-only Genesis." title="The multipattern MXL Revelation is the successor to the cardioid-only Genesis."   ><br /><span>MXL Genesis</span></a></li>
+                                                    <li class="mictile"><a title="The Revelation Stereo is an XY-stereo version of the Revelation." href="//recordinghacks.com/microphones/MXL/Revelation-Stereo"><img src="//cdn.recordinghacks.com/images/mics/01141/01141_75.jpg" width="75" height="75" alt="The Revelation Stereo is an XY-stereo version of the Revelation." title="The Revelation Stereo is an XY-stereo version of the Revelation."   ><br /><span>MXL Revelation Stereo</span></a></li>
+                                                    <li class="mictile"><a title="The Revelation Solo in a fixed Cardioid version of the Revelation." href="//recordinghacks.com/microphones/MXL/Revelation-Solo"><img src="//cdn.recordinghacks.com/images/mics/01611/01611_75.jpg" width="75" height="75" alt="The Revelation Solo in a fixed Cardioid version of the Revelation." title="The Revelation Solo in a fixed Cardioid version of the Revelation."   ><br /><span>MXL Revelation Solo</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/MXL">MXL microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="MXL Revelation" href="/microphone-photo/00943/MXL/Revelation.jpg"><img src="//cdn.recordinghacks.com/images/mics/00943/00943_172.jpg" width="172" height="109" alt="MXL Revelation" title="MXL Revelation" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $1,495</li>
+                                                            </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/side-address" alt="side-address microphones">side-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/large-diaphragm" alt="large-diaphragm microphones">large-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/dual-diaphragm" alt="dual-diaphragm microphones">dual-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/tube" alt="tube microphones">tube</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/multipattern" alt="multipattern microphones">multipattern</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/k67" alt="k67 microphones">k67</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformer-coupled" alt="transformer-coupled microphones">transformer-coupled</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/center-terminated" alt="center-terminated microphones">center-terminated</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/ef86" alt="ef86 microphones">ef86</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/condenser" alt="condenser microphones">condenser</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/hpf" alt="hpf microphones">hpf</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/single-layer" alt="single-layer microphones">single-layer</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/electro-harmonix" alt="electro-harmonix microphones">electro-harmonix</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/mxl/mxl_revelation_2010-01.pdf">Revelation press release, 2010</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/2010/02/17/mxl-revelation-review/">RH Review, 2010-02</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/2010/06/09/acoustic-guitar-tube-mic-shootout/">Rev. in Tube Mic Shootout</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/2010/03/21/realtraps-pvb-review/">Rev. in PVB test</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/2010/04/16/tube-mic-voiceover-test/">Tube Mic VO test</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/2011/09/19/manley-tube-microphones-for-voiceover/">vs Manley, Bock for VO</a></li>
+                                                                </ul>                    
+                                        <h3>Revelation Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://mxlmics.com/products/Studio_mics/Revelation/Revelation.html">Revelation Product Description</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/mxl/Revelation_Manual.pdf">Revelation User&#8217;s Guide</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img src="//cdn.recordinghacks.com/images/icons/patterns/icon_cv.png" id="943-0" width=27 height=27 alt="continuously variable pattern selection" title="Continuously variable pattern selection"></span>MXL Revelation</h2>
+                    
+                    <h2 class="sub">                    Multi-Pattern Tube Condenser Microphone</h2>
+                    <p>The MXL Revelation is a new tube microphone for 2010, intended to build on the success of the Genesis.</p><p>Both are large-diaphragm tube condensers utilizing hand-picked vacuum tubes. But unlike the Genesis, the Revelation is a multipattern mic. A dial on the power supply provides continuously-variable pickup pattern selection, enabling the user to select any degree of variation from Omni to Figure-of-8 (with no switching noise). </p><p><a href="//cdn.recordinghacks.com/images//mic_extras/mxl/revelation-capsule.jpg" rel="shadowbox"><img src="//cdn.recordinghacks.com/images/mic_extras/mxl/revelation-capsule-sm.jpg" class="thumb shaft" alt="MXL Revelation Capsule" width="200" /></a>The mic&#8217;s capsule is a K67-type, with dual diaphragms made of 6-micron Mylar, center-terminated.</p><p>The tube power supply also provides a switchable high-pass filter (-12dB/octave @ 125Hz), -10dB pad, and a 180&deg; phase-flip switch.</p><p>The Revelation&#8217;s tube is a Russian-made Electro-Harmonix EF86 pentode. This differs from the Mullard 12AT7 tube found in the Genesis and Genesis II.</p><p>The mic&#8217;s headbasket uses a single-layer mesh. The press release notes that the mic has a &#8220;tuned grill cavity&#8221; to &#8220;reduce standing waves and harmonic distortion.&#8221; </p><p><a href="//cdn.recordinghacks.com/images//mic_extras/mxl/revelation-kit.jpg" rel="shadowbox"><img src="//cdn.recordinghacks.com/images/mic_extras/mxl/revelation-kit-sm.jpg" class="thumb shaft" alt="MXL Revelation" width="200" /></a>The Revelation will ship with its power supply, a 15-foot Mogami power cable, a 15-foot Mogami XLR cable, elastic shockmount, and a cleaning cloth, all of which fit into the included aluminum flight case.</p><p>Read more about the Revelation, and hear audio samples in our <a href="http://recordinghacks.com/2010/02/17/mxl-revelation-review/">MXL Revelation - First Listen</a> review.</p><p>To be clear, the Revelation is <em>not</em> a multipattern version of the Genesis. The capsules are similar, perhaps identical, but the tubes and amplifier circuits are very different.<p>Permalink: <a href="//recordinghacks.com/microphones/MXL/Revelation">MXL Revelation</a></p><p>The mic was released in 2010.</p>
+                    <h3>Specifications</h3>
+                                        
+                    <table>
+                                                    <tr><th>Frequency Response - Cardioid<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/1287" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/1/1287.png" width=476 height=159 alt="Revelation Cardioid Frequency Response Chart" title="Revelation Cardioid Frequency Response Chart" border=0 /></td></tr>
+                            </table>
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                                                                Cardioid
+                                             (10 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                    <li>Pad: -10dB<small> (Via Switch)</small></li>
+                                                                        <li>Filter: HPF: -12dB/octave @ 125Hz<small> (Via Switch)</small></li>
+                                                                    </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Capsule Dimensions</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                                                            Diameter n/a<br />
+                                                                                Diaphragm gauge: 6 microns                                                                    </td>
+                            <td>140 Ohms <em class="mute">(Low)</em></td>
+                            <td>Max SPL: 138 dB<br />                                Self-noise: 18.0 dB(A)</td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>907g <em class="mute">(31.99oz)</em></td>
+                            <td>190mm <em class="mute">(7.48&#39;&#39;)</em></td>
+                            <td>64mm <em class="mute">(2.52&#39;&#39;)</em></td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                                                                                                                <li>Includes tube power supply </li>
+                                                                                    </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('943-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

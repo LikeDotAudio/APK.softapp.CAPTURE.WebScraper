@@ -1,0 +1,276 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Shure SM57 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="SM57, Cardioid Dynamic Microphone , aka: SM-57a, SM57a, 57 - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/Shure/SM57" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>SM57 Microphone Sets</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="Shure DMK57-52 - microphone set" href="//recordinghacks.com/microphones/Shure/DMK57-52"><img src="//cdn.recordinghacks.com/images/sets/00010/00010_75.jpg" width="75" height="75" alt="" title=""   ><br /><span>Shure DMK57-52</span></a></li>
+                                                </ul>
+                        </div>
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The 545SD and SM57 use identical Unidyne III capsules." href="//recordinghacks.com/microphones/Shure/545SD"><img src="//cdn.recordinghacks.com/images/mics/00195/00195_75.jpg" width="75" height="75" alt="The 545SD and SM57 use identical Unidyne III capsules." title="The 545SD and SM57 use identical Unidyne III capsules."   ><br /><span>Shure 545SD</span></a></li>
+                                                    <li class="mictile"><a title="The SM58 and SM57 differ primarily in the grille assembly; capsules and electronics are identical." href="//recordinghacks.com/microphones/Shure/SM58"><img src="//cdn.recordinghacks.com/images/mics/00239/00239_75.jpg" width="75" height="75" alt="The SM58 and SM57 differ primarily in the grille assembly; capsules and electronics are identical." title="The SM58 and SM57 differ primarily in the grille assembly; capsules and electronics are identical."   ><br /><span>Shure SM58</span></a></li>
+                                                    <li class="mictile"><a title="Both the SM7 and SM57 use the Unidyne III capsule design." href="//recordinghacks.com/microphones/Shure/SM7B"><img src="//cdn.recordinghacks.com/images/mics/00241/00241_75.jpg" width="75" height="75" alt="Both the SM7 and SM57 use the Unidyne III capsule design." title="Both the SM7 and SM57 use the Unidyne III capsule design."   ><br /><span>Shure SM7B</span></a></li>
+                                                    <li class="mictile"><a title="The Co4 and SM57 are both cardioid dynamic instrument mics." href="//recordinghacks.com/microphones/Electro-Voice/Co4"><img src="//cdn.recordinghacks.com/images/mics/00379/00379_75.jpg" width="75" height="75" alt="The Co4 and SM57 are both cardioid dynamic instrument mics." title="The Co4 and SM57 are both cardioid dynamic instrument mics."   ><br /><span>E-V Co4</span></a></li>
+                                                    <li class="mictile"><a title="The Audix i5 is intended as a Shure SM57 competitor." href="//recordinghacks.com/microphones/Audix/i5"><img src="//cdn.recordinghacks.com/images/mics/00754/00754_75.jpg" width="75" height="75" alt="The Audix i5 is intended as a Shure SM57 competitor." title="The Audix i5 is intended as a Shure SM57 competitor."   ><br /><span>Audix i5</span></a></li>
+                                                    <li class="mictile"><a title="The TG-X 47 competes with the SM57 as a ~$99 instrument dynamic." href="//recordinghacks.com/microphones/beyerdynamic/TG-X-47"><img src="//cdn.recordinghacks.com/images/mics/00819/00819_75.jpg" width="75" height="75" alt="The TG-X 47 competes with the SM57 as a ~$99 instrument dynamic." title="The TG-X 47 competes with the SM57 as a ~$99 instrument dynamic."   ><br /><span>beyerdynamic TG-X 47</span></a></li>
+                                                    <li class="mictile"><a title="The G5790 is a right-angle mod for the SM57." href="//recordinghacks.com/microphones/Granelli-Audio/G5790"><img src="//cdn.recordinghacks.com/images/mics/00834/00834_75.jpg" width="75" height="75" alt="The G5790 is a right-angle mod for the SM57." title="The G5790 is a right-angle mod for the SM57."   ><br /><span>Granelli G5790</span></a></li>
+                                                    <li class="mictile"><a title="The Avant ADM was designed as an improved SM57." href="//recordinghacks.com/microphones/Avant/ADM"><img src="//cdn.recordinghacks.com/images/mics/00893/00893_75.jpg" width="75" height="75" alt="The Avant ADM was designed as an improved SM57." title="The Avant ADM was designed as an improved SM57."   ><br /><span>Avant ADM</span></a></li>
+                                                    <li class="mictile"><a title="The ATM63HE and SM57 are both instrument dynamics and share many applications." href="//recordinghacks.com/microphones/Audio-Technica/ATM63HE"><img src="//cdn.recordinghacks.com/images/mics/00063/00063_75.jpg" width="75" height="75" alt="The ATM63HE and SM57 are both instrument dynamics and share many applications." title="The ATM63HE and SM57 are both instrument dynamics and share many applications."   ><br /><span>Audio-Technica ATM63HE</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/Shure">Shure microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Shure SM57" href="/microphone-photo/00002/Shure/SM57.jpg"><img src="//cdn.recordinghacks.com/images/mics/00002/00002_172.jpg" width="172" height="87" alt="Shure SM57" title="Shure SM57" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $158</li>
+                                                            </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/dynamic" alt="dynamic microphones">dynamic</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformer-coupled" alt="transformer-coupled microphones">transformer-coupled</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/end-address" alt="end-address microphones">end-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/handheld" alt="handheld microphones">handheld</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/snare-drum" alt="snare-drum microphones">snare-drum</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/pneumatic-shockmount" alt="pneumatic-shockmount microphones">pneumatic-shockmount</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="forum"><a rel="nofollow" href="http://www.gearslutz.com/board/low-end-theory/66194-classic-sm57s.html">Unidyne III vs Mexican SM57</a></li>
+                                                                    <li id="www"><a  href="http://www.mojopie.com/2008/12/shure-sm57-and-shure-sm58.html">Mojo Pie review</a></li>
+                                                                    <li id="forum"><a  href="http://repforums.prosoundweb.com/index.php?topic=19959.0">AMI xf thread on PSW</a></li>
+                                                                    <li id="www"><a  href="http://www.recordingmag.com/resources/resourceDetail/330.html">SM57 Impedance Mod</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/2012/10/31/how-a-dynamic-microphone-works/">How Dynamic Mics Work</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/2012/11/01/engineering-secrets-sm57/">SM57 Insider Secrets</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/2012/11/02/shure-invisible-shockmount/">SM57&#8217;s Invisible Shockmount</a></li>
+                                                                </ul>                    
+                                        <h3>SM57 Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/shure/us_pro_sm57_specsheet.pdf">SM57 Specification Sheet</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/shure/us_pro_sm57_ug.pdf">SM57 User Guide</a></li>
+                                                                    <li id="www"><a  href="http://www.shure.com/americas/products/microphones/sm/sm57-instrument-microphone">SM57 Product Description</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="2-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>Shure SM57</h2>
+                    
+                    <h2 class="sub">                    Cardioid Dynamic Microphone</h2>
+                    <p>The SM-57 is a unidirectional (&#8220;cardioid&#8221;) dynamic mic that has been used in some respect on 75% of the recordings in your collection &#8212; from snare drum to vocals to guitar cabs to, well, everything. It is known for sounding pretty good on everything, and more specifically for its &#8220;carefully contoured presence rise,&#8221; sometimes less charitably known as &#8220;midrange honk.&#8221;</p><p>It is a utility mic, usable on just about any source in any context, and is probably the most popular microphone in history.</p><blockquote><p><cite>Fletcher - Mercenary Audio</cite><br />My favorite microphone ever made is the Shure SM57. It&#8217;s rarely ever &#8220;genius&#8221; but it never ever totally sucks. You can point one in the general direction of a sound and you&#8217;ll get a pretty decent representation of that sound that can be recorded and pounded to death later.</p></blockquote><p></p><ul><li>Frequency response tailored for drums, guitars, and vocals</li><li>Uniform cardioid pickup pattern isolates the main sound source while reducing background noise</li><li>Pneumatic shock-mount system cuts down handling noise</li><li>Extremely durable and rugged</li></ul><p><em>Is the SM57 the same as a Beta 57?</em></p><p>The <a href="http://recordinghacks.com/microphones/Shure/Beta-57A">Beta 57A</a> differs from the SM57 in numerous respects<sup><a href="http://shure.custhelp.com/cgi-bin/shure.cfg/php/enduser/std_adp.php?p_faqid=2374" rel="nofollow">1</a></sup>, including:</p><ul><li>The Beta 57A has a supercardioid pickup pattern.</li><li>The Beta 57A is 4dB louder than the SM57.</li><li>The Beta 57A is less sensitive to handling noise than the SM57.</li><li>The Beta 57A has a hardened grille.</li><li>The Beta 57A has a wider usable frequency response than the SM57.</li></ul><p><em>Is the SM57 the same as an SM58?</em></p><p>The <a href="http://recordinghacks.com/microphones/Shure/SM58">SM58</a> uses the same capsule as the SM57, aside from mounting differences<sup><a href="http://shure.custhelp.com/cgi-bin/shure.cfg/php/enduser/std_adp.php?p_faqid=142" rel="nofollow">2</a></sup>, and the input sensitivity is the same<sup><a href="http://shure.custhelp.com/cgi-bin/shure.cfg/php/enduser/std_adp.php?p_faqid=256">7</a></sup>, but the flat grille on the SM57 allows positioning so close to a sound source that proximity effect can cause low-end boost that the SM58 cannot reproduce. Further, the grille on the SM57 causes a boost above 5kHz<sup><a href="http://shure.custhelp.com/cgi-bin/shure.cfg/php/enduser/std_adp.php?p_faqid=1118" rel="nofollow">3</a></sup>.</p><p><em>Is the SM57 the same as an SM7?</em></p><p>The <a href="http://recordinghacks.com/microphones/Shure/SM7B">SM7</a> capsule, like the SM57/SM58 capsule, is based on the &#8220;Unidyne III&#8221; capsule design, yet it is not identical to the SM57/SM58 capsule<sup><a href="http://shure.custhelp.com/cgi-bin/shure.cfg/php/enduser/std_adp.php?p_faqid=2002">4</a></sup>. The SM7 capsule is p/n RPM106; the SM57 capsule is p/n R57.</p><p>Further, the housings differ, and the SM7 has no output transformer.</p><p><em>Is the SM57 the same as the 545SD?</em></p><p>The <a href="http://recordinghacks.com/microphones/Shure/545SD">545SD</a> is physically the same size as the SM57, and uses the same Unidyne III capsule. Both are cardioid dynamics. The 545SD frequency response chart is similar, but not identical to the SM57; the 545SD would appear to have slightly more pronounced high-end response.</p><p><em>Are new SM57s as good as old SM57s?</em></p><p>Manufacture of the SM57 moved to Shure&#8217;s Mexican manufacturing facility in 1985. The company claims that microphone quality has, if anything, improved since that time.<sup><a href="http://shure.custhelp.com/cgi-bin/shure.cfg/php/enduser/std_adp.php?p_faqid=3229">6</a></sup></p><p>Shure has made no major design changes to the SM57 since its introduction, although &#8220;a host of minor improvements&#8221; have been made<sup><a href="http://shure.custhelp.com/cgi-bin/shure.cfg/php/enduser/std_adp.php?p_faqid=3082">7</a></sup>.</p><p>That said, some engineers feel differently:</p><blockquote><p><cite>Jim Williams</cite><a href="http://www.gearslutz.com/board/660403-post15.html">The current crop of Mexican 57&#8217;s sound nothing like the classic American made Unidyne III models</a>. Those older ones, if you can find a clean one, have much better top end clarity than the Mexican 57&#8217;s. The Mexican models sound nasal next to a clean Unidyne III model.</p></blockquote><p>The reason for this is most likely that the dies and tools used to create the mics initially wore out and were replaced, and the diaphragm pieces created by the new tools do not match the vintage pieces. Despite the company&#8217;s position that the design has not changed, the sense of <a href="http://www.gearslutz.com/board/low-end-theory/66194-classic-sm57s.html" rel="nofollow">most people on the message boards</a> is that the US-made SM57s sound better.</p><p><em>How can I distinguish a US-made SM57 from a Mexican-made SM57?</em></p><p>US-made SM57 mics were labelled &#8220;Unidyne III&#8221; on the ring near the mic capsule. Current SM57s show only &#8220;Shure SM57.&#8221;</p><p>Then, too, remember that US-made SM57s would be over 24 years old at this point, and would very likely show signs of physical age and abuse.</p><p><a name="SM57-mods"></a><em>What are popular mods for the SM57?</em></p><ul><li>Remove the transformer. This is a 15-minute mod that was described in detail in the Mar/Apr 2006 issue (#52) of <a href="http://tapeop.com">TapeOp</a>; essentially, use boiling water or a heat gun to soften the glue holding the transformer in the bottom half of the mic body (note: <b>do not</b> boil the capsule), then connect the wires from the XLR jack straight to the capsule.</p><p>This mod is reported to extend the frequency range of the mic, especially at the low end. It reduces the midrange honk. Some modders claim it improves transient response. However, it lowers the mic&#8217;s output by about 10dB (perhaps making it unsuitable for quiet sources).</p><p>Another downside to the mod is that <a href="http://www.gearslutz.com/board/724862-post46.html">transformerless SM57s may be damaged by phantom power</a>&#8230; although <a rel="nofollow" href="http://www.gearslutz.com/board/3694976-post72.html">subsequent analysis</a> questions the veracity of this threat.</li><li></p><p>Replace the transformer. The easiest way to do this is to buy the replacement transformer designed specifically for this mod, from TAB-Funkenwerk (MSRP $89): <a href="http://www.tab-funkenwerk.com/id67.html">TAB-Funkenwerk transformer mod for SM57/SM58</a>.</p><blockquote><p><cite>Terry Manning</cite><br />The stock Shure transformer version was more strident in the upper midrange and &#8220;sibilance&#8221; areas, and not in a pleasant way.  This is one of the things that I often dislike in a 57, that almost artificial &#8220;twang&#8221; that often seems to happen.  </p><p>The AMI transformer did not exhibit this effect nearly so much.  The AMI in fact had a noticeably smoother, rounder quality.  The lows were also more pronounced, so that may have actually been covering up any upper mid stridency a bit as well.  But the &#8220;extra lows&#8221; were not too much so, just fuller and more pleasing to the ear.</p><p>The AMI had a much more pleasing sound on &#8220;s&#8217;s&#8221; and uncomfortable sibilance was reduced from what the stock trans exhibited.</p><p>Overall I would give the new trans a quick thumbs up.</p></blockquote><p></li><li></p><p>Drop the input impedance on the preamp channel used for the SM57, to around 500 Ohms. This can be done easily if your preamp has variable impedance selection, or by wiring a resistor across pins 2 and 3 of an XLR jumper cable.</p><blockquote><p><cite>Paul Stamler, Recording Magazine</cite></p><p>[T]he SM57 in fact performed far better with a lower-impedance load&#8230; In short, the recordings at 500 ohms confounded everything I had ever experienced with SM57s.</p></blockquote><p>See the sidebar link to the SM57 Impedance Mod.<br /></li></ul><p><p>The <a href="//recordinghacks.com/microphones/Shure/SM57">Shure SM57</a> is also known as: SM-57a, SM57a, 57.</p><p>The mic was released in 1965.</p>
+                    <h3>Specifications</h3>
+                                        
+                    <table>
+                                                    <tr><th>Frequency Response - Cardioid<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/0006" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/0/0006.png" width=476 height=159 alt="SM57 Cardioid Frequency Response Chart" title="SM57 Cardioid Frequency Response Chart" border=0 /></td></tr>
+                            </table>
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                                                                Cardioid
+                                             (1.9 mV/Pa; 40 - 15,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Coil Diameter</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                    n/a                                </td>
+                            <td>310 Ohms <em class="mute">(Low)</em></td>
+                            <td><a href="/2008/02/26/maximum-spl-of-dynamic-microphones/">SPL n/a</a><br />                                </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>284g <em class="mute">(10.02oz)</em></td>
+                            <td>157mm <em class="mute">(6.18&#39;&#39;)</em></td>
+                            <td>32mm <em class="mute">(1.26&#39;&#39;)</em></td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                                                                                                                                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('2-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

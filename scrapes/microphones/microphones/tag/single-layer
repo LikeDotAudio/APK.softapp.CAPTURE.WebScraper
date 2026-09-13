@@ -1,0 +1,208 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>single-layer microphones | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+                
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+			<div id="content">
+                <div id="sidebar">                  
+                    					<h2 class="search">search for mics</h2>
+					<form action="/microphones" method="POST">
+										<script language="JavaScript" type="text/javascript">
+function clearText(field){
+
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+
+}
+					</script>
+						<fieldset>
+						    <input type="text" name="s" size="20" value="Microphone name or model number" style="color: #667;margin-left: 0;margin-bottom: 8px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)"><br />
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<fieldset class="checks">
+							<span class="shaft">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+							</span>
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">&nbsp;<input style="font-size: 8px" type="reset" name="button" value="Reset Form">
+						</fieldset>
+					</form>
+                            
+<h3>Refine Search</h3><p>Find mics tagged '<b>single-layer</b> AND:'</p> 
+<p><a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer+side-address" title="Mics tagged single-layer AND side-address">side-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer+large-diaphragm" title="Mics tagged single-layer AND large-diaphragm">large-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer+transformerless" title="Mics tagged single-layer AND transformerless">transformerless</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer+center-terminated" title="Mics tagged single-layer AND center-terminated">center-terminated</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer+surface-mount" title="Mics tagged single-layer AND surface-mount">surface-mount</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer+tube" title="Mics tagged single-layer AND tube">tube</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer+multipattern" title="Mics tagged single-layer AND multipattern">multipattern</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer+transformer-coupled" title="Mics tagged single-layer AND transformer-coupled">transformer-coupled</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer+ck12" title="Mics tagged single-layer AND ck12">ck12</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer+condenser" title="Mics tagged single-layer AND condenser">condenser</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer+12at7" title="Mics tagged single-layer AND 12at7">12at7</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer+continuously-variable" title="Mics tagged single-layer AND continuously-variable">continuously-variable</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer+dual-diaphragm" title="Mics tagged single-layer AND dual-diaphragm">dual-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer+rectangular-diaphragm" title="Mics tagged single-layer AND rectangular-diaphragm">rectangular-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer+model-2900" title="Mics tagged single-layer AND model-2900">model-2900</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer+k67" title="Mics tagged single-layer AND k67">k67</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer+12ax7" title="Mics tagged single-layer AND 12ax7">12ax7</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer+6072a" title="Mics tagged single-layer AND 6072a">6072a</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer+dual-backplate" title="Mics tagged single-layer AND dual-backplate">dual-backplate</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer+model-2700" title="Mics tagged single-layer AND model-2700">model-2700</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer+ef86" title="Mics tagged single-layer AND ef86">ef86</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer+hpf" title="Mics tagged single-layer AND hpf">hpf</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer+electro-harmonix" title="Mics tagged single-layer AND electro-harmonix">electro-harmonix</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer+stereo" title="Mics tagged single-layer AND stereo">stereo</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer+mid-side" title="Mics tagged single-layer AND mid-side">mid-side</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer+xy-stereo" title="Mics tagged single-layer AND xy-stereo">xy-stereo</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer+blumlein" title="Mics tagged single-layer AND blumlein">blumlein</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer+multitrack" title="Mics tagged single-layer AND multitrack">multitrack</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer+model-2800" title="Mics tagged single-layer AND model-2800">model-2800</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer+ribbon" title="Mics tagged single-layer AND ribbon">ribbon</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer+symmetrical" title="Mics tagged single-layer AND symmetrical">symmetrical</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer+neodymium" title="Mics tagged single-layer AND neodymium">neodymium</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer+lundahl" title="Mics tagged single-layer AND lundahl">lundahl</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer+ll2913" title="Mics tagged single-layer AND ll2913">ll2913</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer+6922" title="Mics tagged single-layer AND 6922">6922</a> </p>
+<h3>Expand Search</h3><p>Find mics tagged '<b>single-layer</b> OR:'</p>
+<p><a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer|side-address" title="Mics tagged single-layer OR side-address">side-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer|large-diaphragm" title="Mics tagged single-layer OR large-diaphragm">large-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer|transformerless" title="Mics tagged single-layer OR transformerless">transformerless</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer|center-terminated" title="Mics tagged single-layer OR center-terminated">center-terminated</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer|surface-mount" title="Mics tagged single-layer OR surface-mount">surface-mount</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer|tube" title="Mics tagged single-layer OR tube">tube</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer|multipattern" title="Mics tagged single-layer OR multipattern">multipattern</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer|transformer-coupled" title="Mics tagged single-layer OR transformer-coupled">transformer-coupled</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer|ck12" title="Mics tagged single-layer OR ck12">ck12</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer|condenser" title="Mics tagged single-layer OR condenser">condenser</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer|12at7" title="Mics tagged single-layer OR 12at7">12at7</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer|continuously-variable" title="Mics tagged single-layer OR continuously-variable">continuously-variable</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer|dual-diaphragm" title="Mics tagged single-layer OR dual-diaphragm">dual-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer|rectangular-diaphragm" title="Mics tagged single-layer OR rectangular-diaphragm">rectangular-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer|model-2900" title="Mics tagged single-layer OR model-2900">model-2900</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer|k67" title="Mics tagged single-layer OR k67">k67</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer|12ax7" title="Mics tagged single-layer OR 12ax7">12ax7</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer|6072a" title="Mics tagged single-layer OR 6072a">6072a</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer|dual-backplate" title="Mics tagged single-layer OR dual-backplate">dual-backplate</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer|model-2700" title="Mics tagged single-layer OR model-2700">model-2700</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer|ef86" title="Mics tagged single-layer OR ef86">ef86</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer|hpf" title="Mics tagged single-layer OR hpf">hpf</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer|electro-harmonix" title="Mics tagged single-layer OR electro-harmonix">electro-harmonix</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer|stereo" title="Mics tagged single-layer OR stereo">stereo</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer|mid-side" title="Mics tagged single-layer OR mid-side">mid-side</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer|xy-stereo" title="Mics tagged single-layer OR xy-stereo">xy-stereo</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer|blumlein" title="Mics tagged single-layer OR blumlein">blumlein</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer|multitrack" title="Mics tagged single-layer OR multitrack">multitrack</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer|model-2800" title="Mics tagged single-layer OR model-2800">model-2800</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer|ribbon" title="Mics tagged single-layer OR ribbon">ribbon</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer|symmetrical" title="Mics tagged single-layer OR symmetrical">symmetrical</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer|neodymium" title="Mics tagged single-layer OR neodymium">neodymium</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer|lundahl" title="Mics tagged single-layer OR lundahl">lundahl</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer|ll2913" title="Mics tagged single-layer OR ll2913">ll2913</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/single-layer|6922" title="Mics tagged single-layer OR 6922">6922</a> </p>
+                </div><!-- /#sidebar -->
+                <div id="column" style="width: auto">
+						    <h2>Mics tagged: single-layer</h2>
+			    <table>
+				                    <tr><td><a title="Oktava MK-519 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Oktava/MK-519" ><img src="//cdn.recordinghacks.com/images/mics/01188/01188_75.jpg" width="75" height="75" alt="Oktava MK-519" title="Oktava MK-519"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1188-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Oktava MK-519 - Features, Specifications, Datasheet" href="/microphones/Oktava/MK-519"><strong>Oktava MK-519</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="center-terminated microphones"  href="//recordinghacks.com/microphones/tag/center-terminated">center-terminated</a>, <a title="surface-mount microphones"  href="//recordinghacks.com/microphones/tag/surface-mount">surface-mount</a>, <a title="single-layer microphones"  href="//recordinghacks.com/microphones/tag/single-layer">single-layer</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Manley Laboratories, Inc Reference Gold - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Manley/Reference-Gold" ><img src="//cdn.recordinghacks.com/images/mics/01178/01178_75.jpg" width="75" height="75" alt="Manley Laboratories, Inc Reference Gold" title="Manley Laboratories, Inc Reference Gold"   ></a></td>
+                        <td><span class="shaft">
+					    <img src="/images/icons/patterns/icon_cv.png" id="1178-0" width=27 height=27 alt="continuously variable pattern selection" title="Continuously variable pattern selection"></span>
+                        <a title="Manley Laboratories, Inc Reference Gold - Features, Specifications, Datasheet" href="/microphones/Manley/Reference-Gold"><strong>Manley Laboratories, Inc Reference Gold</strong></a><br />
+                        Multi-Pattern Tube Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="tube microphones"  href="//recordinghacks.com/microphones/tag/tube">tube</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="ck12 microphones"  href="//recordinghacks.com/microphones/tag/ck12">ck12</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="12at7 microphones"  href="//recordinghacks.com/microphones/tag/12at7">12at7</a>, <a title="single-layer microphones"  href="//recordinghacks.com/microphones/tag/single-layer">single-layer</a>, <a title="continuously-variable microphones"  href="//recordinghacks.com/microphones/tag/continuously-variable">continuously-variable</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Milab Microphones DC-96C - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Milab/DC-96C" ><img src="//cdn.recordinghacks.com/images/mics/01176/01176_75.jpg" width="75" height="75" alt="Milab Microphones DC-96C" title="Milab Microphones DC-96C"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1176-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Milab Microphones DC-96C - Features, Specifications, Datasheet" href="/microphones/Milab/DC-96C"><strong>Milab Microphones DC-96C</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="dual-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/dual-diaphragm">dual-diaphragm</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="rectangular-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/rectangular-diaphragm">rectangular-diaphragm</a>, <a title="single-layer microphones"  href="//recordinghacks.com/microphones/tag/single-layer">single-layer</a>, <a title="model-2900 microphones"  href="//recordinghacks.com/microphones/tag/model-2900">model-2900</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Manley Laboratories, Inc Reference Cardioid - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Manley/Reference-Cardioid" ><img src="//cdn.recordinghacks.com/images/mics/01175/01175_75.jpg" width="75" height="75" alt="Manley Laboratories, Inc Reference Cardioid" title="Manley Laboratories, Inc Reference Cardioid"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1175-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Manley Laboratories, Inc Reference Cardioid - Features, Specifications, Datasheet" href="/microphones/Manley/Reference-Cardioid"><strong>Manley Laboratories, Inc Reference Cardioid</strong></a><br />
+                        Cardioid Tube Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="tube microphones"  href="//recordinghacks.com/microphones/tag/tube">tube</a>, <a title="k67 microphones"  href="//recordinghacks.com/microphones/tag/k67">k67</a>, <a title="12ax7 microphones"  href="//recordinghacks.com/microphones/tag/12ax7">12ax7</a>, <a title="center-terminated microphones"  href="//recordinghacks.com/microphones/tag/center-terminated">center-terminated</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="6072a microphones"  href="//recordinghacks.com/microphones/tag/6072a">6072a</a>, <a title="12at7 microphones"  href="//recordinghacks.com/microphones/tag/12at7">12at7</a>, <a title="dual-backplate microphones"  href="//recordinghacks.com/microphones/tag/dual-backplate">dual-backplate</a>, <a title="single-layer microphones"  href="//recordinghacks.com/microphones/tag/single-layer">single-layer</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Milab Microphones DC-96B - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Milab/DC-96B" ><img src="//cdn.recordinghacks.com/images/mics/01138/01138_75.jpg" width="75" height="75" alt="Milab Microphones DC-96B" title="Milab Microphones DC-96B"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1138-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Milab Microphones DC-96B - Features, Specifications, Datasheet" href="/microphones/Milab/DC-96B"><strong>Milab Microphones DC-96B</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="dual-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/dual-diaphragm">dual-diaphragm</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="rectangular-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/rectangular-diaphragm">rectangular-diaphragm</a>, <a title="single-layer microphones"  href="//recordinghacks.com/microphones/tag/single-layer">single-layer</a>, <a title="model-2700 microphones"  href="//recordinghacks.com/microphones/tag/model-2700">model-2700</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="MXL Revelation - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/MXL/Revelation" ><img src="//cdn.recordinghacks.com/images/mics/00943/00943_75.jpg" width="75" height="75" alt="MXL Revelation" title="MXL Revelation"   ></a></td>
+                        <td><span class="shaft">
+					    <img src="/images/icons/patterns/icon_cv.png" id="943-0" width=27 height=27 alt="continuously variable pattern selection" title="Continuously variable pattern selection"></span>
+                        <a title="MXL Revelation - Features, Specifications, Datasheet" href="/microphones/MXL/Revelation"><strong>MXL Revelation</strong></a><br />
+                        Multi-Pattern Tube Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="dual-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/dual-diaphragm">dual-diaphragm</a>, <a title="tube microphones"  href="//recordinghacks.com/microphones/tag/tube">tube</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="k67 microphones"  href="//recordinghacks.com/microphones/tag/k67">k67</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="center-terminated microphones"  href="//recordinghacks.com/microphones/tag/center-terminated">center-terminated</a>, <a title="ef86 microphones"  href="//recordinghacks.com/microphones/tag/ef86">ef86</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="single-layer microphones"  href="//recordinghacks.com/microphones/tag/single-layer">single-layer</a>, <a title="electro-harmonix microphones"  href="//recordinghacks.com/microphones/tag/electro-harmonix">electro-harmonix</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Pearl Microphone Laboratory DS 60 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Pearl/DS-60" ><img src="//cdn.recordinghacks.com/images/mics/00936/00936_75.jpg" width="75" height="75" alt="Pearl Microphone Laboratory DS 60" title="Pearl Microphone Laboratory DS 60"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="936-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="936-1" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="936-2" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ><img id="936-3" src="/images/icons/patterns/icon_xy.png" width=27 height=27 alt="X/Y Stereo" title="X/Y Stereo" ><img id="936-4" src="/images/icons/patterns/icon_ms.png" width=27 height=27 alt="Mid-Side Stereo" title="Mid-Side Stereo" ><img id="936-5" src="/images/icons/patterns/icon_bl.png" width=27 height=27 alt="Blumlein" title="Blumlein" >                        </span>
+                        <a title="Pearl Microphone Laboratory DS 60 - Features, Specifications, Datasheet" href="/microphones/Pearl/DS-60"><strong>Pearl Microphone Laboratory DS 60</strong></a><br />
+                        Multi-Pattern Condenser Stereo Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="dual-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/dual-diaphragm">dual-diaphragm</a>, <a title="stereo microphones"  href="//recordinghacks.com/microphones/tag/stereo">stereo</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="mid-side microphones"  href="//recordinghacks.com/microphones/tag/mid-side">mid-side</a>, <a title="xy-stereo microphones"  href="//recordinghacks.com/microphones/tag/xy-stereo">xy-stereo</a>, <a title="blumlein microphones"  href="//recordinghacks.com/microphones/tag/blumlein">blumlein</a>, <a title="rectangular-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/rectangular-diaphragm">rectangular-diaphragm</a>, <a title="multitrack microphones"  href="//recordinghacks.com/microphones/tag/multitrack">multitrack</a>, <a title="single-layer microphones"  href="//recordinghacks.com/microphones/tag/single-layer">single-layer</a>, <a title="model-2800 microphones"  href="//recordinghacks.com/microphones/tag/model-2800">model-2800</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Cascade Microphones Gomez - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Cascade/Gomez" ><img src="//cdn.recordinghacks.com/images/mics/00654/00654_75.jpg" width="75" height="75" alt="Cascade Microphones Gomez" title="Cascade Microphones Gomez"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="654-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Cascade Microphones Gomez - Features, Specifications, Datasheet" href="/microphones/Cascade/Gomez"><strong>Cascade Microphones Gomez</strong></a><br />
+                        Bidirectional Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="symmetrical microphones"  href="//recordinghacks.com/microphones/tag/symmetrical">symmetrical</a>, <a title="neodymium microphones"  href="//recordinghacks.com/microphones/tag/neodymium">neodymium</a>, <a title="lundahl microphones"  href="//recordinghacks.com/microphones/tag/lundahl">lundahl</a>, <a title="ll2913 microphones"  href="//recordinghacks.com/microphones/tag/ll2913">ll2913</a>, <a title="single-layer microphones"  href="//recordinghacks.com/microphones/tag/single-layer">single-layer</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="InnerTUBE Audio MM-2000 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Innertube-Audio/MM-2000" ><img src="//cdn.recordinghacks.com/images/mics/00510/00510_75.jpg" width="75" height="75" alt="InnerTUBE Audio MM-2000" title="InnerTUBE Audio MM-2000"   ></a></td>
+                        <td><span class="shaft">
+					    <img src="/images/icons/patterns/icon_cv.png" id="510-0" width=27 height=27 alt="continuously variable pattern selection" title="Continuously variable pattern selection"></span>
+                        <a title="InnerTUBE Audio MM-2000 - Features, Specifications, Datasheet" href="/microphones/Innertube-Audio/MM-2000"><strong>InnerTUBE Audio MM-2000</strong></a><br />
+                        Multi-Pattern Tube Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="dual-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/dual-diaphragm">dual-diaphragm</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="6922 microphones"  href="//recordinghacks.com/microphones/tag/6922">6922</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="single-layer microphones"  href="//recordinghacks.com/microphones/tag/single-layer">single-layer</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="InnerTUBE Audio MM-2006 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Innertube-Audio/MM-2006" ><img src="//cdn.recordinghacks.com/images/mics/00509/00509_75.jpg" width="75" height="75" alt="InnerTUBE Audio MM-2006" title="InnerTUBE Audio MM-2006"   ></a></td>
+                        <td><span class="shaft">
+					    <img src="/images/icons/patterns/icon_cv.png" id="509-0" width=27 height=27 alt="continuously variable pattern selection" title="Continuously variable pattern selection"></span>
+                        <a title="InnerTUBE Audio MM-2006 - Features, Specifications, Datasheet" href="/microphones/Innertube-Audio/MM-2006"><strong>InnerTUBE Audio MM-2006</strong></a><br />
+                        Multi-Pattern Tube Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="dual-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/dual-diaphragm">dual-diaphragm</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="6922 microphones"  href="//recordinghacks.com/microphones/tag/6922">6922</a>, <a title="ck12 microphones"  href="//recordinghacks.com/microphones/tag/ck12">ck12</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="single-layer microphones"  href="//recordinghacks.com/microphones/tag/single-layer">single-layer</a><br />                        </td></tr>
+	
+                                </table>
+
+
+                 <!-- end of $nada test -->
+                </div><!-- /#column -->
+			</div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('1188-0');uniqueids.push('1178-0');uniqueids.push('1176-0');uniqueids.push('1175-0');uniqueids.push('1138-0');uniqueids.push('943-0');uniqueids.push('936-0');uniqueids.push('936-1');uniqueids.push('936-2');uniqueids.push('936-3');uniqueids.push('936-4');uniqueids.push('936-5');uniqueids.push('654-0');uniqueids.push('510-0');uniqueids.push('509-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

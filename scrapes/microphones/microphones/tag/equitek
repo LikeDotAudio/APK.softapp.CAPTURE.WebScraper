@@ -1,0 +1,194 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>equitek microphones | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+                
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+			<div id="content">
+                <div id="sidebar">                  
+                    					<h2 class="search">search for mics</h2>
+					<form action="/microphones" method="POST">
+										<script language="JavaScript" type="text/javascript">
+function clearText(field){
+
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+
+}
+					</script>
+						<fieldset>
+						    <input type="text" name="s" size="20" value="Microphone name or model number" style="color: #667;margin-left: 0;margin-bottom: 8px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)"><br />
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<fieldset class="checks">
+							<span class="shaft">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+							</span>
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">&nbsp;<input style="font-size: 8px" type="reset" name="button" value="Reset Form">
+						</fieldset>
+					</form>
+                            <p></p><h3>Definition of "equitek":</h3><p><b>Equitek</b> is CAD&#8217;s name for a unique microphone amplifier circuit design. </p><p>The original Equitek circuit, found in the 1990s-era E-100, E-200, and E-300 microphones as well as the revised e100<sup>2</sup> and e300<sup>2</sup>, employed opamps rather than transformers or transistors in the output stage. This was done to avoid the &#8220;inherently nonlinear&#8221; behavior of output circuits with twin output transistors, which are difficult to match precisely.</p><p>The drawback to op-amps is their high current draw. Standard 48V phantom power is insufficient to power these output ICs (such as TI&#8217;s OPA2107) during transients. Therefore, CAD reengineered the power supply to feed the high-current op-amps in the Equitek output circuit: P48 was used to trickle-charge two built-in rechargeable (NiCd or NiMH) 9V batteries, which in turn powered the amplifier circuit.</p><p>The next-generation Equitek circuit, such as found in the e60, retained the op-amps but did not require internal batteries. (CAD&#8217;s M179, although not named Equitek, employs a similar phantom-powered, no-battery op-amp output circuit &#8212; and requires true P48 power for best operation.)</p><p>With the release of the E100S in 2009, the Equitek name has evolved again, and in a sense come full-circle. The Equitek E100S has a full-differential design with 4 FETs on the input and two bipolar transistors (but no op-amps) on the output. The E100S does not have rechargeable batteries in the circuit, and is able to deliver full performance at low current draw.</p><p>So, the latest Equitek design reverts to discrete output transistors &#8212; and whatever nonlinearities they bring &#8212; in exchange for lower self-noise (3.7dBA!) and low current draw.</p>
+<h3>Refine Search</h3><p>Find mics tagged '<b>equitek</b> AND:'</p> 
+<p><a rel="nofollow" href="//recordinghacks.com/microphones/tag/equitek+side-address" title="Mics tagged equitek AND side-address">side-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/equitek+large-diaphragm" title="Mics tagged equitek AND large-diaphragm">large-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/equitek+transformerless" title="Mics tagged equitek AND transformerless">transformerless</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/equitek+condenser" title="Mics tagged equitek AND condenser">condenser</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/equitek+externally-biased" title="Mics tagged equitek AND externally-biased">externally-biased</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/equitek+multipattern" title="Mics tagged equitek AND multipattern">multipattern</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/equitek+hpf" title="Mics tagged equitek AND hpf">hpf</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/equitek+electret" title="Mics tagged equitek AND electret">electret</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/equitek+opa2107" title="Mics tagged equitek AND opa2107">opa2107</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/equitek+end-address" title="Mics tagged equitek AND end-address">end-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/equitek+edge-terminated" title="Mics tagged equitek AND edge-terminated">edge-terminated</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/equitek+nickel-diaphragm" title="Mics tagged equitek AND nickel-diaphragm">nickel-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/equitek+lowest-noise" title="Mics tagged equitek AND lowest-noise">lowest-noise</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/equitek+pencil-mic" title="Mics tagged equitek AND pencil-mic">pencil-mic</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/equitek+detachable-capsule" title="Mics tagged equitek AND detachable-capsule">detachable-capsule</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/equitek+tsb-160a" title="Mics tagged equitek AND tsb-160a">tsb-160a</a> </p>
+<h3>Expand Search</h3><p>Find mics tagged '<b>equitek</b> OR:'</p>
+<p><a rel="nofollow" href="//recordinghacks.com/microphones/tag/equitek|side-address" title="Mics tagged equitek OR side-address">side-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/equitek|large-diaphragm" title="Mics tagged equitek OR large-diaphragm">large-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/equitek|transformerless" title="Mics tagged equitek OR transformerless">transformerless</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/equitek|condenser" title="Mics tagged equitek OR condenser">condenser</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/equitek|externally-biased" title="Mics tagged equitek OR externally-biased">externally-biased</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/equitek|multipattern" title="Mics tagged equitek OR multipattern">multipattern</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/equitek|hpf" title="Mics tagged equitek OR hpf">hpf</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/equitek|electret" title="Mics tagged equitek OR electret">electret</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/equitek|opa2107" title="Mics tagged equitek OR opa2107">opa2107</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/equitek|end-address" title="Mics tagged equitek OR end-address">end-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/equitek|edge-terminated" title="Mics tagged equitek OR edge-terminated">edge-terminated</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/equitek|nickel-diaphragm" title="Mics tagged equitek OR nickel-diaphragm">nickel-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/equitek|lowest-noise" title="Mics tagged equitek OR lowest-noise">lowest-noise</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/equitek|pencil-mic" title="Mics tagged equitek OR pencil-mic">pencil-mic</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/equitek|detachable-capsule" title="Mics tagged equitek OR detachable-capsule">detachable-capsule</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/equitek|tsb-160a" title="Mics tagged equitek OR tsb-160a">tsb-160a</a> </p>
+                </div><!-- /#sidebar -->
+                <div id="column" style="width: auto">
+						    <h2>Mics tagged: equitek</h2>
+			    <table>
+				                    <tr><td><a title="CAD Audio M37 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/CAD/M37" ><img src="//cdn.recordinghacks.com/images/mics/01411/01411_75.jpg" width="75" height="75" alt="CAD Audio M37" title="CAD Audio M37"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1411-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="CAD Audio M37 - Features, Specifications, Datasheet" href="/microphones/CAD/M37"><strong>CAD Audio M37</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="equitek microphones"  href="//recordinghacks.com/microphones/tag/equitek">equitek</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="CAD Audio E300S - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/CAD/E300S" ><img src="//cdn.recordinghacks.com/images/mics/01287/01287_75.jpg" width="75" height="75" alt="CAD Audio E300S" title="CAD Audio E300S"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1287-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="1287-1" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="1287-2" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="CAD Audio E300S - Features, Specifications, Datasheet" href="/microphones/CAD/E300S"><strong>CAD Audio E300S</strong></a><br />
+                        Multi-Pattern Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="externally-biased microphones"  href="//recordinghacks.com/microphones/tag/externally-biased">externally-biased</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="equitek microphones"  href="//recordinghacks.com/microphones/tag/equitek">equitek</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="CAD Audio E-100 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/CAD/equitek-E100" ><img src="//cdn.recordinghacks.com/images/mics/00868/00868_75.jpg" width="75" height="75" alt="CAD Audio E-100" title="CAD Audio E-100"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="868-0" src="/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" >                        </span>
+                        <a title="CAD Audio E-100 - Features, Specifications, Datasheet" href="/microphones/CAD/equitek-E100"><strong>CAD Audio E-100</strong></a><br />
+                        Supercardioid Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="opa2107 microphones"  href="//recordinghacks.com/microphones/tag/opa2107">opa2107</a>, <a title="equitek microphones"  href="//recordinghacks.com/microphones/tag/equitek">equitek</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="CAD Audio equitek e60 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/CAD/e60" ><img src="//cdn.recordinghacks.com/images/mics/00867/00867_75.jpg" width="75" height="75" alt="CAD Audio equitek e60" title="CAD Audio equitek e60"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="867-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="CAD Audio equitek e60 - Features, Specifications, Datasheet" href="/microphones/CAD/e60"><strong>CAD Audio equitek e60</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="externally-biased microphones"  href="//recordinghacks.com/microphones/tag/externally-biased">externally-biased</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="equitek microphones"  href="//recordinghacks.com/microphones/tag/equitek">equitek</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="CAD Audio E100S - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/CAD/E100S" ><img src="//cdn.recordinghacks.com/images/mics/00865/00865_75.jpg" width="75" height="75" alt="CAD Audio E100S" title="CAD Audio E100S"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="865-0" src="/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" >                        </span>
+                        <a title="CAD Audio E100S - Features, Specifications, Datasheet" href="/microphones/CAD/E100S"><strong>CAD Audio E100S</strong></a><br />
+                        Supercardioid Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="externally-biased microphones"  href="//recordinghacks.com/microphones/tag/externally-biased">externally-biased</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="edge-terminated microphones"  href="//recordinghacks.com/microphones/tag/edge-terminated">edge-terminated</a>, <a title="nickel-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/nickel-diaphragm">nickel-diaphragm</a>, <a title="equitek microphones"  href="//recordinghacks.com/microphones/tag/equitek">equitek</a>, <a title="lowest-noise microphones"  href="//recordinghacks.com/microphones/tag/lowest-noise">lowest-noise</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="CAD Audio equitek e70 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/CAD/e70" ><img src="//cdn.recordinghacks.com/images/mics/00486/00486_75.jpg" width="75" height="75" alt="CAD Audio equitek e70" title="CAD Audio equitek e70"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="486-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="486-1" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="CAD Audio equitek e70 - Features, Specifications, Datasheet" href="/microphones/CAD/e70"><strong>CAD Audio equitek e70</strong></a><br />
+                        Detachable-Capsule Pencil Condenser Microphone<br />
+                        <a title="pencil-mic microphones"  href="//recordinghacks.com/microphones/tag/pencil-mic">pencil-mic</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="detachable-capsule microphones"  href="//recordinghacks.com/microphones/tag/detachable-capsule">detachable-capsule</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="equitek microphones"  href="//recordinghacks.com/microphones/tag/equitek">equitek</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="CAD Audio e300v2 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/CAD/e300" ><img src="//cdn.recordinghacks.com/images/mics/00265/00265_75.jpg" width="75" height="75" alt="CAD Audio e300v2" title="CAD Audio e300v2"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="265-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="265-1" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="265-2" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="CAD Audio e300v2 - Features, Specifications, Datasheet" href="/microphones/CAD/e300"><strong>CAD Audio e300v2</strong></a><br />
+                        Multi-Pattern Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="externally-biased microphones"  href="//recordinghacks.com/microphones/tag/externally-biased">externally-biased</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="equitek microphones"  href="//recordinghacks.com/microphones/tag/equitek">equitek</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="CAD Audio e100<sup>2</sup> - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/CAD/e100" ><img src="//cdn.recordinghacks.com/images/mics/00264/00264_75.jpg" width="75" height="75" alt="CAD Audio e100<sup>2</sup>" title="CAD Audio e100<sup>2</sup>"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="264-0" src="/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" >                        </span>
+                        <a title="CAD Audio e100<sup>2</sup> - Features, Specifications, Datasheet" href="/microphones/CAD/e100"><strong>CAD Audio e100<sup>2</sup></strong></a><br />
+                        Supercardioid Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="opa2107 microphones"  href="//recordinghacks.com/microphones/tag/opa2107">opa2107</a>, <a title="equitek microphones"  href="//recordinghacks.com/microphones/tag/equitek">equitek</a>, <a title="tsb-160a microphones"  href="//recordinghacks.com/microphones/tag/tsb-160a">tsb-160a</a><br />                        </td></tr>
+	
+                                </table>
+
+
+                 <!-- end of $nada test -->
+                </div><!-- /#column -->
+			</div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('1411-0');uniqueids.push('1287-0');uniqueids.push('1287-1');uniqueids.push('1287-2');uniqueids.push('868-0');uniqueids.push('867-0');uniqueids.push('865-0');uniqueids.push('486-0');uniqueids.push('486-1');uniqueids.push('265-0');uniqueids.push('265-1');uniqueids.push('265-2');uniqueids.push('264-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

@@ -1,0 +1,253 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Lucas Engineering CS-4 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="CS-4, Multi-Pattern Tube Condenser Microphone  - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/lucas/CS-4" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The CS-1 and CS-4 share a power supply; both mics were designed by Oliver Archut." href="//recordinghacks.com/microphones/lucas/CS-1"><img src="//cdn.recordinghacks.com/images/mics/00660/00660_75.jpg" width="75" height="75" alt="The CS-1 and CS-4 share a power supply; both mics were designed by Oliver Archut." title="The CS-1 and CS-4 share a power supply; both mics were designed by Oliver Archut."   ><br /><span>Lucas CS-1</span></a></li>
+                                                    <li class="mictile"><a title="The CS-4 is a contemporary tube mic made in the spirit of the U 47." href="//recordinghacks.com/microphones/Neumann/U-47"><img src="//cdn.recordinghacks.com/images/mics/00427/00427_75.jpg" width="75" height="75" alt="The CS-4 is a contemporary tube mic made in the spirit of the U 47." title="The CS-4 is a contemporary tube mic made in the spirit of the U 47."   ><br /><span>Neumann U 47</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/lucas">Lucas microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Lucas Engineering CS-4" href="/microphone-photo/00982/lucas/CS-4.jpg"><img src="//cdn.recordinghacks.com/images/mics/00982/00982_172.jpg" width="172" height="101" alt="Lucas Engineering CS-4" title="Lucas Engineering CS-4" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $4,490</li>
+                                                            </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/side-address" alt="side-address microphones">side-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/large-diaphragm" alt="large-diaphragm microphones">large-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/dual-diaphragm" alt="dual-diaphragm microphones">dual-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/tube" alt="tube microphones">tube</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformer-coupled" alt="transformer-coupled microphones">transformer-coupled</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/center-terminated" alt="center-terminated microphones">center-terminated</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/m7" alt="m7 microphones">m7</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/bv8" alt="bv8 microphones">bv8</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/ami" alt="ami microphones">ami</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/thiersch" alt="thiersch microphones">thiersch</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/telefunken" alt="telefunken microphones">telefunken</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="forum"><a  href="http://recforums.prosoundweb.com/index.php/mv/msg/26028/0/2352/0/">CS-4 Development</a></li>
+                                                                </ul>                    
+                                        <h3>CS-4 Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.compasspointstudios.com/lucas/cs-4/index.htm">CS-4 Product Story</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img src="//cdn.recordinghacks.com/images/icons/patterns/icon_cv.png" id="982-0" width=27 height=27 alt="continuously variable pattern selection" title="Continuously variable pattern selection"></span>Lucas Engineering CS-4</h2>
+                    
+                    <h2 class="sub">                    Multi-Pattern Tube Condenser Microphone</h2>
+                    <p>The CS-4 is a multipattern tube condenser designed by Oliver Archut and Terry Manning as a contemporary reinterpretation of the &#8220;sonically colored&#8221; family of microphones descended from the Neumann U-47. The mic is emphatically not presented as a U-47 clone, soundalike, or replacement, but rather as a high-end tube mic that the original Neumann engineers might build today.</p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/thiersch/thiersch_stw7.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/thiersch/thiersch_stw7.jpg" class="thumb shaft" alt="Thiersch STW 7 (M7) capsule" width="150" /></a>The capsule is a PVC-membrane M7, designed and manufactured to match the original Neumann blueprints by former Neumann capsule technician Sigfried Thiersch. Although Thiersch supplies both PVC and Mylar-skinned M7s to numerous manufacturers, the CS-4 capsules are unique in two respects:</p><ul><li>The diaphragms are treated with a moisture repellent to improve performance when close-miking vocals.</li><li>The PVC diaphragm material is aged to meet the NWDR <em>(Nordwestdeutscher Rundfunk)</em> specifications for the <a href="http://recordinghacks.com/microphones/Neumann/M-49">Neumann M 49</a>, to ensure the most consistent front-to-back response.</li></ul><p><img class="thumb shaft" src="//cdn.recordinghacks.com/images/mic_extras/lucas/cs4-prototype.jpg" alt="Lucas CS-4 circuit prototype." />The Thiersch M7, aka the STW7, has a 32mm (OD) backplate. The membranes are made of ~6-micron PVC; the active area of the diaphragm is 25mm.</p><p>A rotary switch on the power supply provides 11 discrete polar patterns: figure-of-8, Cardioid, and Omni, with four intermediate (hypercardioid-ish) patterns between Cardioid and Fig-8, and four intermediate (subcardioid-ish) patterns between Cardioid and Omni.</p><p>Like the CS-1, U-47, and the Bock Audio 251, the capsule&#8217;s rear diaphragm is disconnected from the circuit when the mic is set to Cardioid. This &#8220;true Cardioid&#8221; mode is said to have a higher signal-to-noise ratio than if both diaphragms were active. It also has higher sensitivity, by about 3dB, than do other patterns. (This was also true of the U-47.)</p><p>The mic&#8217;s tube is a vintage glass pentode manufactured in Germany by Telefunken. Lucas describes it as &#8220;technically identical to, and &#8230; very similar in sonic character to, the [U 47&#8217;s] <a href="http://recordinghacks.com/microphones/tag/vf14">VF-14</a>.&#8221;</p><p>Through Oliver Archut&#8217;s connections with former microphone and tube engineers in Germany, Lucas has been successful at locating &#8220;forgotten&#8221; caches of audio tubes &#8212; first the 7000 Mullard 6072a-like dual-triodes used in the CS1, and more recently, several thousand of the glass VF14-like Telefunken tubes used in the CS4.</p><p>Lucas Engineering expects to maintain a supply of replacement tubes for registered CS-4 owners for the forseeable future.</p><p>The transformer in the CS-4 is manufactured by AMI/Tab-Funkenwerk. It is a version of the company&#8217;s BV8, fine-tuned for this specific microphone.</p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/lucas/CS4-headbasket.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/lucas/CS4-headbasket-sm.jpg" class="thumb shaft" alt="Lucas CS-4 headbasket" width="200" /></a>The prototype mic&#8217;s headbasket was fabricated by hand from three layers of brass mesh by Oliver Archut, then plated for display at the AES-NYC show in late 2009.</p><p>As with the CS-1, the body of the CS-4 is a steel tube finished in the &#8220;Lucazite&trade;&#8221; process by Jeff Roberts at Latch Lake Products. The physical dimensions of the mic, roughly 63mm x 240mm, match the &#8220;long body&#8221; style of the U-47.</p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/lucas/CS4-kit.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/lucas/CS4-kit-sm.jpg" class="thumb shaft" alt="Lucas CS-4 Prototype" width="200" /></a>A maximum of 300 CS-4s will be made. The first units are expected to ship by late Spring 2010.</p><p>Additional specifications for this mic are forthcoming.<p>Permalink: <a href="//recordinghacks.com/microphones/lucas/CS-4">Lucas Engineering CS-4</a></p><p>The mic was released in 2010.</p>
+                    <h3>Specifications</h3>
+                                        
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                            </td>
+                            <td>
+                                <ul>                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Capsule Dimensions</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                                                                                                        Diaphragm diameter: 25mm<br />
+                                                                                            Capsule diameter: 32mm<br />
+                                                                                                                            Diaphragm gauge: 6 microns                                                                    </td>
+                            <td>n/a</td>
+                            <td>                                </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>956g <em class="mute">(33.72oz)</em></td>
+                            <td>240mm <em class="mute">(9.45&#39;&#39;)</em></td>
+                            <td>63mm <em class="mute">(2.48&#39;&#39;)</em></td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                                                                                                                <li>Includes tube power supply </li>
+                                                                                    </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('982-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

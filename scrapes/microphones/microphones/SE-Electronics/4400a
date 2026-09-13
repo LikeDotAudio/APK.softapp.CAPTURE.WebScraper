@@ -1,0 +1,280 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>SE Electronics 4400a | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="4400a, Multi-Pattern Condenser Microphone , aka: 4400 - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/SE-Electronics/4400a" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The 4400a and 2200a share a basic capsule design (although the 4400a is a dual-diaphragm, multipattern mic)." href="//recordinghacks.com/microphones/SE-Electronics/2200a"><img src="//cdn.recordinghacks.com/images/mics/00663/00663_75.jpg" width="75" height="75" alt="The 4400a and 2200a share a basic capsule design (although the 4400a is a dual-diaphragm, multipattern mic)." title="The 4400a and 2200a share a basic capsule design (although the 4400a is a dual-diaphragm, multipattern mic)."   ><br /><span>sE 2200a</span></a></li>
+                                                    <li class="mictile"><a title="The T2 and 4400a share a chassis and circuitry." href="//recordinghacks.com/microphones/SE-Electronics/T2"><img src="//cdn.recordinghacks.com/images/mics/00869/00869_75.jpg" width="75" height="75" alt="The T2 and 4400a share a chassis and circuitry." title="The T2 and 4400a share a chassis and circuitry."   ><br /><span>sE T2</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/SE-Electronics">sE microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="SE Electronics 4400a" href="/microphone-photo/00703/SE-Electronics/4400a.jpg"><img src="//cdn.recordinghacks.com/images/mics/00703/00703_172.jpg" width="172" height="110" alt="SE Electronics 4400a" title="SE Electronics 4400a" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $999</li>
+                                                            </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/side-address" alt="side-address microphones">side-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/large-diaphragm" alt="large-diaphragm microphones">large-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/dual-diaphragm" alt="dual-diaphragm microphones">dual-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/multipattern" alt="multipattern microphones">multipattern</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformerless" alt="transformerless microphones">transformerless</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/center-terminated" alt="center-terminated microphones">center-terminated</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/hpf" alt="hpf microphones">hpf</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="pdf"><a rel="nofollow" href="http://www.seelectronics.com/revpdfs/se4400a/se-4400.pdf">Audio Media review, 2008-07</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://www.seelectronics.com/revpdfs/se4400a/FMU213.rev_se.pdf">Future Music #213, May 2009</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://www.audiopro.cz/s4s/pdf/se4400a-mtm.pdf">MusicTech, 2008-10</a></li>
+                                                                    <li id="www"><a  href="http://emusician.com/mics/se-electronics-quick-pick-review/">Electronic Musician, 2009-04</a></li>
+                                                                    <li id="www"><a  href="http://www.soundonsound.com/sos/apr09/articles/se4400a.htm">SoundOnSound review, 2009-04</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/2010/03/31/voiceover-microphone-shootout/">4400a in VO Shootout</a></li>
+                                                                </ul>                    
+                                        <h3>4400a Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.seelectronics.com/sE4400a.html">sE 4400a Product Description</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="703-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="703-1" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="703-2" src="//cdn.recordinghacks.com/images/icons/patterns/icon_hc.png" width=27 height=27 alt="Hypercardioid" title="Hypercardioid" ><img id="703-3" src="//cdn.recordinghacks.com/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ></span>SE Electronics 4400a</h2>
+                    
+                    <h2 class="sub">                    Multi-Pattern Condenser Microphone</h2>
+                    <p>The sE4400a is a multipattern FET condenser in a compact, familiar form factor &#8212; it looks a lot like AKG&#8217;s C414.</p><p>The slim body (0.75&#39;&#39; thick) contains a dual-diaphragm version of the company&#8217;s 2200a capsule, a center-terminated, one-inch gold-plated Mylar design. The rear diaphragm provides the mic with multiple pickup patterns, switchable from the front of the mic body.</p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/se/4400a-circuit.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/se/4400a-circuit-sm.jpg" class="thumb shaft" alt="4400a" width="200" /></a>The pattern switching mechanism utilizes two controls. The left control allows selection of three patterns: omni, cardioid, figure-of-8; when set to cardioid, a second switch controls the directionality (standard or hypercardioid).</p><p>Two more switches provide a 3-way pad (flat, -10dB, -20dB) and a 3-way high-pass filter (flat, 60Hz, 120Hz).</p><p>sE has a new shockmount design for the 4400a; it had a sliding mechanism that allows the mic to be extended beyond the mount for additional positioning options.</p><p>The mic is finished in a nonreflective, rubberized black coating to reduce reflections in lighted stage or set locations.</p><p>The sE4400a ships in a steel-reinforced black aluminum flight case with the aforementioned elastic shockmount. The mic is also available in matched stereo pairs.</p><blockquote><p><cite>MusicTech</cite></p><p>The 4400a performed admirably in every one of our tests&#8230; the fact that such a usable, practical and versatile microphone is available in this price bracket is one of the most exciting developments in the microphone market that we&#8217;ve seen for some time.</p></blockquote><p></p><blockquote><p><cite>Electronic Musician, 2009</cite></p><p>Unlike vintage mics designed for the tape era, the sE4400a was specifically calibrated to work well with digital gear. I liked the detail in the top end, which was present but never harsh.</p></blockquote><p></p><blockquote><p><cite>SoundOnSound, 2009</cite></p><p>[T]he frequency plot is somewhat more revealing and shows a nominally flat response, but with a gentle presence peak at around 10kHz. This type of response tends to produce a largely natural sound, but with an extra sense of clarity at the high end&#8230; Its presence peak gives it a slightly flattering, larger-than-life vibe, but in a pretty subtle way that doesn&#8217;t make things sound too harsh, and the low end gains useful support from a little added warmth&#8230;</p><p>Given that the mic is based on a derivation of two back-to-back SE2200a capsules&#8230; [I] wasn&#8217;t surprised to discover that they sound very similar. So if you only need a cardioid mic, the SE2200a is clearly going to save you a lot of money.</p></blockquote><p><p>The <a href="//recordinghacks.com/microphones/SE-Electronics/4400a">SE Electronics 4400a</a> is also known as: 4400.</p>
+                    <h3>Specifications</h3>
+                                        
+                    <table>
+                                                    <tr><th>Frequency Response - Omnidirectional<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/0885" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/0/0885.png" width=476 height=159 alt="4400a Omnidirectional Frequency Response Chart" title="4400a Omnidirectional Frequency Response Chart" border=0 /></td></tr>
+                                                        <tr><th>Frequency Response - Cardioid<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/0884" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/0/0884.png" width=476 height=159 alt="4400a Cardioid Frequency Response Chart" title="4400a Cardioid Frequency Response Chart" border=0 /></td></tr>
+                                                        <tr><th>Frequency Response - Hypercardioid<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/0887" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/0/0887.png" width=476 height=159 alt="4400a Hypercardioid Frequency Response Chart" title="4400a Hypercardioid Frequency Response Chart" border=0 /></td></tr>
+                                                        <tr><th>Frequency Response - Bidirectional<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/0886" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/0/0886.png" width=476 height=159 alt="4400a Bidirectional Frequency Response Chart" title="4400a Bidirectional Frequency Response Chart" border=0 /></td></tr>
+                            </table>
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                                                                Omnidirectional
+                                             (14.1 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                                                            Cardioid
+                                             (14.1 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                                                            Hypercardioid
+                                             (14.1 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                                                            Bidirectional
+                                             (14.1 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                    <li>Pad: -10dB<small> (Via Switch)</small></li>
+                                                                        <li>Pad: -20dB<small> (Via Switch)</small></li>
+                                                                        <li>Filter: HPF @ 60Hz<small> (Via Switch)</small></li>
+                                                                        <li>Filter: HPF @ 120Hz<small> (Via Switch)</small></li>
+                                                                    </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Capsule Dimensions</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                                                                                                        Diaphragm diameter: 25mm<br />
+                                                                                                                                                                                                </td>
+                            <td>50 Ohms <em class="mute">(Low)</em></td>
+                            <td>Max SPL: 130 dB<br />                                Self-noise: 17.0 dB(A)</td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>280g <em class="mute">(9.88oz)</em></td>
+                            <td>145mm <em class="mute">(5.71&#39;&#39;)</em></td>
+                            <td>57mm <em class="mute">(2.24&#39;&#39;)</em></td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                        <li>Requires phantom power </li>
+                                                                                                                                                                                <li>Phantom voltage: 48 &plusmn; 4v</li>
+                                        </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('703-0');uniqueids.push('703-1');uniqueids.push('703-2');uniqueids.push('703-3');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

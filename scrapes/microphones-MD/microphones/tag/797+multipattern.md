@@ -1,0 +1,5 @@
+## Mics tagged: 797 AND multipattern
+
+|  |  |
+| --- | --- |
+| [Soundelux U95](http://recordinghacks.com/microphones/Soundelux/U95 "Soundelux U95 - Features, Specifications, Datasheet") | 9 polar patterns [**Soundelux U95**](/microphones/Soundelux/U95 "Soundelux U95 - Features, Specifications, Datasheet")  Multi-Pattern Tube Condenser Microphone  [side-address](//recordinghacks.com/microphones/tag/side-address "side-address microphones"), [dual-diaphragm](//recordinghacks.com/microphones/tag/dual-diaphragm "dual-diaphragm microphones"), [tube](//recordinghacks.com/microphones/tag/tube "tube microphones"), [multipattern](//recordinghacks.com/microphones/tag/multipattern "multipattern microphones"), [transformer-coupled](//recordinghacks.com/microphones/tag/transformer-coupled "transformer-coupled microphones"), [6072](//recordinghacks.com/microphones/tag/6072 "6072 microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [797](//recordinghacks.com/microphones/tag/797 "797 microphones") |

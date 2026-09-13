@@ -1,0 +1,243 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>alctron microphones | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+                
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+			<div id="content">
+                <div id="sidebar">                  
+                    					<h2 class="search">search for mics</h2>
+					<form action="/microphones" method="POST">
+										<script language="JavaScript" type="text/javascript">
+function clearText(field){
+
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+
+}
+					</script>
+						<fieldset>
+						    <input type="text" name="s" size="20" value="Microphone name or model number" style="color: #667;margin-left: 0;margin-bottom: 8px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)"><br />
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<fieldset class="checks">
+							<span class="shaft">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+							</span>
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">&nbsp;<input style="font-size: 8px" type="reset" name="button" value="Reset Form">
+						</fieldset>
+					</form>
+                            
+<h3>Refine Search</h3><p>Find mics tagged '<b>alctron</b> AND:'</p> 
+<p><a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron+side-address" title="Mics tagged alctron AND side-address">side-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron+large-diaphragm" title="Mics tagged alctron AND large-diaphragm">large-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron+dual-diaphragm" title="Mics tagged alctron AND dual-diaphragm">dual-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron+tube" title="Mics tagged alctron AND tube">tube</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron+multipattern" title="Mics tagged alctron AND multipattern">multipattern</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron+5840" title="Mics tagged alctron AND 5840">5840</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron+ef732" title="Mics tagged alctron AND ef732">ef732</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron+transformer-coupled" title="Mics tagged alctron AND transformer-coupled">transformer-coupled</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron+center-terminated" title="Mics tagged alctron AND center-terminated">center-terminated</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron+condenser" title="Mics tagged alctron AND condenser">condenser</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron+dual-backplate" title="Mics tagged alctron AND dual-backplate">dual-backplate</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron+ami" title="Mics tagged alctron AND ami">ami</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron+bv8lp" title="Mics tagged alctron AND bv8lp">bv8lp</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron+ribbon" title="Mics tagged alctron AND ribbon">ribbon</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron+neodymium" title="Mics tagged alctron AND neodymium">neodymium</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron+yoke-mount" title="Mics tagged alctron AND yoke-mount">yoke-mount</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron+hpf" title="Mics tagged alctron AND hpf">hpf</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron+k67" title="Mics tagged alctron AND k67">k67</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron+transformerless" title="Mics tagged alctron AND transformerless">transformerless</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron+pencil-mic" title="Mics tagged alctron AND pencil-mic">pencil-mic</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron+detachable-capsule" title="Mics tagged alctron AND detachable-capsule">detachable-capsule</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron+6072" title="Mics tagged alctron AND 6072">6072</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron+12at7" title="Mics tagged alctron AND 12at7">12at7</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron+passive-ribbon" title="Mics tagged alctron AND passive-ribbon">passive-ribbon</a> </p>
+<h3>Expand Search</h3><p>Find mics tagged '<b>alctron</b> OR:'</p>
+<p><a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron|side-address" title="Mics tagged alctron OR side-address">side-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron|large-diaphragm" title="Mics tagged alctron OR large-diaphragm">large-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron|dual-diaphragm" title="Mics tagged alctron OR dual-diaphragm">dual-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron|tube" title="Mics tagged alctron OR tube">tube</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron|multipattern" title="Mics tagged alctron OR multipattern">multipattern</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron|5840" title="Mics tagged alctron OR 5840">5840</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron|ef732" title="Mics tagged alctron OR ef732">ef732</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron|transformer-coupled" title="Mics tagged alctron OR transformer-coupled">transformer-coupled</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron|center-terminated" title="Mics tagged alctron OR center-terminated">center-terminated</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron|condenser" title="Mics tagged alctron OR condenser">condenser</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron|dual-backplate" title="Mics tagged alctron OR dual-backplate">dual-backplate</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron|ami" title="Mics tagged alctron OR ami">ami</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron|bv8lp" title="Mics tagged alctron OR bv8lp">bv8lp</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron|ribbon" title="Mics tagged alctron OR ribbon">ribbon</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron|neodymium" title="Mics tagged alctron OR neodymium">neodymium</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron|yoke-mount" title="Mics tagged alctron OR yoke-mount">yoke-mount</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron|hpf" title="Mics tagged alctron OR hpf">hpf</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron|k67" title="Mics tagged alctron OR k67">k67</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron|transformerless" title="Mics tagged alctron OR transformerless">transformerless</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron|pencil-mic" title="Mics tagged alctron OR pencil-mic">pencil-mic</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron|detachable-capsule" title="Mics tagged alctron OR detachable-capsule">detachable-capsule</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron|6072" title="Mics tagged alctron OR 6072">6072</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron|12at7" title="Mics tagged alctron OR 12at7">12at7</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/alctron|passive-ribbon" title="Mics tagged alctron OR passive-ribbon">passive-ribbon</a> </p>
+                </div><!-- /#sidebar -->
+                <div id="column" style="width: auto">
+						    <h2>Mics tagged: alctron</h2>
+			    <table>
+				                    <tr><td><a title="Blackspade Acoustics UM17 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Blackspade/UM17" ><img src="//cdn.recordinghacks.com/images/mics/01070/01070_75.jpg" width="75" height="75" alt="Blackspade Acoustics UM17" title="Blackspade Acoustics UM17"   ></a></td>
+                        <td><span class="shaft">
+					    <img src="/images/icons/patterns/icon_9.png" id="1070-0" width=27 height=27 alt="9 polar patterns" title="Cardioid, Omni, Figure 8, and six intermediate positions" ></span>
+                        <a title="Blackspade Acoustics UM17 - Features, Specifications, Datasheet" href="/microphones/Blackspade/UM17"><strong>Blackspade Acoustics UM17</strong></a><br />
+                        Multi-Pattern Tube Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="dual-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/dual-diaphragm">dual-diaphragm</a>, <a title="tube microphones"  href="//recordinghacks.com/microphones/tag/tube">tube</a>, <a title="alctron microphones"  href="//recordinghacks.com/microphones/tag/alctron">alctron</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="5840 microphones"  href="//recordinghacks.com/microphones/tag/5840">5840</a>, <a title="ef732 microphones"  href="//recordinghacks.com/microphones/tag/ef732">ef732</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="center-terminated microphones"  href="//recordinghacks.com/microphones/tag/center-terminated">center-terminated</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="dual-backplate microphones"  href="//recordinghacks.com/microphones/tag/dual-backplate">dual-backplate</a>, <a title="ami microphones"  href="//recordinghacks.com/microphones/tag/ami">ami</a>, <a title="bv8lp microphones"  href="//recordinghacks.com/microphones/tag/bv8lp">bv8lp</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Nady TCM1050 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Nady/TCM1050" ><img src="//cdn.recordinghacks.com/images/mics/00512/00512_75.jpg" width="75" height="75" alt="Nady TCM1050" title="Nady TCM1050"   ></a></td>
+                        <td><span class="shaft">
+					    <img src="/images/icons/patterns/icon_9.png" id="512-0" width=27 height=27 alt="9 polar patterns" title="Cardioid, Omni, Figure 8, and six intermediate positions" ></span>
+                        <a title="Nady TCM1050 - Features, Specifications, Datasheet" href="/microphones/Nady/TCM1050"><strong>Nady TCM1050</strong></a><br />
+                        Multi-Pattern Tube Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="dual-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/dual-diaphragm">dual-diaphragm</a>, <a title="tube microphones"  href="//recordinghacks.com/microphones/tag/tube">tube</a>, <a title="alctron microphones"  href="//recordinghacks.com/microphones/tag/alctron">alctron</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Ningbo Alctron Electronics Co., Ltd. HSGT-2B - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Alctron/HSGT-2B" ><img src="//cdn.recordinghacks.com/images/mics/00511/00511_75.jpg" width="75" height="75" alt="Ningbo Alctron Electronics Co., Ltd. HSGT-2B" title="Ningbo Alctron Electronics Co., Ltd. HSGT-2B"   ></a></td>
+                        <td><span class="shaft">
+					    <img src="/images/icons/patterns/icon_9.png" id="511-0" width=27 height=27 alt="9 polar patterns" title="Cardioid, Omni, Figure 8, and six intermediate positions" ></span>
+                        <a title="Ningbo Alctron Electronics Co., Ltd. HSGT-2B - Features, Specifications, Datasheet" href="/microphones/Alctron/HSGT-2B"><strong>Ningbo Alctron Electronics Co., Ltd. HSGT-2B</strong></a><br />
+                        Multi-Pattern Tube Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="dual-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/dual-diaphragm">dual-diaphragm</a>, <a title="tube microphones"  href="//recordinghacks.com/microphones/tag/tube">tube</a>, <a title="alctron microphones"  href="//recordinghacks.com/microphones/tag/alctron">alctron</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Nady RSM-2 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Nady/RSM-2" ><img src="//cdn.recordinghacks.com/images/mics/00508/00508_75.jpg" width="75" height="75" alt="Nady RSM-2" title="Nady RSM-2"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="508-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Nady RSM-2 - Features, Specifications, Datasheet" href="/microphones/Nady/RSM-2"><strong>Nady RSM-2</strong></a><br />
+                        Bidirectional Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="alctron microphones"  href="//recordinghacks.com/microphones/tag/alctron">alctron</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="neodymium microphones"  href="//recordinghacks.com/microphones/tag/neodymium">neodymium</a>, <a title="yoke-mount microphones"  href="//recordinghacks.com/microphones/tag/yoke-mount">yoke-mount</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Ningbo Alctron Electronics Co., Ltd. HRM-8B - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Alctron/HRM-8B" ><img src="//cdn.recordinghacks.com/images/mics/00500/00500_75.jpg" width="75" height="75" alt="Ningbo Alctron Electronics Co., Ltd. HRM-8B" title="Ningbo Alctron Electronics Co., Ltd. HRM-8B"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="500-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Ningbo Alctron Electronics Co., Ltd. HRM-8B - Features, Specifications, Datasheet" href="/microphones/Alctron/HRM-8B"><strong>Ningbo Alctron Electronics Co., Ltd. HRM-8B</strong></a><br />
+                        Bidirectional Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="alctron microphones"  href="//recordinghacks.com/microphones/tag/alctron">alctron</a>, <a title="yoke-mount microphones"  href="//recordinghacks.com/microphones/tag/yoke-mount">yoke-mount</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Apex Electronics 205 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Apex-Electronics/205" ><img src="//cdn.recordinghacks.com/images/mics/00499/00499_75.jpg" width="75" height="75" alt="Apex Electronics 205" title="Apex Electronics 205"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="499-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Apex Electronics 205 - Features, Specifications, Datasheet" href="/microphones/Apex-Electronics/205"><strong>Apex Electronics 205</strong></a><br />
+                        Bidirectional Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="alctron microphones"  href="//recordinghacks.com/microphones/tag/alctron">alctron</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="neodymium microphones"  href="//recordinghacks.com/microphones/tag/neodymium">neodymium</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Ningbo Alctron Electronics Co., Ltd. HSMC001 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Alctron/HSMC001W" ><img src="//cdn.recordinghacks.com/images/mics/00482/00482_75.jpg" width="75" height="75" alt="Ningbo Alctron Electronics Co., Ltd. HSMC001" title="Ningbo Alctron Electronics Co., Ltd. HSMC001"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="482-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Ningbo Alctron Electronics Co., Ltd. HSMC001 - Features, Specifications, Datasheet" href="/microphones/Alctron/HSMC001W"><strong>Ningbo Alctron Electronics Co., Ltd. HSMC001</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="alctron microphones"  href="//recordinghacks.com/microphones/tag/alctron">alctron</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Apex Electronics 435 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Apex-Electronics/435" ><img src="//cdn.recordinghacks.com/images/mics/00481/00481_75.jpg" width="75" height="75" alt="Apex Electronics 435" title="Apex Electronics 435"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="481-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Apex Electronics 435 - Features, Specifications, Datasheet" href="/microphones/Apex-Electronics/435"><strong>Apex Electronics 435</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="alctron microphones"  href="//recordinghacks.com/microphones/tag/alctron">alctron</a>, <a title="k67 microphones"  href="//recordinghacks.com/microphones/tag/k67">k67</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Ningbo Alctron Electronics Co., Ltd. HST-01A - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Alctron/HST-01A" ><img src="//cdn.recordinghacks.com/images/mics/00470/00470_75.jpg" width="75" height="75" alt="Ningbo Alctron Electronics Co., Ltd. HST-01A" title="Ningbo Alctron Electronics Co., Ltd. HST-01A"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="470-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="470-1" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Ningbo Alctron Electronics Co., Ltd. HST-01A - Features, Specifications, Datasheet" href="/microphones/Alctron/HST-01A"><strong>Ningbo Alctron Electronics Co., Ltd. HST-01A</strong></a><br />
+                        Detachable-Capsule Pencil Condenser Microphone<br />
+                        <a title="pencil-mic microphones"  href="//recordinghacks.com/microphones/tag/pencil-mic">pencil-mic</a>, <a title="alctron microphones"  href="//recordinghacks.com/microphones/tag/alctron">alctron</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="detachable-capsule microphones"  href="//recordinghacks.com/microphones/tag/detachable-capsule">detachable-capsule</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Apex Electronics 180 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Apex-Electronics/180" ><img src="//cdn.recordinghacks.com/images/mics/00469/00469_75.jpg" width="75" height="75" alt="Apex Electronics 180" title="Apex Electronics 180"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="469-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="469-1" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Apex Electronics 180 - Features, Specifications, Datasheet" href="/microphones/Apex-Electronics/180"><strong>Apex Electronics 180</strong></a><br />
+                        Detachable-Capsule Pencil Condenser Microphone<br />
+                        <a title="pencil-mic microphones"  href="//recordinghacks.com/microphones/tag/pencil-mic">pencil-mic</a>, <a title="alctron microphones"  href="//recordinghacks.com/microphones/tag/alctron">alctron</a>, <a title="detachable-capsule microphones"  href="//recordinghacks.com/microphones/tag/detachable-capsule">detachable-capsule</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Carvin Corporation CTM100 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Carvin/CTM100" ><img src="//cdn.recordinghacks.com/images/mics/00457/00457_75.jpg" width="75" height="75" alt="Carvin Corporation CTM100" title="Carvin Corporation CTM100"   ></a></td>
+                        <td><span class="shaft">
+					    <img src="/images/icons/patterns/icon_9.png" id="457-0" width=27 height=27 alt="9 polar patterns" title="Cardioid, Omni, Figure 8, and six intermediate positions" ></span>
+                        <a title="Carvin Corporation CTM100 - Features, Specifications, Datasheet" href="/microphones/Carvin/CTM100"><strong>Carvin Corporation CTM100</strong></a><br />
+                        Multi-Pattern Tube Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="tube microphones"  href="//recordinghacks.com/microphones/tag/tube">tube</a>, <a title="alctron microphones"  href="//recordinghacks.com/microphones/tag/alctron">alctron</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Nady TCM1150 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Nady/TCM1150" ><img src="//cdn.recordinghacks.com/images/mics/00456/00456_75.jpg" width="75" height="75" alt="Nady TCM1150" title="Nady TCM1150"   ></a></td>
+                        <td><span class="shaft">
+					    <img src="/images/icons/patterns/icon_9.png" id="456-0" width=27 height=27 alt="9 polar patterns" title="Cardioid, Omni, Figure 8, and six intermediate positions" ></span>
+                        <a title="Nady TCM1150 - Features, Specifications, Datasheet" href="/microphones/Nady/TCM1150"><strong>Nady TCM1150</strong></a><br />
+                        Multi-Pattern Tube Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="dual-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/dual-diaphragm">dual-diaphragm</a>, <a title="tube microphones"  href="//recordinghacks.com/microphones/tag/tube">tube</a>, <a title="alctron microphones"  href="//recordinghacks.com/microphones/tag/alctron">alctron</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="6072 microphones"  href="//recordinghacks.com/microphones/tag/6072">6072</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="12at7 microphones"  href="//recordinghacks.com/microphones/tag/12at7">12at7</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Apex Electronics 460 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Apex-Electronics/460" ><img src="//cdn.recordinghacks.com/images/mics/00452/00452_75.jpg" width="75" height="75" alt="Apex Electronics 460" title="Apex Electronics 460"   ></a></td>
+                        <td><span class="shaft">
+					    <img src="/images/icons/patterns/icon_9.png" id="452-0" width=27 height=27 alt="9 polar patterns" title="Cardioid, Omni, Figure 8, and six intermediate positions" ></span>
+                        <a title="Apex Electronics 460 - Features, Specifications, Datasheet" href="/microphones/Apex-Electronics/460"><strong>Apex Electronics 460</strong></a><br />
+                        Multi-Pattern Tube Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="tube microphones"  href="//recordinghacks.com/microphones/tag/tube">tube</a>, <a title="alctron microphones"  href="//recordinghacks.com/microphones/tag/alctron">alctron</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="k67 microphones"  href="//recordinghacks.com/microphones/tag/k67">k67</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="center-terminated microphones"  href="//recordinghacks.com/microphones/tag/center-terminated">center-terminated</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="12at7 microphones"  href="//recordinghacks.com/microphones/tag/12at7">12at7</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Ningbo Alctron Electronics Co., Ltd. HST-11A - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Alctron/HST-11A" ><img src="//cdn.recordinghacks.com/images/mics/00451/00451_75.jpg" width="75" height="75" alt="Ningbo Alctron Electronics Co., Ltd. HST-11A" title="Ningbo Alctron Electronics Co., Ltd. HST-11A"   ></a></td>
+                        <td><span class="shaft">
+					    <img src="/images/icons/patterns/icon_9.png" id="451-0" width=27 height=27 alt="9 polar patterns" title="Cardioid, Omni, Figure 8, and six intermediate positions" ></span>
+                        <a title="Ningbo Alctron Electronics Co., Ltd. HST-11A - Features, Specifications, Datasheet" href="/microphones/Alctron/HST-11A"><strong>Ningbo Alctron Electronics Co., Ltd. HST-11A</strong></a><br />
+                        Multi-Pattern Tube Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="tube microphones"  href="//recordinghacks.com/microphones/tag/tube">tube</a>, <a title="alctron microphones"  href="//recordinghacks.com/microphones/tag/alctron">alctron</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Ningbo Alctron Electronics Co., Ltd. HRM-2 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Alctron/HRM-2" ><img src="//cdn.recordinghacks.com/images/mics/00450/00450_75.jpg" width="75" height="75" alt="Ningbo Alctron Electronics Co., Ltd. HRM-2" title="Ningbo Alctron Electronics Co., Ltd. HRM-2"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="450-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Ningbo Alctron Electronics Co., Ltd. HRM-2 - Features, Specifications, Datasheet" href="/microphones/Alctron/HRM-2"><strong>Ningbo Alctron Electronics Co., Ltd. HRM-2</strong></a><br />
+                        Bidirectional Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="alctron microphones"  href="//recordinghacks.com/microphones/tag/alctron">alctron</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="yoke-mount microphones"  href="//recordinghacks.com/microphones/tag/yoke-mount">yoke-mount</a>, <a title="passive-ribbon microphones"  href="//recordinghacks.com/microphones/tag/passive-ribbon">passive-ribbon</a><br />                        </td></tr>
+	
+                                </table>
+
+
+                 <!-- end of $nada test -->
+                </div><!-- /#column -->
+			</div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('1070-0');uniqueids.push('512-0');uniqueids.push('511-0');uniqueids.push('508-0');uniqueids.push('500-0');uniqueids.push('499-0');uniqueids.push('482-0');uniqueids.push('481-0');uniqueids.push('470-0');uniqueids.push('470-1');uniqueids.push('469-0');uniqueids.push('469-1');uniqueids.push('457-0');uniqueids.push('456-0');uniqueids.push('452-0');uniqueids.push('451-0');uniqueids.push('450-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

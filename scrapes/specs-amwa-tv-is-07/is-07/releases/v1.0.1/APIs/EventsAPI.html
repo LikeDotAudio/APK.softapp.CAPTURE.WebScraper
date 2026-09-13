@@ -1,0 +1,853 @@
+<!DOCTYPE html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>API APIs/EventsAPI.raml | is-07</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="API APIs/EventsAPI.raml" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="AMWA IS-07 NMOS Event &amp; Tally Specification" />
+<meta property="og:description" content="AMWA IS-07 NMOS Event &amp; Tally Specification" />
+<meta property="og:site_name" content="is-07" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="API APIs/EventsAPI.raml" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"AMWA IS-07 NMOS Event &amp; Tally Specification","headline":"API APIs/EventsAPI.raml","url":"/is-07/releases/v1.0.1/APIs/EventsAPI.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/is-07/assets/css/style.css?v=">
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body adaptive-width">
+
+      <div id="logo-banner" class="adaptive-width">
+          
+              <a href="https://specs.amwa.tv/nmos"><img id="nmos-logo" src="/is-07/assets/images/NMOS-logo.png" alt="NMOS logo"/></a>
+              <span id="title">Networked Media Open Specifications</span>
+              <a href="https://www.amwa.tv/"><img id="from-amwa-logo" src="/is-07/assets/images/from-AMWA-logo.png" target="_blank" alt="from AMWA logo"/></a>
+
+          
+      </div>
+
+        <div id="menu-header" class="header adaptive-width">
+
+        
+
+        
+          <span class="dropdown">DOCS
+	<div class="dropdown-content">
+		<p><b>Docs for v1.0.1</b></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/docs/1.0._Overview.html">Overview</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/docs/2.0._Message_types.html">Message types</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/docs/3.0._Event_types.html">Event types</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/docs/4.0._Core_models.html">Core models</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/docs/5.0._Transports.html">Transports</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/docs/5.1._Transport_-_MQTT.html">Transport - MQTT</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/docs/5.2._Transport_-_Websocket.html">Transport - Websocket</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/docs/6.0._Event_and_tally_rest_api.html">Event and tally rest api</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/docs/7.0._Measurement_units_guidelines.html">Measurement units guidelines</a></p>
+		
+	</div>
+</span>
+ 
+        
+        
+          <span class="dropdown-3">APIS
+	<div class="dropdown-3-content"> 
+		<p><b>RAML APIs for v1.0.1</b></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/EventsAPI.html">Events API</a></p>
+		
+		<p><b>JSON Schemas for v1.0.1</b></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/base.html">base</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/command.html">command</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/command_health.html">command_health</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/command_subscription.html">command_subscription</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/error.html">error</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/event.html">event</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/event_boolean.html">event_boolean</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/event_core.html">event_core</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/event_number.html">event_number</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/event_object.html">event_object</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/event_string.html">event_string</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/message.html">message</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/message_connection_status.html">message_connection_status</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/message_health.html">message_health</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/message_shutdown_reboot.html">message_shutdown_reboot</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/number.html">number</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/receiver_transport_params_ext.html">receiver_transport_params_ext</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/sender_transport_params_ext.html">sender_transport_params_ext</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/source.html">source</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/sources.html">sources</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/type.html">type</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/type_boolean.html">type_boolean</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/type_boolean_enum.html">type_boolean_enum</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/type_number.html">type_number</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/type_number_enum.html">type_number_enum</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/type_string.html">type_string</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/type_string_enum.html">type_string_enum</a></p>
+		
+	</div>
+</span>
+
+        
+        
+          <span class="dropdown-3">EXAMPLES
+	<div class="dropdown-3-content"> 
+		<p><b>JSON Examples for v1.0.1</b></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/connection-status-message.html">connection-status-message</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/connectionapi-v1.1-receiver-active-get-mqtt-200.html">connectionapi-v1.1-receiver-active-get-mqtt-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/connectionapi-v1.1-receiver-active-get-websocket-200.html">connectionapi-v1.1-receiver-active-get-websocket-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/connectionapi-v1.1-sender-active-get-mqtt-200.html">connectionapi-v1.1-sender-active-get-mqtt-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/connectionapi-v1.1-sender-active-get-websocket-200.html">connectionapi-v1.1-sender-active-get-websocket-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-base-get-200.html">eventsapi-base-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-sourceid-get-200.html">eventsapi-sourceid-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-sources-get-200.html">eventsapi-sources-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-state-boolean-get-200.html">eventsapi-state-boolean-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-state-number-get-200.html">eventsapi-state-number-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-state-number-measurement-get-200.html">eventsapi-state-number-measurement-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-state-number-rational-get-200.html">eventsapi-state-number-rational-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-state-string-get-200.html">eventsapi-state-string-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-type-boolean-enum-get-200.html">eventsapi-type-boolean-enum-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-type-boolean-get-200.html">eventsapi-type-boolean-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-type-number-enum-get-200.html">eventsapi-type-number-enum-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-type-number-get-200.html">eventsapi-type-number-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-type-number-measurement-get-200.html">eventsapi-type-number-measurement-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-type-string-enum-get-200.html">eventsapi-type-string-enum-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-type-string-get-200.html">eventsapi-type-string-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/health-command.html">health-command</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/health-message.html">health-message</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/reboot-message.html">reboot-message</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/shutdown-message.html">shutdown-message</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/subscription-command.html">subscription-command</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/subscription-unsubscribe-command.html">subscription-unsubscribe-command</a></p>
+		
+	</div>
+</span>
+
+        
+        
+          <span class="dropdown">VERSIONS
+	<div class="dropdown-content"> 
+		<p><b>Branches</b></p>
+		
+		
+			<p><a href="/is-07/branches/v1.0.x">v1.0.x</a></p>
+		
+		
+			<p><b>Releases</b></p>
+			
+			
+				<p><a href="/is-07/releases/v1.0.1">v1.0.1</a></p>
+			
+				<p><a href="/is-07/releases/v1.0.0">v1.0.0</a></p>
+			
+		
+	</div>
+</span>
+
+        
+        
+          <span class="dropdown">IS
+	<div class="dropdown-content">
+		<p><b>Interface Specifications</b></p>
+		
+		
+			<p><a href="https://specs.amwa.tv/is-04">IS-04: Discovery & Registration</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-05">IS-05: Device Connection Management</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-07">IS-07: Event & Tally</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-08">IS-08: Audio Channel Mapping</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-09">IS-09: System Parameters</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-10">IS-10: Authorization</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-11">IS-11: Stream Compatibility Management</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-12">IS-12: Control Protocol</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-13">IS-13: Annotation</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-14">IS-14: Device Configuration</a></p>
+		
+	 </div>
+</span>
+          <span class="dropdown">BCP
+	<div class="dropdown-content">
+		<p><b>Best Common Practices</b></p>
+		
+		
+			<p><a href="https://specs.amwa.tv/bcp-002-01">BCP-002-01: Natural Grouping</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-002-02">BCP-002-02: Asset Distinguishing Information</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-003-01">BCP-003-01: Secure Communications in NMOS Systems</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-003-02">BCP-003-02: Authorization in NMOS Systems</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-003-03">BCP-003-03: Certificate Provisioning in NMOS Systems</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-004-01">BCP-004-01: Receiver Capabilities</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-005-01">BCP-005-01: EDID to Receiver Capabilities Mapping</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-006-01">BCP-006-01: NMOS With JPEG XS</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-006-02">BCP-006-02: NMOS With H.264</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-006-03">BCP-006-03: NMOS With H.265</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-007-01">BCP-007-01: NMOS With NDI</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-008-01">BCP-008-01: NMOS Receiver Status</a></p>
+		
+	 </div>
+</span>
+          <span class="dropdown">MS
+	<div class="dropdown-content">
+		<p><b>Data Model Specifications</b></p>
+		
+		
+			<p><a href="https://specs.amwa.tv/ms-04">MS-04: ID & Timing Model</a></p>
+		
+			<p><a href="https://specs.amwa.tv/ms-05-01">MS-05-01: NMOS Control Architecture</a></p>
+		
+			<p><a href="https://specs.amwa.tv/ms-05-02">MS-05-02: AMWA NMOS Control Framework</a></p>
+		
+			<p><a href="https://specs.amwa.tv/ms-05-03">MS-05-03: AMWA NMOS Control Block Specs</a></p>
+		
+	 </div>
+</span>
+          <span class="dropdown">INFO
+	<div class="dropdown-content">
+		<p><b>Informative Documents</b></p>
+		
+		
+			<p><a href="https://specs.amwa.tv/info-002">INFO-002: Security Implementation Guide</a></p>
+		
+			<p><a href="https://specs.amwa.tv/info-003">INFO-003: Sink Metadata Processing Architecture</a></p>
+		
+			<p><a href="https://specs.amwa.tv/info-004">INFO-004: Implementation Guide for DNS-SD</a></p>
+		
+			<p><a href="https://specs.amwa.tv/info-005">INFO-005: Implementation Guide for NMOS Controllers</a></p>
+		
+			<p><a href="https://specs.amwa.tv/info-006">INFO-006: Implementation guide for NMOS Device Capabilities Control</a></p>
+		
+	 </div>
+</span>
+        
+        
+          <span class="dropdown">REG
+	<div class="dropdown-content">
+		<p><b>Parameter Registers</b></p>
+		
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/common">General Procedures and Criteria</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/capabilities">Capabilities</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/device-control-types">Device Control Types</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/device-types">Device Types</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/flow-attributes">Flow Attributes</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/formats">Formats</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/node-service-types">Node Service Types</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/sender-attributes">Sender Attributes</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/source-attributes">Source Attributes</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/tags">Tags</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/transports">Transports</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/transport-parameters">Transport Parameters</a></p>
+		
+	</div>
+</span>
+
+        
+        
+          <span class="dropdown">F-SETS
+	<div class="dropdown-content">
+		<p><b>Control Feature Sets</b></p>
+		
+		
+			<p><a href="https://specs.amwa.tv/nmos-control-feature-sets/branches/main/identification">Identification</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-control-feature-sets/branches/main/monitoring">Monitoring</a></p>
+		
+	</div>
+</span>
+
+        
+
+          
+
+            <span class="dropdown">DEVEL
+              <div class="dropdown-content">
+                <p><b>Developer Links</b></p>
+                <p><a href="https://github.com/AMWA-TV/is-07">GitHub Repo</a></p>
+                <p><a href="https://specs.amwa.tv/nmos-testing">API Testing Tool</a></p>
+                <p><a href="https://specs.amwa.tv/nmos-dashboard/dashboard.html">CI Dashboard</a></p>
+              </div>
+            </span>
+
+          
+
+          <span class="dropdown">SEARCH
+            <div class="dropdown-content">
+              <script async src="https://cse.google.com/cse.js?cx=70787015d40930818"></script>
+              <div class="gcse-searchbox-only"></div>
+            </div>
+          </span>
+
+        
+          <div class="breadcrumbs">
+            
+            
+            
+            <a href="/is-07/">IS-07</a> â¤
+            
+              
+              <a href="/is-07/releases/"> releases </a> â¤
+            
+              
+              <a href="/is-07/releases/v1.0.1/"> v1.0.1 </a> â¤
+            
+              
+              <a href="/is-07/releases/v1.0.1/APIs/"> APIs </a> â¤
+            
+            
+              
+                
+                
+              
+            
+          </div>
+        
+
+        </div>
+
+      <div class="content">
+        <br/>
+        <!DOCTYPE HTML><html><head><title>Events API documentation</title><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="generator" content="https://github.com/raml2html/raml2html 7.8.0"><link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css"><script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script><script type="text/javascript" src="https://netdna.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script><script type="text/javascript" src="json-formatter.js"></script><script type="text/javascript">
+      // (c) AMWA 2019
+
+$(document).ready(function() {
+  $('.page-header pre code, .top-resource-description pre code, .modal-body pre code').each(function(i, block) {
+    // check if the element contains JSON and store it as a data attribute
+    try {
+      var jsonObj = JSON.parse($(block).html());
+      $(block).data('json', jsonObj);
+    } catch (e) { }
+    hljs.highlightBlock(block);
+  });
+  $('[data-toggle]').click(function() {
+    var selector = $(this).data('target') + ' pre code';
+    $(selector).each(function(i, block) {
+      hljs.highlightBlock(block);
+    });
+  });
+  // open modal on hashes like #_action_get
+  $(window).bind('hashchange', function(e) {
+    var anchor_id = document.location.hash.substr(1); //strip #
+    var element = $('#' + anchor_id);
+    // do we have such element + is it a modal?  --> show it
+    if (element.length && element.hasClass('modal')) {
+      // modal loaded event handler
+      element.on('show.bs.modal', function(e) {
+        // find JSON examples
+        element.find('pre code').each(function(index, el) {
+          // jQuery up the element
+          el = $(el);
+          // exit as json doesn't exist or element has already been formatted
+          if (el.data('json-formatted') === 'true' || el.data('json') === undefined) {
+            return;
+          }
+          // format the JSON
+          var formatter = new JSONFormatter.default(
+              el.data('json'),
+              3,
+              {
+                 sortPropertiesBy: function(a, b) {
+                   if (a === "title") { return -1; }
+                   if (b === "title") { return 1; }
+                   if (a === "description") { return -1; }
+                   if (b === "description") { return 1; }
+                   return a > b;
+                }
+              }
+             );
+          // clear the container
+          el.empty();
+          // render the formatted json
+          el.parent()[0].appendChild(formatter.render());
+          // prevent duplicate rendering if the modal is re-opened
+          el.data('json-formatted', 'true');
+          // create collapse and expand buttons
+          var collapseBtn = $('<button class="btn btn-default btn-sm" type="button">Collapse</button>');
+          var expandBtn = $('<button class="btn btn-default btn-sm" type="button">Expand</button>');
+          // collapse click handler
+          collapseBtn.on('click', function() {
+            formatter.openAtDepth(1);
+          });
+          // expand click handler
+          expandBtn.on('click', function() {
+            formatter.openAtDepth(Infinity);
+          });
+          // add expand and collapse buttons above the rendered JSON
+          el.parent().prepend(expandBtn);
+          el.parent().prepend(collapseBtn);
+        });
+      });
+      element.modal('show');
+    }
+  });
+  // execute hashchange on first page load
+  $(window).trigger('hashchange');
+  // remove url fragment on modal hide
+  $('.modal').on('hidden.bs.modal', function() {
+    try {
+      if (history && history.replaceState) {
+        history.replaceState({}, '', '#');
+      }
+    } catch (e) {}
+  });
+});
+
+    </script><style>
+      .hljs {
+  background: transparent;
+}
+.parent {
+  color: #999;
+}
+.list-group-item > .badge {
+  float: none;
+  margin-right: 6px;
+}
+.panel-title > .methods {
+  float: right;
+}
+.badge {
+  border-radius: 0;
+  text-transform: uppercase;
+  width: 70px;
+  font-weight: normal;
+  color: #f3f3f6;
+  line-height: normal;
+}
+.badge_get {
+  background-color: #63a8e2;
+}
+.badge_post {
+  background-color: #6cbd7d;
+}
+.badge_put {
+  background-color: #22bac4;
+}
+.badge_delete {
+  background-color: #d26460;
+}
+.badge_patch {
+  background-color: #ccc444;
+}
+.list-group,
+.panel-group {
+  margin-bottom: 0;
+}
+.panel-group .panel+.panel-white {
+  margin-top: 0;
+}
+.panel-group .panel-white {
+  border-bottom: 1px solid #F5F5F5;
+  border-radius: 0;
+}
+.panel-white:last-child {
+  border-bottom-color: white;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+.panel-white .panel-heading {
+  background: white;
+}
+.tab-pane ul {
+  padding-left: 2em;
+}
+.tab-pane h1 {
+  font-size: 1.3em;
+}
+.tab-pane h2 {
+  font-size: 1.2em;
+  padding-bottom: 4px;
+  border-bottom: 1px solid #ddd;
+}
+.tab-pane h3 {
+  font-size: 1.1em;
+}
+.tab-content {
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  padding: 10px;
+}
+#sidebar {
+  margin-top: 30px;
+  padding-right: 5px;
+  overflow: auto;
+  height: 90%;
+}
+.top-resource-description {
+  border-bottom: 1px solid #ddd;
+  background: #fcfcfc;
+  padding: 15px 15px 0 15px;
+  margin: -15px -15px 10px -15px;
+}
+.resource-description {
+  border-bottom: 1px solid #fcfcfc;
+  background: #fcfcfc;
+  padding: 15px 15px 0 15px;
+  margin: -15px -15px 10px -15px;
+}
+.resource-description p:last-child {
+  margin: 0;
+}
+.list-group .badge {
+  float: left;
+}
+.method_description {
+  margin-left: 85px;
+}
+.method_description p:last-child {
+  margin: 0;
+}
+.list-group-item {
+  cursor: pointer;
+}
+.list-group-item:hover {
+  background-color: #f5f5f5;
+}
+pre code {
+  overflow: auto;
+  word-wrap: normal;
+  white-space: pre;
+}
+.items {
+  background: #f5f5f5;
+  color: #333;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 9.5px;
+  margin: 0 0 10px;
+  font-size: 13px;
+  line-height: 1.42857143;
+}
+.examples {
+  margin-left: 0.5em;
+}
+.resource-modal li > ul {
+  margin-bottom: 1em;
+}
+.required {
+  color: #f00;
+}
+    </style></head><body data-spy="scroll" data-target="#sidebar"><div class="container"><div class="row"><div class="col-md-9" role="main"><div class="page-header"><h1>Events API documentation <small>version v1.0</small></h1><p>http://example.api.com/x-nmos/events/{version}</p><ul><li><strong>version</strong>: <em><span class="required">required</span>(v1.0)</em></li></ul><h3 id="overview"><a href="#overview">Overview</a></h3><p>The Events API is exposed by each NMOS Device in a system that supports AMWA NMOS Event &amp; Tally Specification. The API is used to announce the type definitions used by the Event &amp; Tally sources and for the receiving devices to be able to check the current source state.</p></div><div class="panel panel-default"><div class="panel-heading"><h3 class="panel-title">Base</h3></div><div class="panel-body"><div class="panel-group"><div class="panel panel-white resource-modal"><div class="panel-heading"><h4 class="panel-title"><a class="collapsed" data-toggle="collapse" href="#panel_"><span class="parent"></span>/</a> <span class="methods"><a href="#_get"><span class="badge badge_get">get</span></a></span></h4></div><div id="panel_" class="panel-collapse collapse"><div class="panel-body"><div class="list-group"><div onclick="window.location.href = '#_get'" class="list-group-item"><span class="badge badge_get">get</span><div class="method_description"><p>List of paths available from this API</p></div><div class="clearfix"></div></div></div></div></div><div class="modal fade" tabindex="0" id="_get"><div class="modal-dialog modal-lg"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button><h4 class="modal-title" id="myModalLabel"><span class="badge badge_get">get</span> <span class="parent"></span>/</h4></div><div class="modal-body"><div class="alert alert-info"><p>List of paths available from this API</p></div><ul class="nav nav-tabs"><li class="active"><a href="#_get_response" data-toggle="tab">Response</a></li></ul><div class="tab-content"><div class="tab-pane active" id="_get_response"><h2>HTTP status code <a href="http://httpstatus.es/200" target="_blank">200</a></h2><h3>Body</h3><p><strong>Media type</strong>: application/json</p><p><strong>Type</strong>: json</p><p><strong>Content</strong>:</p><pre><code>{
+  "$id": "https://www.amwa.tv/event_and_tally/base.json",
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "array",
+  "description": "Describes the Events API base resource",
+  "title": "Events API base resource",
+  "items": {
+    "type": "string",
+    "enum": [
+      "sources/"
+    ],
+    "minItems": 1,
+    "maxItems": 1,
+    "uniqueItems": true
+  }
+}
+</code></pre><p><strong>Example</strong>:</p><div class="examples"><pre><code>[
+    "sources/"
+]
+</code></pre></div></div></div></div></div></div></div></div></div></div></div><div class="panel panel-default"><div class="panel-heading"><h3 id="sources" class="panel-title">Sources</h3></div><div class="panel-body"><div class="panel-group"><div class="panel panel-white resource-modal"><div class="panel-heading"><h4 class="panel-title"><a class="collapsed" data-toggle="collapse" href="#panel_sources"><span class="parent"></span>/sources</a> <span class="methods"><a href="#sources_get"><span class="badge badge_get">get</span></a></span></h4></div><div id="panel_sources" class="panel-collapse collapse"><div class="panel-body"><div class="list-group"><div onclick="window.location.href = '#sources_get'" class="list-group-item"><span class="badge badge_get">get</span><div class="method_description"><p>List of the Event &amp; Tally compatible sources</p></div><div class="clearfix"></div></div></div></div></div><div class="modal fade" tabindex="0" id="sources_get"><div class="modal-dialog modal-lg"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button><h4 class="modal-title" id="myModalLabel"><span class="badge badge_get">get</span> <span class="parent"></span>/sources</h4></div><div class="modal-body"><div class="alert alert-info"><p>List of the Event &amp; Tally compatible sources</p></div><ul class="nav nav-tabs"><li class="active"><a href="#sources_get_response" data-toggle="tab">Response</a></li></ul><div class="tab-content"><div class="tab-pane active" id="sources_get_response"><h2>HTTP status code <a href="http://httpstatus.es/200" target="_blank">200</a></h2><h3>Body</h3><p><strong>Media type</strong>: application/json</p><p><strong>Type</strong>: json</p><p><strong>Content</strong>:</p><pre><code>{
+  "$id": "https://www.amwa.tv/event_and_tally/sources.json",
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "array",
+  "description": "A list of Event &amp; Tally Source resources",
+  "title": "Collection of Event &amp; Tally Sources",
+  "items": {
+    "description": "IDs of the Event &amp; Tally compatible sources",
+    "type": "string",
+    "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}&#92;&#92;/$"
+  },
+  "minItems": 0,
+  "uniqueItems": true
+}
+</code></pre><p><strong>Example</strong>:</p><div class="examples"><pre><code>[
+    "1ea39324-a32b-4e1d-86e9-33f9956ebc60/",
+    "f9c7b88b-1846-43d9-9e53-c230e77d91ac/"
+]
+</code></pre></div></div></div></div></div></div></div></div><div class="panel panel-white resource-modal"><div class="panel-heading"><h4 class="panel-title"><a class="collapsed" data-toggle="collapse" href="#panel_sources__sourceid_"><span class="parent">/sources</span>/{sourceId}</a> <span class="methods"><a href="#sources__sourceid__get"><span class="badge badge_get">get</span></a></span></h4></div><div id="panel_sources__sourceid_" class="panel-collapse collapse"><div class="panel-body"><div class="list-group"><div onclick="window.location.href = '#sources__sourceid__get'" class="list-group-item"><span class="badge badge_get">get</span><div class="method_description"><p>Get a single source</p></div><div class="clearfix"></div></div></div></div></div><div class="modal fade" tabindex="0" id="sources__sourceid__get"><div class="modal-dialog modal-lg"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button><h4 class="modal-title" id="myModalLabel"><span class="badge badge_get">get</span> <span class="parent">/sources</span>/{sourceId}</h4></div><div class="modal-body"><div class="alert alert-info"><p>Get a single source</p></div><ul class="nav nav-tabs"><li class="active"><a href="#sources__sourceid__get_request" data-toggle="tab">Request</a></li><li><a href="#sources__sourceid__get_response" data-toggle="tab">Response</a></li></ul><div class="tab-content"><div class="tab-pane active" id="sources__sourceid__get_request"><h3>URI Parameters</h3><ul><li><strong>sourceId</strong>: <em><span class="required">required</span>(string - pattern: ^[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$)</em></li></ul></div><div class="tab-pane" id="sources__sourceid__get_response"><h2>HTTP status code <a href="http://httpstatus.es/200" target="_blank">200</a></h2><h3>Body</h3><p><strong>Media type</strong>: application/json</p><p><strong>Type</strong>: json</p><p><strong>Content</strong>:</p><pre><code>{
+  "$id": "https://www.amwa.tv/event_and_tally/source.json",
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "array",
+  "description": "Describes the Event &amp; Tally source",
+  "title": "Event &amp; Tally source",
+  "items": {
+    "type": "string",
+    "enum": [
+      "type/",
+      "state/"
+    ],
+    "minItems": 2,
+    "maxItems": 2,
+    "uniqueItems": true
+  }
+}
+</code></pre><p><strong>Example</strong>:</p><div class="examples"><pre><code>[
+    "state/",
+    "type/"
+]
+</code></pre></div><h2>HTTP status code <a href="http://httpstatus.es/404" target="_blank">404</a></h2><p>Returned when the requested Source ID does not exist</p><h3>Body</h3><p><strong>Media type</strong>: application/json</p><p><strong>Type</strong>: json</p><p><strong>Content</strong>:</p><pre><code>{
+  "$id": "https://www.amwa.tv/event_and_tally/error.json",
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "description": "Describes the standard error response which is returned with HTTP codes 400 and above",
+  "title": "Error response",
+  "required": [
+    "code",
+    "error",
+    "debug"
+  ],
+  "properties": {
+    "code": {
+      "description": "HTTP error code",
+      "type": "integer",
+      "minimum": 400,
+      "maximum": 599
+    },
+    "error": {
+      "description": "Human readable message which is suitable for user interface display, and helpful to the user",
+      "type": "string"
+    },
+    "debug": {
+      "description": "Debug information which may assist a programmer working with the API",
+      "type": ["null", "string"]
+    }
+  }
+}
+</code></pre></div></div></div></div></div></div></div><div class="panel panel-white resource-modal"><div class="panel-heading"><h4 class="panel-title"><a class="collapsed" data-toggle="collapse" href="#panel_sources__sourceid__type"><span class="parent">/sources/{sourceId}</span>/type</a> <span class="methods"><a href="#sources__sourceid__type_get"><span class="badge badge_get">get</span></a></span></h4></div><div id="panel_sources__sourceid__type" class="panel-collapse collapse"><div class="panel-body"><div class="list-group"><div onclick="window.location.href = '#sources__sourceid__type_get'" class="list-group-item"><span class="badge badge_get">get</span><div class="method_description"><p>JSON containing detailed type information</p></div><div class="clearfix"></div></div></div></div></div><div class="modal fade" tabindex="0" id="sources__sourceid__type_get"><div class="modal-dialog modal-lg"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button><h4 class="modal-title" id="myModalLabel"><span class="badge badge_get">get</span> <span class="parent">/sources/{sourceId}</span>/type</h4></div><div class="modal-body"><div class="alert alert-info"><p>JSON containing detailed type information</p></div><ul class="nav nav-tabs"><li class="active"><a href="#sources__sourceid__type_get_request" data-toggle="tab">Request</a></li><li><a href="#sources__sourceid__type_get_response" data-toggle="tab">Response</a></li></ul><div class="tab-content"><div class="tab-pane active" id="sources__sourceid__type_get_request"><h3>URI Parameters</h3><ul><li><strong>sourceId</strong>: <em><span class="required">required</span>(string - pattern: ^[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$)</em></li></ul></div><div class="tab-pane" id="sources__sourceid__type_get_response"><h2>HTTP status code <a href="http://httpstatus.es/200" target="_blank">200</a></h2><h3>Body</h3><p><strong>Media type</strong>: application/json</p><p><strong>Type</strong>: json</p><p><strong>Content</strong>:</p><pre><code>{
+  "$id": "https://www.amwa.tv/event_and_tally/type.json",
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "description": "Type definition",
+  "title": "Type definition",
+  "oneOf": [
+    { "$ref": "type_boolean.json" },
+    { "$ref": "type_boolean_enum.json" },
+    { "$ref": "type_number.json" },
+    { "$ref": "type_number_enum.json" },
+    { "$ref": "type_string.json" },
+    { "$ref": "type_string_enum.json" }
+  ]
+}
+</code></pre><p><strong>Example</strong>:</p><div class="examples"><pre><code>{
+  "type": "boolean"
+}
+</code></pre></div><h2>HTTP status code <a href="http://httpstatus.es/404" target="_blank">404</a></h2><p>Returned when the requested Source ID does not exist</p><h3>Body</h3><p><strong>Media type</strong>: application/json</p><p><strong>Type</strong>: json</p><p><strong>Content</strong>:</p><pre><code>{
+  "$id": "https://www.amwa.tv/event_and_tally/error.json",
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "description": "Describes the standard error response which is returned with HTTP codes 400 and above",
+  "title": "Error response",
+  "required": [
+    "code",
+    "error",
+    "debug"
+  ],
+  "properties": {
+    "code": {
+      "description": "HTTP error code",
+      "type": "integer",
+      "minimum": 400,
+      "maximum": 599
+    },
+    "error": {
+      "description": "Human readable message which is suitable for user interface display, and helpful to the user",
+      "type": "string"
+    },
+    "debug": {
+      "description": "Debug information which may assist a programmer working with the API",
+      "type": ["null", "string"]
+    }
+  }
+}
+</code></pre></div></div></div></div></div></div></div><div class="panel panel-white resource-modal"><div class="panel-heading"><h4 class="panel-title"><a class="collapsed" data-toggle="collapse" href="#panel_sources__sourceid__state"><span class="parent">/sources/{sourceId}</span>/state</a> <span class="methods"><a href="#sources__sourceid__state_get"><span class="badge badge_get">get</span></a></span></h4></div><div id="panel_sources__sourceid__state" class="panel-collapse collapse"><div class="panel-body"><div class="list-group"><div onclick="window.location.href = '#sources__sourceid__state_get'" class="list-group-item"><span class="badge badge_get">get</span><div class="method_description"><p>JSON containing the last state change notification sent over the transport protocols</p></div><div class="clearfix"></div></div></div></div></div><div class="modal fade" tabindex="0" id="sources__sourceid__state_get"><div class="modal-dialog modal-lg"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button><h4 class="modal-title" id="myModalLabel"><span class="badge badge_get">get</span> <span class="parent">/sources/{sourceId}</span>/state</h4></div><div class="modal-body"><div class="alert alert-info"><p>JSON containing the last state change notification sent over the transport protocols</p></div><ul class="nav nav-tabs"><li class="active"><a href="#sources__sourceid__state_get_request" data-toggle="tab">Request</a></li><li><a href="#sources__sourceid__state_get_response" data-toggle="tab">Response</a></li></ul><div class="tab-content"><div class="tab-pane active" id="sources__sourceid__state_get_request"><h3>URI Parameters</h3><ul><li><strong>sourceId</strong>: <em><span class="required">required</span>(string - pattern: ^[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$)</em></li></ul></div><div class="tab-pane" id="sources__sourceid__state_get_response"><h2>HTTP status code <a href="http://httpstatus.es/200" target="_blank">200</a></h2><h3>Body</h3><p><strong>Media type</strong>: application/json</p><p><strong>Type</strong>: json</p><p><strong>Content</strong>:</p><pre><code>{
+  "$id": "https://www.amwa.tv/event_and_tally/event.json",
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "description": "Message that gets sent out when the source state changes",
+  "title": "State change event",
+  "oneOf": [{
+    "$ref": "event_boolean.json"
+  }, {
+    "$ref": "event_number.json"
+  }, {
+    "$ref": "event_string.json"
+  }, {
+    "$ref": "event_object.json"
+  }]
+}
+</code></pre><p><strong>Example</strong>:</p><div class="examples"><pre><code>{
+  "identity": {
+    "source_id": "1ea39324-a32b-4e1d-86e9-33f9956ebc60"
+  },
+  "event_type": "boolean",
+  "timing": {
+    "creation_timestamp": "1532504241:104000200"
+  },
+  "payload": {
+    "value": false
+  },
+  "message_type": "state"
+}
+</code></pre></div><h2>HTTP status code <a href="http://httpstatus.es/404" target="_blank">404</a></h2><p>Returned when the requested Source ID does not exist</p><h3>Body</h3><p><strong>Media type</strong>: application/json</p><p><strong>Type</strong>: json</p><p><strong>Content</strong>:</p><pre><code>{
+  "$id": "https://www.amwa.tv/event_and_tally/error.json",
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "description": "Describes the standard error response which is returned with HTTP codes 400 and above",
+  "title": "Error response",
+  "required": [
+    "code",
+    "error",
+    "debug"
+  ],
+  "properties": {
+    "code": {
+      "description": "HTTP error code",
+      "type": "integer",
+      "minimum": 400,
+      "maximum": 599
+    },
+    "error": {
+      "description": "Human readable message which is suitable for user interface display, and helpful to the user",
+      "type": "string"
+    },
+    "debug": {
+      "description": "Debug information which may assist a programmer working with the API",
+      "type": ["null", "string"]
+    }
+  }
+}
+</code></pre></div></div></div></div></div></div></div></div></div></div></div><div class="col-md-3"><div id="sidebar" class="hidden-print affix" role="complementary"><ul class="nav nav-pills nav-stacked"><li><a href="#">Base</a></li><li><a href="#sources">Sources</a></li></ul></div></div></div></div></body></html>
+
+      </div>
+
+      <div class="footer border-top border-gray-light mt-5 pt-3 text-center text-gray">
+          Documentation built at 04:52:40 CDT on 2024-08-29. <br/>
+      
+      (c) AMWA 2024.
+      RAML/JSON licensed under <a href="https://www.apache.org/licenses/LICENSE-2.0.html">Apache 2.0</a>.
+      Documentation licensed under <a href="http://creativecommons.org/licenses/by-nd/4.0/">CC BY-ND 4.0</a>.
+      
+      </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+
+    
+
+
+    <script>
+    window.onscroll = function() {myFunction()};
+
+    var header = document.getElementById("menu-header");
+    var sticky = header.offsetTop;
+
+    function myFunction() {
+      if (window.pageYOffset > sticky) {
+        header.classList.add("sticky");
+      } else {
+        header.classList.remove("sticky");
+      }
+    }
+
+    </script>
+  </body>
+</html>

@@ -1,0 +1,270 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Audio-Technica AE2500 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="AE2500, Combination Microphone , aka: AE-2500 - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/Audio-Technica/AE2500" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The ATM250DE and AE2500 are both dual-element, condenser+dynamic combination mics for instrument (esp. kick drum) miking." href="//recordinghacks.com/microphones/Audio-Technica/ATM250DE"><img src="//cdn.recordinghacks.com/images/mics/00589/00589_75.jpg" width="75" height="75" alt="The ATM250DE and AE2500 are both dual-element, condenser+dynamic combination mics for instrument (esp. kick drum) miking." title="The ATM250DE and AE2500 are both dual-element, condenser+dynamic combination mics for instrument (esp. kick drum) miking."   ><br /><span>Audio-Technica ATM250DE</span></a></li>
+                                                    <li class="mictile"><a title="The AE2500 and DTP 640 REX are dual-element, condenser+dynamic combination mics for instrument (esp. kick drum) miking." href="//recordinghacks.com/microphones/Lewitt/640-REX"><img src="//cdn.recordinghacks.com/images/mics/00949/00949_75.jpg" width="75" height="75" alt="The AE2500 and DTP 640 REX are dual-element, condenser+dynamic combination mics for instrument (esp. kick drum) miking." title="The AE2500 and DTP 640 REX are dual-element, condenser+dynamic combination mics for instrument (esp. kick drum) miking."   ><br /><span>Lewitt DTP 640 REX</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/Audio-Technica">Audio-Technica microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Audio-Technica AE2500" href="/microphone-photo/00004/Audio-Technica/AE2500.jpg"><img src="//cdn.recordinghacks.com/images/mics/00004/00004_172.jpg" width="172" height="89" alt="Audio-Technica AE2500" title="Audio-Technica AE2500" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $699</li>
+                                                            </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/dynamic" alt="dynamic microphones">dynamic</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/electret" alt="electret microphones">electret</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/end-address" alt="end-address microphones">end-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/kick-drum" alt="kick-drum microphones">kick-drum</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/condenser" alt="condenser microphones">condenser</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/dual-capsule" alt="dual-capsule microphones">dual-capsule</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/hpf" alt="hpf microphones">hpf</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://mixonline.com/gear/reviews/audio_audiotechnica_ae_dualelement/">MIX review, 2003-06</a></li>
+                                                                    <li id="www"><a  href="http://www.proaudioreview.com/article/1332">ProAudioReview.com, 2003-01</a></li>
+                                                                    <li id="www"><a  href="http://www.soundonsound.com/sos/dec03/articles/atae2500.htm">SoundOnSound, 2003-12</a></li>
+                                                                    <li id="www"><a  href="http://emusician.com/mics/emusic_audiotechnica_2/">Electronic Musician, 2003</a></li>
+                                                                </ul>                    
+                                        <h3>AE2500 Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.audio-technica.com/cms/wired_mics/4359efa46266c7e9/index.html">AE2500 Product Description</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/audio-technica/ae2500_english.pdf">AE2500 Technical Specification</a></li>
+                                                                </ul>                    
+                                        <h3>AE2500 Awards</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a href="//recordinghacks.com/awards#14">2003 TEC Awards</a> (Nominated)</li>
+                                        </ul>                    
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="4-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>Audio-Technica AE2500</h2>
+                    
+                    <h2 class="sub">                    Combination Microphone</h2>
+                    <p>Designed specifically for the kick drum, the AE2500 dual-element instrument microphone features cardioid condenser (electret) and dynamic capsules combined in one housing. The dynamic element captures the attack of the beater; the condenser element captures the tonalities of the shell. </p><p>According to A-T, the condenser diaphragm is tensioned and aged for long-term consistency and stability. The capsule diameter is approximately 16mm.</p><p>The moving-coil dynamic capsule is larger, measuring approximately 28mm in diameter according to SoundOnSound.</p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images/mic_extras/audio-technica/ae2500_capsules.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/audio-technica/ae2500_capsules_sm.jpg" width="200" class="thumb shaft" /></a>The two elements are positioned in a perfect phase relationship, which would be difficult or impossible with two separate microphones.</p><p>The condenser element features an integral 80 Hz HPF switch and 10 dB pad.</p><p>Ships with an isolation clamp and a 16.5&#39; (5m) breakout cable that allows users to route the condenser and dynamic elements separately. (Note that you&#8217;ll need two preamp channels.) The cable is a 5-pin XLRF to two standard 3-pin XLRM connectors) for separate control over each element.</p><blockquote><p><cite>SoundOnSound</cite></p><p>[T]he AE2500 <a href="http://www.soundonsound.com/sos/dec03/articles/atae2500.htm" rel="nofollow">provides the best of both worlds</a> &#8212; an equalised dynamic mic character similar to the AKG, Sennheiser and Beyerdynamic offerings, combined with a flatter, more neutral output providing the natural tonality required in acoustic music. Best of all is the ability to mix and match these characters to obtain the perfect blend, without fear of phase problems.</p></blockquote><p></p><blockquote><p><cite>ProAudioReview, 2003</cite></p><p>The AE2500 was a jaw dropper on the bass drum. Processing the two elements separately (EQ, gating and compression) yielded an awesome sound&#8230; The dynamic element sounded a lot like my <a href="http://recordinghacks.com/microphones/AKG-Acoustics/D-112">AKG D112</a>, big bottom with a hint of attack. The condenser had a nice crisp attack and some drum resonance too. Blending the two together created a wonderful kick drum sound.</p></blockquote><p><em>What are the differences between the AE2500 and the ATM250DE?</em></p><ul><li>Cost: The AE2500 is ~25% more expensive, in part because the AE2500 came first and required the design of two new capsules. The ATM250DE is a second-generation product in which existing parts from the ATM line could be repurposed.</li><li>Frequency response: the AE2500 has a superior low-end response, reaching down to 20 Hz. The ATM250DE drops off below 40Hz.</li><li>Directionality: the dynamic capsule in the ATM250DE is hypercardioid. In the AE2500, the dynamic capsule is cardioid.</li></ul><p></p><blockquote><p><cite>Electronic Musician, 2003</cite><br />The condenser element of the mic offered good transient snap and a concentrated note around 350 Hz, but less sustain and overall tonal character than the dynamic. The off-axis bleed was less severe relative to the dynamic track.</p><p>In the mix I found the ideal proportion of the two mic elements to be roughly 65 percent dynamic, 35 percent condenser. Using much more of the condenser track tipped the tonal balance too much in the midrange direction, with a prominent bump around 350 Hz.</p></blockquote><p><p>The <a href="//recordinghacks.com/microphones/Audio-Technica/AE2500">Audio-Technica AE2500</a> is also known as: AE-2500.</p><p>The mic was released in 2002.</p>
+                    <h3>Specifications</h3>
+                                        
+                    <table>
+                                                    <tr><th>Frequency Response - Cardioid (Condenser element)<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/0009" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/0/0009.png" width=476 height=159 alt="AE2500 Cardioid Frequency Response Chart" title="AE2500 Cardioid Frequency Response Chart" border=0 /></td></tr>
+                                                        <tr><th>Frequency Response - Cardioid (Dynamic element)<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/0477" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/0/0477.png" width=476 height=159 alt="AE2500 Cardioid Frequency Response Chart" title="AE2500 Cardioid Frequency Response Chart" border=0 /></td></tr>
+                            </table>
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                                                                Cardioid
+                                             (2.8 mV/Pa; 20-17,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                                                            Cardioid
+                                             (1.9 mV/Pa; 30-10,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                    <li>Pad: -10dB<small> (Via Switch)</small></li>
+                                                                        <li>Filter: HPF: 12dB @ 80Hz<small> (Via Switch)</small></li>
+                                                                    </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Capsule Dimensions</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                    n/a                                </td>
+                            <td>100 Ohms <em class="mute">(Low)</em></td>
+                            <td>Max SPL: 148 dB<br />                                </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>390g <em class="mute">(13.76oz)</em></td>
+                            <td>165mm <em class="mute">(6.50&#39;&#39;)</em></td>
+                            <td>55mm <em class="mute">(2.17&#39;&#39;)</em></td>
+                            <td><ul><li>5-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                        <li>Requires phantom power </li>
+                                                                                                                                                                                <li>Phantom voltage: 11-52v</li>
+                                        </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('4-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

@@ -1,0 +1,5 @@
+## Mics tagged: vf14er
+
+|  |  |
+| --- | --- |
+| [RMS Audioworks RMS47](http://recordinghacks.com/microphones/RMS/RMS47 "RMS Audioworks RMS47 - Features, Specifications, Datasheet") | OmnidirectionalCardioid  [**RMS Audioworks RMS47**](/microphones/RMS/RMS47 "RMS Audioworks RMS47 - Features, Specifications, Datasheet")  Multi-Pattern Tube Condenser Microphone  [side-address](//recordinghacks.com/microphones/tag/side-address "side-address microphones"), [tube](//recordinghacks.com/microphones/tag/tube "tube microphones"), [multipattern](//recordinghacks.com/microphones/tag/multipattern "multipattern microphones"), [k47](//recordinghacks.com/microphones/tag/k47 "k47 microphones"), [ami](//recordinghacks.com/microphones/tag/ami "ami microphones"), [vf14er](//recordinghacks.com/microphones/tag/vf14er "vf14er microphones"), [cardas](//recordinghacks.com/microphones/tag/cardas "cardas microphones") |

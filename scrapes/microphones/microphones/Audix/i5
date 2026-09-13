@@ -1,0 +1,272 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Audix i5 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="i5, Cardioid Dynamic Microphone , aka: i-5 - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/Audix/i5" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>i5 Microphone Sets</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="Audix Studio Elite 8 - microphone set" href="//recordinghacks.com/microphones/Audix/Studio-Elite-8"><img src="//cdn.recordinghacks.com/images/sets/00045/00045_75.jpg" width="75" height="75" alt="" title=""   ><br /><span>Audix Studio Elite 8</span></a></li>
+                                                    <li class="mictile"><a title="Audix DP Elite 8 - microphone set" href="//recordinghacks.com/microphones/Audix/DP-Elite-8"><img src="//cdn.recordinghacks.com/images/sets/00064/00064_75.jpg" width="75" height="75" alt="" title=""   ><br /><span>Audix DP Elite 8</span></a></li>
+                                                    <li class="mictile"><a title="Audix DP7 - microphone set" href="//recordinghacks.com/microphones/Audix/DP7"><img src="//cdn.recordinghacks.com/images/sets/00065/00065_75.jpg" width="75" height="75" alt="" title=""   ><br /><span>Audix DP7</span></a></li>
+                                                    <li class="mictile"><a title="Audix DP QUAD - microphone set" href="//recordinghacks.com/microphones/Audix/DP-QUAD"><img src="//cdn.recordinghacks.com/images/sets/00066/00066_75.jpg" width="75" height="75" alt="" title=""   ><br /><span>Audix DP QUAD</span></a></li>
+                                                    <li class="mictile"><a title="Audix DP5A - microphone set" href="//recordinghacks.com/microphones/Audix/DP5A"><img src="//cdn.recordinghacks.com/images/sets/00067/00067_75.jpg" width="75" height="75" alt="" title=""   ><br /><span>Audix DP5A</span></a></li>
+                                                </ul>
+                        </div>
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The Audix i5 is intended as a Shure SM57 competitor." href="//recordinghacks.com/microphones/Shure/SM57"><img src="//cdn.recordinghacks.com/images/mics/00002/00002_75.jpg" width="75" height="75" alt="The Audix i5 is intended as a Shure SM57 competitor." title="The Audix i5 is intended as a Shure SM57 competitor."   ><br /><span>Shure SM57</span></a></li>
+                                                    <li class="mictile"><a title="Audix f5 is based on i5 design" href="//recordinghacks.com/microphones/Audix/f5"><img src="//cdn.recordinghacks.com/images/mics/01401/01401_75.jpg" width="75" height="75" alt="Audix f5 is based on i5 design" title="Audix f5 is based on i5 design"   ><br /><span>Audix f5</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/Audix">Audix microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Audix i5" href="/microphone-photo/00754/Audix/i5.jpg"><img src="//cdn.recordinghacks.com/images/mics/00754/00754_172.jpg" width="172" height="93" alt="Audix i5" title="Audix i5" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $179</li>
+                                                            </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/dynamic" alt="dynamic microphones">dynamic</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/end-address" alt="end-address microphones">end-address</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.soundonsound.com/sos/may07/articles/audixi5.htm">SoundOnSound, 2007-05</a></li>
+                                                                    <li id="www"><a  href="http://emusician.com/mag/emusic_audix_2/">Electronic Musician, 2005-05</a></li>
+                                                                    <li id="film"><a  href="http://www.gearwire.com/media/audix-i5-microphone-shootout.mov">SM57 vs i5 on electric guitar</a></li>
+                                                                    <li id="www"><a  href="http://www.proaudioreview.com/article/1266">ProAudioReview, 2004-10</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/reviews/tapeop/audix-i-5/">Tape Op Review (issue #44)</a></li>
+                                                                </ul>                    
+                                        <h3>i5 Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.audixusa.com/docs_12/units/i5.shtml">Audix i5 Product Description</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://www.audixusa.com/docs/specs_pdf/i5.pdf">i5 Technical Specification</a></li>
+                                                                </ul>                    
+                                        <h3>i5 Awards</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a href="//recordinghacks.com/awards#10">2005 TEC Awards</a> (Nominated)</li>
+                                        </ul>                    
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="754-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>Audix i5</h2>
+                    
+                    <h2 class="sub">                    Cardioid Dynamic Microphone</h2>
+                    <p>The Audix i5 is an all-purpose studio dynamic mic that invariably draws comparisons to the ubiquitous Shure SM57.</p><p>The case is a bit shorter and fatter than the SM57, but the applications are generally the same. Reviewers report great results on snare drums, percussion, and electric guitar cabinets.</p><p>The frequency response graph is telling; the mic&#8217;s -3dB points are found around 50Hz and 16kHz; in between you&#8217;ll find a +5dB peak at 150Hz and a +9dB peak at 5500Hz.</p><blockquote><p><cite>SoundOnSound</cite></p><p>My first practical test was to use the i5 at a live gig for miking a guitar combo, which it managed superbly. It nailed the tone of the amp and helped cut through the mix without making the sound too aggressive. In the studio it worked well on both hand percussion (djembe, in this case) and kit drums, where it made a decent tom mic and also proved capable of good results on the snare drum.</p></blockquote><p></p><blockquote><p><cite>Electronic Musician</cite></p><p>Overall, the i5 exhibited an open, beefy sound. Although it was a bit on the dark side due to its low-end emphasis, the mic had plenty of definition.</p></blockquote><p></p><blockquote><p><cite>ProAudioReview</cite></p><p>The warm, sounding hollow-body guitars sounded great with the i-5s. The top-end had much more presence than I would expect from a dynamic, but it was not exaggerated. The bottom end was clean, but not rolled off. And you could get this sound by locating the mic three inches from the amplifier. Man, who needs a condenser when you can get this sound out of a dynamic.</p><p>I also tried the i-5 on a Martin 000-16SGT, 12-fret acoustic guitar just to see if the dynamic had enough presence to bring out the essence of the mahogany and spruce. The recorded material was very good. The i-5 does not have the sweet overall presence of the <a href="http://recordinghacks.com/microphones/Audix/SCX-25">Audix SCX-25</a>, but it opens up, more than most other dynamics I have used, the character on the top end without being brittle.</p></blockquote><p><p>The <a href="//recordinghacks.com/microphones/Audix/i5">Audix i5</a> is also known as: i-5.</p><p>The mic was released in 2004.</p>
+                    <h3>Specifications</h3>
+                                        
+                    <table>
+                                                    <tr><th>Frequency Response - Cardioid<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/0960" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/0/0960.png" width=476 height=159 alt="i5 Cardioid Frequency Response Chart" title="i5 Cardioid Frequency Response Chart" border=0 /></td></tr>
+                            </table>
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                                                                Cardioid
+                                             (1.5 mV/Pa; 50 - 16,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Coil Diameter</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                    n/a                                </td>
+                            <td>150 Ohms <em class="mute">(Low)</em></td>
+                            <td>Max SPL: 140 dB<br />                                </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>183g <em class="mute">(6.46oz)</em></td>
+                            <td>142mm <em class="mute">(5.59&#39;&#39;)</em></td>
+                            <td>38mm <em class="mute">(1.50&#39;&#39;)</em></td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                                                                                                                                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('754-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

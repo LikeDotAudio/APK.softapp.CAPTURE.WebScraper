@@ -1,0 +1,5 @@
+## Mics tagged: 6418 AND large-diaphragm
+
+|  |  |
+| --- | --- |
+| [Audio-Technica AT3060](http://recordinghacks.com/microphones/Audio-Technica/AT3060 "Audio-Technica AT3060 - Features, Specifications, Datasheet") | Cardioid  [**Audio-Technica AT3060**](/microphones/Audio-Technica/AT3060 "Audio-Technica AT3060 - Features, Specifications, Datasheet")  Cardioid Tube Condenser Microphone  [side-address](//recordinghacks.com/microphones/tag/side-address "side-address microphones"), [large-diaphragm](//recordinghacks.com/microphones/tag/large-diaphragm "large-diaphragm microphones"), [electret](//recordinghacks.com/microphones/tag/electret "electret microphones"), [tube](//recordinghacks.com/microphones/tag/tube "tube microphones"), [transformer-coupled](//recordinghacks.com/microphones/tag/transformer-coupled "transformer-coupled microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [6418](//recordinghacks.com/microphones/tag/6418 "6418 microphones") |

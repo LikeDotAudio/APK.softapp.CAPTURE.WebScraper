@@ -1,0 +1,5 @@
+## Mics tagged: variable-stereo
+
+|  |  |
+| --- | --- |
+| [Sanken Microphone Company, Ltd. CUW-180](http://recordinghacks.com/microphones/Sanken/CUW-180 "Sanken Microphone Company, Ltd. CUW-180 - Features, Specifications, Datasheet") | X/Y Stereo  [**Sanken Microphone Company, Ltd. CUW-180**](/microphones/Sanken/CUW-180 "Sanken Microphone Company, Ltd. CUW-180 - Features, Specifications, Datasheet")  X/Y Stereo Condenser Microphone  [stereo](//recordinghacks.com/microphones/tag/stereo "stereo microphones"), [transformerless](//recordinghacks.com/microphones/tag/transformerless "transformerless microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [dual-capsule](//recordinghacks.com/microphones/tag/dual-capsule "dual-capsule microphones"), [xy-stereo](//recordinghacks.com/microphones/tag/xy-stereo "xy-stereo microphones"), [variable-stereo](//recordinghacks.com/microphones/tag/variable-stereo "variable-stereo microphones") |

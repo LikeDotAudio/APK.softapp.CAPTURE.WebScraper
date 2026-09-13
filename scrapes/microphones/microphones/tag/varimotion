@@ -1,0 +1,187 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>varimotion microphones | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+                
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+			<div id="content">
+                <div id="sidebar">                  
+                    					<h2 class="search">search for mics</h2>
+					<form action="/microphones" method="POST">
+										<script language="JavaScript" type="text/javascript">
+function clearText(field){
+
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+
+}
+					</script>
+						<fieldset>
+						    <input type="text" name="s" size="20" value="Microphone name or model number" style="color: #667;margin-left: 0;margin-bottom: 8px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)"><br />
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<fieldset class="checks">
+							<span class="shaft">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+							</span>
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">&nbsp;<input style="font-size: 8px" type="reset" name="button" value="Reset Form">
+						</fieldset>
+					</form>
+                            <p></p><h3>Definition of "varimotion":</h3><p>AKG&#8217;s <b>Laminate Varimotion</b> is a type of dynamic microphone membrane characterized by the lamination of two layers of plastic, one lightweight and the other dense, into a single-piece, variable-thickness piece. The thin outer edges allow for extended low-frequency response, while the thicker center of the membrane allows for high SPL handling. </p><p>The manufacturing process is patented in the US; see additional notes on the D7 page.</p><p>Read more about Laminate Varimotion on AKG&#8217;s <a href="http://www.akg.com/fbid/">Feedback is Dead</a> site.</p>
+<h3>Refine Search</h3><p>Find mics tagged '<b>varimotion</b> AND:'</p> 
+<p><a rel="nofollow" href="//recordinghacks.com/microphones/tag/varimotion+dynamic" title="Mics tagged varimotion AND dynamic">dynamic</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/varimotion+end-address" title="Mics tagged varimotion AND end-address">end-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/varimotion+handheld" title="Mics tagged varimotion AND handheld">handheld</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/varimotion+rim-mount" title="Mics tagged varimotion AND rim-mount">rim-mount</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/varimotion+neodymium" title="Mics tagged varimotion AND neodymium">neodymium</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/varimotion+hpf" title="Mics tagged varimotion AND hpf">hpf</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/varimotion+humbucking-coil" title="Mics tagged varimotion AND humbucking-coil">humbucking-coil</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/varimotion+ball-mic" title="Mics tagged varimotion AND ball-mic">ball-mic</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/varimotion+eng" title="Mics tagged varimotion AND eng">eng</a> </p>
+<h3>Expand Search</h3><p>Find mics tagged '<b>varimotion</b> OR:'</p>
+<p><a rel="nofollow" href="//recordinghacks.com/microphones/tag/varimotion|dynamic" title="Mics tagged varimotion OR dynamic">dynamic</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/varimotion|end-address" title="Mics tagged varimotion OR end-address">end-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/varimotion|handheld" title="Mics tagged varimotion OR handheld">handheld</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/varimotion|rim-mount" title="Mics tagged varimotion OR rim-mount">rim-mount</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/varimotion|neodymium" title="Mics tagged varimotion OR neodymium">neodymium</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/varimotion|hpf" title="Mics tagged varimotion OR hpf">hpf</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/varimotion|humbucking-coil" title="Mics tagged varimotion OR humbucking-coil">humbucking-coil</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/varimotion|ball-mic" title="Mics tagged varimotion OR ball-mic">ball-mic</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/varimotion|eng" title="Mics tagged varimotion OR eng">eng</a> </p>
+                </div><!-- /#sidebar -->
+                <div id="column" style="width: auto">
+						    <h2>Mics tagged: varimotion</h2>
+			    <table>
+				                    <tr><td><a title="AKG Acoustics BBB DFive - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/AKG-Acoustics/BBB-DFive" ><img src="//cdn.recordinghacks.com/images/mics/01368/01368_75.jpg" width="75" height="75" alt="AKG Acoustics BBB DFive" title="AKG Acoustics BBB DFive"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1368-0" src="/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" >                        </span>
+                        <a title="AKG Acoustics BBB DFive - Features, Specifications, Datasheet" href="/microphones/AKG-Acoustics/BBB-DFive"><strong>AKG Acoustics BBB DFive</strong></a><br />
+                        Supercardioid Dynamic Microphone<br />
+                        <a title="dynamic microphones"  href="//recordinghacks.com/microphones/tag/dynamic">dynamic</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="handheld microphones"  href="//recordinghacks.com/microphones/tag/handheld">handheld</a>, <a title="varimotion microphones"  href="//recordinghacks.com/microphones/tag/varimotion">varimotion</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="AKG Acoustics D 40 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/AKG-Acoustics/D-40" ><img src="//cdn.recordinghacks.com/images/mics/01343/01343_75.jpg" width="75" height="75" alt="AKG Acoustics D 40" title="AKG Acoustics D 40"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1343-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="AKG Acoustics D 40 - Features, Specifications, Datasheet" href="/microphones/AKG-Acoustics/D-40"><strong>AKG Acoustics D 40</strong></a><br />
+                        Cardioid Dynamic Microphone<br />
+                        <a title="dynamic microphones"  href="//recordinghacks.com/microphones/tag/dynamic">dynamic</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="varimotion microphones"  href="//recordinghacks.com/microphones/tag/varimotion">varimotion</a>, <a title="rim-mount microphones"  href="//recordinghacks.com/microphones/tag/rim-mount">rim-mount</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="AKG Acoustics D 5 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/AKG-Acoustics/D-5" ><img src="//cdn.recordinghacks.com/images/mics/00874/00874_75.jpg" width="75" height="75" alt="AKG Acoustics D 5" title="AKG Acoustics D 5"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="874-0" src="/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" >                        </span>
+                        <a title="AKG Acoustics D 5 - Features, Specifications, Datasheet" href="/microphones/AKG-Acoustics/D-5"><strong>AKG Acoustics D 5</strong></a><br />
+                        Supercardioid Dynamic Microphone<br />
+                        <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="handheld microphones"  href="//recordinghacks.com/microphones/tag/handheld">handheld</a>, <a title="neodymium microphones"  href="//recordinghacks.com/microphones/tag/neodymium">neodymium</a>, <a title="varimotion microphones"  href="//recordinghacks.com/microphones/tag/varimotion">varimotion</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="AKG Acoustics D7 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/AKG-Acoustics/D7" ><img src="//cdn.recordinghacks.com/images/mics/00779/00779_75.jpg" width="75" height="75" alt="AKG Acoustics D7" title="AKG Acoustics D7"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="779-0" src="/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" >                        </span>
+                        <a title="AKG Acoustics D7 - Features, Specifications, Datasheet" href="/microphones/AKG-Acoustics/D7"><strong>AKG Acoustics D7</strong></a><br />
+                        Supercardioid Dynamic Microphone<br />
+                        <a title="dynamic microphones"  href="//recordinghacks.com/microphones/tag/dynamic">dynamic</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="handheld microphones"  href="//recordinghacks.com/microphones/tag/handheld">handheld</a>, <a title="neodymium microphones"  href="//recordinghacks.com/microphones/tag/neodymium">neodymium</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="varimotion microphones"  href="//recordinghacks.com/microphones/tag/varimotion">varimotion</a>, <a title="humbucking-coil microphones"  href="//recordinghacks.com/microphones/tag/humbucking-coil">humbucking-coil</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="AKG Acoustics D 3800 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/AKG-Acoustics/D-3800" ><img src="//cdn.recordinghacks.com/images/mics/00325/00325_75.jpg" width="75" height="75" alt="AKG Acoustics D 3800" title="AKG Acoustics D 3800"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="325-0" src="/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" >                        </span>
+                        <a title="AKG Acoustics D 3800 - Features, Specifications, Datasheet" href="/microphones/AKG-Acoustics/D-3800"><strong>AKG Acoustics D 3800</strong></a><br />
+                        Supercardioid Dynamic Microphone<br />
+                        <a title="dynamic microphones"  href="//recordinghacks.com/microphones/tag/dynamic">dynamic</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="handheld microphones"  href="//recordinghacks.com/microphones/tag/handheld">handheld</a>, <a title="varimotion microphones"  href="//recordinghacks.com/microphones/tag/varimotion">varimotion</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="AKG Acoustics D 3700 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/AKG-Acoustics/D-3700" ><img src="//cdn.recordinghacks.com/images/mics/00323/00323_75.jpg" width="75" height="75" alt="AKG Acoustics D 3700" title="AKG Acoustics D 3700"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="323-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="AKG Acoustics D 3700 - Features, Specifications, Datasheet" href="/microphones/AKG-Acoustics/D-3700"><strong>AKG Acoustics D 3700</strong></a><br />
+                        Cardioid Dynamic Microphone<br />
+                        <a title="dynamic microphones"  href="//recordinghacks.com/microphones/tag/dynamic">dynamic</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="handheld microphones"  href="//recordinghacks.com/microphones/tag/handheld">handheld</a>, <a title="varimotion microphones"  href="//recordinghacks.com/microphones/tag/varimotion">varimotion</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="AKG Acoustics D 230 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/AKG-Acoustics/D-230" ><img src="//cdn.recordinghacks.com/images/mics/00321/00321_75.jpg" width="75" height="75" alt="AKG Acoustics D 230" title="AKG Acoustics D 230"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="321-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="AKG Acoustics D 230 - Features, Specifications, Datasheet" href="/microphones/AKG-Acoustics/D-230"><strong>AKG Acoustics D 230</strong></a><br />
+                        Omnidirectional Dynamic Microphone<br />
+                        <a title="dynamic microphones"  href="//recordinghacks.com/microphones/tag/dynamic">dynamic</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="handheld microphones"  href="//recordinghacks.com/microphones/tag/handheld">handheld</a>, <a title="varimotion microphones"  href="//recordinghacks.com/microphones/tag/varimotion">varimotion</a>, <a title="ball-mic microphones"  href="//recordinghacks.com/microphones/tag/ball-mic">ball-mic</a>, <a title="eng microphones"  href="//recordinghacks.com/microphones/tag/eng">eng</a><br />                        </td></tr>
+	
+                                </table>
+
+
+                 <!-- end of $nada test -->
+                </div><!-- /#column -->
+			</div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('1368-0');uniqueids.push('1343-0');uniqueids.push('874-0');uniqueids.push('779-0');uniqueids.push('325-0');uniqueids.push('323-0');uniqueids.push('321-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

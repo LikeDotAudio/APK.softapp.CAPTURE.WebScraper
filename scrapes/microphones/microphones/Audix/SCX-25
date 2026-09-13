@@ -1,0 +1,266 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Audix SCX-25 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="SCX-25, Cardioid Condenser Microphone , aka: SCX25 - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/Audix/SCX-25" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The SCX-25 and SCX-1 use the same transformerless FET amplifier circuit." href="//recordinghacks.com/microphones/Audix/SCX-one"><img src="//cdn.recordinghacks.com/images/mics/00436/00436_75.jpg" width="75" height="75" alt="The SCX-25 and SCX-1 use the same transformerless FET amplifier circuit." title="The SCX-25 and SCX-1 use the same transformerless FET amplifier circuit."   ><br /><span>Audix SCX1</span></a></li>
+                                                    <li class="mictile"><a title="The SCX-25 was the predecessor to the SCX-25A." href="//recordinghacks.com/microphones/Audix/SCX25A"><img src="//cdn.recordinghacks.com/images/mics/00767/00767_75.jpg" width="75" height="75" alt="The SCX-25 was the predecessor to the SCX-25A." title="The SCX-25 was the predecessor to the SCX-25A."   ><br /><span>Audix SCX25A</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/Audix">Audix microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Audix SCX-25" href="/microphone-photo/00742/Audix/SCX-25.jpg"><img src="//cdn.recordinghacks.com/images/mics/00742/00742_172.jpg" width="172" height="91" alt="Audix SCX-25" title="Audix SCX-25" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $799</li>
+                                        <li id="none"><em>Discontinued</em></li>                    </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/side-address" alt="side-address microphones">side-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/large-diaphragm" alt="large-diaphragm microphones">large-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformerless" alt="transformerless microphones">transformerless</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/lollipop" alt="lollipop microphones">lollipop</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/center-terminated" alt="center-terminated microphones">center-terminated</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/condenser" alt="condenser microphones">condenser</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/externally-polarized" alt="externally-polarized microphones">externally-polarized</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/surface-mount" alt="surface-mount microphones">surface-mount</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://wwww.proaudioreview.com/article/1354">ProAudioReview, 2002-01</a></li>
+                                                                    <li id="www"><a  href="http://mixonline.com/products/review/audio_audix_scx/">MIX review, 2002-04</a></li>
+                                                                    <li id="www"><a  href="http://www.soundonsound.com/sos/may05/articles/audix.htm">SoundOnSound, 2005-05</a></li>
+                                                                    <li id="www"><a  href="http://emusician.com/mics/emusic_audix_scx/">Electronic Musician, 2003-08</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/audix/Resolution_SCX25.PDF">Resolution Magazine, 2004-11</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/audix/audix_scx25_gig_review.pdf">Gigmag review, 2002-02</a></li>
+                                                                    <li id="forum"><a  href="http://groups.google.com/group/rec.audio.pro/msg/cfbbc8ff85de3fe1?dmode=source">Scott Dorsey on the SCX-25</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/2010/09/20/acoustic-guitar-mic-shootout/">SCX-25 in Mic Shootout</a></li>
+                                                                </ul>                    
+                                        <h3>SCX-25 Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/audix/SCX25_spec_sheet.pdf">SCX-25 Product Description</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="742-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>Audix SCX-25</h2>
+                    
+                    <h2 class="sub">                    Cardioid Condenser Microphone</h2>
+                    <p>The SCX-25 is a fixed-cardioid, large-diaphragm FET condenser mic in an unusually compact lollipop style. </p><p>The amplifier circuit is transformerless, and utilizes surface-mount components (SMCs).</p><p>The mic capsule is a center-terminated, large-diaphragm (25mm) design, and is shockmounted in the form-fitting headbasket; it is suspended by four short elastic cords. The diaphragm is made of gold-sputtered 5-micron Mylar.</p><blockquote><p><cite>Scott Dorsey</cite></p><p>It&#8217;s a Chinese U87-clone capsule, but in a lollipop mounting arrangement and with conventional and fairly clean transformerless electronics.</p></blockquote><p></p><blockquote><p><cite>SoundOnSound</cite></p><p>I was impressed with the isolation from mechanical vibrations achieved by the Audix mic. Far better than the [Microtech-Gefell] <a href="http://recordinghacks.com/microphones/Microtech-Gefell/M-930">M930</a>, and very similar to the performance of the shockmounted Sennheiser [MKH40] and Neumann [TLM103] mics.</p></blockquote><p>The microphone body, made of brass, measures 21mm in diameter; any clip or shockmount that fits a 21mm body will fit the SCX-25. The lollipop head measures 51mm in diameter, and is 23mm thick.</p><p>The headbasket is constructed of a single, but tightly woven layer of metal mesh.</p><blockquote><p><cite>MIX</cite></p><p>These minimalist head grilles result in the SCX-25 having a very open sound, because the capsule is more accessible to fragile transients. Also, because sound doesn&#8217;t get trapped inside the housing as much as with more formidable head grilles, the off-axis response is nowhere near as phase-y as many other large-diameter condensers.</p></blockquote><p>Reviewers report that the mic exhibits little proximity effect, but that a pop screen is a requirement for use on vocals. The mic&#8217;s pattern control was not widely praised &#8212; references to the mic picking up room sound generally refer to what SoundOnSound characterized as &#8220;poor cardioid shape across the entire range.&#8221;</p><p>The mic shipped with a nylon mic clip (p/n MC1), a Cordura pouch (p/n P1), and a foam-lined wooden storage case (p/n CC5).</p><p>It sold for MSRP $799 in 2002, and was built in the US. (It is not known whether the currently-shipping version, the SCX-25A, is still built in the US.)</p><p>The &#8216;A&#8217; revision (see sidebar link) appeared first in the company&#8217;s 2005 retail catalog.</p><blockquote><p><cite>Electronic Musician</cite></p><p>Except for some seriously high-dollar microphones, the SCX-25 is one of the best mics I have used to record piano.</p></blockquote><p></p><blockquote><p><cite>ProAudioReview, 2002</cite></p><p>Although $799 is not considered a lot of money for a condenser microphone, recordings of the Audix SCX-25 revealed a definite high-end sound. On my &#8216;73 Martin D-35 Martin, a guitar with a brighter-than-normal Martin top end, the Audix&#8217;s imparted a touch of high end sheen that made its recording sound very natural. The perceived presence was very pleasing to the ear. It was not a harsh high-mid/low treble enhancement, but a smooth kind of presence that added warmth and shimmer to the guitar.</p></blockquote><p></p><blockquote><p><cite>MIX</cite></p><p>The SCX-25 had noticeably more self-noise [than a <a href="http://recordinghacks.com/microphones/Neumann/TLM103">Neumann TLM-103</a>] when adjusted for equal gain. At close range, the frequency responses of the SCX-25 and TLM103 were very similar, with the TLM103 having a bit more upper bass or low mids. I could hear a bit more room with the SCX-25, although there were times when I could only tell the two apart by the increased self-noise of the SCX-25&#8230;</p><p>I took the pair of SCX-25s to Secret Sound near Baltimore for a drum tracking session&#8230;</p><p>We positioned an SCX-25 overhead next to each <a href="http://recordinghacks.com/microphones/AKG-Acoustics/C-451">AKG 451</a>, about seven feet above the floor, and splayed them out slightly&#8230;</p><p>The SCX-25s were 4 to 5 dB more sensitive than the 451s. The 451s were very smooth with a more conservative bottom, to the degree that the kick and snare sounded as though they were further away. The SCX-25s were brighter on top, less midrange-y, with a more present kick and snare&#8230; I felt that the 451s sounded drier, flatter and more isolated, while the SCX-25s sounded brighter, without being harsh, and with a wider stereo spectrum.</p></blockquote><p><p>The <a href="//recordinghacks.com/microphones/Audix/SCX-25">Audix SCX-25</a> is also known as: SCX25.</p><p>The mic was released in 2001.</p>
+                    <h3>Specifications</h3>
+                                        
+                    <table>
+                                                    <tr><th>Frequency Response - Cardioid<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/0942" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/0/0942.png" width=476 height=159 alt="SCX-25 Cardioid Frequency Response Chart" title="SCX-25 Cardioid Frequency Response Chart" border=0 /></td></tr>
+                            </table>
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                                                                Cardioid
+                                             (27 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Capsule Dimensions</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                                                                                                        Diaphragm diameter: 25mm<br />
+                                                                                                                            Diaphragm gauge: 5 microns                                                                    </td>
+                            <td>200 Ohms <em class="mute">(Low)</em></td>
+                            <td>Max SPL: 135 dB<br />                                Self-noise: 14.0 dB(A)</td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>221g <em class="mute">(7.80oz)</em></td>
+                            <td>148mm <em class="mute">(5.83&#39;&#39;)</em></td>
+                            <td>21mm <em class="mute">(0.83&#39;&#39;)</em></td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                        <li>Requires phantom power </li>
+                                                                                                                                                                                <li>Phantom voltage: 48 &plusmn; 4v</li>
+                                        </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('742-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

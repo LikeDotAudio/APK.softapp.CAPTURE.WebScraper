@@ -1,0 +1,265 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>SE Electronics RNR1 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="RNR1, Bidirectional Active Ribbon Microphone  - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/SE-Electronics/RNR1" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The sERN17 and RNR1 use similar Neve transformers." href="//recordinghacks.com/microphones/SE-Electronics/sERN-17"><img src="//cdn.recordinghacks.com/images/mics/01093/01093_75.jpg" width="75" height="75" alt="The sERN17 and RNR1 use similar Neve transformers." title="The sERN17 and RNR1 use similar Neve transformers."   ><br /><span>sE sERN 17</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/SE-Electronics">sE microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="SE Electronics RNR1" href="/microphone-photo/00686/SE-Electronics/RNR1.jpg"><img src="//cdn.recordinghacks.com/images/mics/00686/00686_172.jpg" width="172" height="90" alt="SE Electronics RNR1" title="SE Electronics RNR1" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $2,495</li>
+                                                            </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/side-address" alt="side-address microphones">side-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/ribbon" alt="ribbon microphones">ribbon</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/active-ribbon" alt="active-ribbon microphones">active-ribbon</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformer-coupled" alt="transformer-coupled microphones">transformer-coupled</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/hpf" alt="hpf microphones">hpf</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/neve" alt="neve microphones">neve</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/se/Resolution_RNR1.pdf">Resolution Magazine, 2009-03</a></li>
+                                                                    <li id="www"><a  href="http://www.seelectronics.com/newspages/news01_se_neve_aes.html">RNR1 Intro Press Release</a></li>
+                                                                    <li id="film"><a  href="http://www.soundonsound.com/news?NewsID=10488">Zou, Neve Interview</a></li>
+                                                                    <li id="film"><a  href="http://recordinghacks.com/video/se_neve_rnr1_ribbon.mov">Bob Reardon on the RNR1</a></li>
+                                                                    <li id="www"><a  href="http://www.proaudioreview.com/article/20866">ProAudioReview, 2009-04</a></li>
+                                                                    <li id="www"><a  href="http://www.soundonsound.com/sos/may09/articles/sernr1.htm">SoundOnSound, 2009-05</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/se/mtm-rnr1.pdf">MusicTech Review 2009-07</a></li>
+                                                                    <li id="www"><a  href="http://tapeop.com/reviews/85/rnr1-active-ribbon-mic/">Tape Op, 2011-09</a></li>
+                                                                </ul>                    
+                                        <h3>RNR1 Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.seelectronics.com/sE_RNR1.html">RNR1 Product Description</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="686-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ></span>SE Electronics RNR1</h2>
+                    
+                    <h2 class="sub">                    Bidirectional Active Ribbon Microphone</h2>
+                    <p>The RNR1 is an active ribbon mic developed in a collaboration between Rupert Neve (of Rupert Neve Designs) and Siwei Zou (of sE Electronics). It was introduced at the AES show in San Francisco in late 2008, was in the final stages of QA at Neve&#8217;s shop during NAMM in January 2009, and began shipping by the second quarter of 2009.</p><p><a href="http://recordinghacks.com/video/se_neve_rnr1_ribbon.mov" rel="nofollow"><img src="//cdn.recordinghacks.com/images/mic_extras/se/rnr1_video_still.jpg" class="thumb shaft" width="240" /></a>We got the story on the RNR1 from Bob Reardon, Managing Director of sE Electronics&#8217; US Distributor at the time, Sonic Distribution, at the Winter NAMM show in January, 2009. In the video, Bob gives some background on the mic&#8217;s construction and on the dual-transformer architecture of the amplifier circuit.</p><p><a rel="nofollow" href="http://www.flickr.com/photos/24455487@N05/3210722127/" title="sE / Neve Ribbon, RNR1 by recordinghacks, on Flickr"><img src="http://farm4.static.flickr.com/3399/3210722127_9ec90ea151_m.jpg" class="thumb shaft" width="240" height="160" alt="sE / Neve Ribbon, RNR1" /></a>The mic&#8217;s case and ribbon transducer were developed by Siwei and the sE staff. Neve provided the active electronics and transformers. Of the electronics, Neve stats that the concepts were derived from his 5088 console; he describes the approach as &#8220;Class A, single-sided, discrete components.&#8221;</p><p><a rel="nofollow" href="http://www.flickr.com/photos/24455487@N05/3210723333/" title="sE / Neve ribbon by recordinghacks, on Flickr"><img src="http://farm4.static.flickr.com/3257/3210723333_ac5e0e1e34_m.jpg" class="thumb shaft" width="160" height="240" alt="sE / Neve ribbon" /></a>There are two transformers within the RNR1&#8217;s circuitry; one between the ribbon transducer and the amplifier circuit, to optimize the impedance loading of the ribbon, and another on the output of the amp circuit.</p><blockquote><p><cite>Rupert Neve</cite></p><p>The ribbon has a very small impedance, and we need to step that up with a transformer of sufficient quality that it doesn&#8217;t lose anything. This goes into the amplifier, then we have an output transformer that is almost identical with the ones we used 40 years ago; smaller in size, but doing the same job.</p></blockquote><p>Although sE has not released test results yet, Rupert Neve has been quoted as stating that the RNR1 will be able to handle 140dB SPL.</p><p>The machining of the case, manufacturing and tuning of the ribbon motor are done at the sE factory in China. The circuit boards and transformers are built at the Neve factory in the US, then shipped to sE&#8217;s plant for final assembly.</p><p><img src="//cdn.recordinghacks.com/images/mic_extras/se/neve_zou.jpg" width="250" class="thumb shaft" alt="Rupert Neve and Siwei Zou" />One of the key benefits of the microphone&#8217;s circuit design is its high-frequency response. With the exception of some of the <a href="http://recordinghacks.com/microphones/Crowley-and-Tripp">Crowley and Tripp</a> ribbon mics, most ribbons have attenuated high ends. The RNR1 is another exception to the rule; the claimed frequency range extends to 25kHz, and although there is a -3dB dip centered at 15kHz, the mic&#8217;s response is actually rising at 20kHz rather than dropping off.</p><p><a href="//cdn.recordinghacks.com/images//mic_extras/se/RNR1_sideview.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/se/RNR1_sideview_sm.jpg" width="150" class="thumb shaft" alt="sE/Neve RNR1 Ribbon Microphone" /></a></p><blockquote><p><cite>ProAudioReview, 2009</cite></p><p>[Recording] a choir in a large church, the results were truly stunning. Results were as close to being &#8220;in the space&#8221; as I have heard. That wasn&#8217;t simply due to the usual ribbon characteristics of warm lows and spacious mids, but also an added level of detail that extends right through the high frequencies. This high frequency detailing is an area that ribbons often seem to struggle with; in the case of the RNR1, there were no problems at all.</p></blockquote><p></p><blockquote><p><cite>SoundOnSound, 2009-05</cite></p><p>The frequency response of a typical ribbon mic rolls off steeply above 10kHz, with little or nothing left above 16kHz. If you look at a [frequency response] plot of the RNR1, you&#8217;ll also see a roll-off above 10kHz, running into a significant dip centered at 16kHz, but &#8230; the response simply dips and then comes up again by 20kHz, and extends as far out as 25kHz. According to Mr Neve, the 20&ndash;25kHz region is very important, because although those frequencies can&#8217;t be heard in isolation, they have a significant impact on the way frequencies in the 8&ndash;12kHz range are perceived. [I]n comparison with a number of other well-known ribbon mics&#8230; the RNR1 presented a real sense of &#8216;air&#8217; and definition. At the same time, the character of the sound was unmistakably &#8216;ribbon&#8217; &#8212; warm and comfortable to listen to, with a smooth, non-fatiguing character&#8230;</p><p>Of the ribbon mics we tried, the RNR1 seemed to me to come out top &#8212; or at least very close to the top &#8212; in the majority of applications, although it must be said that the <a href="http://recordinghacks.com/microphones/AEA/R44C">AEA R44</a> also sounded excellent, with its warm lower registers and smooth, silky high end.</p></blockquote><p>The SE RNR1 was part of our massive <a href="http://recordinghacks.com/2011/07/11/60000-ribbon-mic-shootout/" target="blank">Ribbon Mic Shootout</a> in 2011.<p>Permalink: <a href="//recordinghacks.com/microphones/SE-Electronics/RNR1">SE Electronics RNR1</a></p><p>The mic was released in 2009.</p>
+                    <h3>Specifications</h3>
+                                        
+                    <table>
+                                                    <tr><th>Frequency Response - Bidirectional<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/0891" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/0/0891.png" width=476 height=159 alt="RNR1 Bidirectional Frequency Response Chart" title="RNR1 Bidirectional Frequency Response Chart" border=0 /></td></tr>
+                            </table>
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                                                                Bidirectional
+                                             (25 mV/Pa; 20 - 25,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                    <li>Filter: HPF<small> (Via Switch)</small></li>
+                                                                    </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Ribbon Construction</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                                                            2.5-micron aluminum ribbon                                                                    </td>
+                            <td>200 Ohms <em class="mute">(Low)</em></td>
+                            <td>Max SPL: 135 dB<br />                                Self-noise: 15.0 dB(A)</td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>850g <em class="mute">(29.98oz)</em></td>
+                            <td>265mm <em class="mute">(10.43&#39;&#39;)</em></td>
+                            <td>47mm <em class="mute">(1.85&#39;&#39;)</em></td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                        <li>Requires phantom power </li>
+                                                                                                                                                                                <li>Phantom voltage: 48v</li>
+                                        </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('686-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

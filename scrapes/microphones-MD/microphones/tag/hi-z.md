@@ -1,0 +1,5 @@
+## Mics tagged: hi-z
+
+|  |  |
+| --- | --- |
+| [Superlux D 112/C](http://recordinghacks.com/microphones/Superlux/D112-C "Superlux D 112/C - Features, Specifications, Datasheet") | Omnidirectional  [**Superlux D 112/C**](/microphones/Superlux/D112-C "Superlux D 112/C - Features, Specifications, Datasheet")  Omnidirectional Dynamic Microphone  [dynamic](//recordinghacks.com/microphones/tag/dynamic "dynamic microphones"), [transformer-coupled](//recordinghacks.com/microphones/tag/transformer-coupled "transformer-coupled microphones"), [handheld](//recordinghacks.com/microphones/tag/handheld "handheld microphones"), [harmonica](//recordinghacks.com/microphones/tag/harmonica "harmonica microphones"), [volume-control](//recordinghacks.com/microphones/tag/volume-control "volume-control microphones"), [hi-z](//recordinghacks.com/microphones/tag/hi-z "hi-z microphones") |

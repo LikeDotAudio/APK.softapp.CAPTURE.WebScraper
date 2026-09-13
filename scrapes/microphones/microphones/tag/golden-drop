@@ -1,0 +1,194 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>golden-drop microphones | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+                
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+			<div id="content">
+                <div id="sidebar">                  
+                    					<h2 class="search">search for mics</h2>
+					<form action="/microphones" method="POST">
+										<script language="JavaScript" type="text/javascript">
+function clearText(field){
+
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+
+}
+					</script>
+						<fieldset>
+						    <input type="text" name="s" size="20" value="Microphone name or model number" style="color: #667;margin-left: 0;margin-bottom: 8px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)"><br />
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<fieldset class="checks">
+							<span class="shaft">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+							</span>
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">&nbsp;<input style="font-size: 8px" type="reset" name="button" value="Reset Form">
+						</fieldset>
+					</form>
+                            <p></p><h3>Definition of "golden-drop":</h3><p><b>Golden Drop</b> is the name of a process developed by Latvia&#8217;s JZ Microphones for metallizing a condenser microphone diaphragm with discrete drops of gold (or gold alloy), rather than coating the entire surface of the diaphagm evenly.</p><p>According to JZ, the advantages are:</p><p>Dynamic Detail:</p><blockquote><p><cite>JZ</cite></p><p>The Golden Drops diaphragm has reduced mass when compared with the same size diaphragm without Golden Drop technology. This reduced inertia allows Golden Drops capsules to detect and respond faster. Faster detection delivers significantly more detailed dynamic information to your recordings.</p></blockquote><p>Clarity:</p><blockquote><p><cite>JZ</cite></p><p>The Golden Drops diaphragm gives more clarity, more precision, less coloration and less frequency response distortion compared to the same size diaphragm without Golden Drop technology.</p></blockquote><p>As of mid-2010, there are five distinct JZ capsules with Golden Drops diaphragms:</p><ul><li><b><a href="http://recordinghacks.com/microphones/tag/gdc1">GDC1</a></b> - a 27mm single-diaphragm model found in the BH2 and BH3</li><li><b><a href="http://recordinghacks.com/microphones/tag/gdc2">GDC2</a></b> - a pair of single-diaphragm capsules (perhaps identical to the GDC1), mounted back-to-back. This multipattern capsule is used in the BH1 and BH1S.</li><li><b><a href="http://recordinghacks.com/microphones/tag/gdc3">GDC3</a></b> - a 21mm, center-terminated design used in the BT-301.</li><li><b><a href="http://recordinghacks.com/microphones/tag/gdc47">GDC47</a></b> - a 25mm dual-diaphragm capsule with a single, shared backplate; used in the Vintage V47</li><li><b><a href="http://recordinghacks.com/microphones/tag/gdc67">GDC67</a></b> - a dual-diaphragm, dual-backplate capsule  found in the V67.</li><li><b>GDC12</b> - a new capsule from the Vintage series, for the V12 (AKG C12 heritage).</li></ul><p></p>
+<h3>Refine Search</h3><p>Find mics tagged '<b>golden-drop</b> AND:'</p> 
+<p><a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop+side-address" title="Mics tagged golden-drop AND side-address">side-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop+large-diaphragm" title="Mics tagged golden-drop AND large-diaphragm">large-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop+transformerless" title="Mics tagged golden-drop AND transformerless">transformerless</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop+center-terminated" title="Mics tagged golden-drop AND center-terminated">center-terminated</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop+condenser" title="Mics tagged golden-drop AND condenser">condenser</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop+single-diaphragm" title="Mics tagged golden-drop AND single-diaphragm">single-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop+lowest-noise" title="Mics tagged golden-drop AND lowest-noise">lowest-noise</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop+gdc12" title="Mics tagged golden-drop AND gdc12">gdc12</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop+dual-diaphragm" title="Mics tagged golden-drop AND dual-diaphragm">dual-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop+gdc67" title="Mics tagged golden-drop AND gdc67">gdc67</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop+single-backplate" title="Mics tagged golden-drop AND single-backplate">single-backplate</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop+gdc47" title="Mics tagged golden-drop AND gdc47">gdc47</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop+multipattern" title="Mics tagged golden-drop AND multipattern">multipattern</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop+edge-terminated" title="Mics tagged golden-drop AND edge-terminated">edge-terminated</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop+dual-capsule" title="Mics tagged golden-drop AND dual-capsule">dual-capsule</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop+variable-sputtering" title="Mics tagged golden-drop AND variable-sputtering">variable-sputtering</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop+tripolar" title="Mics tagged golden-drop AND tripolar">tripolar</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop+gdc2" title="Mics tagged golden-drop AND gdc2">gdc2</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop+end-address" title="Mics tagged golden-drop AND end-address">end-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop+gdc3" title="Mics tagged golden-drop AND gdc3">gdc3</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop+externally-biased" title="Mics tagged golden-drop AND externally-biased">externally-biased</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop+gdc1" title="Mics tagged golden-drop AND gdc1">gdc1</a> </p>
+<h3>Expand Search</h3><p>Find mics tagged '<b>golden-drop</b> OR:'</p>
+<p><a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop|side-address" title="Mics tagged golden-drop OR side-address">side-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop|large-diaphragm" title="Mics tagged golden-drop OR large-diaphragm">large-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop|transformerless" title="Mics tagged golden-drop OR transformerless">transformerless</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop|center-terminated" title="Mics tagged golden-drop OR center-terminated">center-terminated</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop|condenser" title="Mics tagged golden-drop OR condenser">condenser</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop|single-diaphragm" title="Mics tagged golden-drop OR single-diaphragm">single-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop|lowest-noise" title="Mics tagged golden-drop OR lowest-noise">lowest-noise</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop|gdc12" title="Mics tagged golden-drop OR gdc12">gdc12</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop|dual-diaphragm" title="Mics tagged golden-drop OR dual-diaphragm">dual-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop|gdc67" title="Mics tagged golden-drop OR gdc67">gdc67</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop|single-backplate" title="Mics tagged golden-drop OR single-backplate">single-backplate</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop|gdc47" title="Mics tagged golden-drop OR gdc47">gdc47</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop|multipattern" title="Mics tagged golden-drop OR multipattern">multipattern</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop|edge-terminated" title="Mics tagged golden-drop OR edge-terminated">edge-terminated</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop|dual-capsule" title="Mics tagged golden-drop OR dual-capsule">dual-capsule</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop|variable-sputtering" title="Mics tagged golden-drop OR variable-sputtering">variable-sputtering</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop|tripolar" title="Mics tagged golden-drop OR tripolar">tripolar</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop|gdc2" title="Mics tagged golden-drop OR gdc2">gdc2</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop|end-address" title="Mics tagged golden-drop OR end-address">end-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop|gdc3" title="Mics tagged golden-drop OR gdc3">gdc3</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop|externally-biased" title="Mics tagged golden-drop OR externally-biased">externally-biased</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/golden-drop|gdc1" title="Mics tagged golden-drop OR gdc1">gdc1</a> </p>
+                </div><!-- /#sidebar -->
+                <div id="column" style="width: auto">
+						    <h2>Mics tagged: golden-drop</h2>
+			    <table>
+				                    <tr><td><a title="JZ Microphones Vintage V12 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/JZ/Vintage-V12" ><img src="//cdn.recordinghacks.com/images/mics/01143/01143_75.jpg" width="75" height="75" alt="JZ Microphones Vintage V12" title="JZ Microphones Vintage V12"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1143-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="JZ Microphones Vintage V12 - Features, Specifications, Datasheet" href="/microphones/JZ/Vintage-V12"><strong>JZ Microphones Vintage V12</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="center-terminated microphones"  href="//recordinghacks.com/microphones/tag/center-terminated">center-terminated</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="single-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/single-diaphragm">single-diaphragm</a>, <a title="golden-drop microphones"  href="//recordinghacks.com/microphones/tag/golden-drop">golden-drop</a>, <a title="lowest-noise microphones"  href="//recordinghacks.com/microphones/tag/lowest-noise">lowest-noise</a>, <a title="gdc12 microphones"  href="//recordinghacks.com/microphones/tag/gdc12">gdc12</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="JZ Microphones Vintage V67 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/JZ/Vintage-V67" ><img src="//cdn.recordinghacks.com/images/mics/00970/00970_75.jpg" width="75" height="75" alt="JZ Microphones Vintage V67" title="JZ Microphones Vintage V67"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="970-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="JZ Microphones Vintage V67 - Features, Specifications, Datasheet" href="/microphones/JZ/Vintage-V67"><strong>JZ Microphones Vintage V67</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="dual-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/dual-diaphragm">dual-diaphragm</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="center-terminated microphones"  href="//recordinghacks.com/microphones/tag/center-terminated">center-terminated</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="golden-drop microphones"  href="//recordinghacks.com/microphones/tag/golden-drop">golden-drop</a>, <a title="lowest-noise microphones"  href="//recordinghacks.com/microphones/tag/lowest-noise">lowest-noise</a>, <a title="gdc67 microphones"  href="//recordinghacks.com/microphones/tag/gdc67">gdc67</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="JZ Microphones Vintage V47 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/JZ/Vintage-V47" ><img src="//cdn.recordinghacks.com/images/mics/00933/00933_75.jpg" width="75" height="75" alt="JZ Microphones Vintage V47" title="JZ Microphones Vintage V47"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="933-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="JZ Microphones Vintage V47 - Features, Specifications, Datasheet" href="/microphones/JZ/Vintage-V47"><strong>JZ Microphones Vintage V47</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="dual-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/dual-diaphragm">dual-diaphragm</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="center-terminated microphones"  href="//recordinghacks.com/microphones/tag/center-terminated">center-terminated</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="single-backplate microphones"  href="//recordinghacks.com/microphones/tag/single-backplate">single-backplate</a>, <a title="golden-drop microphones"  href="//recordinghacks.com/microphones/tag/golden-drop">golden-drop</a>, <a title="lowest-noise microphones"  href="//recordinghacks.com/microphones/tag/lowest-noise">lowest-noise</a>, <a title="gdc47 microphones"  href="//recordinghacks.com/microphones/tag/gdc47">gdc47</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="JZ Microphones BH-1S - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/JZ/BH-1S" ><img src="//cdn.recordinghacks.com/images/mics/00884/00884_75.jpg" width="75" height="75" alt="JZ Microphones BH-1S" title="JZ Microphones BH-1S"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="884-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="884-1" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="884-2" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="JZ Microphones BH-1S - Features, Specifications, Datasheet" href="/microphones/JZ/BH-1S"><strong>JZ Microphones BH-1S</strong></a><br />
+                        Multi-Pattern Condenser Microphone<br />
+                        <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="edge-terminated microphones"  href="//recordinghacks.com/microphones/tag/edge-terminated">edge-terminated</a>, <a title="dual-capsule microphones"  href="//recordinghacks.com/microphones/tag/dual-capsule">dual-capsule</a>, <a title="variable-sputtering microphones"  href="//recordinghacks.com/microphones/tag/variable-sputtering">variable-sputtering</a>, <a title="golden-drop microphones"  href="//recordinghacks.com/microphones/tag/golden-drop">golden-drop</a>, <a title="tripolar microphones"  href="//recordinghacks.com/microphones/tag/tripolar">tripolar</a>, <a title="gdc2 microphones"  href="//recordinghacks.com/microphones/tag/gdc2">gdc2</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="JZ Microphones BT-301 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/JZ/BT-301" ><img src="//cdn.recordinghacks.com/images/mics/00883/00883_75.jpg" width="75" height="75" alt="JZ Microphones BT-301" title="JZ Microphones BT-301"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="883-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="JZ Microphones BT-301 - Features, Specifications, Datasheet" href="/microphones/JZ/BT-301"><strong>JZ Microphones BT-301</strong></a><br />
+                        Cardioid Pencil Condenser Microphone<br />
+                        <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="center-terminated microphones"  href="//recordinghacks.com/microphones/tag/center-terminated">center-terminated</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="golden-drop microphones"  href="//recordinghacks.com/microphones/tag/golden-drop">golden-drop</a>, <a title="lowest-noise microphones"  href="//recordinghacks.com/microphones/tag/lowest-noise">lowest-noise</a>, <a title="gdc3 microphones"  href="//recordinghacks.com/microphones/tag/gdc3">gdc3</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="JZ Microphones BH-3 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/JZ/BH-3" ><img src="//cdn.recordinghacks.com/images/mics/00473/00473_75.jpg" width="75" height="75" alt="JZ Microphones BH-3" title="JZ Microphones BH-3"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="473-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="JZ Microphones BH-3 - Features, Specifications, Datasheet" href="/microphones/JZ/BH-3"><strong>JZ Microphones BH-3</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="externally-biased microphones"  href="//recordinghacks.com/microphones/tag/externally-biased">externally-biased</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="edge-terminated microphones"  href="//recordinghacks.com/microphones/tag/edge-terminated">edge-terminated</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="variable-sputtering microphones"  href="//recordinghacks.com/microphones/tag/variable-sputtering">variable-sputtering</a>, <a title="golden-drop microphones"  href="//recordinghacks.com/microphones/tag/golden-drop">golden-drop</a>, <a title="gdc1 microphones"  href="//recordinghacks.com/microphones/tag/gdc1">gdc1</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="JZ Microphones BH-2 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/JZ/BH-2" ><img src="//cdn.recordinghacks.com/images/mics/00472/00472_75.jpg" width="75" height="75" alt="JZ Microphones BH-2" title="JZ Microphones BH-2"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="472-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="JZ Microphones BH-2 - Features, Specifications, Datasheet" href="/microphones/JZ/BH-2"><strong>JZ Microphones BH-2</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="externally-biased microphones"  href="//recordinghacks.com/microphones/tag/externally-biased">externally-biased</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="edge-terminated microphones"  href="//recordinghacks.com/microphones/tag/edge-terminated">edge-terminated</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="variable-sputtering microphones"  href="//recordinghacks.com/microphones/tag/variable-sputtering">variable-sputtering</a>, <a title="golden-drop microphones"  href="//recordinghacks.com/microphones/tag/golden-drop">golden-drop</a>, <a title="gdc1 microphones"  href="//recordinghacks.com/microphones/tag/gdc1">gdc1</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="JZ Microphones BH-1 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/JZ/BH-1" ><img src="//cdn.recordinghacks.com/images/mics/00471/00471_75.jpg" width="75" height="75" alt="JZ Microphones BH-1" title="JZ Microphones BH-1"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="471-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="471-1" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="471-2" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="JZ Microphones BH-1 - Features, Specifications, Datasheet" href="/microphones/JZ/BH-1"><strong>JZ Microphones BH-1</strong></a><br />
+                        Multi-Pattern Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="dual-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/dual-diaphragm">dual-diaphragm</a>, <a title="externally-biased microphones"  href="//recordinghacks.com/microphones/tag/externally-biased">externally-biased</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="edge-terminated microphones"  href="//recordinghacks.com/microphones/tag/edge-terminated">edge-terminated</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="dual-capsule microphones"  href="//recordinghacks.com/microphones/tag/dual-capsule">dual-capsule</a>, <a title="variable-sputtering microphones"  href="//recordinghacks.com/microphones/tag/variable-sputtering">variable-sputtering</a>, <a title="golden-drop microphones"  href="//recordinghacks.com/microphones/tag/golden-drop">golden-drop</a>, <a title="gdc2 microphones"  href="//recordinghacks.com/microphones/tag/gdc2">gdc2</a><br />                        </td></tr>
+	
+                                </table>
+
+
+                 <!-- end of $nada test -->
+                </div><!-- /#column -->
+			</div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('1143-0');uniqueids.push('970-0');uniqueids.push('933-0');uniqueids.push('884-0');uniqueids.push('884-1');uniqueids.push('884-2');uniqueids.push('883-0');uniqueids.push('473-0');uniqueids.push('472-0');uniqueids.push('471-0');uniqueids.push('471-1');uniqueids.push('471-2');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

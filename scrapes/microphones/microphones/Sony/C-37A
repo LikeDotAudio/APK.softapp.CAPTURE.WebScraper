@@ -1,0 +1,284 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Sony C-37A | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="C-37A, Multi-Pattern Tube Condenser Microphone  - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/Sony/C-37A" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The MA-37 was inspired by the C-37A." href="//recordinghacks.com/microphones/Mojave-Audio/MA-37"><img src="//cdn.recordinghacks.com/images/mics/01912/01912_75.jpg" width="75" height="75" alt="The MA-37 was inspired by the C-37A." title="The MA-37 was inspired by the C-37A."   ><br /><span>Mojave Audio MA-37</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/Sony">Sony microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Sony C-37A" href="/microphone-photo/01709/Sony/C-37A.jpg"><img src="//cdn.recordinghacks.com/images/mics/01709/01709_172.jpg" width="172" height="93" alt="Sony C-37A" title="Sony C-37A" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: n/a</li>
+                                        <li id="none"><em>Discontinued</em></li>                    </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/side-address" alt="side-address microphones">side-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/large-diaphragm" alt="large-diaphragm microphones">large-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/tube" alt="tube microphones">tube</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/multipattern" alt="multipattern microphones">multipattern</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformer-coupled" alt="transformer-coupled microphones">transformer-coupled</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/condenser" alt="condenser microphones">condenser</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/yoke-mount" alt="yoke-mount microphones">yoke-mount</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/cathode-follower" alt="cathode-follower microphones">cathode-follower</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/6au6" alt="6au6 microphones">6au6</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="https://www.coutant.org/sonyc37a/index.html">C37A history from Coutant</a></li>
+                                                                    <li id="www"><a  href="http://www.sonyinsider.com/2009/10/06/the-sony-c-37a-condenser-microphone-was-one-of-a-kind/">C37A History from Sony Insider</a></li>
+                                                                    <li id="www"><a  href="http://bobbyowsinski.blogspot.com/2010/09/sony-c-37a-at-55-years-on.html">More C37A History, from MIX</a></li>
+                                                                </ul>                    
+                                        <h3>C-37A Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/sony/C37A-cutsheet.pdf">C-37A Brochure</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/sony/C37-manual.pdf">C-37A Manual (CP-3B)</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/sony/c37a_manual2.pdf">C-37A Manual (CP-2)</a></li>
+                                                                </ul>                    
+                                        <h3>C-37A Awards</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a href="//recordinghacks.com/awards#44">2015 TECnology Hall of Fame</a></li>
+                                        </ul>                    
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="1709-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="1709-1" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>Sony C-37A</h2>
+                    
+                    <h2 class="sub">                    Multi-Pattern Tube Condenser Microphone</h2>
+                    <p>The C-37A is a tube condenser microphone with an innovative mechanical control behind the capsule for polar pattern adjustment, and multiple EQ settings on the power supply.</p><p>The microphone was reportedly inspired by Neumann&#8217;s studio microphones of the era. </p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/sony/C37A-circuit.png"><img src="//cdn.recordinghacks.com/images/mic_extras/sony/C37A-circuit.png" class="thumb shaft" alt="C-37A" width="220" /></a>The impedance circuit inside the microphone is deceptively simple: a 6AU6 pentode vacuum tube (wired as a triode) and a few resistors. The mic&#8217;s output coupling capacitor and audio transformer are located in the external power supply.</p><p>During the mic&#8217;s lifetime, Sony redesigned the power supply multiple times: from the CP-2, to the CP-3, to the CP-3B. </p><p>We have not attempted to catalog all the differences between these generations, but we have seen that the CP-2 offered only 3 HPF modes (M1, M2, V), while later versions offered four (M, M1, V1, V2). Also, Sony documentation suggests that the CP-3B introduced a printed circuit board to the manufacturing process, implying that earlier revisions used point-to-point wiring.</p><p>The early CP-2 power supply offered a 3-position rotary switch to select the low-frequency rolloff point (aka &#8220;high pass filter&#8221;):</p><ul><li>&#8220;<b>M2</b>&#8221; - flat response (-2dB @ 40Hz)</li><li>&#8220;<b>M1</b>&#8221; - rolloff 1 (-3dB @ 85Hz)</li><li>&#8220;<b>V</b>&#8221; - rolloff 2 (-3dB @ 220Hz)</li></ul><p>The CP-3B version of the external power supply offered a 4-position HPF switch:</p><ul><li>&#8220;<b>M</b>&#8221; - flat response (-2dB @ 30Hz)</li><li>&#8220;<b>M1</b>&#8221; - rolloff 1 (-3dB @ 80Hz)</li><li>&#8220;<b>V1</b>&#8221; - rolloff 2 (-3dB @ 200Hz)</li><li>&#8220;<b>V2</b>&#8221; - rolloff 3 (-3dB @ 600Hz)</li></ul><p>The HPF effects were created by switching among various sizes of output capacitors feeding the audio signal into the transformer primaries.</p><p>A second switch on the power supply allowed the mic&#8217;s high-frequency response to be attenuated. When enabled, the high-cut reduced 10kHz response by 5dB, and reduced 20kHz response by 7.5dB. A lamp on the power supply lights up to indicate that the high-frequency rolloff is active.</p><p>The CP-2 power supply had an output impedance of 200&Omega;. The CP-3B could be switched between 50&Omega; and 250&Omega; impedance. </p><p>The older CP-2 could be powered by 100VAC or 117VAC; the newer CP-3B could be switched among 100VAC, 117VAC, or 220VAC.</p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/sony/C37A_rear.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/sony/C37A_rear-sm.jpg" class="thumb shaft" alt="C-37A Microphone Pattern Control" width="200" /></a>The microphone&#8217;s &#8220;C-3&#8221; capsule represents a milestone for Sony, in that it was their first capsule to use Dupont Mylar film. It is a single-diaphragm design, with an tuned, adjustable acoustic chamber behind the diaphragm. The ports on the chamber can be adjusted by the user, to switch between Unidirectional and Omnidirectional polar patterns.</p><p>The C37A was developed by Sony engineers in the early 1950s; early prototypes were used for symphonic recordings in 1954, and worked so well that the product was put into commercial production in Japan in 1955. The US release was in 1958, at an audio expo in Los Angeles.<p>Permalink: <a href="//recordinghacks.com/microphones/Sony/C-37A">Sony C-37A</a></p><p>The mic was released in 1955.</p>
+                    <h3>Specifications</h3>
+                                        
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                                                                Omnidirectional
+                                             (2 mV/Pa; 30 - 16,000)                                                                                        <br clear="right" />
+                                                                                                                                                                                                            Cardioid
+                                             (2.2 mV/Pa; 30 - 16,000)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Capsule Dimensions</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                                                                                                        Capsule diameter: 37mm<br />
+                                                                                Diaphragm gauge: 6 microns                                                                    </td>
+                            <td>200 Ohms <em class="mute">(Low)</em></td>
+                            <td>                                </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>560g <em class="mute">(19.75oz)</em></td>
+                            <td>192mm <em class="mute">(7.56&#39;&#39;)</em></td>
+                            <td>n/a</td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                                                                                                                <li>Includes tube power supply </li>
+                                                                                    </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+             
+<script type="text/javascript">
+        YAHOO.namespace("freq");
+
+        function init_freq_graphs() {
+
+                
+            YAHOO.freq.manager = new YAHOO.widget.OverlayManager(); 
+            YAHOO.freq.manager.register([]);
+        
+
+
+        }
+        YAHOO.util.Event.addListener(window, "load", init_freq_graphs);
+</script>
+
+
+    <script type="text/javascript">
+    function swap_graph(id) {
+        if (1==0) {}
+    }
+    </script>
+
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('1709-0');uniqueids.push('1709-1');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

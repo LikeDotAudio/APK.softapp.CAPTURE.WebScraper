@@ -1,0 +1,5 @@
+## Mics tagged: edcor
+
+|  |  |
+| --- | --- |
+| [DIY Audio Components RM-5](http://recordinghacks.com/microphones/DIYAC/RM-5 "DIY Audio Components RM-5 - Features, Specifications, Datasheet") | Bidirectional  [**DIY Audio Components RM-5**](/microphones/DIYAC/RM-5 "DIY Audio Components RM-5 - Features, Specifications, Datasheet")  Bidirectional Ribbon Microphone  [side-address](//recordinghacks.com/microphones/tag/side-address "side-address microphones"), [ribbon](//recordinghacks.com/microphones/tag/ribbon "ribbon microphones"), [transformer-coupled](//recordinghacks.com/microphones/tag/transformer-coupled "transformer-coupled microphones"), [neodymium](//recordinghacks.com/microphones/tag/neodymium "neodymium microphones"), [passive-ribbon](//recordinghacks.com/microphones/tag/passive-ribbon "passive-ribbon microphones"), [edcor](//recordinghacks.com/microphones/tag/edcor "edcor microphones") |

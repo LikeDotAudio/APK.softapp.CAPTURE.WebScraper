@@ -1,0 +1,5 @@
+## Mics tagged: bayonet
+
+|  |  |
+| --- | --- |
+| [Blue Microphones Stage One](http://recordinghacks.com/microphones/Blue-Microphones/Stage-One "Blue Microphones Stage One - Features, Specifications, Datasheet") | OmnidirectionalCardioidBidirectional  [**Blue Microphones Stage One**](/microphones/Blue-Microphones/Stage-One "Blue Microphones Stage One - Features, Specifications, Datasheet")  Detachable-Capsule Condenser Microphone  [side-address](//recordinghacks.com/microphones/tag/side-address "side-address microphones"), [transformerless](//recordinghacks.com/microphones/tag/transformerless "transformerless microphones"), [detachable-capsule](//recordinghacks.com/microphones/tag/detachable-capsule "detachable-capsule microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [bayonet](//recordinghacks.com/microphones/tag/bayonet "bayonet microphones") |

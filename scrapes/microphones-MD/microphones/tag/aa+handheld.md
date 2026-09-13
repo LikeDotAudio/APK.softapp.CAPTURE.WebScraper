@@ -1,0 +1,5 @@
+## Mics tagged: aa AND handheld
+
+|  |  |
+| --- | --- |
+| [beyerdynamic MCE 58](http://recordinghacks.com/microphones/beyerdynamic/MCE-58 "beyerdynamic MCE 58 - Features, Specifications, Datasheet") | Omnidirectional  [**beyerdynamic MCE 58**](/microphones/beyerdynamic/MCE-58 "beyerdynamic MCE 58 - Features, Specifications, Datasheet")  Omnidirectional Condenser Microphone  [electret](//recordinghacks.com/microphones/tag/electret "electret microphones"), [back-electret](//recordinghacks.com/microphones/tag/back-electret "back-electret microphones"), [end-address](//recordinghacks.com/microphones/tag/end-address "end-address microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [handheld](//recordinghacks.com/microphones/tag/handheld "handheld microphones"), [battery-power](//recordinghacks.com/microphones/tag/battery-power "battery-power microphones"), [aa](//recordinghacks.com/microphones/tag/aa "aa microphones") |

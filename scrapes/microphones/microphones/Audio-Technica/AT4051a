@@ -1,0 +1,328 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Audio-Technica AT4051a | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="AT4051a, Detachable-Capsule Pencil Condenser Microphone  - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/Audio-Technica/AT4051a" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The AT4051 and AT4049 share preamp bodies; they differ only in their interchangeable capsules (and therefore pickup patterns)." href="//recordinghacks.com/microphones/Audio-Technica/AT4049a"><img src="//cdn.recordinghacks.com/images/mics/00020/00020_75.jpg" width="75" height="75" alt="The AT4051 and AT4049 share preamp bodies; they differ only in their interchangeable capsules (and therefore pickup patterns)." title="The AT4051 and AT4049 share preamp bodies; they differ only in their interchangeable capsules (and therefore pickup patterns)."   ><br /><span>Audio-Technica AT4049a</span></a></li>
+                                                    <li class="mictile"><a title="The 4051a and 4053a share preamp bodies; they differ only in their interchangeable capsules." href="//recordinghacks.com/microphones/Audio-Technica/AT4053a"><img src="//cdn.recordinghacks.com/images/mics/00023/00023_75.jpg" width="75" height="75" alt="The 4051a and 4053a share preamp bodies; they differ only in their interchangeable capsules." title="The 4051a and 4053a share preamp bodies; they differ only in their interchangeable capsules."   ><br /><span>Audio-Technica AT4053a</span></a></li>
+                                                    <li class="mictile"><a title="The AT4051b is a revision of the AT4051a." href="//recordinghacks.com/microphones/Audio-Technica/AT4051b"><img src="//cdn.recordinghacks.com/images/mics/01035/01035_75.jpg" width="75" height="75" alt="The AT4051b is a revision of the AT4051a." title="The AT4051b is a revision of the AT4051a."   ><br /><span>Audio-Technica AT4051b</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/Audio-Technica">Audio-Technica microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Audio-Technica AT4051a" href="/microphone-photo/00022/Audio-Technica/AT4051a.jpg"><img src="//cdn.recordinghacks.com/images/mics/00022/00022_172.jpg" width="172" height="143" alt="Audio-Technica AT4051a" title="Audio-Technica AT4051a" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $595</li>
+                                        <li id="none"><em>Discontinued</em></li>                    </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/pencil-mic" alt="pencil-mic microphones">pencil-mic</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformerless" alt="transformerless microphones">transformerless</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/detachable-capsule" alt="detachable-capsule microphones">detachable-capsule</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/end-address" alt="end-address microphones">end-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/condenser" alt="condenser microphones">condenser</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/externally-polarized" alt="externally-polarized microphones">externally-polarized</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/40-series" alt="40-series microphones">40-series</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://emusician.com/mag/emusic_smokin_condensers/">Electronic Musician, 2004-03</a></li>
+                                                                </ul>                    
+                                        <h3>AT4051a Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.audio-technica.com/cms/wired_mics/198fc1e1b1ff2c2f/index.html">AT4051a Product Description</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/audio-technica/at4051a_english.pdf">AT4051a Product Description</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="22-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="22-1" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="22-2" src="//cdn.recordinghacks.com/images/icons/patterns/icon_hc.png" width=27 height=27 alt="Hypercardioid" title="Hypercardioid" ></span>Audio-Technica AT4051a</h2>
+                    
+                    <h2 class="sub">                    Detachable-Capsule Pencil Condenser Microphone</h2>
+                    <p>The AT4051a is a pencil condenser mic that accepts multiple interchangeable capsules, all of which are externally-biased (true) condenser designs.</p><p>The preamplifier body is p/n AT4900a-48; it is a phantom-powered, low noise, transformerless output design with integrated pad (-10dB) and high-pass filter (-12dB/octave @ 80Hz) switches.</p><p>It ships in a padded plastic case with a mic clip and foam windscreen.</p><blockquote><p><cite>Electronic Musician</cite></p><p>Audio-Technica&#8217;s small diaphragm elicited a unanimously positive opinion from the participants in the string listening session. The mic was repeatedly described as &#8220;smooth&#8230;&#8221; [I]t conveyed a &#8220;human quality&#8221; that was rich in depth and clarity without being too defined&#8230;</p><p>The AT4051a really impressed me when used as a close-mic on acoustic guitar. It seemed to have all the body of the warmer Neumann and Schoeps models, with the added benefit of a perfectly defined high-end sparkle. At a distance, it took on a smoother and more neutral character not unlike the Schoeps, but retained its characteristic warmth and presence.</p></blockquote><p>The mic was revised in 2008; see the AT4051b for details on what changed.<p>Permalink: <a href="//recordinghacks.com/microphones/Audio-Technica/AT4051a">Audio-Technica AT4051a</a></p>
+                    <h3>Specifications</h3>
+                    <table><tr><th>Compatible Capsules</th></tr><tr><td><table style="width: 440px">                        <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00211/00211_75.jpg" width="75" height="75" alt="Audio-Technica AT4049a-EL" title="Audio-Technica AT4049a-EL"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap4011" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ></span>
+                        <strong>Audio-Technica AT4049a-EL</strong><br />
+                        Omnidirectional capsule<br />
+                        Sensitivity: 19.9 mV/Pa<br />
+                        <span class="shaft" id="anchor4011"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show4011">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $245 | <span class="mute">discontinued</span></li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00212/00212_75.jpg" width="75" height="75" alt="Audio-Technica AT4051a-EL" title="Audio-Technica AT4051a-EL"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap4012" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>Audio-Technica AT4051a-EL</strong><br />
+                        Cardioid capsule<br />
+                        Sensitivity: 19.9 mV/Pa<br />
+                        <span class="shaft" id="anchor4012"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show4012">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $245 | <span class="mute">discontinued</span></li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00213/00213_75.jpg" width="75" height="75" alt="Audio-Technica AT4053a-EL" title="Audio-Technica AT4053a-EL"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap4013" src="//cdn.recordinghacks.com/images/icons/patterns/icon_hc.png" width=27 height=27 alt="Hypercardioid" title="Hypercardioid" ></span>
+                        <strong>Audio-Technica AT4053a-EL</strong><br />
+                        Hypercardioid capsule<br />
+                        Sensitivity: 22.4 mV/Pa<br />
+                        <span class="shaft" id="anchor4013"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show4013">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $245 | <span class="mute">discontinued</span></li>
+                        </td></tr>
+                    </table></td></tr></table>
+                    <table>
+                        <tr>
+                            <th>Pads &amp; Filters</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                <ul>                                    <li>Filter: HPF: -12dB/octave @ 80Hz<small> (Via Switch)</small></li>
+                                                                    </ul></td>
+                            <td>100 Ohms <em class="mute">(Low)</em></td>
+                            <td>Max SPL: 146 dB<br />                                Self-noise: 19.0 dB(A)</td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>120g <em class="mute">(4.23oz)</em></td>
+                            <td>155mm <em class="mute">(6.10&#39;&#39;)</em></td>
+                            <td>21mm <em class="mute">(0.83&#39;&#39;)</em></td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                        <li>Requires phantom power </li>
+                                                                                                                                                                                <li>Phantom voltage: 48v</li>
+                                        </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+             
+<script type="text/javascript">
+        YAHOO.namespace("freq");
+
+        function init_freq_graphs() {
+
+            YAHOO.freq.chartPanel4011 = new YAHOO.widget.Panel("chartPanel4011",  {  context:["anchor4011", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel4011.render();
+
+            YAHOO.freq.chartPanel4012 = new YAHOO.widget.Panel("chartPanel4012",  {  context:["anchor4012", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel4012.render();
+
+            YAHOO.freq.chartPanel4013 = new YAHOO.widget.Panel("chartPanel4013",  {  context:["anchor4013", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel4013.render();
+
+                
+            YAHOO.freq.manager = new YAHOO.widget.OverlayManager(); 
+            YAHOO.freq.manager.register([YAHOO.freq.chartPanel4011,
+                                                   YAHOO.freq.chartPanel4012,
+                                                   YAHOO.freq.chartPanel4013,
+                                                   ]);
+
+          
+            YAHOO.util.Event.addListener("show4011", "click", YAHOO.freq.chartPanel4011.show, YAHOO.freq.chartPanel4011, true);
+            YAHOO.util.Event.addListener("hide4011", "click", YAHOO.freq.chartPanel4011.hide, YAHOO.freq.chartPanel4011, true);
+            YAHOO.util.Event.addListener("focus4011", "click", YAHOO.freq.chartPanel4011.focus, YAHOO.freq.chartPanel4011, true);
+
+          
+            YAHOO.util.Event.addListener("show4012", "click", YAHOO.freq.chartPanel4012.show, YAHOO.freq.chartPanel4012, true);
+            YAHOO.util.Event.addListener("hide4012", "click", YAHOO.freq.chartPanel4012.hide, YAHOO.freq.chartPanel4012, true);
+            YAHOO.util.Event.addListener("focus4012", "click", YAHOO.freq.chartPanel4012.focus, YAHOO.freq.chartPanel4012, true);
+
+          
+            YAHOO.util.Event.addListener("show4013", "click", YAHOO.freq.chartPanel4013.show, YAHOO.freq.chartPanel4013, true);
+            YAHOO.util.Event.addListener("hide4013", "click", YAHOO.freq.chartPanel4013.hide, YAHOO.freq.chartPanel4013, true);
+            YAHOO.util.Event.addListener("focus4013", "click", YAHOO.freq.chartPanel4013.focus, YAHOO.freq.chartPanel4013, true);
+
+            
+    
+        }
+        YAHOO.util.Event.addListener(window, "load", init_freq_graphs);
+</script>
+
+
+<div id="chartPanel4011" style="visibility:hidden">
+    <div class="hd"><span>Audio-Technica AT4051a Frequency Chart: Omnidirectional</span></div>
+    <div class="bd">
+    <img name="graph4011" src="http://www.audio-technica.com/cms/resource_library/product_images/b3f4e281b79a849b/orig/at4049b_freq.jpg" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel4012" style="visibility:hidden">
+    <div class="hd"><span>Audio-Technica AT4051a Frequency Chart: Cardioid</span></div>
+    <div class="bd">
+    <img name="graph4012" src="http://recordinghacks.com/images/graphs/audio-technica/AT4051a-freq.jpg" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel4013" style="visibility:hidden">
+    <div class="hd"><span>Audio-Technica AT4051a Frequency Chart: Hypercardioid</span></div>
+    <div class="bd">
+    <img name="graph4013" src="http://recordinghacks.com/images/graphs/audio-technica/AT4053a-freq.jpg" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('22-0');uniqueids.push('22-1');uniqueids.push('22-2');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

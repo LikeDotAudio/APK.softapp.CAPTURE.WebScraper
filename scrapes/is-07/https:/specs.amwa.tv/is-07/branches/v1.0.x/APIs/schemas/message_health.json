@@ -1,0 +1,38 @@
+{
+    "$id": "https://www.amwa.tv/event_and_tally/message_health.json",
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "description": "Message that gets sent out as the response to a health (heartbeat) command",
+    "properties": {
+        "message_type": {
+            "description": "A fixed string showing this is a health message",
+            "pattern": "^health$",
+            "type": "string"
+        },
+        "timing": {
+            "description": "Object describing event timing",
+            "properties": {
+                "creation_timestamp": {
+                    "description": "String formatted TAI timestamp (<seconds>:<nanoseconds>) indicating when the message was created",
+                    "pattern": "^[0-9]+:[0-9]+$",
+                    "type": "string"
+                },
+                "origin_timestamp": {
+                    "description": "String formatted TAI timestamp (<seconds>:<nanoseconds>) copied from the incoming health command",
+                    "pattern": "^[0-9]+:[0-9]+$",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "creation_timestamp",
+                "origin_timestamp"
+            ],
+            "type": "object"
+        }
+    },
+    "required": [
+        "timing",
+        "message_type"
+    ],
+    "title": "Health message",
+    "type": "object"
+}

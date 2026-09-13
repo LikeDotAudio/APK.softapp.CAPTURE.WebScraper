@@ -1,0 +1,208 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>swivel-head microphones | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+                
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+			<div id="content">
+                <div id="sidebar">                  
+                    					<h2 class="search">search for mics</h2>
+					<form action="/microphones" method="POST">
+										<script language="JavaScript" type="text/javascript">
+function clearText(field){
+
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+
+}
+					</script>
+						<fieldset>
+						    <input type="text" name="s" size="20" value="Microphone name or model number" style="color: #667;margin-left: 0;margin-bottom: 8px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)"><br />
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<fieldset class="checks">
+							<span class="shaft">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+							</span>
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">&nbsp;<input style="font-size: 8px" type="reset" name="button" value="Reset Form">
+						</fieldset>
+					</form>
+                            <p></p><h3>Definition of "swivel-head":</h3><p>Mics tagged <b>swivel-head</b> have rotating or swiveling headbaskets. This can ease positioning of the microphone; for example, the body can be parallel to the shell of a drum, while the microphone capsule is rotated to point at the top head. Functionally, these mics can easily change from <em>end-adress</em> to <em>side-address</em>, with an infinite number of possible positions in between.</p><p>See also <a href="http://recordinghacks.com/microphones/tag/yoke-mount">yoke-mount</a> microphones, in which the entire microphone body swivels.</p>
+<h3>Refine Search</h3><p>Find mics tagged '<b>swivel-head</b> AND:'</p> 
+<p><a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head+end-address" title="Mics tagged swivel-head AND end-address">end-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head+condenser" title="Mics tagged swivel-head AND condenser">condenser</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head+small-diaphragm" title="Mics tagged swivel-head AND small-diaphragm">small-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head+electret" title="Mics tagged swivel-head AND electret">electret</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head+stereo" title="Mics tagged swivel-head AND stereo">stereo</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head+transformerless" title="Mics tagged swivel-head AND transformerless">transformerless</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head+tsb-2555" title="Mics tagged swivel-head AND tsb-2555">tsb-2555</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head+side-address" title="Mics tagged swivel-head AND side-address">side-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head+pencil-mic" title="Mics tagged swivel-head AND pencil-mic">pencil-mic</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head+large-diaphragm" title="Mics tagged swivel-head AND large-diaphragm">large-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head+multipattern" title="Mics tagged swivel-head AND multipattern">multipattern</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head+b6" title="Mics tagged swivel-head AND b6">b6</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head+tripolar" title="Mics tagged swivel-head AND tripolar">tripolar</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head+dynamic" title="Mics tagged swivel-head AND dynamic">dynamic</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head+neodymium" title="Mics tagged swivel-head AND neodymium">neodymium</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head+k67" title="Mics tagged swivel-head AND k67">k67</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head+b4" title="Mics tagged swivel-head AND b4">b4</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head+transformer-coupled" title="Mics tagged swivel-head AND transformer-coupled">transformer-coupled</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head+center-terminated" title="Mics tagged swivel-head AND center-terminated">center-terminated</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head+single-diaphragm" title="Mics tagged swivel-head AND single-diaphragm">single-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head+spherical-capsule" title="Mics tagged swivel-head AND spherical-capsule">spherical-capsule</a> </p>
+<h3>Expand Search</h3><p>Find mics tagged '<b>swivel-head</b> OR:'</p>
+<p><a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head|end-address" title="Mics tagged swivel-head OR end-address">end-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head|condenser" title="Mics tagged swivel-head OR condenser">condenser</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head|small-diaphragm" title="Mics tagged swivel-head OR small-diaphragm">small-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head|electret" title="Mics tagged swivel-head OR electret">electret</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head|stereo" title="Mics tagged swivel-head OR stereo">stereo</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head|transformerless" title="Mics tagged swivel-head OR transformerless">transformerless</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head|tsb-2555" title="Mics tagged swivel-head OR tsb-2555">tsb-2555</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head|side-address" title="Mics tagged swivel-head OR side-address">side-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head|pencil-mic" title="Mics tagged swivel-head OR pencil-mic">pencil-mic</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head|large-diaphragm" title="Mics tagged swivel-head OR large-diaphragm">large-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head|multipattern" title="Mics tagged swivel-head OR multipattern">multipattern</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head|b6" title="Mics tagged swivel-head OR b6">b6</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head|tripolar" title="Mics tagged swivel-head OR tripolar">tripolar</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head|dynamic" title="Mics tagged swivel-head OR dynamic">dynamic</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head|neodymium" title="Mics tagged swivel-head OR neodymium">neodymium</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head|k67" title="Mics tagged swivel-head OR k67">k67</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head|b4" title="Mics tagged swivel-head OR b4">b4</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head|transformer-coupled" title="Mics tagged swivel-head OR transformer-coupled">transformer-coupled</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head|center-terminated" title="Mics tagged swivel-head OR center-terminated">center-terminated</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head|single-diaphragm" title="Mics tagged swivel-head OR single-diaphragm">single-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/swivel-head|spherical-capsule" title="Mics tagged swivel-head OR spherical-capsule">spherical-capsule</a> </p>
+                </div><!-- /#sidebar -->
+                <div id="column" style="width: auto">
+						    <h2>Mics tagged: swivel-head</h2>
+			    <table>
+				                    <tr><td><a title="Electro-Voice ND66 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Electro-Voice/ND66" ><img src="//cdn.recordinghacks.com/images/mics/01783/01783_75.jpg" width="75" height="75" alt="Electro-Voice ND66" title="Electro-Voice ND66"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1783-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Electro-Voice ND66 - Features, Specifications, Datasheet" href="/microphones/Electro-Voice/ND66"><strong>Electro-Voice ND66</strong></a><br />
+                        Cardioid Pencil Condenser Microphone<br />
+                        <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="small-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/small-diaphragm">small-diaphragm</a>, <a title="swivel-head microphones"  href="//recordinghacks.com/microphones/tag/swivel-head">swivel-head</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Ear Trumpet Labs Evelyn - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Ear-Trumpet-Labs/Evelyn" ><img src="//cdn.recordinghacks.com/images/mics/01746/01746_75.jpg" width="75" height="75" alt="Ear Trumpet Labs Evelyn" title="Ear Trumpet Labs Evelyn"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1746-0" src="/images/icons/patterns/icon_xy.png" width=27 height=27 alt="X/Y Stereo" title="X/Y Stereo" >                        </span>
+                        <a title="Ear Trumpet Labs Evelyn - Features, Specifications, Datasheet" href="/microphones/Ear-Trumpet-Labs/Evelyn"><strong>Ear Trumpet Labs Evelyn</strong></a><br />
+                        X/Y Stereo Condenser Stereo Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="stereo microphones"  href="//recordinghacks.com/microphones/tag/stereo">stereo</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="swivel-head microphones"  href="//recordinghacks.com/microphones/tag/swivel-head">swivel-head</a>, <a title="tsb-2555 microphones"  href="//recordinghacks.com/microphones/tag/tsb-2555">tsb-2555</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Blue Microphones Hummingbird - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Blue-Microphones/Hummingbird" ><img src="//cdn.recordinghacks.com/images/mics/01706/01706_75.jpg" width="75" height="75" alt="Blue Microphones Hummingbird" title="Blue Microphones Hummingbird"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1706-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Blue Microphones Hummingbird - Features, Specifications, Datasheet" href="/microphones/Blue-Microphones/Hummingbird"><strong>Blue Microphones Hummingbird</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="pencil-mic microphones"  href="//recordinghacks.com/microphones/tag/pencil-mic">pencil-mic</a>, <a title="swivel-head microphones"  href="//recordinghacks.com/microphones/tag/swivel-head">swivel-head</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Ear Trumpet Labs Chantelle - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Ear-Trumpet-Labs/Chantelle" ><img src="//cdn.recordinghacks.com/images/mics/01538/01538_75.jpg" width="75" height="75" alt="Ear Trumpet Labs Chantelle" title="Ear Trumpet Labs Chantelle"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1538-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Ear Trumpet Labs Chantelle - Features, Specifications, Datasheet" href="/microphones/Ear-Trumpet-Labs/Chantelle"><strong>Ear Trumpet Labs Chantelle</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="swivel-head microphones"  href="//recordinghacks.com/microphones/tag/swivel-head">swivel-head</a>, <a title="tsb-2555 microphones"  href="//recordinghacks.com/microphones/tag/tsb-2555">tsb-2555</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Blue Microphones Reactor - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Blue-Microphones/Reactor" ><img src="//cdn.recordinghacks.com/images/mics/01117/01117_75.jpg" width="75" height="75" alt="Blue Microphones Reactor" title="Blue Microphones Reactor"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1117-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="1117-1" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="1117-2" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Blue Microphones Reactor - Features, Specifications, Datasheet" href="/microphones/Blue-Microphones/Reactor"><strong>Blue Microphones Reactor</strong></a><br />
+                        Multi-Pattern Condenser Microphone<br />
+                        <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="b6 microphones"  href="//recordinghacks.com/microphones/tag/b6">b6</a>, <a title="swivel-head microphones"  href="//recordinghacks.com/microphones/tag/swivel-head">swivel-head</a>, <a title="tripolar microphones"  href="//recordinghacks.com/microphones/tag/tripolar">tripolar</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Blue Microphones XL Mouse - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Blue-Microphones/XL-Mouse" ><img src="//cdn.recordinghacks.com/images/mics/01099/01099_75.jpg" width="75" height="75" alt="Blue Microphones XL Mouse" title="Blue Microphones XL Mouse"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1099-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Blue Microphones XL Mouse - Features, Specifications, Datasheet" href="/microphones/Blue-Microphones/XL-Mouse"><strong>Blue Microphones XL Mouse</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="swivel-head microphones"  href="//recordinghacks.com/microphones/tag/swivel-head">swivel-head</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Electro-Voice N/D468 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Electro-Voice/N-D468" ><img src="//cdn.recordinghacks.com/images/mics/00365/00365_75.jpg" width="75" height="75" alt="Electro-Voice N/D468" title="Electro-Voice N/D468"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="365-0" src="/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" >                        </span>
+                        <a title="Electro-Voice N/D468 - Features, Specifications, Datasheet" href="/microphones/Electro-Voice/N-D468"><strong>Electro-Voice N/D468</strong></a><br />
+                        Supercardioid Dynamic Microphone<br />
+                        <a title="dynamic microphones"  href="//recordinghacks.com/microphones/tag/dynamic">dynamic</a>, <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="neodymium microphones"  href="//recordinghacks.com/microphones/tag/neodymium">neodymium</a>, <a title="swivel-head microphones"  href="//recordinghacks.com/microphones/tag/swivel-head">swivel-head</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Blue Microphones Dragonfly - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Blue-Microphones/Dragonfly" ><img src="//cdn.recordinghacks.com/images/mics/00338/00338_75.jpg" width="75" height="75" alt="Blue Microphones Dragonfly" title="Blue Microphones Dragonfly"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="338-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Blue Microphones Dragonfly - Features, Specifications, Datasheet" href="/microphones/Blue-Microphones/Dragonfly"><strong>Blue Microphones Dragonfly</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="k67 microphones"  href="//recordinghacks.com/microphones/tag/k67">k67</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="swivel-head microphones"  href="//recordinghacks.com/microphones/tag/swivel-head">swivel-head</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Blue Microphones OmniMouse - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Blue-Microphones/OmniMouse" ><img src="//cdn.recordinghacks.com/images/mics/00262/00262_75.jpg" width="75" height="75" alt="Blue Microphones OmniMouse" title="Blue Microphones OmniMouse"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="262-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="Blue Microphones OmniMouse - Features, Specifications, Datasheet" href="/microphones/Blue-Microphones/OmniMouse"><strong>Blue Microphones OmniMouse</strong></a><br />
+                        Omnidirectional Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="b4 microphones"  href="//recordinghacks.com/microphones/tag/b4">b4</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="center-terminated microphones"  href="//recordinghacks.com/microphones/tag/center-terminated">center-terminated</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="single-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/single-diaphragm">single-diaphragm</a>, <a title="swivel-head microphones"  href="//recordinghacks.com/microphones/tag/swivel-head">swivel-head</a>, <a title="spherical-capsule microphones"  href="//recordinghacks.com/microphones/tag/spherical-capsule">spherical-capsule</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Blue Microphones Mouse - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Blue-Microphones/Mouse" ><img src="//cdn.recordinghacks.com/images/mics/00261/00261_75.jpg" width="75" height="75" alt="Blue Microphones Mouse" title="Blue Microphones Mouse"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="261-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Blue Microphones Mouse - Features, Specifications, Datasheet" href="/microphones/Blue-Microphones/Mouse"><strong>Blue Microphones Mouse</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="swivel-head microphones"  href="//recordinghacks.com/microphones/tag/swivel-head">swivel-head</a><br />                        </td></tr>
+	
+                                </table>
+
+
+                 <!-- end of $nada test -->
+                </div><!-- /#column -->
+			</div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('1783-0');uniqueids.push('1746-0');uniqueids.push('1706-0');uniqueids.push('1538-0');uniqueids.push('1117-0');uniqueids.push('1117-1');uniqueids.push('1117-2');uniqueids.push('1099-0');uniqueids.push('365-0');uniqueids.push('338-0');uniqueids.push('262-0');uniqueids.push('261-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

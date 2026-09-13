@@ -1,0 +1,297 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Blackspade Acoustics UM17 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="UM17, Multi-Pattern Tube Condenser Microphone  - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/Blackspade/UM17" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="Prototypes of the UM17 were based on the T-11A body and chassis." href="//recordinghacks.com/microphones/Alctron/HST-11A"><img src="//cdn.recordinghacks.com/images/mics/00451/00451_75.jpg" width="75" height="75" alt="Prototypes of the UM17 were based on the T-11A body and chassis." title="Prototypes of the UM17 were based on the T-11A body and chassis."   ><br /><span>Alctron HST-11A</span></a></li>
+                                                    <li class="mictile"><a title="The UM17 is a revised version of the AK47, with an improved transformer." href="//recordinghacks.com/microphones/Telefunken-USA/AK47"><img src="//cdn.recordinghacks.com/images/mics/00858/00858_75.jpg" width="75" height="75" alt="The UM17 is a revised version of the AK47, with an improved transformer." title="The UM17 is a revised version of the AK47, with an improved transformer."   ><br /><span>Telefunken R-F-T AK47</span></a></li>
+                                                    <li class="mictile"><a title="Both the AK47 Mk II and UM17 are revisions of AMI&#8217;s original AK47 design, with BV8-style transformers." href="//recordinghacks.com/microphones/Telefunken-USA/AK47-MkII"><img src="//cdn.recordinghacks.com/images/mics/01071/01071_75.jpg" width="75" height="75" alt="Both the AK47 Mk II and UM17 are revisions of AMI&#8217;s original AK47 design, with BV8-style transformers." title="Both the AK47 Mk II and UM17 are revisions of AMI&#8217;s original AK47 design, with BV8-style transformers."   ><br /><span>Telefunken R-F-T AK47 Mk II</span></a></li>
+                                                    <li class="mictile"><a title="The UM17R is an upgraded version of the UM17." href="//recordinghacks.com/microphones/Blackspade/UM17R"><img src="//cdn.recordinghacks.com/images/mics/01189/01189_75.jpg" width="75" height="75" alt="The UM17R is an upgraded version of the UM17." title="The UM17R is an upgraded version of the UM17."   ><br /><span>Blackspade UM17R</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/Blackspade">Blackspade microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Blackspade Acoustics UM17" href="/microphone-photo/01070/Blackspade/UM17.jpg"><img src="//cdn.recordinghacks.com/images/mics/01070/01070_172.jpg" width="172" height="88" alt="Blackspade Acoustics UM17" title="Blackspade Acoustics UM17" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $1,299</li>
+                                        <li id="none"><em>Discontinued</em></li>                    </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/side-address" alt="side-address microphones">side-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/large-diaphragm" alt="large-diaphragm microphones">large-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/dual-diaphragm" alt="dual-diaphragm microphones">dual-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/tube" alt="tube microphones">tube</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/alctron" alt="alctron microphones">alctron</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/multipattern" alt="multipattern microphones">multipattern</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/5840" alt="5840 microphones">5840</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/ef732" alt="ef732 microphones">ef732</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformer-coupled" alt="transformer-coupled microphones">transformer-coupled</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/center-terminated" alt="center-terminated microphones">center-terminated</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/condenser" alt="condenser microphones">condenser</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/dual-backplate" alt="dual-backplate microphones">dual-backplate</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/ami" alt="ami microphones">ami</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/bv8lp" alt="bv8lp microphones">bv8lp</a></li></ul>
+                                        
+                                        <h3>UM17 Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.tab-funkenwerk.com/id61.html">UM17 Product Description (AMI)</a></li>
+                                                                    <li id="www"><a  href="http://bspade.com/UM17.htm">UM17 Description (Blackspade)</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/blackspade/um17_ownersmanual.pdf">UM17 Owner&#8217;s Manual</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img src="//cdn.recordinghacks.com/images/icons/patterns/icon_9.png" id="1070-0" width=27 height=27 alt="9 polar patterns" title="Cardioid, Omni, Figure 8, and six intermediate positions" ></span>Blackspade Acoustics UM17</h2>
+                    
+                    <h2 class="sub">                    Multi-Pattern Tube Condenser Microphone</h2>
+                    <p>The UM17 is a large-diaphragm multipattern tube condenser, designed and built in the US by AMI.</p><p>Although prototyped as a modified version of the Alctron HST-11A, the shipping version of the microphone uses no Alctron parts. The body, metalwork, and capsule are built to Blackspade/AMI specifications, and have little in common with the T11A/<a href="http://recordinghacks.com/microphones/Apex-Electronics/460">Apex 460</a>.</p><p>The UM17 can be thought of as a third-generation version of a mic mod developed by Oliver Archut in the early 1990s &#8212; in which the combination of a Chinese capsule and metalwork with an EF732 tube, a new amplifier circuit design and transformer, led to an affordable yet high-quality microphone. </p><p>A revised version of this design saw commercial release as the <a href="http://recordinghacks.com/microphones/Telefunken-USA/AK47">Telefunken Elektroakustik RFT AK47</a>.</p><p>The latest incarnation swaps the AK47&#8217;s BV47 transformer for a new design, dubbed the BV8LP &#8212; a low-profile version of the U47&#8217;s BV8 transformer. The new transformer uses all-nickel lamination, unlike the BV47&#8217;s mix of nickel and iron.</p><blockquote><p><cite>AMI</cite></p><p>[T]he BV8LP [is] a low profile version of the historic BV8 [designed] to fit in the mic body which is smaller than a U47.  Using all nickel lamination, the BV8LP is a higher quality transformer that produces a more detailed output than the BV47, with improved low-frequency response and clarity to optimize the EF732 tube.</p></blockquote><p>During prototyping, the UM17 used a capsule described as an &#8220;Alctron K47&#8221; &#8212; a dual-backplate, center-terminated design that originated in China.</p><p>The Alctron capsule has been dropped in favor of a capsule called the Blackspade K17 &#8212; a 32mm, single-backplate hybrid design based on the <a href="http://recordinghacks.com/microphones/tag/k47">Neumann K47</a> and <a href="http://recordinghacks.com/microphones/tag/m7">Gefell M7</a>. It is a center-terminated capsule with dual 6-micron diaphragms. These capsules are imported from overseas, tuned and tested in the US by AMI.</p><p>See also the <a href="http://recordinghacks.com/microphones/Blackspade/UM17R">UM17R</a>, which swaps the K17 capsule for a Thiersch M7.</p><p>AMI supplies a NOS EF732/5840 tube, branded Telefunken or Syvlania. The tube is warrantied for 6 months.</p><p>The power supply is sourced in China, but rebuilt and optimized in the US for the EF732 tube.</p><p>The amplifier circuit developed for the AK47 has been revised to best match the capsule and transformer in the new microphone. The circuit was designed by Oliver Archut.</p><p>The UM17 is assembled and tested in Gaylord, KS, using a mix of locally-supplied and imported parts. It ships with its power supply and cable, an elastic shockmount, a &#8220;wind sock&#8221; mic cover, and a flight case.<p>Permalink: <a href="//recordinghacks.com/microphones/Blackspade/UM17">Blackspade Acoustics UM17</a></p><p>The mic was released in 2010.</p>
+                    <h3>Specifications</h3>
+                                        
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                                                                Omnidirectional
+                                             (14 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                <span class="shaft" id="anchor1479"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show1479">CHART</button></span>                                            Cardioid
+                                             (14 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                                                            Bidirectional
+                                             (14 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Capsule Dimensions</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                                                                                                        Diaphragm diameter: 25mm<br />
+                                                                                            Capsule diameter: 32mm<br />
+                                                                                                                            Diaphragm gauge: 6 microns                                                                    </td>
+                            <td>200 Ohms <em class="mute">(Low)</em></td>
+                            <td>Max SPL: 132 dB<br />                                Self-noise: 17.0 dB(A)</td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>775g <em class="mute">(27.34oz)</em></td>
+                            <td>245mm <em class="mute">(9.65&#39;&#39;)</em></td>
+                            <td>44mm <em class="mute">(1.73&#39;&#39;)</em></td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                                                                                                                <li>Includes tube power supply </li>
+                                                                                    </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+             
+<script type="text/javascript">
+        YAHOO.namespace("freq");
+
+        function init_freq_graphs() {
+
+            YAHOO.freq.chartPanel1479 = new YAHOO.widget.Panel("chartPanel1479",  {  context:["anchor1479", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel1479.render();
+                
+            YAHOO.freq.manager = new YAHOO.widget.OverlayManager(); 
+            YAHOO.freq.manager.register([YAHOO.freq.chartPanel1479,
+                                                   ]);
+                    YAHOO.util.Event.addListener("show1479", "click", YAHOO.freq.chartPanel1479.show, YAHOO.freq.chartPanel1479, true);
+            YAHOO.util.Event.addListener("hide1479", "click", YAHOO.freq.chartPanel1479.hide, YAHOO.freq.chartPanel1479, true);
+            YAHOO.util.Event.addListener("focus1479", "click", YAHOO.freq.chartPanel1479.focus, YAHOO.freq.chartPanel1479, true);
+        
+
+
+        }
+        YAHOO.util.Event.addListener(window, "load", init_freq_graphs);
+</script>
+
+
+<div id="chartPanel1479" style="visibility:hidden">
+    <div class="hd"><span>Blackspade Acoustics UM17 Frequency Chart: Cardioid</span></div>
+    <div class="bd">
+    <img name="graph1479" src="http://recordinghacks.com/images/graphs/blackspade/UM17.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+    <script type="text/javascript">
+    function swap_graph(id) {
+        if (1==0) {}
+    }
+    </script>
+
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('1070-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

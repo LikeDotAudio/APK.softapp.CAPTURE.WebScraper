@@ -1,0 +1,345 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Neumann TLM 107 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="TLM 107, Multi-Pattern Condenser Microphone , aka: TLM107 - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/Neumann/TLM-107" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The LCT 640, like the TLM 107, provides electronic feature control of pad, filter, and pattern." href="//recordinghacks.com/microphones/Lewitt/LCT-640"><img src="//cdn.recordinghacks.com/images/mics/00971/00971_75.jpg" width="75" height="75" alt="The LCT 640, like the TLM 107, provides electronic feature control of pad, filter, and pattern." title="The LCT 640, like the TLM 107, provides electronic feature control of pad, filter, and pattern."   ><br /><span>Lewitt LCT 640</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/Neumann">Neumann microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Neumann TLM 107" href="/microphone-photo/01620/Neumann/TLM-107.jpg"><img src="//cdn.recordinghacks.com/images/mics/01620/01620_172.jpg" width="172" height="109" alt="Neumann TLM 107" title="Neumann TLM 107" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $1,700</li>
+                                                            </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/side-address" alt="side-address microphones">side-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/large-diaphragm" alt="large-diaphragm microphones">large-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/dual-diaphragm" alt="dual-diaphragm microphones">dual-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/multipattern" alt="multipattern microphones">multipattern</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformerless" alt="transformerless microphones">transformerless</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/edge-terminated" alt="edge-terminated microphones">edge-terminated</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/condenser" alt="condenser microphones">condenser</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/hpf" alt="hpf microphones">hpf</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/surface-mount" alt="surface-mount microphones">surface-mount</a></li></ul>
+                                        
+                                        <h3>TLM 107 Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.tlm107.neumann.com/content/en/index.html">TLM 107 Website</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/neumann/TLM107-brochure.pdf">TLM 107 Brochure</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/neumann/TLM107-manual.pdf">TLM 107 User Guide</a></li>
+                                                                    <li id="www"><a  href="http://www.neumann.com/?lang=en&amp;id=current_microphones&amp;cid=tlm107_description">TLM 107 Product Description</a></li>
+                                                                </ul>                    
+                                        <h3>TLM 107 Awards</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a href="//recordinghacks.com/awards#37">PSN Best of Show AES 2013</a></li>
+                                            <li id="www"><a href="//recordinghacks.com/awards#43">2014 TEC Awards</a></li>
+                                        </ul>                    
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="1620-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="1620-1" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="1620-2" src="//cdn.recordinghacks.com/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ><img id="1620-3" src="//cdn.recordinghacks.com/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" ><img id="1620-4" src="//cdn.recordinghacks.com/images/icons/patterns/icon_wc.png" width=27 height=27 alt="Wide Cardioid" title="Wide Cardioid" ></span>Neumann TLM 107</h2>
+                    
+                    <h2 class="sub">                    Multi-Pattern Condenser Microphone</h2>
+                    <p>The TLM 107 is a multipattern condenser microphone with electronic controls for pattern selection, pad and filter. It is presented as a new all-purpose studio mic, with a more neutral voicing than the popular <a href="http://recordinghacks.com/microphones/Neumann/TLM103">TLM 103</a>. See Neumann&#8217;s official introduction video for the TLM 107 at the <a href="#tlm107video">bottom of this page</a>.</p><p><img src="//cdn.recordinghacks.com/images/mic_extras/neumann/k107.jpg" class="thumb shaft" alt="K107 capsule" width="150" />The mic&#8217;s large-diaphragm capsule was developed specifically for this model. It is described as having been &#8220;inspired by&#8221; the capsule in the D 01 digital microphone. Both capsules are, somewhat unusually for Neumann, edge-terminated designs. (The company is most widely associated with its center-terminated large diaphragm designs, such as the <a href="http://recordinghacks.com/microphones/tag/k47">K47</a> and <a href="http://recordinghacks.com/microphones/tag/k67">K67</a>.)</p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/neumann/tlm107-switch.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/neumann/tlm107-switch-sm.jpg" class="thumb shaft" alt="TLM 107 Navigation Control (Joystick)" width="220" /></a>New for Neumann is the joystick control on the back side of the microphone. This single &#8220;Navigation Switch&#8221; allows selection of pad, filter, and pattern. LED backlighting indicates the currently selected option, but fades out 15 seconds after the joystick is released, so as not to distract viewers or artists.</p><p>When pressed to the left, the joystick toggles through the mic&#8217;s three pad settings: 0dB, -6dB, -12dB. </p><p>When pressed to the right, the joystick toggles through three high-pass filter settings: flat, 40Hz, 100Hz. These values were chosen to suit specific environments and sources:</p><blockquote><p><cite>Neumann</cite></p><p>[T]he 40 Hz setting cuts interference noise below the range of fundamental tones (where 41 Hz is the frequency of the double bass open E string), while the 100 Hz setting is optimized for speech and vocals (where 100 Hz corresponds to the lowest notes of a baritone).</p></blockquote><p>When pressed down, toward the XLR jack, the joystick toggles among five polar patterns: Omni, Wide Cardioid, Cardioid, Hypercardioid, Figure-8.</p><p>The capsule&#8217;s rear diaphragm remains in the circuit for all patterns, even Cardioid. This means the TLM 107&#8217;s Cardioid mode has equal sensitivity (11mV/Pa) as all other polar patterns.</p><p>All these configuration changes &#8212; pad, filter, and pattern &#8212; are effected noiselessly, without clicks or thumps in the mic&#8217;s output signal. Slow, silent switching is done electronically; for example, the 6dB pad is engaged by gradually dropping the capsule&#8217;s polarization voltage from 60VDC to 30VDC. The 12dB pad setting causes the voltage to drop slowly by 50% again, to 15VDC. </p><p>Similarly, polar pattern switching requires that the polarization voltage to the rear half of the dual-backplate capsule be slowly ramped up or down to produce the requested pattern. All such voltage changes are applied to the backplates, rather than the diaphragms. Keeping both front and rear diaphragms at electrical ground (rather than at a positive voltage) is thought to reduce diaphragm contamination due to the attraction of moisture, dirt and dust.</p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/neumann/tlm107-pcb.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/neumann/tlm107-pcb-sm.jpg" class="thumb shaft" alt="TLM 107 PCB" width="220" /></a>Onboard electronics retain the pad, filter, and pattern selections between sessions, even when phantom power is removed. This circuitry, including the audio circuit, is implemented with surface-mount components, and incorporates integrated circuit chips.</p><p>The audio circuit is linear above 20Hz; it does not apply equalization or frequency-specific attenuation or boosts to the audio circuit within the audible spectrum. Therefore the mic&#8217;s frequency response is entirely a function of the capsule and its acoustic environment, rather than of electronic manipulation.</p><p>The aesthetic design of the TLM 107 draws inspiration from the vintage <a href="http://recordinghacks.com/microphones/Neumann/M-49">M 49</a> and <a href="http://recordinghacks.com/microphones/Neumann/M-50">M 50</a>, but uses die-cast metalwork that is much less costly to manufacture than the lathed bodies of many other Neumann models.</p><p>According to Neumann, the grille construction was optimized to reduce the wind blasts that cause P-pops.</p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/neumann/tlm107-mounts.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/neumann/tlm107-mounts-sm.jpg" class="thumb shaft" alt="TLM 107 Mounts EA 4 and SG 2" width="220" /></a>The TLM 107 is available in Neumann&#8217;s traditional nickel (silver) or black finishes, with either a ring mount (known as the SG 2 swivel mount) or an elastic shockmount (p/n EA 4).</p><p><a name="tlm107video"></a>Below, see Neumann&#8217;s launch video for the TLM 107:<br clear="right" /><br /><iframe width="620" height="465" src="//www.youtube.com/embed/rnf9aCrwcgE?rel=0" frameborder="0" allowfullscreen></iframe><p>The <a href="//recordinghacks.com/microphones/Neumann/TLM-107">Neumann TLM 107</a> is also known as: TLM107.</p><p>The mic was released in 2013.</p>
+                    <h3>Specifications</h3>
+                                        
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                    <span class="shaft" id="anchor2212"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show2212">CHART</button></span>                                            Omnidirectional
+                                             (11 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                <span class="shaft" id="anchor2211"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show2211">CHART</button></span>                                            Cardioid
+                                             (11 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                                                            Bidirectional
+                                             (11 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                <span class="shaft" id="anchor2215"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show2215">CHART</button></span>                                            Supercardioid
+                                             (11 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                <span class="shaft" id="anchor2214"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show2214">CHART</button></span>                                            Wide Cardioid
+                                             (11 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                    <li>Pad: -6dB<small> (Via Switch)</small></li>
+                                                                        <li>Pad: -12dB<small> (Via Switch)</small></li>
+                                                                        <li>Filter: HPF @ 100Hz<small> (Via Switch)</small></li>
+                                                                        <li>Filter: HPF @ 40Hz<small> (Via Switch)</small></li>
+                                                                    </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Capsule Dimensions</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                                                            Diameter n/a<br />
+                                                                                Diaphragm gauge: 6 microns                                                                    </td>
+                            <td>50 Ohms <em class="mute">(Low)</em></td>
+                            <td>Max SPL: 153 dB<br />                                Self-noise: 10.0 dB(A)</td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>445g <em class="mute">(15.70oz)</em></td>
+                            <td>145mm <em class="mute">(5.71&#39;&#39;)</em></td>
+                            <td>64mm <em class="mute">(2.52&#39;&#39;)</em></td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                        <li>Requires phantom power </li>
+                                                                                                                                                                                <li>Phantom voltage: 48 &plusmn; 4v</li>
+                                        </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+             
+<script type="text/javascript">
+        YAHOO.namespace("freq");
+
+        function init_freq_graphs() {
+
+            YAHOO.freq.chartPanel2212 = new YAHOO.widget.Panel("chartPanel2212",  {  context:["anchor2212", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel2212.render();
+            YAHOO.freq.chartPanel2211 = new YAHOO.widget.Panel("chartPanel2211",  {  context:["anchor2211", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel2211.render();
+            YAHOO.freq.chartPanel2215 = new YAHOO.widget.Panel("chartPanel2215",  {  context:["anchor2215", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel2215.render();
+            YAHOO.freq.chartPanel2214 = new YAHOO.widget.Panel("chartPanel2214",  {  context:["anchor2214", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel2214.render();
+                
+            YAHOO.freq.manager = new YAHOO.widget.OverlayManager(); 
+            YAHOO.freq.manager.register([YAHOO.freq.chartPanel2212,
+                                                   YAHOO.freq.chartPanel2211,
+                                                   YAHOO.freq.chartPanel2215,
+                                                   YAHOO.freq.chartPanel2214,
+                                                   ]);
+                    YAHOO.util.Event.addListener("show2212", "click", YAHOO.freq.chartPanel2212.show, YAHOO.freq.chartPanel2212, true);
+            YAHOO.util.Event.addListener("hide2212", "click", YAHOO.freq.chartPanel2212.hide, YAHOO.freq.chartPanel2212, true);
+            YAHOO.util.Event.addListener("focus2212", "click", YAHOO.freq.chartPanel2212.focus, YAHOO.freq.chartPanel2212, true);
+                    YAHOO.util.Event.addListener("show2211", "click", YAHOO.freq.chartPanel2211.show, YAHOO.freq.chartPanel2211, true);
+            YAHOO.util.Event.addListener("hide2211", "click", YAHOO.freq.chartPanel2211.hide, YAHOO.freq.chartPanel2211, true);
+            YAHOO.util.Event.addListener("focus2211", "click", YAHOO.freq.chartPanel2211.focus, YAHOO.freq.chartPanel2211, true);
+                    YAHOO.util.Event.addListener("show2215", "click", YAHOO.freq.chartPanel2215.show, YAHOO.freq.chartPanel2215, true);
+            YAHOO.util.Event.addListener("hide2215", "click", YAHOO.freq.chartPanel2215.hide, YAHOO.freq.chartPanel2215, true);
+            YAHOO.util.Event.addListener("focus2215", "click", YAHOO.freq.chartPanel2215.focus, YAHOO.freq.chartPanel2215, true);
+                    YAHOO.util.Event.addListener("show2214", "click", YAHOO.freq.chartPanel2214.show, YAHOO.freq.chartPanel2214, true);
+            YAHOO.util.Event.addListener("hide2214", "click", YAHOO.freq.chartPanel2214.hide, YAHOO.freq.chartPanel2214, true);
+            YAHOO.util.Event.addListener("focus2214", "click", YAHOO.freq.chartPanel2214.focus, YAHOO.freq.chartPanel2214, true);
+        
+
+
+        }
+        YAHOO.util.Event.addListener(window, "load", init_freq_graphs);
+</script>
+
+
+<div id="chartPanel2212" style="visibility:hidden">
+    <div class="hd"><span>Neumann TLM 107 Frequency Chart: Omnidirectional</span></div>
+    <div class="bd">
+    <img name="graph2212" src="http://recordinghacks.com/images/graphs/neumann/tlm107-freq2.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel2211" style="visibility:hidden">
+    <div class="hd"><span>Neumann TLM 107 Frequency Chart: Cardioid</span></div>
+    <div class="bd">
+    <img name="graph2211" src="http://recordinghacks.com/images/graphs/neumann/tlm107-freq3.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel2215" style="visibility:hidden">
+    <div class="hd"><span>Neumann TLM 107 Frequency Chart: Supercardioid</span></div>
+    <div class="bd">
+    <img name="graph2215" src="http://recordinghacks.com/images/graphs/neumann/tlm107-freq1.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel2214" style="visibility:hidden">
+    <div class="hd"><span>Neumann TLM 107 Frequency Chart: Wide Cardioid</span></div>
+    <div class="bd">
+    <img name="graph2214" src="http://recordinghacks.com/images/graphs/neumann/tlm107-freq4.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+    <script type="text/javascript">
+    function swap_graph(id) {
+        if (1==0) {}
+    }
+    </script>
+
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('1620-0');uniqueids.push('1620-1');uniqueids.push('1620-2');uniqueids.push('1620-3');uniqueids.push('1620-4');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

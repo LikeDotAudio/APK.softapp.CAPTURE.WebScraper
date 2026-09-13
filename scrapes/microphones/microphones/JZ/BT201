@@ -1,0 +1,357 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>JZ Microphones BT201 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="BT201, Detachable-Capsule Pencil Condenser Microphone , aka: BT-201 - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/JZ/BT201" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>BT201 Microphone Sets</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="JZ DMK1 - microphone set" href="//recordinghacks.com/microphones/JZ/DMK1"><img src="//cdn.recordinghacks.com/images/sets/00024/00024_75.jpg" width="75" height="75" alt="" title=""   ><br /><span>JZ DMK1</span></a></li>
+                                                    <li class="mictile"><a title="JZ Michael Wagener Kit - microphone set" href="//recordinghacks.com/microphones/JZ/Wagener-Kit"><img src="//cdn.recordinghacks.com/images/sets/00025/00025_75.jpg" width="75" height="75" alt="" title=""   ><br /><span>JZ Michael Wagener Kit</span></a></li>
+                                                </ul>
+                        </div>
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The BT-301 is essentially a larger-diaphragm version of the BT-201." href="//recordinghacks.com/microphones/JZ/BT-301"><img src="//cdn.recordinghacks.com/images/mics/00883/00883_75.jpg" width="75" height="75" alt="The BT-301 is essentially a larger-diaphragm version of the BT-201." title="The BT-301 is essentially a larger-diaphragm version of the BT-201."   ><br /><span>JZ BT-301</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/JZ">JZ microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="JZ Microphones BT201" href="/microphone-photo/00696/JZ/BT201.jpg"><img src="//cdn.recordinghacks.com/images/mics/00696/00696_172.jpg" width="172" height="83" alt="JZ Microphones BT201" title="JZ Microphones BT201" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $479</li>
+                                                            </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/pencil-mic" alt="pencil-mic microphones">pencil-mic</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformerless" alt="transformerless microphones">transformerless</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/detachable-capsule" alt="detachable-capsule microphones">detachable-capsule</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/pressure-gradient" alt="pressure-gradient microphones">pressure-gradient</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/end-address" alt="end-address microphones">end-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/aluminum-diaphragm" alt="aluminum-diaphragm microphones">aluminum-diaphragm</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/jz/resolution_200906.pdf">Resolution Magazine, 2009-07</a></li>
+                                                                    <li id="www"><a  href="http://mixonline.com/gear/reviews/jz-bt-201-condenser-0110/">MIX review, 2010-01</a></li>
+                                                                    <li id="www"><a  href="http://www.proaudioreview.com/article/24944">ProAudioReview.com, 2009-10</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/2011/01/13/jz-dmk1-review/">DMK-1/BT201 review, 2011-01</a></li>
+                                                                </ul>                    
+                                        <h3>BT201 Documentation</h3><ul class="man_list" id="icons16">
+                                                                                        <li id="www"><a  href="http://usashop.jzmic.com/collections/bt-series/products/bt201-1">BT201 Product Description</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="696-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="696-1" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="696-2" src="//cdn.recordinghacks.com/images/icons/patterns/icon_wc.png" width=27 height=27 alt="Wide Cardioid" title="Wide Cardioid" ></span>JZ Microphones BT201</h2>
+                    
+                    <h2 class="sub">                    Detachable-Capsule Pencil Condenser Microphone</h2>
+                    <p>The BT201 is JZ&#8217;s entry into the pencil-condenser market. In keeping with the company&#8217;s sense of visual design, the BT201 head amp features a tapered neck; the resulting baseball-bat shape inspired the letters in the name, &#8220;BT.&#8221; </p><p>Detachable capsules connect to the head amp via an innovative magnetic mechanism. There are no screw threads; the capsules simply clip on magnetically (and are hot-swappable).</p><p>The capsule diaphragm is 4-microns thick, and is sputtered with aluminum alloy rather than the more traditional gold. Note that the BT-201 capsules, unlike the rest of the JZ mics, do <em>not</em> use JZ&#8217;s Golden Drop variable-sputtering technique to metallize the capsule diaphragms.</p><p>The amplifier circuit is transformerless.</p><p>The mic was announced in December, 2008 and first displayed at the 2009 Winter NAMM show in Anaheim, CA.</p><p><img src="//cdn.recordinghacks.com/images/mic_extras/jz/bt201_stereo_kit.jpg" width="240" class="thumb shaft" />Several pricing and packaging options have been announced:</p><ul><li>The $635/&euro;499 BT-201 kit includes a single head amp and three detachable capsules &#8212; cardioid, omni, wide-cardioid.</li><li>A single BT-201 head amp with cardioid capsule will cost $515/&euro;405.</li><li>Wide-cardioid and omni capsules will cost $105/&euro;80.</li><li>The wide-cardioid capsule with built-in -20dB pad will cost $130/&euro;99.</li><li>A stereo kit (two head amps and six capsules) will sell for &euro;1059/$1349 and will ship in a foam-lined wood box with a magnetic clasp.</li></ul><p></p><blockquote><p><cite>Resolution, 2009</cite></p><p>First impressions are that the BT-201 is somewhat noisier than the DPA [4006], and that its tonality is a good deal sharper, with quite an obvious lift in the high frequencies. On acoustic guitar this isn&#8217;t entirely unpleasant, but [on] cello things start to sound scratchy rather than bright.</p><p>Moving on to a drum kit&#8230; the JZ offering fared much better. There&#8217;s a good sense of detail and transient response here, and the slight increase in working distance seems to suit these microphones better.</p></blockquote><p></p><blockquote><p><cite>ProAudioReview, 2009</cite></p><p>On drums using cardioid capsules (overheads in ORTF or spaced pair), the BT-201s exhibited a slightly emphasized top end that didn&#8217;t get harsh or strident and never required any subtractive EQ.</p></blockquote><p><iframe width="560" height="315" src="//www.youtube.com/embed/zf-kchyLuEM?rel=0" frameborder="0" allowfullscreen></iframe><p>The <a href="//recordinghacks.com/microphones/JZ/BT201">JZ Microphones BT201</a> is also known as: BT-201.</p><p>The mic was released in 2008.</p>
+                    <h3>Specifications</h3>
+                    <table><tr><th>Compatible Capsules</th></tr><tr><td><table style="width: 440px">                        <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00216/00216_75.jpg" width="75" height="75" alt="JZ Microphones 08-0032 Cardioid" title="JZ Microphones 08-0032 Cardioid"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap6633" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>JZ Microphones 08-0032 Cardioid</strong><br />
+                        13mm Cardioid capsule<br />
+                        Sensitivity: 13 mV/Pa<br />
+                        <span class="shaft" id="anchor6633"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show6633">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $89 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00217/00217_75.jpg" width="75" height="75" alt="JZ Microphones 08-0032 Omni" title="JZ Microphones 08-0032 Omni"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap6634" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ></span>
+                        <strong>JZ Microphones 08-0032 Omni</strong><br />
+                        13mm Omnidirectional capsule<br />
+                        Sensitivity: 13 mV/Pa<br />
+                        <span class="shaft" id="anchor6634"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show6634">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $89 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00219/00219_75.jpg" width="75" height="75" alt="JZ Microphones Open Cardioid" title="JZ Microphones Open Cardioid"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap6635" src="//cdn.recordinghacks.com/images/icons/patterns/icon_wc.png" width=27 height=27 alt="Wide Cardioid" title="Wide Cardioid" ></span>
+                        <strong>JZ Microphones Open Cardioid</strong><br />
+                        13mm Wide Cardioid capsule<br />
+                        Sensitivity: 13 mV/Pa<br />
+                        <span class="shaft" id="anchor6635"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show6635">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $89 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00218/00218_75.jpg" width="75" height="75" alt="JZ Microphones Open Cardioid -20dB" title="JZ Microphones Open Cardioid -20dB"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap6636" src="//cdn.recordinghacks.com/images/icons/patterns/icon_wc.png" width=27 height=27 alt="Wide Cardioid" title="Wide Cardioid" ></span>
+                        <strong>JZ Microphones Open Cardioid -20dB</strong><br />
+                        13mm Wide Cardioid capsule<br />
+                        Sensitivity: 13 mV/Pa<br />
+                        <span class="shaft" id="anchor6636"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show6636">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $109 | Still In Production</li>
+                        </td></tr>
+                    </table></td></tr></table>
+                    <table>
+                        <tr>
+                            <th>Pads &amp; Filters</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>n/a                                
+                                </td>
+                            <td>50 Ohms <em class="mute">(Low)</em></td>
+                            <td>Max SPL: 140 dB<br />                                Self-noise: 12.0 dB(A)</td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>140g <em class="mute">(4.94oz)</em></td>
+                            <td>161mm <em class="mute">(6.34&#39;&#39;)</em></td>
+                            <td>24mm <em class="mute">(0.94&#39;&#39;)</em></td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                        <li>Requires phantom power </li>
+                                                                                                                                                                                <li>Phantom voltage: 48 &plusmn; 4v</li>
+                                        </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+             
+<script type="text/javascript">
+        YAHOO.namespace("freq");
+
+        function init_freq_graphs() {
+
+            YAHOO.freq.chartPanel6633 = new YAHOO.widget.Panel("chartPanel6633",  {  context:["anchor6633", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel6633.render();
+
+            YAHOO.freq.chartPanel6634 = new YAHOO.widget.Panel("chartPanel6634",  {  context:["anchor6634", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel6634.render();
+
+            YAHOO.freq.chartPanel6635 = new YAHOO.widget.Panel("chartPanel6635",  {  context:["anchor6635", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel6635.render();
+
+            YAHOO.freq.chartPanel6636 = new YAHOO.widget.Panel("chartPanel6636",  {  context:["anchor6636", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel6636.render();
+
+                
+            YAHOO.freq.manager = new YAHOO.widget.OverlayManager(); 
+            YAHOO.freq.manager.register([YAHOO.freq.chartPanel6633,
+                                                   YAHOO.freq.chartPanel6634,
+                                                   YAHOO.freq.chartPanel6635,
+                                                   YAHOO.freq.chartPanel6636,
+                                                   ]);
+
+          
+            YAHOO.util.Event.addListener("show6633", "click", YAHOO.freq.chartPanel6633.show, YAHOO.freq.chartPanel6633, true);
+            YAHOO.util.Event.addListener("hide6633", "click", YAHOO.freq.chartPanel6633.hide, YAHOO.freq.chartPanel6633, true);
+            YAHOO.util.Event.addListener("focus6633", "click", YAHOO.freq.chartPanel6633.focus, YAHOO.freq.chartPanel6633, true);
+
+          
+            YAHOO.util.Event.addListener("show6634", "click", YAHOO.freq.chartPanel6634.show, YAHOO.freq.chartPanel6634, true);
+            YAHOO.util.Event.addListener("hide6634", "click", YAHOO.freq.chartPanel6634.hide, YAHOO.freq.chartPanel6634, true);
+            YAHOO.util.Event.addListener("focus6634", "click", YAHOO.freq.chartPanel6634.focus, YAHOO.freq.chartPanel6634, true);
+
+          
+            YAHOO.util.Event.addListener("show6635", "click", YAHOO.freq.chartPanel6635.show, YAHOO.freq.chartPanel6635, true);
+            YAHOO.util.Event.addListener("hide6635", "click", YAHOO.freq.chartPanel6635.hide, YAHOO.freq.chartPanel6635, true);
+            YAHOO.util.Event.addListener("focus6635", "click", YAHOO.freq.chartPanel6635.focus, YAHOO.freq.chartPanel6635, true);
+
+          
+            YAHOO.util.Event.addListener("show6636", "click", YAHOO.freq.chartPanel6636.show, YAHOO.freq.chartPanel6636, true);
+            YAHOO.util.Event.addListener("hide6636", "click", YAHOO.freq.chartPanel6636.hide, YAHOO.freq.chartPanel6636, true);
+            YAHOO.util.Event.addListener("focus6636", "click", YAHOO.freq.chartPanel6636.focus, YAHOO.freq.chartPanel6636, true);
+
+            
+    
+        }
+        YAHOO.util.Event.addListener(window, "load", init_freq_graphs);
+</script>
+
+
+<div id="chartPanel6633" style="visibility:hidden">
+    <div class="hd"><span>JZ Microphones BT201 Frequency Chart: Cardioid</span></div>
+    <div class="bd">
+    <img name="graph6633" src="http://recordinghacks.com/images/graphs/jz/BT201-cardioid-freq.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel6634" style="visibility:hidden">
+    <div class="hd"><span>JZ Microphones BT201 Frequency Chart: Omnidirectional</span></div>
+    <div class="bd">
+    <img name="graph6634" src="http://recordinghacks.com/images/graphs/jz/BT201-omni-freq.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel6635" style="visibility:hidden">
+    <div class="hd"><span>JZ Microphones BT201 Frequency Chart: Wide Cardioid</span></div>
+    <div class="bd">
+    <img name="graph6635" src="http://recordinghacks.com/images/graphs/jz/BT201-opencard-freq.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel6636" style="visibility:hidden">
+    <div class="hd"><span>JZ Microphones BT201 Frequency Chart: Wide Cardioid</span></div>
+    <div class="bd">
+    <img name="graph6636" src="http://recordinghacks.com/images/graphs/jz/BT201-opencard-freq.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('696-0');uniqueids.push('696-1');uniqueids.push('696-2');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

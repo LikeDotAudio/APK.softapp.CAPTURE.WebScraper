@@ -1,0 +1,5 @@
+## Mics tagged: ac701 AND spherical-capsule
+
+|  |  |
+| --- | --- |
+| [Neumann M 50](http://recordinghacks.com/microphones/Neumann/M-50 "Neumann M 50 - Features, Specifications, Datasheet") | Omnidirectional  [**Neumann M 50**](/microphones/Neumann/M-50 "Neumann M 50 - Features, Specifications, Datasheet")  Omnidirectional Tube Condenser Microphone  [side-address](//recordinghacks.com/microphones/tag/side-address "side-address microphones"), [tube](//recordinghacks.com/microphones/tag/tube "tube microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [pvc](//recordinghacks.com/microphones/tag/pvc "pvc microphones"), [ac701](//recordinghacks.com/microphones/tag/ac701 "ac701 microphones"), [kk83](//recordinghacks.com/microphones/tag/kk83 "kk83 microphones"), [msc2](//recordinghacks.com/microphones/tag/msc2 "msc2 microphones"), [spherical-capsule](//recordinghacks.com/microphones/tag/spherical-capsule "spherical-capsule microphones"), [kk50](//recordinghacks.com/microphones/tag/kk50 "kk50 microphones"), [kk53](//recordinghacks.com/microphones/tag/kk53 "kk53 microphones") |

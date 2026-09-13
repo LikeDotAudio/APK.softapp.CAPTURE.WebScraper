@@ -1,0 +1,631 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>24-bit OR made-in-usa microphones | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+                <meta name="robots" content="noindex,follow" />
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+			<div id="content">
+                <div id="sidebar">                  
+                    					<h2 class="search">search for mics</h2>
+					<form action="/microphones" method="POST">
+										<script language="JavaScript" type="text/javascript">
+function clearText(field){
+
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+
+}
+					</script>
+						<fieldset>
+						    <input type="text" name="s" size="20" value="Microphone name or model number" style="color: #667;margin-left: 0;margin-bottom: 8px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)"><br />
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<fieldset class="checks">
+							<span class="shaft">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+							</span>
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">&nbsp;<input style="font-size: 8px" type="reset" name="button" value="Reset Form">
+						</fieldset>
+					</form>
+                            
+                </div><!-- /#sidebar -->
+                <div id="column" style="width: auto">
+						    <h2>Mics tagged: 24-bit OR made-in-usa</h2>
+			    <table>
+				                    <tr><td><a title="Stager Microphones SR-2N - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/stager/SR2N" ><img src="//cdn.recordinghacks.com/images/mics/01881/01881_75.jpg" width="75" height="75" alt="Stager Microphones SR-2N" title="Stager Microphones SR-2N"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1881-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Stager Microphones SR-2N - Features, Specifications, Datasheet" href="/microphones/stager/SR2N"><strong>Stager Microphones SR-2N</strong></a><br />
+                        Bidirectional Ribbon Microphone<br />
+                        <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="passive-ribbon microphones"  href="//recordinghacks.com/microphones/tag/passive-ribbon">passive-ribbon</a>, <a title="bidirectional microphones"  href="//recordinghacks.com/microphones/tag/bidirectional">bidirectional</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a>, <a title="toroidal microphones"  href="//recordinghacks.com/microphones/tag/toroidal">toroidal</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Stager Microphones SR-1A - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/stager/SR1A" ><img src="//cdn.recordinghacks.com/images/mics/01880/01880_75.jpg" width="75" height="75" alt="Stager Microphones SR-1A" title="Stager Microphones SR-1A"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1880-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Stager Microphones SR-1A - Features, Specifications, Datasheet" href="/microphones/stager/SR1A"><strong>Stager Microphones SR-1A</strong></a><br />
+                        Bidirectional Ribbon Microphone<br />
+                        <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="transformer microphones"  href="//recordinghacks.com/microphones/tag/transformer">transformer</a>, <a title="passive-ribbon microphones"  href="//recordinghacks.com/microphones/tag/passive-ribbon">passive-ribbon</a>, <a title="bidirectional microphones"  href="//recordinghacks.com/microphones/tag/bidirectional">bidirectional</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a>, <a title="toroidal microphones"  href="//recordinghacks.com/microphones/tag/toroidal">toroidal</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="AEA R84A - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/AEA/R84A" ><img src="//cdn.recordinghacks.com/images/mics/01811/01811_75.jpg" width="75" height="75" alt="AEA R84A" title="AEA R84A"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1811-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="AEA R84A - Features, Specifications, Datasheet" href="/microphones/AEA/R84A"><strong>AEA R84A</strong></a><br />
+                        Bidirectional Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="active-ribbon microphones"  href="//recordinghacks.com/microphones/tag/active-ribbon">active-ribbon</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="yoke-mount microphones"  href="//recordinghacks.com/microphones/tag/yoke-mount">yoke-mount</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Samar Audio Design VL37 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Samar/VL37" ><img src="//cdn.recordinghacks.com/images/mics/01753/01753_75.jpg" width="75" height="75" alt="Samar Audio Design VL37" title="Samar Audio Design VL37"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1753-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Samar Audio Design VL37 - Features, Specifications, Datasheet" href="/microphones/Samar/VL37"><strong>Samar Audio Design VL37</strong></a><br />
+                        Bidirectional Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="passive-ribbon microphones"  href="//recordinghacks.com/microphones/tag/passive-ribbon">passive-ribbon</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a>, <a title="figure-8 microphones"  href="//recordinghacks.com/microphones/tag/figure-8">figure-8</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Sennheiser Electronics Corporation MK4 Digital - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Sennheiser/MK4-Digital" ><img src="//cdn.recordinghacks.com/images/mics/01735/01735_75.jpg" width="75" height="75" alt="Sennheiser Electronics Corporation MK4 Digital" title="Sennheiser Electronics Corporation MK4 Digital"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1735-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Sennheiser Electronics Corporation MK4 Digital - Features, Specifications, Datasheet" href="/microphones/Sennheiser/MK4-Digital"><strong>Sennheiser Electronics Corporation MK4 Digital</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="externally-biased microphones"  href="//recordinghacks.com/microphones/tag/externally-biased">externally-biased</a>, <a title="edge-terminated microphones"  href="//recordinghacks.com/microphones/tag/edge-terminated">edge-terminated</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="24-bit microphones"  href="//recordinghacks.com/microphones/tag/24-bit">24-bit</a>, <a title="96-khz microphones"  href="//recordinghacks.com/microphones/tag/96-khz">96-khz</a>, <a title="16-bit microphones"  href="//recordinghacks.com/microphones/tag/16-bit">16-bit</a>, <a title="digital microphones"  href="//recordinghacks.com/microphones/tag/digital">digital</a>, <a title="ios microphones"  href="//recordinghacks.com/microphones/tag/ios">ios</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Shure MV51 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Shure/MV51" ><img src="//cdn.recordinghacks.com/images/mics/01725/01725_75.jpg" width="75" height="75" alt="Shure MV51" title="Shure MV51"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1725-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Shure MV51 - Features, Specifications, Datasheet" href="/microphones/Shure/MV51"><strong>Shure MV51</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="usb microphones"  href="//recordinghacks.com/microphones/tag/usb">usb</a>, <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="24-bit microphones"  href="//recordinghacks.com/microphones/tag/24-bit">24-bit</a>, <a title="48-khz microphones"  href="//recordinghacks.com/microphones/tag/48-khz">48-khz</a>, <a title="dsp microphones"  href="//recordinghacks.com/microphones/tag/dsp">dsp</a>, <a title="motiv microphones"  href="//recordinghacks.com/microphones/tag/motiv">motiv</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Cliff Mics RM1 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Cliff/RM1" ><img src="//cdn.recordinghacks.com/images/mics/01692/01692_75.jpg" width="75" height="75" alt="Cliff Mics RM1" title="Cliff Mics RM1"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1692-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Cliff Mics RM1 - Features, Specifications, Datasheet" href="/microphones/Cliff/RM1"><strong>Cliff Mics RM1</strong></a><br />
+                        Bidirectional Active Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="active-ribbon microphones"  href="//recordinghacks.com/microphones/tag/active-ribbon">active-ribbon</a>, <a title="symmetrical microphones"  href="//recordinghacks.com/microphones/tag/symmetrical">symmetrical</a>, <a title="neodymium microphones"  href="//recordinghacks.com/microphones/tag/neodymium">neodymium</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Cloud Microphones 44-A - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Cloud/44-A" ><img src="//cdn.recordinghacks.com/images/mics/01690/01690_75.jpg" width="75" height="75" alt="Cloud Microphones 44-A" title="Cloud Microphones 44-A"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1690-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Cloud Microphones 44-A - Features, Specifications, Datasheet" href="/microphones/Cloud/44-A"><strong>Cloud Microphones 44-A</strong></a><br />
+                        Active Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="active-ribbon microphones"  href="//recordinghacks.com/microphones/tag/active-ribbon">active-ribbon</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a>, <a title="dual-voice microphones"  href="//recordinghacks.com/microphones/tag/dual-voice">dual-voice</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Mesanovic Microphones Model 2 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Mesanovic/Model-2" ><img src="//cdn.recordinghacks.com/images/mics/01673/01673_75.jpg" width="75" height="75" alt="Mesanovic Microphones Model 2" title="Mesanovic Microphones Model 2"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1673-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Mesanovic Microphones Model 2 - Features, Specifications, Datasheet" href="/microphones/Mesanovic/Model-2"><strong>Mesanovic Microphones Model 2</strong></a><br />
+                        Bidirectional Ribbon Microphone<br />
+                        <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="passive-ribbon microphones"  href="//recordinghacks.com/microphones/tag/passive-ribbon">passive-ribbon</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Lewitt Audio DGT 650 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Lewitt/DGT-650" ><img src="//cdn.recordinghacks.com/images/mics/01650/01650_75.jpg" width="75" height="75" alt="Lewitt Audio DGT 650" title="Lewitt Audio DGT 650"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1650-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="1650-1" src="/images/icons/patterns/icon_xy.png" width=27 height=27 alt="X/Y Stereo" title="X/Y Stereo" >                        </span>
+                        <a title="Lewitt Audio DGT 650 - Features, Specifications, Datasheet" href="/microphones/Lewitt/DGT-650"><strong>Lewitt Audio DGT 650</strong></a><br />
+                        Multi-Pattern Condenser Microphone<br />
+                        <a title="usb microphones"  href="//recordinghacks.com/microphones/tag/usb">usb</a>, <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="xy-stereo microphones"  href="//recordinghacks.com/microphones/tag/xy-stereo">xy-stereo</a>, <a title="24-bit microphones"  href="//recordinghacks.com/microphones/tag/24-bit">24-bit</a>, <a title="96-khz microphones"  href="//recordinghacks.com/microphones/tag/96-khz">96-khz</a>, <a title="ios microphones"  href="//recordinghacks.com/microphones/tag/ios">ios</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Apogee Electronics MiC 96k - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Apogee/MiC-96k" ><img src="//cdn.recordinghacks.com/images/mics/01628/01628_75.jpg" width="75" height="75" alt="Apogee Electronics MiC 96k" title="Apogee Electronics MiC 96k"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1628-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Apogee Electronics MiC 96k - Features, Specifications, Datasheet" href="/microphones/Apogee/MiC-96k"><strong>Apogee Electronics MiC 96k</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="usb microphones"  href="//recordinghacks.com/microphones/tag/usb">usb</a>, <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="24-bit microphones"  href="//recordinghacks.com/microphones/tag/24-bit">24-bit</a>, <a title="96-khz microphones"  href="//recordinghacks.com/microphones/tag/96-khz">96-khz</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Apogee Electronics MiC - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Apogee/MiC" ><img src="//cdn.recordinghacks.com/images/mics/01627/01627_75.jpg" width="75" height="75" alt="Apogee Electronics MiC" title="Apogee Electronics MiC"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1627-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Apogee Electronics MiC - Features, Specifications, Datasheet" href="/microphones/Apogee/MiC"><strong>Apogee Electronics MiC</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="24-bit microphones"  href="//recordinghacks.com/microphones/tag/24-bit">24-bit</a>, <a title="48-khz microphones"  href="//recordinghacks.com/microphones/tag/48-khz">48-khz</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Mesanovic Microphones Model 1 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Mesanovic/Model-1" ><img src="//cdn.recordinghacks.com/images/mics/01616/01616_75.jpg" width="75" height="75" alt="Mesanovic Microphones Model 1" title="Mesanovic Microphones Model 1"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1616-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Mesanovic Microphones Model 1 - Features, Specifications, Datasheet" href="/microphones/Mesanovic/Model-1"><strong>Mesanovic Microphones Model 1</strong></a><br />
+                        Bidirectional Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="passive-ribbon microphones"  href="//recordinghacks.com/microphones/tag/passive-ribbon">passive-ribbon</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="AEA N22 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/AEA/N22" ><img src="//cdn.recordinghacks.com/images/mics/01615/01615_75.jpg" width="75" height="75" alt="AEA N22" title="AEA N22"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1615-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="AEA N22 - Features, Specifications, Datasheet" href="/microphones/AEA/N22"><strong>AEA N22</strong></a><br />
+                        Bidirectional Active Ribbon Microphone<br />
+                        <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="active-ribbon microphones"  href="//recordinghacks.com/microphones/tag/active-ribbon">active-ribbon</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a>, <a title="figure-8 microphones"  href="//recordinghacks.com/microphones/tag/figure-8">figure-8</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Aphex Microphone X - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Aphex/Microphone-X" ><img src="//cdn.recordinghacks.com/images/mics/01608/01608_75.jpg" width="75" height="75" alt="Aphex Microphone X" title="Aphex Microphone X"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1608-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Aphex Microphone X - Features, Specifications, Datasheet" href="/microphones/Aphex/Microphone-X"><strong>Aphex Microphone X</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="usb microphones"  href="//recordinghacks.com/microphones/tag/usb">usb</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="24-bit microphones"  href="//recordinghacks.com/microphones/tag/24-bit">24-bit</a>, <a title="96-khz microphones"  href="//recordinghacks.com/microphones/tag/96-khz">96-khz</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="R&#00216;DE iXY - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Rode/iXY" ><img src="//cdn.recordinghacks.com/images/mics/01567/01567_75.jpg" width="75" height="75" alt="R&#00216;DE iXY" title="R&#00216;DE iXY"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1567-0" src="/images/icons/patterns/icon_xy.png" width=27 height=27 alt="X/Y Stereo" title="X/Y Stereo" >                        </span>
+                        <a title="R&#00216;DE iXY - Features, Specifications, Datasheet" href="/microphones/Rode/iXY"><strong>R&#00216;DE iXY</strong></a><br />
+                        X/Y Stereo Condenser Stereo Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="stereo microphones"  href="//recordinghacks.com/microphones/tag/stereo">stereo</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="xy-stereo microphones"  href="//recordinghacks.com/microphones/tag/xy-stereo">xy-stereo</a>, <a title="24-bit microphones"  href="//recordinghacks.com/microphones/tag/24-bit">24-bit</a>, <a title="96-khz microphones"  href="//recordinghacks.com/microphones/tag/96-khz">96-khz</a>, <a title="iphone microphones"  href="//recordinghacks.com/microphones/tag/iphone">iphone</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Samar Audio Design TF08 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Samar/TF08" ><img src="//cdn.recordinghacks.com/images/mics/01551/01551_75.jpg" width="75" height="75" alt="Samar Audio Design TF08" title="Samar Audio Design TF08"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1551-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Samar Audio Design TF08 - Features, Specifications, Datasheet" href="/microphones/Samar/TF08"><strong>Samar Audio Design TF08</strong></a><br />
+                        Cardioid Hybrid Microphone<br />
+                        <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="active-ribbon microphones"  href="//recordinghacks.com/microphones/tag/active-ribbon">active-ribbon</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a>, <a title="hybrid-microphone microphones"  href="//recordinghacks.com/microphones/tag/hybrid-microphone">hybrid-microphone</a>, <a title="ribbon-condenser microphones"  href="//recordinghacks.com/microphones/tag/ribbon-condenser">ribbon-condenser</a>, <a title="unidirectional microphones"  href="//recordinghacks.com/microphones/tag/unidirectional">unidirectional</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Josephson Engineering C716 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Josephson/C716" ><img src="//cdn.recordinghacks.com/images/mics/01460/01460_75.jpg" width="75" height="75" alt="Josephson Engineering C716" title="Josephson Engineering C716"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1460-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Josephson Engineering C716 - Features, Specifications, Datasheet" href="/microphones/Josephson/C716"><strong>Josephson Engineering C716</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="ck12 microphones"  href="//recordinghacks.com/microphones/tag/ck12">ck12</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="yoke-mount microphones"  href="//recordinghacks.com/microphones/tag/yoke-mount">yoke-mount</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Cloud Microphones 44 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Cloud/44" ><img src="//cdn.recordinghacks.com/images/mics/01450/01450_75.jpg" width="75" height="75" alt="Cloud Microphones 44" title="Cloud Microphones 44"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1450-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Cloud Microphones 44 - Features, Specifications, Datasheet" href="/microphones/Cloud/44"><strong>Cloud Microphones 44</strong></a><br />
+                        Bidirectional Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="passive-ribbon microphones"  href="//recordinghacks.com/microphones/tag/passive-ribbon">passive-ribbon</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Earthworks Audio P30/C - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Earthworks/P30-C" ><img src="//cdn.recordinghacks.com/images/mics/01392/01392_75.jpg" width="75" height="75" alt="Earthworks Audio P30/C" title="Earthworks Audio P30/C"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1392-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Earthworks Audio P30/C - Features, Specifications, Datasheet" href="/microphones/Earthworks/P30-C"><strong>Earthworks Audio P30/C</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="gooseneck microphones"  href="//recordinghacks.com/microphones/tag/gooseneck">gooseneck</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Earthworks Audio SR40V - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Earthworks/SR40V" ><img src="//cdn.recordinghacks.com/images/mics/01389/01389_75.jpg" width="75" height="75" alt="Earthworks Audio SR40V" title="Earthworks Audio SR40V"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1389-0" src="/images/icons/patterns/icon_hc.png" width=27 height=27 alt="Hypercardioid" title="Hypercardioid" >                        </span>
+                        <a title="Earthworks Audio SR40V - Features, Specifications, Datasheet" href="/microphones/Earthworks/SR40V"><strong>Earthworks Audio SR40V</strong></a><br />
+                        Hypercardioid Condenser Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="handheld microphones"  href="//recordinghacks.com/microphones/tag/handheld">handheld</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Milab Microphones DM-1001 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Milab/DM-1001" ><img src="//cdn.recordinghacks.com/images/mics/01310/01310_75.jpg" width="75" height="75" alt="Milab Microphones DM-1001" title="Milab Microphones DM-1001"   ></a></td>
+                        <td><span class="shaft">
+					    <img src="/images/icons/patterns/icon_cv.png" id="1310-0" width=27 height=27 alt="continuously variable pattern selection" title="Continuously variable pattern selection"></span>
+                        <a title="Milab Microphones DM-1001 - Features, Specifications, Datasheet" href="/microphones/Milab/DM-1001"><strong>Milab Microphones DM-1001</strong></a><br />
+                        Multi-Pattern Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="dual-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/dual-diaphragm">dual-diaphragm</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="24-bit microphones"  href="//recordinghacks.com/microphones/tag/24-bit">24-bit</a>, <a title="48-khz microphones"  href="//recordinghacks.com/microphones/tag/48-khz">48-khz</a>, <a title="rectangular-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/rectangular-diaphragm">rectangular-diaphragm</a>, <a title="digital microphones"  href="//recordinghacks.com/microphones/tag/digital">digital</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Earthworks Audio PM40 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Earthworks/PM40" ><img src="//cdn.recordinghacks.com/images/mics/01185/01185_75.jpg" width="75" height="75" alt="Earthworks Audio PM40" title="Earthworks Audio PM40"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1185-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="Earthworks Audio PM40 - Features, Specifications, Datasheet" href="/microphones/Earthworks/PM40"><strong>Earthworks Audio PM40</strong></a><br />
+                        Omnidirectional Condenser Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="stereo microphones"  href="//recordinghacks.com/microphones/tag/stereo">stereo</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a>, <a title="omnidirectional microphones"  href="//recordinghacks.com/microphones/tag/omnidirectional">omnidirectional</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Royer Labs SF-2 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Royer-Labs/SF-2" ><img src="//cdn.recordinghacks.com/images/mics/01171/01171_75.jpg" width="75" height="75" alt="Royer Labs SF-2" title="Royer Labs SF-2"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1171-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Royer Labs SF-2 - Features, Specifications, Datasheet" href="/microphones/Royer-Labs/SF-2"><strong>Royer Labs SF-2</strong></a><br />
+                        Bidirectional Active Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="active-ribbon microphones"  href="//recordinghacks.com/microphones/tag/active-ribbon">active-ribbon</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Earthworks Audio SR30HC - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Earthworks/SR30HC" ><img src="//cdn.recordinghacks.com/images/mics/01163/01163_75.jpg" width="75" height="75" alt="Earthworks Audio SR30HC" title="Earthworks Audio SR30HC"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1163-0" src="/images/icons/patterns/icon_hc.png" width=27 height=27 alt="Hypercardioid" title="Hypercardioid" >                        </span>
+                        <a title="Earthworks Audio SR30HC - Features, Specifications, Datasheet" href="/microphones/Earthworks/SR30HC"><strong>Earthworks Audio SR30HC</strong></a><br />
+                        Hypercardioid Condenser Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Earthworks Audio SR40 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Earthworks/SR40" ><img src="//cdn.recordinghacks.com/images/mics/01162/01162_75.jpg" width="75" height="75" alt="Earthworks Audio SR40" title="Earthworks Audio SR40"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1162-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Earthworks Audio SR40 - Features, Specifications, Datasheet" href="/microphones/Earthworks/SR40"><strong>Earthworks Audio SR40</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Samar Audio Design MF65 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Samar/MF65" ><img src="//cdn.recordinghacks.com/images/mics/01161/01161_75.jpg" width="75" height="75" alt="Samar Audio Design MF65" title="Samar Audio Design MF65"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1161-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Samar Audio Design MF65 - Features, Specifications, Datasheet" href="/microphones/Samar/MF65"><strong>Samar Audio Design MF65</strong></a><br />
+                        Bidirectional Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="passive-ribbon microphones"  href="//recordinghacks.com/microphones/tag/passive-ribbon">passive-ribbon</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Blue Microphones Yeti Pro - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Blue-Microphones/Yeti-Pro" ><img src="//cdn.recordinghacks.com/images/mics/01115/01115_75.jpg" width="75" height="75" alt="Blue Microphones Yeti Pro" title="Blue Microphones Yeti Pro"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1115-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="1115-1" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="1115-2" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ><img id="1115-3" src="/images/icons/patterns/icon_xy.png" width=27 height=27 alt="X/Y Stereo" title="X/Y Stereo" >                        </span>
+                        <a title="Blue Microphones Yeti Pro - Features, Specifications, Datasheet" href="/microphones/Blue-Microphones/Yeti-Pro"><strong>Blue Microphones Yeti Pro</strong></a><br />
+                        Multi-Pattern Condenser Stereo Microphone<br />
+                        <a title="usb microphones"  href="//recordinghacks.com/microphones/tag/usb">usb</a>, <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="xy-stereo microphones"  href="//recordinghacks.com/microphones/tag/xy-stereo">xy-stereo</a>, <a title="yoke-mount microphones"  href="//recordinghacks.com/microphones/tag/yoke-mount">yoke-mount</a>, <a title="24-bit microphones"  href="//recordinghacks.com/microphones/tag/24-bit">24-bit</a>, <a title="48-khz microphones"  href="//recordinghacks.com/microphones/tag/48-khz">48-khz</a>, <a title="thx-certified microphones"  href="//recordinghacks.com/microphones/tag/thx-certified">thx-certified</a>, <a title="multiple-capsule microphones"  href="//recordinghacks.com/microphones/tag/multiple-capsule">multiple-capsule</a>, <a title="dual-output microphones"  href="//recordinghacks.com/microphones/tag/dual-output">dual-output</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Earthworks Audio SR20 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Earthworks/SR20" ><img src="//cdn.recordinghacks.com/images/mics/01110/01110_75.jpg" width="75" height="75" alt="Earthworks Audio SR20" title="Earthworks Audio SR20"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1110-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Earthworks Audio SR20 - Features, Specifications, Datasheet" href="/microphones/Earthworks/SR20"><strong>Earthworks Audio SR20</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Earthworks Audio SR25 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Earthworks/SR25" ><img src="//cdn.recordinghacks.com/images/mics/01097/01097_75.jpg" width="75" height="75" alt="Earthworks Audio SR25" title="Earthworks Audio SR25"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1097-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Earthworks Audio SR25 - Features, Specifications, Datasheet" href="/microphones/Earthworks/SR25"><strong>Earthworks Audio SR25</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a>, <a title="cardioid microphones"  href="//recordinghacks.com/microphones/tag/cardioid">cardioid</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="AEA KU4 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/AEA/KU4" ><img src="//cdn.recordinghacks.com/images/mics/01082/01082_75.jpg" width="75" height="75" alt="AEA KU4" title="AEA KU4"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1082-0" src="/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" >                        </span>
+                        <a title="AEA KU4 - Features, Specifications, Datasheet" href="/microphones/AEA/KU4"><strong>AEA KU4</strong></a><br />
+                        Supercardioid Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="neodymium microphones"  href="//recordinghacks.com/microphones/tag/neodymium">neodymium</a>, <a title="yoke-mount microphones"  href="//recordinghacks.com/microphones/tag/yoke-mount">yoke-mount</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="AEA R88 mk2 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/AEA/R88-mk2" ><img src="//cdn.recordinghacks.com/images/mics/01081/01081_75.jpg" width="75" height="75" alt="AEA R88 mk2" title="AEA R88 mk2"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1081-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ><img id="1081-1" src="/images/icons/patterns/icon_bl.png" width=27 height=27 alt="Blumlein" title="Blumlein" >                        </span>
+                        <a title="AEA R88 mk2 - Features, Specifications, Datasheet" href="/microphones/AEA/R88-mk2"><strong>AEA R88 mk2</strong></a><br />
+                        Multi-Pattern Ribbon Stereo Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="stereo microphones"  href="//recordinghacks.com/microphones/tag/stereo">stereo</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="dual-ribbon microphones"  href="//recordinghacks.com/microphones/tag/dual-ribbon">dual-ribbon</a>, <a title="blumlein microphones"  href="//recordinghacks.com/microphones/tag/blumlein">blumlein</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="AEA A840 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/AEA/A840" ><img src="//cdn.recordinghacks.com/images/mics/01080/01080_75.jpg" width="75" height="75" alt="AEA A840" title="AEA A840"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1080-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="AEA A840 - Features, Specifications, Datasheet" href="/microphones/AEA/A840"><strong>AEA A840</strong></a><br />
+                        Bidirectional Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="active-ribbon microphones"  href="//recordinghacks.com/microphones/tag/active-ribbon">active-ribbon</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="yoke-mount microphones"  href="//recordinghacks.com/microphones/tag/yoke-mount">yoke-mount</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Royer Labs SF-24 Live - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Royer-Labs/SF-24-Live" ><img src="//cdn.recordinghacks.com/images/mics/01052/01052_75.jpg" width="75" height="75" alt="Royer Labs SF-24 Live" title="Royer Labs SF-24 Live"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1052-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ><img id="1052-1" src="/images/icons/patterns/icon_bl.png" width=27 height=27 alt="Blumlein" title="Blumlein" >                        </span>
+                        <a title="Royer Labs SF-24 Live - Features, Specifications, Datasheet" href="/microphones/Royer-Labs/SF-24-Live"><strong>Royer Labs SF-24 Live</strong></a><br />
+                        Multi-Pattern Active Ribbon Stereo Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="active-ribbon microphones"  href="//recordinghacks.com/microphones/tag/active-ribbon">active-ribbon</a>, <a title="stereo microphones"  href="//recordinghacks.com/microphones/tag/stereo">stereo</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="blumlein microphones"  href="//recordinghacks.com/microphones/tag/blumlein">blumlein</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Royer Labs R-122 Live - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Royer-Labs/R-122-Live" ><img src="//cdn.recordinghacks.com/images/mics/01051/01051_75.jpg" width="75" height="75" alt="Royer Labs R-122 Live" title="Royer Labs R-122 Live"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1051-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Royer Labs R-122 Live - Features, Specifications, Datasheet" href="/microphones/Royer-Labs/R-122-Live"><strong>Royer Labs R-122 Live</strong></a><br />
+                        Bidirectional Active Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="active-ribbon microphones"  href="//recordinghacks.com/microphones/tag/active-ribbon">active-ribbon</a>, <a title="offset-ribbon microphones"  href="//recordinghacks.com/microphones/tag/offset-ribbon">offset-ribbon</a>, <a title="neodymium microphones"  href="//recordinghacks.com/microphones/tag/neodymium">neodymium</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Royer Labs R-121 Live - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Royer-Labs/R-121-Live" ><img src="//cdn.recordinghacks.com/images/mics/01050/01050_75.jpg" width="75" height="75" alt="Royer Labs R-121 Live" title="Royer Labs R-121 Live"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1050-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Royer Labs R-121 Live - Features, Specifications, Datasheet" href="/microphones/Royer-Labs/R-121-Live"><strong>Royer Labs R-121 Live</strong></a><br />
+                        Bidirectional Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="offset-ribbon microphones"  href="//recordinghacks.com/microphones/tag/offset-ribbon">offset-ribbon</a>, <a title="neodymium microphones"  href="//recordinghacks.com/microphones/tag/neodymium">neodymium</a>, <a title="passive-ribbon microphones"  href="//recordinghacks.com/microphones/tag/passive-ribbon">passive-ribbon</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Royer Labs R-101 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Royer-Labs/R-101" ><img src="//cdn.recordinghacks.com/images/mics/01038/01038_75.jpg" width="75" height="75" alt="Royer Labs R-101" title="Royer Labs R-101"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1038-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Royer Labs R-101 - Features, Specifications, Datasheet" href="/microphones/Royer-Labs/R-101"><strong>Royer Labs R-101</strong></a><br />
+                        Bidirectional Ribbon Microphone<br />
+                        <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="offset-ribbon microphones"  href="//recordinghacks.com/microphones/tag/offset-ribbon">offset-ribbon</a>, <a title="neodymium microphones"  href="//recordinghacks.com/microphones/tag/neodymium">neodymium</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a>, <a title="dual-voice microphones"  href="//recordinghacks.com/microphones/tag/dual-voice">dual-voice</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="MXL Studio 24 USB - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/MXL/Studio-24-USB" ><img src="//cdn.recordinghacks.com/images/mics/01030/01030_75.jpg" width="75" height="75" alt="MXL Studio 24 USB" title="MXL Studio 24 USB"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1030-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="MXL Studio 24 USB - Features, Specifications, Datasheet" href="/microphones/MXL/Studio-24-USB"><strong>MXL Studio 24 USB</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="usb microphones"  href="//recordinghacks.com/microphones/tag/usb">usb</a>, <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="24-bit microphones"  href="//recordinghacks.com/microphones/tag/24-bit">24-bit</a>, <a title="48-khz microphones"  href="//recordinghacks.com/microphones/tag/48-khz">48-khz</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Earthworks Audio Z30X - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Earthworks/Z30X" ><img src="//cdn.recordinghacks.com/images/mics/01001/01001_75.jpg" width="75" height="75" alt="Earthworks Audio Z30X" title="Earthworks Audio Z30X"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1001-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Earthworks Audio Z30X - Features, Specifications, Datasheet" href="/microphones/Earthworks/Z30X"><strong>Earthworks Audio Z30X</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Earthworks Audio TC40K - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Earthworks/TC40K" ><img src="//cdn.recordinghacks.com/images/mics/01000/01000_75.jpg" width="75" height="75" alt="Earthworks Audio TC40K" title="Earthworks Audio TC40K"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1000-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="Earthworks Audio TC40K - Features, Specifications, Datasheet" href="/microphones/Earthworks/TC40K"><strong>Earthworks Audio TC40K</strong></a><br />
+                        Omnidirectional Condenser Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a>, <a title="omnidirectional microphones"  href="//recordinghacks.com/microphones/tag/omnidirectional">omnidirectional</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Earthworks Audio SR30 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Earthworks/SR30" ><img src="//cdn.recordinghacks.com/images/mics/00930/00930_75.jpg" width="75" height="75" alt="Earthworks Audio SR30" title="Earthworks Audio SR30"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="930-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Earthworks Audio SR30 - Features, Specifications, Datasheet" href="/microphones/Earthworks/SR30"><strong>Earthworks Audio SR30</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Earthworks Audio TC20 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Earthworks/TC20" ><img src="//cdn.recordinghacks.com/images/mics/00929/00929_75.jpg" width="75" height="75" alt="Earthworks Audio TC20" title="Earthworks Audio TC20"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="929-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="Earthworks Audio TC20 - Features, Specifications, Datasheet" href="/microphones/Earthworks/TC20"><strong>Earthworks Audio TC20</strong></a><br />
+                        Omnidirectional Condenser Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Earthworks Audio TC25 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Earthworks/TC25" ><img src="//cdn.recordinghacks.com/images/mics/00928/00928_75.jpg" width="75" height="75" alt="Earthworks Audio TC25" title="Earthworks Audio TC25"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="928-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="Earthworks Audio TC25 - Features, Specifications, Datasheet" href="/microphones/Earthworks/TC25"><strong>Earthworks Audio TC25</strong></a><br />
+                        Omnidirectional Condenser Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a>, <a title="omnidirectional microphones"  href="//recordinghacks.com/microphones/tag/omnidirectional">omnidirectional</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="AKG Acoustics Perception 120 USB - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/AKG-Acoustics/Perception-120-USB" ><img src="//cdn.recordinghacks.com/images/mics/00899/00899_75.jpg" width="75" height="75" alt="AKG Acoustics Perception 120 USB" title="AKG Acoustics Perception 120 USB"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="899-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="AKG Acoustics Perception 120 USB - Features, Specifications, Datasheet" href="/microphones/AKG-Acoustics/Perception-120-USB"><strong>AKG Acoustics Perception 120 USB</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="usb microphones"  href="//recordinghacks.com/microphones/tag/usb">usb</a>, <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="24-bit microphones"  href="//recordinghacks.com/microphones/tag/24-bit">24-bit</a>, <a title="48-khz microphones"  href="//recordinghacks.com/microphones/tag/48-khz">48-khz</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Cloud Microphones JRS-34 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Cloud/JRS-34" ><img src="//cdn.recordinghacks.com/images/mics/00897/00897_75.jpg" width="75" height="75" alt="Cloud Microphones JRS-34" title="Cloud Microphones JRS-34"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="897-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Cloud Microphones JRS-34 - Features, Specifications, Datasheet" href="/microphones/Cloud/JRS-34"><strong>Cloud Microphones JRS-34</strong></a><br />
+                        Bidirectional Active Ribbon Microphone<br />
+                        <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="active-ribbon microphones"  href="//recordinghacks.com/microphones/tag/active-ribbon">active-ribbon</a>, <a title="neodymium microphones"  href="//recordinghacks.com/microphones/tag/neodymium">neodymium</a>, <a title="cinemag microphones"  href="//recordinghacks.com/microphones/tag/cinemag">cinemag</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="ART Pro Audio M-One/USB - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/ART/M-One-USB" ><img src="//cdn.recordinghacks.com/images/mics/00877/00877_75.jpg" width="75" height="75" alt="ART Pro Audio M-One/USB" title="ART Pro Audio M-One/USB"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="877-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="ART Pro Audio M-One/USB - Features, Specifications, Datasheet" href="/microphones/ART/M-One-USB"><strong>ART Pro Audio M-One/USB</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="usb microphones"  href="//recordinghacks.com/microphones/tag/usb">usb</a>, <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="24-bit microphones"  href="//recordinghacks.com/microphones/tag/24-bit">24-bit</a>, <a title="48-khz microphones"  href="//recordinghacks.com/microphones/tag/48-khz">48-khz</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Crowley and Tripp Soundstage Image - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Crowley-and-Tripp/Soundstage-Image" ><img src="//cdn.recordinghacks.com/images/mics/00863/00863_75.jpg" width="75" height="75" alt="Crowley and Tripp Soundstage Image" title="Crowley and Tripp Soundstage Image"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="863-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Crowley and Tripp Soundstage Image - Features, Specifications, Datasheet" href="/microphones/Crowley-and-Tripp/Soundstage-Image"><strong>Crowley and Tripp Soundstage Image</strong></a><br />
+                        Bidirectional Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="passive-ribbon microphones"  href="//recordinghacks.com/microphones/tag/passive-ribbon">passive-ribbon</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Crowley and Tripp Recordist - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Crowley-and-Tripp/Recordist" ><img src="//cdn.recordinghacks.com/images/mics/00862/00862_75.jpg" width="75" height="75" alt="Crowley and Tripp Recordist" title="Crowley and Tripp Recordist"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="862-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Crowley and Tripp Recordist - Features, Specifications, Datasheet" href="/microphones/Crowley-and-Tripp/Recordist"><strong>Crowley and Tripp Recordist</strong></a><br />
+                        Bidirectional Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="stereo microphones"  href="//recordinghacks.com/microphones/tag/stereo">stereo</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="passive-ribbon microphones"  href="//recordinghacks.com/microphones/tag/passive-ribbon">passive-ribbon</a>, <a title="blumlein microphones"  href="//recordinghacks.com/microphones/tag/blumlein">blumlein</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Crowley and Tripp Proscenium - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Crowley-and-Tripp/Proscenium" ><img src="//cdn.recordinghacks.com/images/mics/00859/00859_75.jpg" width="75" height="75" alt="Crowley and Tripp Proscenium" title="Crowley and Tripp Proscenium"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="859-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Crowley and Tripp Proscenium - Features, Specifications, Datasheet" href="/microphones/Crowley-and-Tripp/Proscenium"><strong>Crowley and Tripp Proscenium</strong></a><br />
+                        Bidirectional Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="symmetrical microphones"  href="//recordinghacks.com/microphones/tag/symmetrical">symmetrical</a>, <a title="passive-ribbon microphones"  href="//recordinghacks.com/microphones/tag/passive-ribbon">passive-ribbon</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Crowley and Tripp Studio Vocalist - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Crowley-and-Tripp/Studio-Vocalist" ><img src="//cdn.recordinghacks.com/images/mics/00852/00852_75.jpg" width="75" height="75" alt="Crowley and Tripp Studio Vocalist" title="Crowley and Tripp Studio Vocalist"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="852-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Crowley and Tripp Studio Vocalist - Features, Specifications, Datasheet" href="/microphones/Crowley-and-Tripp/Studio-Vocalist"><strong>Crowley and Tripp Studio Vocalist</strong></a><br />
+                        Bidirectional Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="symmetrical microphones"  href="//recordinghacks.com/microphones/tag/symmetrical">symmetrical</a>, <a title="roswellite microphones"  href="//recordinghacks.com/microphones/tag/roswellite">roswellite</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Crowley and Tripp El Diablo - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Crowley-and-Tripp/El-Diablo" ><img src="//cdn.recordinghacks.com/images/mics/00850/00850_75.jpg" width="75" height="75" alt="Crowley and Tripp El Diablo" title="Crowley and Tripp El Diablo"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="850-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Crowley and Tripp El Diablo - Features, Specifications, Datasheet" href="/microphones/Crowley-and-Tripp/El-Diablo"><strong>Crowley and Tripp El Diablo</strong></a><br />
+                        Bidirectional Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="symmetrical microphones"  href="//recordinghacks.com/microphones/tag/symmetrical">symmetrical</a>, <a title="roswellite microphones"  href="//recordinghacks.com/microphones/tag/roswellite">roswellite</a>, <a title="mercenary microphones"  href="//recordinghacks.com/microphones/tag/mercenary">mercenary</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Crowley and Tripp Naked Eye - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Crowley-and-Tripp/Naked-Eye" ><img src="//cdn.recordinghacks.com/images/mics/00848/00848_75.jpg" width="75" height="75" alt="Crowley and Tripp Naked Eye" title="Crowley and Tripp Naked Eye"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="848-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Crowley and Tripp Naked Eye - Features, Specifications, Datasheet" href="/microphones/Crowley-and-Tripp/Naked-Eye"><strong>Crowley and Tripp Naked Eye</strong></a><br />
+                        Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a>, <a title="dual-voice microphones"  href="//recordinghacks.com/microphones/tag/dual-voice">dual-voice</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Crowley and Tripp Naked Eye Roswellite - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Crowley-and-Tripp/Naked-Eye-Roswellite" ><img src="//cdn.recordinghacks.com/images/mics/00847/00847_75.jpg" width="75" height="75" alt="Crowley and Tripp Naked Eye Roswellite" title="Crowley and Tripp Naked Eye Roswellite"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="847-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Crowley and Tripp Naked Eye Roswellite - Features, Specifications, Datasheet" href="/microphones/Crowley-and-Tripp/Naked-Eye-Roswellite"><strong>Crowley and Tripp Naked Eye Roswellite</strong></a><br />
+                        Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="roswellite microphones"  href="//recordinghacks.com/microphones/tag/roswellite">roswellite</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a>, <a title="dual-voice microphones"  href="//recordinghacks.com/microphones/tag/dual-voice">dual-voice</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="MXL USB.009 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/MXL/USB-009" ><img src="//cdn.recordinghacks.com/images/mics/00770/00770_75.jpg" width="75" height="75" alt="MXL USB.009" title="MXL USB.009"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="770-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="MXL USB.009 - Features, Specifications, Datasheet" href="/microphones/MXL/USB-009"><strong>MXL USB.009</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="usb microphones"  href="//recordinghacks.com/microphones/tag/usb">usb</a>, <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="24-bit microphones"  href="//recordinghacks.com/microphones/tag/24-bit">24-bit</a>, <a title="96-khz microphones"  href="//recordinghacks.com/microphones/tag/96-khz">96-khz</a>, <a title="mogami microphones"  href="//recordinghacks.com/microphones/tag/mogami">mogami</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Royer Labs SF-24V - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Royer-Labs/SF-24V" ><img src="//cdn.recordinghacks.com/images/mics/00682/00682_75.jpg" width="75" height="75" alt="Royer Labs SF-24V" title="Royer Labs SF-24V"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="682-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ><img id="682-1" src="/images/icons/patterns/icon_bl.png" width=27 height=27 alt="Blumlein" title="Blumlein" >                        </span>
+                        <a title="Royer Labs SF-24V - Features, Specifications, Datasheet" href="/microphones/Royer-Labs/SF-24V"><strong>Royer Labs SF-24V</strong></a><br />
+                        Multi-Pattern Tube Ribbon Stereo Microphone<br />
+                        <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="active-ribbon microphones"  href="//recordinghacks.com/microphones/tag/active-ribbon">active-ribbon</a>, <a title="tube microphones"  href="//recordinghacks.com/microphones/tag/tube">tube</a>, <a title="stereo microphones"  href="//recordinghacks.com/microphones/tag/stereo">stereo</a>, <a title="5840 microphones"  href="//recordinghacks.com/microphones/tag/5840">5840</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="xy-stereo microphones"  href="//recordinghacks.com/microphones/tag/xy-stereo">xy-stereo</a>, <a title="jensen microphones"  href="//recordinghacks.com/microphones/tag/jensen">jensen</a>, <a title="cathode-follower microphones"  href="//recordinghacks.com/microphones/tag/cathode-follower">cathode-follower</a>, <a title="dual-tube microphones"  href="//recordinghacks.com/microphones/tag/dual-tube">dual-tube</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="CAD Audio VX2 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/CAD/VX2" ><img src="//cdn.recordinghacks.com/images/mics/00667/00667_75.jpg" width="75" height="75" alt="CAD Audio VX2" title="CAD Audio VX2"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="667-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="667-1" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="667-2" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="CAD Audio VX2 - Features, Specifications, Datasheet" href="/microphones/CAD/VX2"><strong>CAD Audio VX2</strong></a><br />
+                        Multi-Pattern Tube Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="tube microphones"  href="//recordinghacks.com/microphones/tag/tube">tube</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="detachable-capsule microphones"  href="//recordinghacks.com/microphones/tag/detachable-capsule">detachable-capsule</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="12ax7 microphones"  href="//recordinghacks.com/microphones/tag/12ax7">12ax7</a>, <a title="center-terminated microphones"  href="//recordinghacks.com/microphones/tag/center-terminated">center-terminated</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="24-bit microphones"  href="//recordinghacks.com/microphones/tag/24-bit">24-bit</a>, <a title="96-khz microphones"  href="//recordinghacks.com/microphones/tag/96-khz">96-khz</a>, <a title="optema microphones"  href="//recordinghacks.com/microphones/tag/optema">optema</a>, <a title="dual-tube microphones"  href="//recordinghacks.com/microphones/tag/dual-tube">dual-tube</a>, <a title="12au7 microphones"  href="//recordinghacks.com/microphones/tag/12au7">12au7</a>, <a title="dual-transformer microphones"  href="//recordinghacks.com/microphones/tag/dual-transformer">dual-transformer</a>, <a title="tripolar microphones"  href="//recordinghacks.com/microphones/tag/tripolar">tripolar</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Avantone Pro CU-2 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Avant/CU-2" ><img src="//cdn.recordinghacks.com/images/mics/00573/00573_75.jpg" width="75" height="75" alt="Avantone Pro CU-2" title="Avantone Pro CU-2"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="573-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Avantone Pro CU-2 - Features, Specifications, Datasheet" href="/microphones/Avant/CU-2"><strong>Avantone Pro CU-2</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="usb microphones"  href="//recordinghacks.com/microphones/tag/usb">usb</a>, <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="externally-biased microphones"  href="//recordinghacks.com/microphones/tag/externally-biased">externally-biased</a>, <a title="center-terminated microphones"  href="//recordinghacks.com/microphones/tag/center-terminated">center-terminated</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="24-bit microphones"  href="//recordinghacks.com/microphones/tag/24-bit">24-bit</a>, <a title="96-khz microphones"  href="//recordinghacks.com/microphones/tag/96-khz">96-khz</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Earthworks Audio TC30 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Earthworks/TC30" ><img src="//cdn.recordinghacks.com/images/mics/00531/00531_75.jpg" width="75" height="75" alt="Earthworks Audio TC30" title="Earthworks Audio TC30"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="531-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="Earthworks Audio TC30 - Features, Specifications, Datasheet" href="/microphones/Earthworks/TC30"><strong>Earthworks Audio TC30</strong></a><br />
+                        Omnidirectional Condenser Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a>, <a title="omnidirectional microphones"  href="//recordinghacks.com/microphones/tag/omnidirectional">omnidirectional</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="AEA A440 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/AEA/A440" ><img src="//cdn.recordinghacks.com/images/mics/00463/00463_75.jpg" width="75" height="75" alt="AEA A440" title="AEA A440"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="463-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="AEA A440 - Features, Specifications, Datasheet" href="/microphones/AEA/A440"><strong>AEA A440</strong></a><br />
+                        Bidirectional Active Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="active-ribbon microphones"  href="//recordinghacks.com/microphones/tag/active-ribbon">active-ribbon</a>, <a title="neodymium microphones"  href="//recordinghacks.com/microphones/tag/neodymium">neodymium</a>, <a title="yoke-mount microphones"  href="//recordinghacks.com/microphones/tag/yoke-mount">yoke-mount</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a>, <a title="lowest-noise microphones"  href="//recordinghacks.com/microphones/tag/lowest-noise">lowest-noise</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Royer Labs SF-1 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Royer-Labs/SF-1" ><img src="//cdn.recordinghacks.com/images/mics/00459/00459_75.jpg" width="75" height="75" alt="Royer Labs SF-1" title="Royer Labs SF-1"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="459-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Royer Labs SF-1 - Features, Specifications, Datasheet" href="/microphones/Royer-Labs/SF-1"><strong>Royer Labs SF-1</strong></a><br />
+                        Bidirectional Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="neodymium microphones"  href="//recordinghacks.com/microphones/tag/neodymium">neodymium</a>, <a title="passive-ribbon microphones"  href="//recordinghacks.com/microphones/tag/passive-ribbon">passive-ribbon</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Royer Labs SF-24 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Royer-Labs/SF-24" ><img src="//cdn.recordinghacks.com/images/mics/00454/00454_75.jpg" width="75" height="75" alt="Royer Labs SF-24" title="Royer Labs SF-24"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="454-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ><img id="454-1" src="/images/icons/patterns/icon_bl.png" width=27 height=27 alt="Blumlein" title="Blumlein" >                        </span>
+                        <a title="Royer Labs SF-24 - Features, Specifications, Datasheet" href="/microphones/Royer-Labs/SF-24"><strong>Royer Labs SF-24</strong></a><br />
+                        Multi-Pattern Active Ribbon Stereo Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="active-ribbon microphones"  href="//recordinghacks.com/microphones/tag/active-ribbon">active-ribbon</a>, <a title="stereo microphones"  href="//recordinghacks.com/microphones/tag/stereo">stereo</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="xy-stereo microphones"  href="//recordinghacks.com/microphones/tag/xy-stereo">xy-stereo</a>, <a title="blumlein microphones"  href="//recordinghacks.com/microphones/tag/blumlein">blumlein</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Royer Labs SF-12 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Royer-Labs/SF-12" ><img src="//cdn.recordinghacks.com/images/mics/00453/00453_75.jpg" width="75" height="75" alt="Royer Labs SF-12" title="Royer Labs SF-12"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="453-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ><img id="453-1" src="/images/icons/patterns/icon_bl.png" width=27 height=27 alt="Blumlein" title="Blumlein" >                        </span>
+                        <a title="Royer Labs SF-12 - Features, Specifications, Datasheet" href="/microphones/Royer-Labs/SF-12"><strong>Royer Labs SF-12</strong></a><br />
+                        Multi-Pattern Ribbon Stereo Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="stereo microphones"  href="//recordinghacks.com/microphones/tag/stereo">stereo</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="passive-ribbon microphones"  href="//recordinghacks.com/microphones/tag/passive-ribbon">passive-ribbon</a>, <a title="blumlein microphones"  href="//recordinghacks.com/microphones/tag/blumlein">blumlein</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Royer Labs R-122V - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Royer-Labs/R-122V" ><img src="//cdn.recordinghacks.com/images/mics/00445/00445_75.jpg" width="75" height="75" alt="Royer Labs R-122V" title="Royer Labs R-122V"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="445-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Royer Labs R-122V - Features, Specifications, Datasheet" href="/microphones/Royer-Labs/R-122V"><strong>Royer Labs R-122V</strong></a><br />
+                        Bidirectional Tube Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="tube microphones"  href="//recordinghacks.com/microphones/tag/tube">tube</a>, <a title="5840 microphones"  href="//recordinghacks.com/microphones/tag/5840">5840</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="offset-ribbon microphones"  href="//recordinghacks.com/microphones/tag/offset-ribbon">offset-ribbon</a>, <a title="neodymium microphones"  href="//recordinghacks.com/microphones/tag/neodymium">neodymium</a>, <a title="jensen microphones"  href="//recordinghacks.com/microphones/tag/jensen">jensen</a>, <a title="cathode-follower microphones"  href="//recordinghacks.com/microphones/tag/cathode-follower">cathode-follower</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Royer Labs R-121 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Royer-Labs/R-121" ><img src="//cdn.recordinghacks.com/images/mics/00443/00443_75.jpg" width="75" height="75" alt="Royer Labs R-121" title="Royer Labs R-121"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="443-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Royer Labs R-121 - Features, Specifications, Datasheet" href="/microphones/Royer-Labs/R-121"><strong>Royer Labs R-121</strong></a><br />
+                        Bidirectional Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="offset-ribbon microphones"  href="//recordinghacks.com/microphones/tag/offset-ribbon">offset-ribbon</a>, <a title="neodymium microphones"  href="//recordinghacks.com/microphones/tag/neodymium">neodymium</a>, <a title="passive-ribbon microphones"  href="//recordinghacks.com/microphones/tag/passive-ribbon">passive-ribbon</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="AEA R44C - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/AEA/R44C" ><img src="//cdn.recordinghacks.com/images/mics/00402/00402_75.jpg" width="75" height="75" alt="AEA R44C" title="AEA R44C"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="402-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="AEA R44C - Features, Specifications, Datasheet" href="/microphones/AEA/R44C"><strong>AEA R44C</strong></a><br />
+                        Bidirectional Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="neodymium microphones"  href="//recordinghacks.com/microphones/tag/neodymium">neodymium</a>, <a title="yoke-mount microphones"  href="//recordinghacks.com/microphones/tag/yoke-mount">yoke-mount</a>, <a title="passive-ribbon microphones"  href="//recordinghacks.com/microphones/tag/passive-ribbon">passive-ribbon</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="AEA R84 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/AEA/R84" ><img src="//cdn.recordinghacks.com/images/mics/00401/00401_75.jpg" width="75" height="75" alt="AEA R84" title="AEA R84"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="401-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="AEA R84 - Features, Specifications, Datasheet" href="/microphones/AEA/R84"><strong>AEA R84</strong></a><br />
+                        Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="symmetrical microphones"  href="//recordinghacks.com/microphones/tag/symmetrical">symmetrical</a>, <a title="passive-ribbon microphones"  href="//recordinghacks.com/microphones/tag/passive-ribbon">passive-ribbon</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="AEA R88 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/AEA/R88" ><img src="//cdn.recordinghacks.com/images/mics/00400/00400_75.jpg" width="75" height="75" alt="AEA R88" title="AEA R88"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="400-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ><img id="400-1" src="/images/icons/patterns/icon_bl.png" width=27 height=27 alt="Blumlein" title="Blumlein" >                        </span>
+                        <a title="AEA R88 - Features, Specifications, Datasheet" href="/microphones/AEA/R88"><strong>AEA R88</strong></a><br />
+                        Multi-Pattern Ribbon Stereo Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="stereo microphones"  href="//recordinghacks.com/microphones/tag/stereo">stereo</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="dual-ribbon microphones"  href="//recordinghacks.com/microphones/tag/dual-ribbon">dual-ribbon</a>, <a title="blumlein microphones"  href="//recordinghacks.com/microphones/tag/blumlein">blumlein</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="AEA R92 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/AEA/R92" ><img src="//cdn.recordinghacks.com/images/mics/00399/00399_75.jpg" width="75" height="75" alt="AEA R92" title="AEA R92"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="399-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="AEA R92 - Features, Specifications, Datasheet" href="/microphones/AEA/R92"><strong>AEA R92</strong></a><br />
+                        Bidirectional Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="yoke-mount microphones"  href="//recordinghacks.com/microphones/tag/yoke-mount">yoke-mount</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Earthworks Audio QTC30 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Earthworks/QTC30" ><img src="//cdn.recordinghacks.com/images/mics/00337/00337_75.jpg" width="75" height="75" alt="Earthworks Audio QTC30" title="Earthworks Audio QTC30"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="337-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="Earthworks Audio QTC30 - Features, Specifications, Datasheet" href="/microphones/Earthworks/QTC30"><strong>Earthworks Audio QTC30</strong></a><br />
+                        Omnidirectional Condenser Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Earthworks Audio QTC40 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Earthworks/QTC40" ><img src="//cdn.recordinghacks.com/images/mics/00336/00336_75.jpg" width="75" height="75" alt="Earthworks Audio QTC40" title="Earthworks Audio QTC40"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="336-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="Earthworks Audio QTC40 - Features, Specifications, Datasheet" href="/microphones/Earthworks/QTC40"><strong>Earthworks Audio QTC40</strong></a><br />
+                        Omnidirectional Condenser Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Earthworks Audio QTC50 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Earthworks/QTC50" ><img src="//cdn.recordinghacks.com/images/mics/00335/00335_75.jpg" width="75" height="75" alt="Earthworks Audio QTC50" title="Earthworks Audio QTC50"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="335-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="Earthworks Audio QTC50 - Features, Specifications, Datasheet" href="/microphones/Earthworks/QTC50"><strong>Earthworks Audio QTC50</strong></a><br />
+                        Omnidirectional Condenser Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                </table>
+
+
+                 <!-- end of $nada test -->
+                </div><!-- /#column -->
+			</div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('1881-0');uniqueids.push('1880-0');uniqueids.push('1811-0');uniqueids.push('1753-0');uniqueids.push('1735-0');uniqueids.push('1725-0');uniqueids.push('1692-0');uniqueids.push('1690-0');uniqueids.push('1673-0');uniqueids.push('1650-0');uniqueids.push('1650-1');uniqueids.push('1628-0');uniqueids.push('1627-0');uniqueids.push('1616-0');uniqueids.push('1615-0');uniqueids.push('1608-0');uniqueids.push('1567-0');uniqueids.push('1551-0');uniqueids.push('1460-0');uniqueids.push('1450-0');uniqueids.push('1392-0');uniqueids.push('1389-0');uniqueids.push('1310-0');uniqueids.push('1185-0');uniqueids.push('1171-0');uniqueids.push('1163-0');uniqueids.push('1162-0');uniqueids.push('1161-0');uniqueids.push('1115-0');uniqueids.push('1115-1');uniqueids.push('1115-2');uniqueids.push('1115-3');uniqueids.push('1110-0');uniqueids.push('1097-0');uniqueids.push('1082-0');uniqueids.push('1081-0');uniqueids.push('1081-1');uniqueids.push('1080-0');uniqueids.push('1052-0');uniqueids.push('1052-1');uniqueids.push('1051-0');uniqueids.push('1050-0');uniqueids.push('1038-0');uniqueids.push('1030-0');uniqueids.push('1001-0');uniqueids.push('1000-0');uniqueids.push('930-0');uniqueids.push('929-0');uniqueids.push('928-0');uniqueids.push('899-0');uniqueids.push('897-0');uniqueids.push('877-0');uniqueids.push('863-0');uniqueids.push('862-0');uniqueids.push('859-0');uniqueids.push('852-0');uniqueids.push('850-0');uniqueids.push('848-0');uniqueids.push('847-0');uniqueids.push('770-0');uniqueids.push('682-0');uniqueids.push('682-1');uniqueids.push('667-0');uniqueids.push('667-1');uniqueids.push('667-2');uniqueids.push('573-0');uniqueids.push('531-0');uniqueids.push('463-0');uniqueids.push('459-0');uniqueids.push('454-0');uniqueids.push('454-1');uniqueids.push('453-0');uniqueids.push('453-1');uniqueids.push('445-0');uniqueids.push('443-0');uniqueids.push('402-0');uniqueids.push('401-0');uniqueids.push('400-0');uniqueids.push('400-1');uniqueids.push('399-0');uniqueids.push('337-0');uniqueids.push('336-0');uniqueids.push('335-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

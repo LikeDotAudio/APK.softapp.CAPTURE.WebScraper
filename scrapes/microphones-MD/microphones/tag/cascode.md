@@ -1,0 +1,5 @@
+## Mics tagged: cascode
+
+|  |  |
+| --- | --- |
+| [Josephson Engineering C725](http://recordinghacks.com/microphones/Josephson/C725 "Josephson Engineering C725 - Features, Specifications, Datasheet") | OmnidirectionalCardioidHypercardioidBidirectionalWide Cardioid  [**Josephson Engineering C725**](/microphones/Josephson/C725 "Josephson Engineering C725 - Features, Specifications, Datasheet")  Multi-Pattern Tube Condenser Microphone  [large-diaphragm](//recordinghacks.com/microphones/tag/large-diaphragm "large-diaphragm microphones"), [tube](//recordinghacks.com/microphones/tag/tube "tube microphones"), [multipattern](//recordinghacks.com/microphones/tag/multipattern "multipattern microphones"), [transformer](//recordinghacks.com/microphones/tag/transformer "transformer microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [ef806](//recordinghacks.com/microphones/tag/ef806 "ef806 microphones"), [cascode](//recordinghacks.com/microphones/tag/cascode "cascode microphones") |

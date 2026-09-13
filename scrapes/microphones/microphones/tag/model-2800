@@ -1,0 +1,194 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>model-2800 microphones | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+                
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+			<div id="content">
+                <div id="sidebar">                  
+                    					<h2 class="search">search for mics</h2>
+					<form action="/microphones" method="POST">
+										<script language="JavaScript" type="text/javascript">
+function clearText(field){
+
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+
+}
+					</script>
+						<fieldset>
+						    <input type="text" name="s" size="20" value="Microphone name or model number" style="color: #667;margin-left: 0;margin-bottom: 8px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)"><br />
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<fieldset class="checks">
+							<span class="shaft">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+							</span>
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">&nbsp;<input style="font-size: 8px" type="reset" name="button" value="Reset Form">
+						</fieldset>
+					</form>
+                            <p></p><h3>Definition of "model-2800":</h3><p><b>Model 2800</b> is one of two <a href="http://recordinghacks.com/microphones/tag/rectangular-diaphragm">rectangular condenser capsule</a> designs from Sweden&#8217;s <a href="http://recordinghacks.com/microphones/Pearl/DS-60">Pearl Microphone Lab</a>. The housing measures 35mm x 17mm, with a suspended diaphragm area of 29mm x 14mm. </p><p>The diaphragm surface area, 406 square mm, is 18% smaller than the surface area of a typical round &#8220;large-diaphragm&#8221; capsule (diameter 25mm). Nonetheless, it is considered a &#8220;large diaphragm&#8221; capsule because in its longest dimension it measures 25mm or more.</p><p>PML uses 6-micron Mylar diaphragms with a thin coating of vaporized aluminum. The diaphragms are covered with a perforated metal plate. Pearl technicians claim the metal plate does not affect the capsule&#8217;s frequency response, but rather provides mechanical stability.</p><p>The history of the 2800 capsule is contested. According to Pearl, the 2800 is identical to the <a href="http://recordinghacks.com/microphones/tag/model-2700">Model 2700</a> capsule originally designed by Rune Rosander. According to <a href="http://recordinghacks.com/microphones/Milab">Milab</a>, which owns the rights to Rosander&#8217;s 2700 capsule, the 2800 was redesigned by PML staff after Rosander&#8217;s product designs were transferred to Milab. In either case, the two capsules are similar in size, aspect ratio, and construction: dual-backplate, Mylar diaphragms, aluminum coating, perforated metal cover, etc.</p>
+<h3>Refine Search</h3><p>Find mics tagged '<b>model-2800</b> AND:'</p> 
+<p><a rel="nofollow" href="//recordinghacks.com/microphones/tag/model-2800+side-address" title="Mics tagged model-2800 AND side-address">side-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/model-2800+large-diaphragm" title="Mics tagged model-2800 AND large-diaphragm">large-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/model-2800+dual-diaphragm" title="Mics tagged model-2800 AND dual-diaphragm">dual-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/model-2800+transformerless" title="Mics tagged model-2800 AND transformerless">transformerless</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/model-2800+rectangular-diaphragm" title="Mics tagged model-2800 AND rectangular-diaphragm">rectangular-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/model-2800+stereo" title="Mics tagged model-2800 AND stereo">stereo</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/model-2800+multipattern" title="Mics tagged model-2800 AND multipattern">multipattern</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/model-2800+condenser" title="Mics tagged model-2800 AND condenser">condenser</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/model-2800+multitrack" title="Mics tagged model-2800 AND multitrack">multitrack</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/model-2800+tripolar" title="Mics tagged model-2800 AND tripolar">tripolar</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/model-2800+mid-side" title="Mics tagged model-2800 AND mid-side">mid-side</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/model-2800+xy-stereo" title="Mics tagged model-2800 AND xy-stereo">xy-stereo</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/model-2800+blumlein" title="Mics tagged model-2800 AND blumlein">blumlein</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/model-2800+single-layer" title="Mics tagged model-2800 AND single-layer">single-layer</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/model-2800+tube" title="Mics tagged model-2800 AND tube">tube</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/model-2800+transformer" title="Mics tagged model-2800 AND transformer">transformer</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/model-2800+nuvistor" title="Mics tagged model-2800 AND nuvistor">nuvistor</a> </p>
+<h3>Expand Search</h3><p>Find mics tagged '<b>model-2800</b> OR:'</p>
+<p><a rel="nofollow" href="//recordinghacks.com/microphones/tag/model-2800|side-address" title="Mics tagged model-2800 OR side-address">side-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/model-2800|large-diaphragm" title="Mics tagged model-2800 OR large-diaphragm">large-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/model-2800|dual-diaphragm" title="Mics tagged model-2800 OR dual-diaphragm">dual-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/model-2800|transformerless" title="Mics tagged model-2800 OR transformerless">transformerless</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/model-2800|rectangular-diaphragm" title="Mics tagged model-2800 OR rectangular-diaphragm">rectangular-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/model-2800|stereo" title="Mics tagged model-2800 OR stereo">stereo</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/model-2800|multipattern" title="Mics tagged model-2800 OR multipattern">multipattern</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/model-2800|condenser" title="Mics tagged model-2800 OR condenser">condenser</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/model-2800|multitrack" title="Mics tagged model-2800 OR multitrack">multitrack</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/model-2800|tripolar" title="Mics tagged model-2800 OR tripolar">tripolar</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/model-2800|mid-side" title="Mics tagged model-2800 OR mid-side">mid-side</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/model-2800|xy-stereo" title="Mics tagged model-2800 OR xy-stereo">xy-stereo</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/model-2800|blumlein" title="Mics tagged model-2800 OR blumlein">blumlein</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/model-2800|single-layer" title="Mics tagged model-2800 OR single-layer">single-layer</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/model-2800|tube" title="Mics tagged model-2800 OR tube">tube</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/model-2800|transformer" title="Mics tagged model-2800 OR transformer">transformer</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/model-2800|nuvistor" title="Mics tagged model-2800 OR nuvistor">nuvistor</a> </p>
+                </div><!-- /#sidebar -->
+                <div id="column" style="width: auto">
+						    <h2>Mics tagged: model-2800</h2>
+			    <table>
+				                    <tr><td><a title="Pearl Microphone Laboratory CO 22 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Pearl/CO-22" ><img src="//cdn.recordinghacks.com/images/mics/00941/00941_75.jpg" width="75" height="75" alt="Pearl Microphone Laboratory CO 22" title="Pearl Microphone Laboratory CO 22"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="941-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="Pearl Microphone Laboratory CO 22 - Features, Specifications, Datasheet" href="/microphones/Pearl/CO-22"><strong>Pearl Microphone Laboratory CO 22</strong></a><br />
+                        Omnidirectional Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="dual-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/dual-diaphragm">dual-diaphragm</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="rectangular-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/rectangular-diaphragm">rectangular-diaphragm</a>, <a title="model-2800 microphones"  href="//recordinghacks.com/microphones/tag/model-2800">model-2800</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Pearl Microphone Laboratory CB 22 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Pearl/CB-22" ><img src="//cdn.recordinghacks.com/images/mics/00940/00940_75.jpg" width="75" height="75" alt="Pearl Microphone Laboratory CB 22" title="Pearl Microphone Laboratory CB 22"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="940-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Pearl Microphone Laboratory CB 22 - Features, Specifications, Datasheet" href="/microphones/Pearl/CB-22"><strong>Pearl Microphone Laboratory CB 22</strong></a><br />
+                        Bidirectional Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="dual-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/dual-diaphragm">dual-diaphragm</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="rectangular-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/rectangular-diaphragm">rectangular-diaphragm</a>, <a title="model-2800 microphones"  href="//recordinghacks.com/microphones/tag/model-2800">model-2800</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Pearl Microphone Laboratory CC 22 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Pearl/CC-22" ><img src="//cdn.recordinghacks.com/images/mics/00939/00939_75.jpg" width="75" height="75" alt="Pearl Microphone Laboratory CC 22" title="Pearl Microphone Laboratory CC 22"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="939-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Pearl Microphone Laboratory CC 22 - Features, Specifications, Datasheet" href="/microphones/Pearl/CC-22"><strong>Pearl Microphone Laboratory CC 22</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="dual-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/dual-diaphragm">dual-diaphragm</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="rectangular-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/rectangular-diaphragm">rectangular-diaphragm</a>, <a title="model-2800 microphones"  href="//recordinghacks.com/microphones/tag/model-2800">model-2800</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Pearl Microphone Laboratory TL 44 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Pearl/TL-44" ><img src="//cdn.recordinghacks.com/images/mics/00938/00938_75.jpg" width="75" height="75" alt="Pearl Microphone Laboratory TL 44" title="Pearl Microphone Laboratory TL 44"   ></a></td>
+                        <td><span class="shaft">
+					    <img src="/images/icons/patterns/icon_cv.png" id="938-0" width=27 height=27 alt="continuously variable pattern selection" title="Continuously variable pattern selection"></span>
+                        <a title="Pearl Microphone Laboratory TL 44 - Features, Specifications, Datasheet" href="/microphones/Pearl/TL-44"><strong>Pearl Microphone Laboratory TL 44</strong></a><br />
+                        Multi-Pattern Condenser Stereo Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="stereo microphones"  href="//recordinghacks.com/microphones/tag/stereo">stereo</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="rectangular-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/rectangular-diaphragm">rectangular-diaphragm</a>, <a title="multitrack microphones"  href="//recordinghacks.com/microphones/tag/multitrack">multitrack</a>, <a title="model-2800 microphones"  href="//recordinghacks.com/microphones/tag/model-2800">model-2800</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Pearl Microphone Laboratory TL 4 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Pearl/TL-4" ><img src="//cdn.recordinghacks.com/images/mics/00937/00937_75.jpg" width="75" height="75" alt="Pearl Microphone Laboratory TL 4" title="Pearl Microphone Laboratory TL 4"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="937-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="937-1" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="937-2" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Pearl Microphone Laboratory TL 4 - Features, Specifications, Datasheet" href="/microphones/Pearl/TL-4"><strong>Pearl Microphone Laboratory TL 4</strong></a><br />
+                        Multi-Pattern Condenser Stereo Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="stereo microphones"  href="//recordinghacks.com/microphones/tag/stereo">stereo</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="rectangular-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/rectangular-diaphragm">rectangular-diaphragm</a>, <a title="multitrack microphones"  href="//recordinghacks.com/microphones/tag/multitrack">multitrack</a>, <a title="model-2800 microphones"  href="//recordinghacks.com/microphones/tag/model-2800">model-2800</a>, <a title="tripolar microphones"  href="//recordinghacks.com/microphones/tag/tripolar">tripolar</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Pearl Microphone Laboratory DS 60 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Pearl/DS-60" ><img src="//cdn.recordinghacks.com/images/mics/00936/00936_75.jpg" width="75" height="75" alt="Pearl Microphone Laboratory DS 60" title="Pearl Microphone Laboratory DS 60"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="936-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="936-1" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="936-2" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ><img id="936-3" src="/images/icons/patterns/icon_xy.png" width=27 height=27 alt="X/Y Stereo" title="X/Y Stereo" ><img id="936-4" src="/images/icons/patterns/icon_ms.png" width=27 height=27 alt="Mid-Side Stereo" title="Mid-Side Stereo" ><img id="936-5" src="/images/icons/patterns/icon_bl.png" width=27 height=27 alt="Blumlein" title="Blumlein" >                        </span>
+                        <a title="Pearl Microphone Laboratory DS 60 - Features, Specifications, Datasheet" href="/microphones/Pearl/DS-60"><strong>Pearl Microphone Laboratory DS 60</strong></a><br />
+                        Multi-Pattern Condenser Stereo Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="dual-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/dual-diaphragm">dual-diaphragm</a>, <a title="stereo microphones"  href="//recordinghacks.com/microphones/tag/stereo">stereo</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="mid-side microphones"  href="//recordinghacks.com/microphones/tag/mid-side">mid-side</a>, <a title="xy-stereo microphones"  href="//recordinghacks.com/microphones/tag/xy-stereo">xy-stereo</a>, <a title="blumlein microphones"  href="//recordinghacks.com/microphones/tag/blumlein">blumlein</a>, <a title="rectangular-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/rectangular-diaphragm">rectangular-diaphragm</a>, <a title="multitrack microphones"  href="//recordinghacks.com/microphones/tag/multitrack">multitrack</a>, <a title="single-layer microphones"  href="//recordinghacks.com/microphones/tag/single-layer">single-layer</a>, <a title="model-2800 microphones"  href="//recordinghacks.com/microphones/tag/model-2800">model-2800</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Pearl Microphone Laboratory DT 40 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Pearl/DT-40" ><img src="//cdn.recordinghacks.com/images/mics/00935/00935_75.jpg" width="75" height="75" alt="Pearl Microphone Laboratory DT 40" title="Pearl Microphone Laboratory DT 40"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="935-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="935-1" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="935-2" src="/images/icons/patterns/icon_hc.png" width=27 height=27 alt="Hypercardioid" title="Hypercardioid" ><img id="935-3" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ><img id="935-4" src="/images/icons/patterns/icon_wc.png" width=27 height=27 alt="Wide Cardioid" title="Wide Cardioid" >                        </span>
+                        <a title="Pearl Microphone Laboratory DT 40 - Features, Specifications, Datasheet" href="/microphones/Pearl/DT-40"><strong>Pearl Microphone Laboratory DT 40</strong></a><br />
+                        Multi-Pattern Tube Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="dual-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/dual-diaphragm">dual-diaphragm</a>, <a title="tube microphones"  href="//recordinghacks.com/microphones/tag/tube">tube</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="transformer microphones"  href="//recordinghacks.com/microphones/tag/transformer">transformer</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="rectangular-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/rectangular-diaphragm">rectangular-diaphragm</a>, <a title="nuvistor microphones"  href="//recordinghacks.com/microphones/tag/nuvistor">nuvistor</a>, <a title="model-2800 microphones"  href="//recordinghacks.com/microphones/tag/model-2800">model-2800</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Pearl Microphone Laboratory CT 40 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Pearl/CT-40" ><img src="//cdn.recordinghacks.com/images/mics/00926/00926_75.jpg" width="75" height="75" alt="Pearl Microphone Laboratory CT 40" title="Pearl Microphone Laboratory CT 40"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="926-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Pearl Microphone Laboratory CT 40 - Features, Specifications, Datasheet" href="/microphones/Pearl/CT-40"><strong>Pearl Microphone Laboratory CT 40</strong></a><br />
+                        Cardioid Tube Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="dual-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/dual-diaphragm">dual-diaphragm</a>, <a title="tube microphones"  href="//recordinghacks.com/microphones/tag/tube">tube</a>, <a title="transformer microphones"  href="//recordinghacks.com/microphones/tag/transformer">transformer</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="rectangular-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/rectangular-diaphragm">rectangular-diaphragm</a>, <a title="nuvistor microphones"  href="//recordinghacks.com/microphones/tag/nuvistor">nuvistor</a>, <a title="model-2800 microphones"  href="//recordinghacks.com/microphones/tag/model-2800">model-2800</a><br />                        </td></tr>
+	
+                                </table>
+
+
+                 <!-- end of $nada test -->
+                </div><!-- /#column -->
+			</div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('941-0');uniqueids.push('940-0');uniqueids.push('939-0');uniqueids.push('938-0');uniqueids.push('937-0');uniqueids.push('937-1');uniqueids.push('937-2');uniqueids.push('936-0');uniqueids.push('936-1');uniqueids.push('936-2');uniqueids.push('936-3');uniqueids.push('936-4');uniqueids.push('936-5');uniqueids.push('935-0');uniqueids.push('935-1');uniqueids.push('935-2');uniqueids.push('935-3');uniqueids.push('935-4');uniqueids.push('926-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

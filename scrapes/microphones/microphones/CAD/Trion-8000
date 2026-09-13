@@ -1,0 +1,276 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>CAD Audio Trion 8000 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="Trion 8000, Multi-Pattern Tube Condenser Microphone , aka: Trion8000, 8000 - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/CAD/Trion-8000" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The HAT60 is similar to the Trion 8000/SYT-9000." href="//recordinghacks.com/microphones/Alctron/HAT60"><br /><span>Alctron HAT60</span></a></li>
+                                                    <li class="mictile"><a title="The Cascade Elroy shares a design and basic specs with the Trion 8000." href="//recordinghacks.com/microphones/Cascade/Elroy"><img src="//cdn.recordinghacks.com/images/mics/00529/00529_75.jpg" width="75" height="75" alt="The Cascade Elroy shares a design and basic specs with the Trion 8000." title="The Cascade Elroy shares a design and basic specs with the Trion 8000."   ><br /><span>Cascade Elroy</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/CAD">CAD microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                            <a name="mods"></a><div class="graybox"><h3>Mods for the Trion 8000</h3>
+                        <ul class="mod_list">
+                                                    <li style="font-family: Georgia, Serif;"><b>Advanced Audio Microphones</b><a href="//recordinghacks.com/microphones/Advanced-Audio-Microphones"><img style="border: 0; padding: 0 0 6px 3px" src="http://recordinghacks.com/images/logos/logo_advanced_audio.png" height=75 width=75 alt="Advanced Audio Microphones" /></a>                            <br />Dave Thomas replaces the 6J1/6J1B tube with a 6072a, and optionally replaces the stock transformer (a BV11 emulation) with a larger BV8 model. Coupled with circuitry changes, these changes yield 6dB more headroom and higher SPL. The stock capsule can be swapped for a dual-diaphragm Peluso model such as the CEK-367. By user request, Dave can tune the capsule bias voltage for HF response and sensitivity. The modded mic can sound &#8220;very close to a Neumann M49.&#8221;</li>
+                                                </ul><br clear="all" />
+                    </div>            
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="CAD Audio Trion 8000" href="/microphone-photo/00485/CAD/Trion-8000.jpg"><img src="//cdn.recordinghacks.com/images/mics/00485/00485_172.jpg" width="172" height="93" alt="CAD Audio Trion 8000" title="CAD Audio Trion 8000" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $599</li>
+                                                            </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/side-address" alt="side-address microphones">side-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/large-diaphragm" alt="large-diaphragm microphones">large-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/dual-diaphragm" alt="dual-diaphragm microphones">dual-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/tube" alt="tube microphones">tube</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformer-coupled" alt="transformer-coupled microphones">transformer-coupled</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/6j1" alt="6j1 microphones">6j1</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/condenser" alt="condenser microphones">condenser</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/pentode" alt="pentode microphones">pentode</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/bottle" alt="bottle microphones">bottle</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/ef95" alt="ef95 microphones">ef95</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/6ak5" alt="6ak5 microphones">6ak5</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.studioauditions.com/gearreviewdetail.php?GearReviewID=95">StudioAuditions rvw, 2007-03</a></li>
+                                                                    <li id="www"><a  href="http://www.proaudioreview.com/article/266">ProAudioReview.com, 2007-01</a></li>
+                                                                    <li id="forum"><a  href="http://www.frontendaudioforums.com/showpost.php?p=6435&amp;postcount=1">Warren Dent review</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/cad/Resolution-Trion.pdf">Resolution Magazine, 2007-07</a></li>
+                                                                    <li id="www"><a  href="http://emusician.com/mics/emusic_cad/">Electronic Musician, 2008-07</a></li>
+                                                                </ul>                    
+                                        <h3>Trion 8000 Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.cadaudio.com/Trion8000.php">Trion 8000 Product Description</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/cad/trion-8000-schematic.pdf">Trion 8000 Schematic</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="485-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="485-1" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="485-2" src="//cdn.recordinghacks.com/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ></span>CAD Audio Trion 8000</h2>
+                    
+                    <h2 class="sub">                    Multi-Pattern Tube Condenser Microphone</h2>
+                    <p>The Trion 8000 is a large-diaphragm tube condenser microphone with 3-way pattern switch. The circuit uses a pentode tube and an output  transformer.</p><p>A switch on the body (not on the power supply, as in some tube condensers) allows selection of omni, cardioid, or figure-of-8 pickup patterns. </p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/cad/trion-8000-pcbs.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/cad/trion-8000-pcbs-sm.jpg" class="thumb shaft" alt="Trion 8000 Capsule and Circuit" width="150" /></a>The dual-diaphragm capsule is a 35.1mm (O.D.) K67 type, with dual backplates. The diaphragm diameter is 28.6mm. Based on what we know of the factory that manufactures this capsule, we would assume that the membrane material is 6 microns thick. The capsule is suspended via three plastic/rubber U-shaped brackets that attach via screws to the backplate of the capsule. These brackets do not attach to the microphone chassis, and can therefore move around if the microphone is jostled.</p><p>There is no low cut or pad feature on this microphone.</p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/cad/trion-8000-pcb2.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/cad/trion-8000-pcb2-sm.jpg" class="thumb shaft" alt="Trion 8000 PCB" width="150" /></a>The circuit is a Class A design, with relatively high self-noise of 21dBA. The output is transformer-coupled.</p><p>Our internal lab test of the mic reveals that the circuit is essentially linear; it drops off gradually below 1kHz to -1dB @ 25Hz, but otherwise flat to 20kHz.</p><blockquote><p><cite>ProAudio Review</cite></p><p>The impedance converter in the 8000 uses a type 6J1 tube &#8230; the only data sheet I could find for it is entirely in Chinese. It&#8217;s a pentode with similar operating characteristics to the 6AU6, a more common tube used in this sort of microphone. The 6AU6 can indeed be used with a minor wiring change at the tube socket&#8230; CAD tests and selects the 6J1 used in the Trion 8000, and they are gearing up to supply tested replacements.</p></blockquote><p></p><blockquote><p><cite>StudioForums</cite></p><p>It uses a 6J1 tube. This is a pentode tube and you can switch it with the following equivalents. A 6AK5 may be called a EF95 or a 5654 tube&#8230; Mullard, GE and Philips make these equivalents.</p></blockquote><p>The dual gold-sputtered diaphragms measure over an inch in diameter. The actual size of the capsule has been reported at 1.12&#39;&#39; (28mm) by StudioAuditions, 1.2&#39;&#39; (30mm) by PAR, and at 1.25&#39;&#39; (32mm) by Front End Audio and by mic modder Dave Thomas.</p><blockquote><p><cite>StudioAuditions</cite><br />The ultimate strength of this mic is its peerless use as a lead vocal mic, <a href="http://www.studioauditions.com/gearreviewdetail.php?GearReviewID=95" rel="nofollow">capturing detail with stunning realism</a>.</p></blockquote><p>Ships in a metal case with spider shockmount and 115V/230V switchable power supply. CAD provides a 2 year warranty.</p><p>Weighs 2lbs, 13.5oz with shockmount &#8212; this is a heavy microphone.</p><blockquote><p><cite>Warren Dent</cite></p><p>In omni position the Trion8000 on vocals is an absolute force to be reckoned with. It opens up the sound a bit more, the upper mids are more detailed sounding&#8230;really nice!</p></blockquote><p></p><blockquote><p><cite>Resolution, 2007</cite></p><p>Moving on to acoustic guitar was a little unwieldy&#8230; although not in <a href="http://recordinghacks.com/microphones/SE-Electronics/Gemini">sE Gemini</a> territory, [the Trion 8000] is still a sizeable chunk of hardware. At about 12 inches away there was plenty of bass extension, good high-frequency detail and much more in the way of harmonic definition in the low and high mids [than with the <a href="http://recordinghacks.com/microphones/CAD/Trion-6000">Trion 6000</a>]. </p><p>The 8000 is a thoroughly versatile performer with plenty of character on its own; it should give the competition a good run for the money.</p></blockquote><p></p><blockquote><p><cite>Electronic Musician, 2008</cite></p><p>The Trion 8000 is a multipurpose microphone that sounds quite good on vocals and a variety of instruments. It can handle high SPLs without flinching&#8230; [it] delivers ample versatility at a good price, and its three polar patterns only enhance its flexibility and value.</p></blockquote><p><p>The <a href="//recordinghacks.com/microphones/CAD/Trion-8000">CAD Audio Trion 8000</a> is also known as: Trion8000, 8000.</p><p>The mic was released in 2006.</p>
+                    <h3>Specifications</h3>
+                                        
+                    <table>
+                                                    <tr><th>Frequency Response - Omnidirectional<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/0578" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/0/0578.png" width=476 height=159 alt="Trion 8000 Omnidirectional Frequency Response Chart" title="Trion 8000 Omnidirectional Frequency Response Chart" border=0 /></td></tr>
+                                                        <tr><th>Frequency Response - Cardioid<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/0577" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/0/0577.png" width=476 height=159 alt="Trion 8000 Cardioid Frequency Response Chart" title="Trion 8000 Cardioid Frequency Response Chart" border=0 /></td></tr>
+                                                        <tr><th>Frequency Response - Bidirectional<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/0579" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/0/0579.png" width=476 height=159 alt="Trion 8000 Bidirectional Frequency Response Chart" title="Trion 8000 Bidirectional Frequency Response Chart" border=0 /></td></tr>
+                            </table>
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                                                                Omnidirectional
+                                             (14 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                                                            Cardioid
+                                             (14 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                                                            Bidirectional
+                                             (14 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Capsule Dimensions</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                                                                                                        Diaphragm diameter: 28.6mm<br />
+                                                                                            Capsule diameter: 35.1mm<br />
+                                                                                                                                                                                                </td>
+                            <td>n/a</td>
+                            <td>Max SPL: 143 dB<br />                                Self-noise: 21.0 dB(A)</td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>830g <em class="mute">(29.28oz)</em></td>
+                            <td>233mm <em class="mute">(9.17&#39;&#39;)</em></td>
+                            <td>65mm <em class="mute">(2.56&#39;&#39;)</em></td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                                                                                                                <li>Includes tube power supply </li>
+                                                                                    </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('485-0');uniqueids.push('485-1');uniqueids.push('485-2');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

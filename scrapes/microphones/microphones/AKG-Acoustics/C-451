@@ -1,0 +1,351 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>AKG Acoustics C-451 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="C-451, Detachable-Capsule Condenser Microphone , aka: C451C, C451E, C451 - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/AKG-Acoustics/C-451" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The C 451 B is a modern interpretation of the classic C451." href="//recordinghacks.com/microphones/AKG-Acoustics/C-451-B"><img src="//cdn.recordinghacks.com/images/mics/00299/00299_75.jpg" width="75" height="75" alt="The C 451 B is a modern interpretation of the classic C451." title="The C 451 B is a modern interpretation of the classic C451."   ><br /><span>AKG C 451 B</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/AKG-Acoustics">AKG microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                            <a name="mods"></a><div class="graybox"><h3>Mods for the C-451</h3>
+                        <ul class="mod_list">
+                                                    <li style="font-family: Georgia, Serif;"><b>The Mic Shop</b><a href="//recordinghacks.com/microphones/MicShop"><img style="border: 0; padding: 0 0 6px 3px" src="//recordinghacks.com/images/logos/logo_micshop.jpg" height=75 width=75 alt="The Mic Shop" /></a>                            <br />Bill Bradley restores vintage mics in Nashville, TN.</li>
+                                                </ul><br clear="all" />
+                    </div>            
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="AKG Acoustics C-451" href="/microphone-photo/00641/AKG-Acoustics/C-451.jpg"><img src="//cdn.recordinghacks.com/images/mics/00641/00641_172.jpg" width="172" height="87" alt="AKG Acoustics C-451" title="AKG Acoustics C-451" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: n/a</li>
+                                        <li id="none"><em>Discontinued</em></li>                    </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/pencil-mic" alt="pencil-mic microphones">pencil-mic</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/detachable-capsule" alt="detachable-capsule microphones">detachable-capsule</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/condenser" alt="condenser microphones">condenser</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.coutant.org/akgc460b/index.html">C451/C452 History</a></li>
+                                                                </ul>                    
+                                        
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="641-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="641-1" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="641-2" src="//cdn.recordinghacks.com/images/icons/patterns/icon_hc.png" width=27 height=27 alt="Hypercardioid" title="Hypercardioid" ><img id="641-3" src="//cdn.recordinghacks.com/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ><img id="641-4" src="//cdn.recordinghacks.com/images/icons/patterns/icon_sg.png" width=27 height=27 alt="Shotgun" title="Shotgun" ></span>AKG Acoustics C-451</h2>
+                    
+                    <h2 class="sub">                    Detachable-Capsule Condenser Microphone</h2>
+                    <p>AKG&#8217;s C-451 &#8220;Condenser Modular Series&#8221; (CMS) microphones remains a popular studio microphone despite having been discontinued since 1994. The C-451 preamp body accepted a variety of detachable capsules, extension tubes, and pads, making it a versatile performer.</p><p>The &#8220;C-451 E&#8221; had an XLR output. The &#8220;C-451 C&#8221; had a DIN connector. Either way, the mic was AKG&#8217;s first FET condenser. </p><p>A subsequent design, the &#8220;C-451 EB,&#8221; had a switchable high-pass filter, providing a 14dB/octave cut at either 75Hz or 150Hz.</p><p>Because such a wide variety of capsules and attachments were available, the specs in the table below are provided for the preamp body only.<p>The <a href="//recordinghacks.com/microphones/AKG-Acoustics/C-451">AKG Acoustics C-451</a> is also known as: C451C, C451E, C451.</p><p>The mic was released in 1969.</p>
+                    <h3>Specifications</h3>
+                    <table><tr><th>Compatible Capsules</th></tr><tr><td><table style="width: 440px">                        <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00155/00155_75.jpg" width="75" height="75" alt="AKG Acoustics CK-1" title="AKG Acoustics CK-1"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap1294" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>AKG Acoustics CK-1</strong><br />
+                        Cardioid capsule<br />
+                        Sensitivity: 9.5 mV/Pa<br />
+                        Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: n/a | <span class="mute">discontinued</span></li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00154/00154_75.jpg" width="75" height="75" alt="AKG Acoustics CK-2" title="AKG Acoustics CK-2"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap1295" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ></span>
+                        <strong>AKG Acoustics CK-2</strong><br />
+                        Omnidirectional capsule<br />
+                        Sensitivity: 6 mV/Pa<br />
+                        Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: n/a | <span class="mute">discontinued</span></li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00159/00159_75.jpg" width="75" height="75" alt="AKG Acoustics CK-22" title="AKG Acoustics CK-22"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap1296" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ></span>
+                        <strong>AKG Acoustics CK-22</strong><br />
+                        Omnidirectional capsule<br />
+                        Sensitivity: 8 mV/Pa<br />
+                        Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: n/a | <span class="mute">discontinued</span></li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00160/00160_75.jpg" width="75" height="75" alt="AKG Acoustics CK-26" title="AKG Acoustics CK-26"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap1297" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ></span>
+                        <strong>AKG Acoustics CK-26</strong><br />
+                        Omnidirectional capsule<br />
+                        Sensitivity: 1.3 mV/Pa<br />
+                        Freq. Resp.: 30 - 30,000 Hz<br />
+                        MSRP: n/a | <span class="mute">discontinued</span></li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00161/00161_75.jpg" width="75" height="75" alt="AKG Acoustics CK-28" title="AKG Acoustics CK-28"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap1298" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>AKG Acoustics CK-28</strong><br />
+                        Cardioid capsule<br />
+                        Sensitivity: 1.3 mV/Pa<br />
+                        Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: n/a | <span class="mute">discontinued</span></li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00162/00162_75.jpg" width="75" height="75" alt="AKG Acoustics CK-3" title="AKG Acoustics CK-3"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap1299" src="//cdn.recordinghacks.com/images/icons/patterns/icon_hc.png" width=27 height=27 alt="Hypercardioid" title="Hypercardioid" ></span>
+                        <strong>AKG Acoustics CK-3</strong><br />
+                        Hypercardioid capsule<br />
+                        Sensitivity: 11 mV/Pa<br />
+                        Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: n/a | <span class="mute">discontinued</span></li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00156/00156_75.jpg" width="75" height="75" alt="AKG Acoustics CK-5" title="AKG Acoustics CK-5"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap1300" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>AKG Acoustics CK-5</strong><br />
+                        Cardioid capsule<br />
+                        Sensitivity: 9.5 mV/Pa<br />
+                        Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: n/a | <span class="mute">discontinued</span></li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00157/00157_75.jpg" width="75" height="75" alt="AKG Acoustics CK-6" title="AKG Acoustics CK-6"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap1301" src="//cdn.recordinghacks.com/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ></span>
+                        <strong>AKG Acoustics CK-6</strong><br />
+                        Bidirectional capsule<br />
+                        Sensitivity: n/a mV/Pa<br />
+                        Freq. Resp.: n/a<br />
+                        MSRP: n/a | <span class="mute">discontinued</span></li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"></td><td><span class="shaft"><img id="cap1302" src="//cdn.recordinghacks.com/images/icons/patterns/icon_sg.png" width=27 height=27 alt="Shotgun" title="Shotgun" ></span>
+                        <strong>AKG Acoustics CK-8</strong><br />
+                        Shotgun capsule<br />
+                        Sensitivity: 15 mV/Pa<br />
+                        Freq. Resp.: 30 - 18,000 Hz<br />
+                        MSRP: n/a | <span class="mute">discontinued</span></li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00158/00158_75.jpg" width="75" height="75" alt="AKG Acoustics CK-9" title="AKG Acoustics CK-9"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap1303" src="//cdn.recordinghacks.com/images/icons/patterns/icon_sg.png" width=27 height=27 alt="Shotgun" title="Shotgun" ></span>
+                        <strong>AKG Acoustics CK-9</strong><br />
+                        Shotgun capsule<br />
+                        Sensitivity: 11 mV/Pa<br />
+                        Freq. Resp.: 30 - 18,000 Hz<br />
+                        MSRP: n/a | <span class="mute">discontinued</span></li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00214/00214_75.jpg" width="75" height="75" alt="Blue Microphones AKG451" title="Blue Microphones AKG451"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap1304" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>Blue Microphones AKG451</strong><br />
+                        large diaphragm Cardioid capsule<br />
+                        Sensitivity:  mV/Pa<br />
+                        <span class="shaft" id="anchor1304"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show1304">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $750 | <span class="mute">discontinued</span></li>
+                        </td></tr>
+                    </table></td></tr></table>
+                    <table>
+                        <tr>
+                            <th>Pads &amp; Filters</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                <ul>                                    <li>Pad: -10dB (KF-2)<small> (Detachable)</small></li>
+                                                                    </ul></td>
+                            <td>n/a</td>
+                            <td>Max SPL: 120 dB<br />                                </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>71g <em class="mute">(2.50oz)</em></td>
+                            <td>121mm <em class="mute">(4.76&#39;&#39;)</em></td>
+                            <td>19mm <em class="mute">(0.75&#39;&#39;)</em></td>
+                            <td><ul></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                        <li>Requires phantom power </li>
+                                                                                                                                                                                <li>Phantom voltage: 9 - 52v</li>
+                                        </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+             
+<script type="text/javascript">
+        YAHOO.namespace("freq");
+
+        function init_freq_graphs() {
+
+            YAHOO.freq.chartPanel1304 = new YAHOO.widget.Panel("chartPanel1304",  {  context:["anchor1304", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel1304.render();
+
+                
+            YAHOO.freq.manager = new YAHOO.widget.OverlayManager(); 
+            YAHOO.freq.manager.register([YAHOO.freq.chartPanel1304,
+                                                   ]);
+
+          
+            YAHOO.util.Event.addListener("show1304", "click", YAHOO.freq.chartPanel1304.show, YAHOO.freq.chartPanel1304, true);
+            YAHOO.util.Event.addListener("hide1304", "click", YAHOO.freq.chartPanel1304.hide, YAHOO.freq.chartPanel1304, true);
+            YAHOO.util.Event.addListener("focus1304", "click", YAHOO.freq.chartPanel1304.focus, YAHOO.freq.chartPanel1304, true);
+
+            
+    
+        }
+        YAHOO.util.Event.addListener(window, "load", init_freq_graphs);
+</script>
+
+
+<div id="chartPanel1304" style="visibility:hidden">
+    <div class="hd"><span>AKG Acoustics C-451 Frequency Chart: Cardioid</span></div>
+    <div class="bd">
+    <img name="graph1304" src="http://bluemic.com/images/BcapFreqCharts/B6.jpg" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('641-0');uniqueids.push('641-1');uniqueids.push('641-2');uniqueids.push('641-3');uniqueids.push('641-4');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

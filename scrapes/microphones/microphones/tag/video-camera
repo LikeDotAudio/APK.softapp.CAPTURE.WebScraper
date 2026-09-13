@@ -1,0 +1,278 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>video-camera microphones | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+                
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+			<div id="content">
+                <div id="sidebar">                  
+                    					<h2 class="search">search for mics</h2>
+					<form action="/microphones" method="POST">
+										<script language="JavaScript" type="text/javascript">
+function clearText(field){
+
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+
+}
+					</script>
+						<fieldset>
+						    <input type="text" name="s" size="20" value="Microphone name or model number" style="color: #667;margin-left: 0;margin-bottom: 8px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)"><br />
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<fieldset class="checks">
+							<span class="shaft">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+							</span>
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">&nbsp;<input style="font-size: 8px" type="reset" name="button" value="Reset Form">
+						</fieldset>
+					</form>
+                            
+<h3>Refine Search</h3><p>Find mics tagged '<b>video-camera</b> AND:'</p> 
+<p><a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera+end-address" title="Mics tagged video-camera AND end-address">end-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera+condenser" title="Mics tagged video-camera AND condenser">condenser</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera+electret" title="Mics tagged video-camera AND electret">electret</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera+transformerless" title="Mics tagged video-camera AND transformerless">transformerless</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera+shotgun" title="Mics tagged video-camera AND shotgun">shotgun</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera+rf-condenser" title="Mics tagged video-camera AND rf-condenser">rf-condenser</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera+eng" title="Mics tagged video-camera AND eng">eng</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera+battery-power" title="Mics tagged video-camera AND battery-power">battery-power</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera+aaa" title="Mics tagged video-camera AND aaa">aaa</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera+stereo" title="Mics tagged video-camera AND stereo">stereo</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera+xy-stereo" title="Mics tagged video-camera AND xy-stereo">xy-stereo</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera+externally-biased" title="Mics tagged video-camera AND externally-biased">externally-biased</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera+mid-side" title="Mics tagged video-camera AND mid-side">mid-side</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera+hpf" title="Mics tagged video-camera AND hpf">hpf</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera+rohs" title="Mics tagged video-camera AND rohs">rohs</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera+side-address" title="Mics tagged video-camera AND side-address">side-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera+dual-capsule" title="Mics tagged video-camera AND dual-capsule">dual-capsule</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera+aa" title="Mics tagged video-camera AND aa">aa</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera+back-electret" title="Mics tagged video-camera AND back-electret">back-electret</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera+transformer-coupled" title="Mics tagged video-camera AND transformer-coupled">transformer-coupled</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera+9v" title="Mics tagged video-camera AND 9v">9v</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera+multipattern" title="Mics tagged video-camera AND multipattern">multipattern</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera+40-series" title="Mics tagged video-camera AND 40-series">40-series</a> </p>
+<h3>Expand Search</h3><p>Find mics tagged '<b>video-camera</b> OR:'</p>
+<p><a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera|end-address" title="Mics tagged video-camera OR end-address">end-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera|condenser" title="Mics tagged video-camera OR condenser">condenser</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera|electret" title="Mics tagged video-camera OR electret">electret</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera|transformerless" title="Mics tagged video-camera OR transformerless">transformerless</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera|shotgun" title="Mics tagged video-camera OR shotgun">shotgun</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera|rf-condenser" title="Mics tagged video-camera OR rf-condenser">rf-condenser</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera|eng" title="Mics tagged video-camera OR eng">eng</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera|battery-power" title="Mics tagged video-camera OR battery-power">battery-power</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera|aaa" title="Mics tagged video-camera OR aaa">aaa</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera|stereo" title="Mics tagged video-camera OR stereo">stereo</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera|xy-stereo" title="Mics tagged video-camera OR xy-stereo">xy-stereo</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera|externally-biased" title="Mics tagged video-camera OR externally-biased">externally-biased</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera|mid-side" title="Mics tagged video-camera OR mid-side">mid-side</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera|hpf" title="Mics tagged video-camera OR hpf">hpf</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera|rohs" title="Mics tagged video-camera OR rohs">rohs</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera|side-address" title="Mics tagged video-camera OR side-address">side-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera|dual-capsule" title="Mics tagged video-camera OR dual-capsule">dual-capsule</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera|aa" title="Mics tagged video-camera OR aa">aa</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera|back-electret" title="Mics tagged video-camera OR back-electret">back-electret</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera|transformer-coupled" title="Mics tagged video-camera OR transformer-coupled">transformer-coupled</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera|9v" title="Mics tagged video-camera OR 9v">9v</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera|multipattern" title="Mics tagged video-camera OR multipattern">multipattern</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/video-camera|40-series" title="Mics tagged video-camera OR 40-series">40-series</a> </p>
+                </div><!-- /#sidebar -->
+                <div id="column" style="width: auto">
+						    <h2>Mics tagged: video-camera</h2>
+			    <table>
+				                    <tr><td><a title="R&#00216;DE VideoMic Pro R - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Rode/VideoMic-Pro-R" ><img src="//cdn.recordinghacks.com/images/mics/01764/01764_75.jpg" width="75" height="75" alt="R&#00216;DE VideoMic Pro R" title="R&#00216;DE VideoMic Pro R"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1764-0" src="/images/icons/patterns/icon_sg.png" width=27 height=27 alt="Shotgun" title="Shotgun" >                        </span>
+                        <a title="R&#00216;DE VideoMic Pro R - Features, Specifications, Datasheet" href="/microphones/Rode/VideoMic-Pro-R"><strong>R&#00216;DE VideoMic Pro R</strong></a><br />
+                        Shotgun Condenser Microphone<br />
+                        <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="video-camera microphones"  href="//recordinghacks.com/microphones/tag/video-camera">video-camera</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Shure VP82 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Shure/VP82" ><img src="//cdn.recordinghacks.com/images/mics/01503/01503_75.jpg" width="75" height="75" alt="Shure VP82" title="Shure VP82"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1503-0" src="/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" >                        </span>
+                        <a title="Shure VP82 - Features, Specifications, Datasheet" href="/microphones/Shure/VP82"><strong>Shure VP82</strong></a><br />
+                        Supercardioid Condenser Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="shotgun microphones"  href="//recordinghacks.com/microphones/tag/shotgun">shotgun</a>, <a title="video-camera microphones"  href="//recordinghacks.com/microphones/tag/video-camera">video-camera</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Sennheiser Electronics Corporation MKH 8060 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Sennheiser/MKH-8060" ><img src="//cdn.recordinghacks.com/images/mics/01346/01346_75.jpg" width="75" height="75" alt="Sennheiser Electronics Corporation MKH 8060" title="Sennheiser Electronics Corporation MKH 8060"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1346-0" src="/images/icons/patterns/icon_sg.png" width=27 height=27 alt="Shotgun" title="Shotgun" >                        </span>
+                        <a title="Sennheiser Electronics Corporation MKH 8060 - Features, Specifications, Datasheet" href="/microphones/Sennheiser/MKH-8060"><strong>Sennheiser Electronics Corporation MKH 8060</strong></a><br />
+                        Shotgun Condenser Microphone<br />
+                        <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="shotgun microphones"  href="//recordinghacks.com/microphones/tag/shotgun">shotgun</a>, <a title="rf-condenser microphones"  href="//recordinghacks.com/microphones/tag/rf-condenser">rf-condenser</a>, <a title="video-camera microphones"  href="//recordinghacks.com/microphones/tag/video-camera">video-camera</a>, <a title="eng microphones"  href="//recordinghacks.com/microphones/tag/eng">eng</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Sennheiser Electronics Corporation MKE 400 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Sennheiser/MKE-400" ><img src="//cdn.recordinghacks.com/images/mics/01336/01336_75.jpg" width="75" height="75" alt="Sennheiser Electronics Corporation MKE 400" title="Sennheiser Electronics Corporation MKE 400"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1336-0" src="/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" >                        </span>
+                        <a title="Sennheiser Electronics Corporation MKE 400 - Features, Specifications, Datasheet" href="/microphones/Sennheiser/MKE-400"><strong>Sennheiser Electronics Corporation MKE 400</strong></a><br />
+                        Condenser Microphone<br />
+                        <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="battery-power microphones"  href="//recordinghacks.com/microphones/tag/battery-power">battery-power</a>, <a title="shotgun microphones"  href="//recordinghacks.com/microphones/tag/shotgun">shotgun</a>, <a title="video-camera microphones"  href="//recordinghacks.com/microphones/tag/video-camera">video-camera</a>, <a title="eng microphones"  href="//recordinghacks.com/microphones/tag/eng">eng</a>, <a title="aaa microphones"  href="//recordinghacks.com/microphones/tag/aaa">aaa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="R&#00216;DE Stereo VideoMic Pro - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Rode/Stereo-VideoMic-Pro" ><img src="//cdn.recordinghacks.com/images/mics/01311/01311_75.jpg" width="75" height="75" alt="R&#00216;DE Stereo VideoMic Pro" title="R&#00216;DE Stereo VideoMic Pro"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1311-0" src="/images/icons/patterns/icon_xy.png" width=27 height=27 alt="X/Y Stereo" title="X/Y Stereo" >                        </span>
+                        <a title="R&#00216;DE Stereo VideoMic Pro - Features, Specifications, Datasheet" href="/microphones/Rode/Stereo-VideoMic-Pro"><strong>R&#00216;DE Stereo VideoMic Pro</strong></a><br />
+                        X/Y Stereo Condenser Stereo Microphone<br />
+                        <a title="stereo microphones"  href="//recordinghacks.com/microphones/tag/stereo">stereo</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="xy-stereo microphones"  href="//recordinghacks.com/microphones/tag/xy-stereo">xy-stereo</a>, <a title="video-camera microphones"  href="//recordinghacks.com/microphones/tag/video-camera">video-camera</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="R&#00216;DE NTG-8 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Rode/NTG-8" ><img src="//cdn.recordinghacks.com/images/mics/01308/01308_75.jpg" width="75" height="75" alt="R&#00216;DE NTG-8" title="R&#00216;DE NTG-8"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1308-0" src="/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" >                        </span>
+                        <a title="R&#00216;DE NTG-8 - Features, Specifications, Datasheet" href="/microphones/Rode/NTG-8"><strong>R&#00216;DE NTG-8</strong></a><br />
+                        Supercardioid Condenser Microphone<br />
+                        <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="shotgun microphones"  href="//recordinghacks.com/microphones/tag/shotgun">shotgun</a>, <a title="rf-condenser microphones"  href="//recordinghacks.com/microphones/tag/rf-condenser">rf-condenser</a>, <a title="video-camera microphones"  href="//recordinghacks.com/microphones/tag/video-camera">video-camera</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="R&#00216;DE NTG-3 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Rode/NTG-3" ><img src="//cdn.recordinghacks.com/images/mics/01307/01307_75.jpg" width="75" height="75" alt="R&#00216;DE NTG-3" title="R&#00216;DE NTG-3"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1307-0" src="/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" >                        </span>
+                        <a title="R&#00216;DE NTG-3 - Features, Specifications, Datasheet" href="/microphones/Rode/NTG-3"><strong>R&#00216;DE NTG-3</strong></a><br />
+                        Supercardioid Condenser Microphone<br />
+                        <a title="externally-biased microphones"  href="//recordinghacks.com/microphones/tag/externally-biased">externally-biased</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="shotgun microphones"  href="//recordinghacks.com/microphones/tag/shotgun">shotgun</a>, <a title="rf-condenser microphones"  href="//recordinghacks.com/microphones/tag/rf-condenser">rf-condenser</a>, <a title="video-camera microphones"  href="//recordinghacks.com/microphones/tag/video-camera">video-camera</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="R&#00216;DE VideoMic Pro - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Rode/VideoMic-Pro" ><img src="//cdn.recordinghacks.com/images/mics/01304/01304_75.jpg" width="75" height="75" alt="R&#00216;DE VideoMic Pro" title="R&#00216;DE VideoMic Pro"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1304-0" src="/images/icons/patterns/icon_sg.png" width=27 height=27 alt="Shotgun" title="Shotgun" >                        </span>
+                        <a title="R&#00216;DE VideoMic Pro - Features, Specifications, Datasheet" href="/microphones/Rode/VideoMic-Pro"><strong>R&#00216;DE VideoMic Pro</strong></a><br />
+                        Shotgun Condenser Microphone<br />
+                        <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="video-camera microphones"  href="//recordinghacks.com/microphones/tag/video-camera">video-camera</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica BP4029 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/BP4029" ><img src="//cdn.recordinghacks.com/images/mics/01041/01041_75.jpg" width="75" height="75" alt="Audio-Technica BP4029" title="Audio-Technica BP4029"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1041-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ><img id="1041-1" src="/images/icons/patterns/icon_sg.png" width=27 height=27 alt="Shotgun" title="Shotgun" ><img id="1041-2" src="/images/icons/patterns/icon_xy.png" width=27 height=27 alt="X/Y Stereo" title="X/Y Stereo" ><img id="1041-3" src="/images/icons/patterns/icon_ms.png" width=27 height=27 alt="Mid-Side Stereo" title="Mid-Side Stereo" >                        </span>
+                        <a title="Audio-Technica BP4029 - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/BP4029"><strong>Audio-Technica BP4029</strong></a><br />
+                        Multi-Pattern Condenser Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="stereo microphones"  href="//recordinghacks.com/microphones/tag/stereo">stereo</a>, <a title="mid-side microphones"  href="//recordinghacks.com/microphones/tag/mid-side">mid-side</a>, <a title="xy-stereo microphones"  href="//recordinghacks.com/microphones/tag/xy-stereo">xy-stereo</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="shotgun microphones"  href="//recordinghacks.com/microphones/tag/shotgun">shotgun</a>, <a title="rohs microphones"  href="//recordinghacks.com/microphones/tag/rohs">rohs</a>, <a title="video-camera microphones"  href="//recordinghacks.com/microphones/tag/video-camera">video-camera</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica ATR6250 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/ATR6250" ><img src="//cdn.recordinghacks.com/images/mics/01040/01040_75.jpg" width="75" height="75" alt="Audio-Technica ATR6250" title="Audio-Technica ATR6250"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1040-0" src="/images/icons/patterns/icon_xy.png" width=27 height=27 alt="X/Y Stereo" title="X/Y Stereo" >                        </span>
+                        <a title="Audio-Technica ATR6250 - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/ATR6250"><strong>Audio-Technica ATR6250</strong></a><br />
+                        X/Y Stereo Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="stereo microphones"  href="//recordinghacks.com/microphones/tag/stereo">stereo</a>, <a title="dual-capsule microphones"  href="//recordinghacks.com/microphones/tag/dual-capsule">dual-capsule</a>, <a title="xy-stereo microphones"  href="//recordinghacks.com/microphones/tag/xy-stereo">xy-stereo</a>, <a title="battery-power microphones"  href="//recordinghacks.com/microphones/tag/battery-power">battery-power</a>, <a title="aa microphones"  href="//recordinghacks.com/microphones/tag/aa">aa</a>, <a title="video-camera microphones"  href="//recordinghacks.com/microphones/tag/video-camera">video-camera</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="beyerdynamic MCE 72 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/beyerdynamic/MCE-72" ><img src="//cdn.recordinghacks.com/images/mics/00803/00803_75.jpg" width="75" height="75" alt="beyerdynamic MCE 72" title="beyerdynamic MCE 72"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="803-0" src="/images/icons/patterns/icon_xy.png" width=27 height=27 alt="X/Y Stereo" title="X/Y Stereo" >                        </span>
+                        <a title="beyerdynamic MCE 72 - Features, Specifications, Datasheet" href="/microphones/beyerdynamic/MCE-72"><strong>beyerdynamic MCE 72</strong></a><br />
+                        X/Y Stereo Condenser Stereo Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="stereo microphones"  href="//recordinghacks.com/microphones/tag/stereo">stereo</a>, <a title="back-electret microphones"  href="//recordinghacks.com/microphones/tag/back-electret">back-electret</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="xy-stereo microphones"  href="//recordinghacks.com/microphones/tag/xy-stereo">xy-stereo</a>, <a title="battery-power microphones"  href="//recordinghacks.com/microphones/tag/battery-power">battery-power</a>, <a title="video-camera microphones"  href="//recordinghacks.com/microphones/tag/video-camera">video-camera</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica AT8022 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/AT8022" ><img src="//cdn.recordinghacks.com/images/mics/00762/00762_75.jpg" width="75" height="75" alt="Audio-Technica AT8022" title="Audio-Technica AT8022"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="762-0" src="/images/icons/patterns/icon_xy.png" width=27 height=27 alt="X/Y Stereo" title="X/Y Stereo" >                        </span>
+                        <a title="Audio-Technica AT8022 - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/AT8022"><strong>Audio-Technica AT8022</strong></a><br />
+                        X/Y Stereo Condenser Stereo Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="stereo microphones"  href="//recordinghacks.com/microphones/tag/stereo">stereo</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="dual-capsule microphones"  href="//recordinghacks.com/microphones/tag/dual-capsule">dual-capsule</a>, <a title="xy-stereo microphones"  href="//recordinghacks.com/microphones/tag/xy-stereo">xy-stereo</a>, <a title="battery-power microphones"  href="//recordinghacks.com/microphones/tag/battery-power">battery-power</a>, <a title="aa microphones"  href="//recordinghacks.com/microphones/tag/aa">aa</a>, <a title="video-camera microphones"  href="//recordinghacks.com/microphones/tag/video-camera">video-camera</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="R&#00216;DE VideoMic - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Rode/VideoMic" ><img src="//cdn.recordinghacks.com/images/mics/00361/00361_75.jpg" width="75" height="75" alt="R&#00216;DE VideoMic" title="R&#00216;DE VideoMic"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="361-0" src="/images/icons/patterns/icon_sg.png" width=27 height=27 alt="Shotgun" title="Shotgun" >                        </span>
+                        <a title="R&#00216;DE VideoMic - Features, Specifications, Datasheet" href="/microphones/Rode/VideoMic"><strong>R&#00216;DE VideoMic</strong></a><br />
+                        Shotgun Condenser Microphone<br />
+                        <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="shotgun microphones"  href="//recordinghacks.com/microphones/tag/shotgun">shotgun</a>, <a title="video-camera microphones"  href="//recordinghacks.com/microphones/tag/video-camera">video-camera</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="R&#00216;DE Stereo VideoMic - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Rode/Stereo-VideoMic" ><img src="//cdn.recordinghacks.com/images/mics/00360/00360_75.jpg" width="75" height="75" alt="R&#00216;DE Stereo VideoMic" title="R&#00216;DE Stereo VideoMic"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="360-0" src="/images/icons/patterns/icon_xy.png" width=27 height=27 alt="X/Y Stereo" title="X/Y Stereo" >                        </span>
+                        <a title="R&#00216;DE Stereo VideoMic - Features, Specifications, Datasheet" href="/microphones/Rode/Stereo-VideoMic"><strong>R&#00216;DE Stereo VideoMic</strong></a><br />
+                        X/Y Stereo Condenser Stereo Microphone<br />
+                        <a title="stereo microphones"  href="//recordinghacks.com/microphones/tag/stereo">stereo</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="xy-stereo microphones"  href="//recordinghacks.com/microphones/tag/xy-stereo">xy-stereo</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="battery-power microphones"  href="//recordinghacks.com/microphones/tag/battery-power">battery-power</a>, <a title="9v microphones"  href="//recordinghacks.com/microphones/tag/9v">9v</a>, <a title="video-camera microphones"  href="//recordinghacks.com/microphones/tag/video-camera">video-camera</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="R&#00216;DE NTG-1 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Rode/NTG-1" ><img src="//cdn.recordinghacks.com/images/mics/00356/00356_75.jpg" width="75" height="75" alt="R&#00216;DE NTG-1" title="R&#00216;DE NTG-1"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="356-0" src="/images/icons/patterns/icon_sg.png" width=27 height=27 alt="Shotgun" title="Shotgun" >                        </span>
+                        <a title="R&#00216;DE NTG-1 - Features, Specifications, Datasheet" href="/microphones/Rode/NTG-1"><strong>R&#00216;DE NTG-1</strong></a><br />
+                        Shotgun Condenser Microphone<br />
+                        <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="shotgun microphones"  href="//recordinghacks.com/microphones/tag/shotgun">shotgun</a>, <a title="video-camera microphones"  href="//recordinghacks.com/microphones/tag/video-camera">video-camera</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica PRO 24 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/PRO-24" ><img src="//cdn.recordinghacks.com/images/mics/00134/00134_75.jpg" width="75" height="75" alt="Audio-Technica PRO 24" title="Audio-Technica PRO 24"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="134-0" src="/images/icons/patterns/icon_xy.png" width=27 height=27 alt="X/Y Stereo" title="X/Y Stereo" >                        </span>
+                        <a title="Audio-Technica PRO 24 - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/PRO-24"><strong>Audio-Technica PRO 24</strong></a><br />
+                        X/Y Stereo Condenser Stereo Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="stereo microphones"  href="//recordinghacks.com/microphones/tag/stereo">stereo</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="battery-power microphones"  href="//recordinghacks.com/microphones/tag/battery-power">battery-power</a>, <a title="video-camera microphones"  href="//recordinghacks.com/microphones/tag/video-camera">video-camera</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica ATR55 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/ATR55" ><img src="//cdn.recordinghacks.com/images/mics/00075/00075_75.jpg" width="75" height="75" alt="Audio-Technica ATR55" title="Audio-Technica ATR55"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="75-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="75-1" src="/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" >                        </span>
+                        <a title="Audio-Technica ATR55 - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/ATR55"><strong>Audio-Technica ATR55</strong></a><br />
+                        Multi-Pattern Condenser Microphone<br />
+                        <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="shotgun microphones"  href="//recordinghacks.com/microphones/tag/shotgun">shotgun</a>, <a title="video-camera microphones"  href="//recordinghacks.com/microphones/tag/video-camera">video-camera</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica AT897 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/AT897" ><img src="//cdn.recordinghacks.com/images/mics/00046/00046_75.jpg" width="75" height="75" alt="Audio-Technica AT897" title="Audio-Technica AT897"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="46-0" src="/images/icons/patterns/icon_sg.png" width=27 height=27 alt="Shotgun" title="Shotgun" >                        </span>
+                        <a title="Audio-Technica AT897 - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/AT897"><strong>Audio-Technica AT897</strong></a><br />
+                        Shotgun Condenser Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="battery-power microphones"  href="//recordinghacks.com/microphones/tag/battery-power">battery-power</a>, <a title="aa microphones"  href="//recordinghacks.com/microphones/tag/aa">aa</a>, <a title="shotgun microphones"  href="//recordinghacks.com/microphones/tag/shotgun">shotgun</a>, <a title="rohs microphones"  href="//recordinghacks.com/microphones/tag/rohs">rohs</a>, <a title="video-camera microphones"  href="//recordinghacks.com/microphones/tag/video-camera">video-camera</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica AT835ST - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/AT835ST" ><img src="//cdn.recordinghacks.com/images/mics/00039/00039_75.jpg" width="75" height="75" alt="Audio-Technica AT835ST" title="Audio-Technica AT835ST"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="39-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ><img id="39-1" src="/images/icons/patterns/icon_sg.png" width=27 height=27 alt="Shotgun" title="Shotgun" ><img id="39-2" src="/images/icons/patterns/icon_xy.png" width=27 height=27 alt="X/Y Stereo" title="X/Y Stereo" ><img id="39-3" src="/images/icons/patterns/icon_ms.png" width=27 height=27 alt="Mid-Side Stereo" title="Mid-Side Stereo" >                        </span>
+                        <a title="Audio-Technica AT835ST - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/AT835ST"><strong>Audio-Technica AT835ST</strong></a><br />
+                        Multi-Pattern Condenser Stereo Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="stereo microphones"  href="//recordinghacks.com/microphones/tag/stereo">stereo</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="mid-side microphones"  href="//recordinghacks.com/microphones/tag/mid-side">mid-side</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="shotgun microphones"  href="//recordinghacks.com/microphones/tag/shotgun">shotgun</a>, <a title="video-camera microphones"  href="//recordinghacks.com/microphones/tag/video-camera">video-camera</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica AT4073a - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/AT4073a" ><img src="//cdn.recordinghacks.com/images/mics/00026/00026_75.jpg" width="75" height="75" alt="Audio-Technica AT4073a" title="Audio-Technica AT4073a"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="26-0" src="/images/icons/patterns/icon_sg.png" width=27 height=27 alt="Shotgun" title="Shotgun" >                        </span>
+                        <a title="Audio-Technica AT4073a - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/AT4073a"><strong>Audio-Technica AT4073a</strong></a><br />
+                        Shotgun Condenser Microphone<br />
+                        <a title="externally-biased microphones"  href="//recordinghacks.com/microphones/tag/externally-biased">externally-biased</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="shotgun microphones"  href="//recordinghacks.com/microphones/tag/shotgun">shotgun</a>, <a title="video-camera microphones"  href="//recordinghacks.com/microphones/tag/video-camera">video-camera</a>, <a title="40-series microphones"  href="//recordinghacks.com/microphones/tag/40-series">40-series</a><br />                        </td></tr>
+	
+                                </table>
+
+
+                 <!-- end of $nada test -->
+                </div><!-- /#column -->
+			</div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('1764-0');uniqueids.push('1503-0');uniqueids.push('1346-0');uniqueids.push('1336-0');uniqueids.push('1311-0');uniqueids.push('1308-0');uniqueids.push('1307-0');uniqueids.push('1304-0');uniqueids.push('1041-0');uniqueids.push('1041-1');uniqueids.push('1041-2');uniqueids.push('1041-3');uniqueids.push('1040-0');uniqueids.push('803-0');uniqueids.push('762-0');uniqueids.push('361-0');uniqueids.push('360-0');uniqueids.push('356-0');uniqueids.push('134-0');uniqueids.push('75-0');uniqueids.push('75-1');uniqueids.push('46-0');uniqueids.push('39-0');uniqueids.push('39-1');uniqueids.push('39-2');uniqueids.push('39-3');uniqueids.push('26-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

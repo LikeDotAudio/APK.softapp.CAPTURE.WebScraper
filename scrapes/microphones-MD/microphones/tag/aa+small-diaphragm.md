@@ -1,0 +1,5 @@
+## Mics tagged: aa AND small-diaphragm
+
+|  |  |
+| --- | --- |
+| [Apex Electronics 191](http://recordinghacks.com/microphones/Apex-Electronics/191 "Apex Electronics 191 - Features, Specifications, Datasheet") | Cardioid  [**Apex Electronics 191**](/microphones/Apex-Electronics/191 "Apex Electronics 191 - Features, Specifications, Datasheet")  Cardioid Pencil Condenser Microphone  [electret](//recordinghacks.com/microphones/tag/electret "electret microphones"), [pencil-mic](//recordinghacks.com/microphones/tag/pencil-mic "pencil-mic microphones"), [end-address](//recordinghacks.com/microphones/tag/end-address "end-address microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [battery-power](//recordinghacks.com/microphones/tag/battery-power "battery-power microphones"), [small-diaphragm](//recordinghacks.com/microphones/tag/small-diaphragm "small-diaphragm microphones"), [aa](//recordinghacks.com/microphones/tag/aa "aa microphones") |

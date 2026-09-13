@@ -1,0 +1,632 @@
+<!DOCTYPE html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>MQTT Transport | is-07</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="MQTT Transport" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="AMWA IS-07 NMOS Event &amp; Tally Specification" />
+<meta property="og:description" content="AMWA IS-07 NMOS Event &amp; Tally Specification" />
+<meta property="og:site_name" content="is-07" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="MQTT Transport" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"AMWA IS-07 NMOS Event &amp; Tally Specification","headline":"MQTT Transport","url":"/is-07/releases/v1.0.1/docs/5.1._Transport_-_MQTT.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/is-07/assets/css/style.css?v=">
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body adaptive-width">
+
+      <div id="logo-banner" class="adaptive-width">
+          
+              <a href="https://specs.amwa.tv/nmos"><img id="nmos-logo" src="/is-07/assets/images/NMOS-logo.png" alt="NMOS logo"/></a>
+              <span id="title">Networked Media Open Specifications</span>
+              <a href="https://www.amwa.tv/"><img id="from-amwa-logo" src="/is-07/assets/images/from-AMWA-logo.png" target="_blank" alt="from AMWA logo"/></a>
+
+          
+      </div>
+
+        <div id="menu-header" class="header adaptive-width">
+
+        
+
+        
+          <span class="dropdown">DOCS
+	<div class="dropdown-content">
+		<p><b>Docs for v1.0.1</b></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/docs/1.0._Overview.html">Overview</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/docs/2.0._Message_types.html">Message types</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/docs/3.0._Event_types.html">Event types</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/docs/4.0._Core_models.html">Core models</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/docs/5.0._Transports.html">Transports</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/docs/5.1._Transport_-_MQTT.html">Transport - MQTT</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/docs/5.2._Transport_-_Websocket.html">Transport - Websocket</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/docs/6.0._Event_and_tally_rest_api.html">Event and tally rest api</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/docs/7.0._Measurement_units_guidelines.html">Measurement units guidelines</a></p>
+		
+	</div>
+</span>
+ 
+        
+        
+          <span class="dropdown-3">APIS
+	<div class="dropdown-3-content"> 
+		<p><b>RAML APIs for v1.0.1</b></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/EventsAPI.html">Events API</a></p>
+		
+		<p><b>JSON Schemas for v1.0.1</b></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/base.html">base</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/command.html">command</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/command_health.html">command_health</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/command_subscription.html">command_subscription</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/error.html">error</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/event.html">event</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/event_boolean.html">event_boolean</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/event_core.html">event_core</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/event_number.html">event_number</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/event_object.html">event_object</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/event_string.html">event_string</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/message.html">message</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/message_connection_status.html">message_connection_status</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/message_health.html">message_health</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/message_shutdown_reboot.html">message_shutdown_reboot</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/number.html">number</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/receiver_transport_params_ext.html">receiver_transport_params_ext</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/sender_transport_params_ext.html">sender_transport_params_ext</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/source.html">source</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/sources.html">sources</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/type.html">type</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/type_boolean.html">type_boolean</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/type_boolean_enum.html">type_boolean_enum</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/type_number.html">type_number</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/type_number_enum.html">type_number_enum</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/type_string.html">type_string</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/type_string_enum.html">type_string_enum</a></p>
+		
+	</div>
+</span>
+
+        
+        
+          <span class="dropdown-3">EXAMPLES
+	<div class="dropdown-3-content"> 
+		<p><b>JSON Examples for v1.0.1</b></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/connection-status-message.html">connection-status-message</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/connectionapi-v1.1-receiver-active-get-mqtt-200.html">connectionapi-v1.1-receiver-active-get-mqtt-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/connectionapi-v1.1-receiver-active-get-websocket-200.html">connectionapi-v1.1-receiver-active-get-websocket-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/connectionapi-v1.1-sender-active-get-mqtt-200.html">connectionapi-v1.1-sender-active-get-mqtt-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/connectionapi-v1.1-sender-active-get-websocket-200.html">connectionapi-v1.1-sender-active-get-websocket-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-base-get-200.html">eventsapi-base-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-sourceid-get-200.html">eventsapi-sourceid-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-sources-get-200.html">eventsapi-sources-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-state-boolean-get-200.html">eventsapi-state-boolean-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-state-number-get-200.html">eventsapi-state-number-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-state-number-measurement-get-200.html">eventsapi-state-number-measurement-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-state-number-rational-get-200.html">eventsapi-state-number-rational-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-state-string-get-200.html">eventsapi-state-string-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-type-boolean-enum-get-200.html">eventsapi-type-boolean-enum-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-type-boolean-get-200.html">eventsapi-type-boolean-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-type-number-enum-get-200.html">eventsapi-type-number-enum-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-type-number-get-200.html">eventsapi-type-number-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-type-number-measurement-get-200.html">eventsapi-type-number-measurement-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-type-string-enum-get-200.html">eventsapi-type-string-enum-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-type-string-get-200.html">eventsapi-type-string-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/health-command.html">health-command</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/health-message.html">health-message</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/reboot-message.html">reboot-message</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/shutdown-message.html">shutdown-message</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/subscription-command.html">subscription-command</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/subscription-unsubscribe-command.html">subscription-unsubscribe-command</a></p>
+		
+	</div>
+</span>
+
+        
+        
+          <span class="dropdown">VERSIONS
+	<div class="dropdown-content"> 
+		<p><b>Branches</b></p>
+		
+		
+			<p><a href="/is-07/branches/v1.0.x">v1.0.x</a></p>
+		
+		
+			<p><b>Releases</b></p>
+			
+			
+				<p><a href="/is-07/releases/v1.0.1">v1.0.1</a></p>
+			
+				<p><a href="/is-07/releases/v1.0.0">v1.0.0</a></p>
+			
+		
+	</div>
+</span>
+
+        
+        
+          <span class="dropdown">IS
+	<div class="dropdown-content">
+		<p><b>Interface Specifications</b></p>
+		
+		
+			<p><a href="https://specs.amwa.tv/is-04">IS-04: Discovery & Registration</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-05">IS-05: Device Connection Management</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-07">IS-07: Event & Tally</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-08">IS-08: Audio Channel Mapping</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-09">IS-09: System Parameters</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-10">IS-10: Authorization</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-11">IS-11: Stream Compatibility Management</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-12">IS-12: Control Protocol</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-13">IS-13: Annotation</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-14">IS-14: Device Configuration</a></p>
+		
+	 </div>
+</span>
+          <span class="dropdown">BCP
+	<div class="dropdown-content">
+		<p><b>Best Common Practices</b></p>
+		
+		
+			<p><a href="https://specs.amwa.tv/bcp-002-01">BCP-002-01: Natural Grouping</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-002-02">BCP-002-02: Asset Distinguishing Information</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-003-01">BCP-003-01: Secure Communications in NMOS Systems</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-003-02">BCP-003-02: Authorization in NMOS Systems</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-003-03">BCP-003-03: Certificate Provisioning in NMOS Systems</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-004-01">BCP-004-01: Receiver Capabilities</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-005-01">BCP-005-01: EDID to Receiver Capabilities Mapping</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-006-01">BCP-006-01: NMOS With JPEG XS</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-006-02">BCP-006-02: NMOS With H.264</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-006-03">BCP-006-03: NMOS With H.265</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-007-01">BCP-007-01: NMOS With NDI</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-008-01">BCP-008-01: NMOS Receiver Status</a></p>
+		
+	 </div>
+</span>
+          <span class="dropdown">MS
+	<div class="dropdown-content">
+		<p><b>Data Model Specifications</b></p>
+		
+		
+			<p><a href="https://specs.amwa.tv/ms-04">MS-04: ID & Timing Model</a></p>
+		
+			<p><a href="https://specs.amwa.tv/ms-05-01">MS-05-01: NMOS Control Architecture</a></p>
+		
+			<p><a href="https://specs.amwa.tv/ms-05-02">MS-05-02: AMWA NMOS Control Framework</a></p>
+		
+			<p><a href="https://specs.amwa.tv/ms-05-03">MS-05-03: AMWA NMOS Control Block Specs</a></p>
+		
+	 </div>
+</span>
+          <span class="dropdown">INFO
+	<div class="dropdown-content">
+		<p><b>Informative Documents</b></p>
+		
+		
+			<p><a href="https://specs.amwa.tv/info-002">INFO-002: Security Implementation Guide</a></p>
+		
+			<p><a href="https://specs.amwa.tv/info-003">INFO-003: Sink Metadata Processing Architecture</a></p>
+		
+			<p><a href="https://specs.amwa.tv/info-004">INFO-004: Implementation Guide for DNS-SD</a></p>
+		
+			<p><a href="https://specs.amwa.tv/info-005">INFO-005: Implementation Guide for NMOS Controllers</a></p>
+		
+			<p><a href="https://specs.amwa.tv/info-006">INFO-006: Implementation guide for NMOS Device Capabilities Control</a></p>
+		
+	 </div>
+</span>
+        
+        
+          <span class="dropdown">REG
+	<div class="dropdown-content">
+		<p><b>Parameter Registers</b></p>
+		
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/common">General Procedures and Criteria</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/capabilities">Capabilities</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/device-control-types">Device Control Types</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/device-types">Device Types</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/flow-attributes">Flow Attributes</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/formats">Formats</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/node-service-types">Node Service Types</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/sender-attributes">Sender Attributes</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/source-attributes">Source Attributes</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/tags">Tags</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/transports">Transports</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/transport-parameters">Transport Parameters</a></p>
+		
+	</div>
+</span>
+
+        
+        
+          <span class="dropdown">F-SETS
+	<div class="dropdown-content">
+		<p><b>Control Feature Sets</b></p>
+		
+		
+			<p><a href="https://specs.amwa.tv/nmos-control-feature-sets/branches/main/identification">Identification</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-control-feature-sets/branches/main/monitoring">Monitoring</a></p>
+		
+	</div>
+</span>
+
+        
+
+          
+
+            <span class="dropdown">DEVEL
+              <div class="dropdown-content">
+                <p><b>Developer Links</b></p>
+                <p><a href="https://github.com/AMWA-TV/is-07">GitHub Repo</a></p>
+                <p><a href="https://specs.amwa.tv/nmos-testing">API Testing Tool</a></p>
+                <p><a href="https://specs.amwa.tv/nmos-dashboard/dashboard.html">CI Dashboard</a></p>
+              </div>
+            </span>
+
+          
+
+          <span class="dropdown">SEARCH
+            <div class="dropdown-content">
+              <script async src="https://cse.google.com/cse.js?cx=70787015d40930818"></script>
+              <div class="gcse-searchbox-only"></div>
+            </div>
+          </span>
+
+        
+          <div class="breadcrumbs">
+            
+            
+            
+            <a href="/is-07/">IS-07</a> â¤
+            
+              
+              <a href="/is-07/releases/"> releases </a> â¤
+            
+              
+              <a href="/is-07/releases/v1.0.1/"> v1.0.1 </a> â¤
+            
+              
+              <a href="/is-07/releases/v1.0.1/docs/"> docs </a> â¤
+            
+            
+              
+                
+                
+              
+            
+          </div>
+        
+
+        </div>
+
+      <div class="content">
+        <br/>
+        <h1 id="mqtt-transport">MQTT Transport</h1>
+
+<p><a href="5.0._Transports.html">âTransports </a> Â· <a href=".."> Indexâ </a> Â· <a href="5.2._Transport_-_Websocket.html">Transport - Websocketâ</a></p>
+
+<p>This document describes the use of the MQTT transport.</p>
+
+<p>Other sections can be accessed from the <a href="1.0._Overview.html">Overview</a>.</p>
+
+<h2 id="1-introduction">1. Introduction</h2>
+
+<ul>
+  <li>Simple and lightweight</li>
+  <li>Broker based</li>
+  <li>Can be used on top of TCP or WebSockets</li>
+  <li>Can use encryption</li>
+  <li>Supports various QOS settings for message delivery</li>
+  <li>Inherently solves the problem of late joiners using retained messages</li>
+  <li>Events filtering is handled by the broker with topic filtering mechanics</li>
+</ul>
+
+<h2 id="2-nmos-resources-transport">2. NMOS Resources transport</h2>
+
+<p>NMOS resources using MQTT will use the <code class="language-plaintext highlighter-rouge">urn:x-nmos:transport:mqtt</code> transport.</p>
+
+<h2 id="3-connection-management">3. Connection management</h2>
+
+<p>Only IS-05 connection management is to be used for connection management of resources defined in this specification.</p>
+
+<h3 id="31-destination_host-destination_port-source_host-source_port">3.1 destination_host, destination_port, source_host, source_port</h3>
+
+<p>These two pairs of parameters define the address of the MQTT broker for senders and receivers respectively.
+As specified in IS-05, if the parameters are set to âautoâ the sender or receiver should establish for itself which broker it should use, based on a discovery mechanism or its own internal configuration. 
+This specification recommends setting the default based on the mechanism described in <a href="#7-broker-discovery">Broker discovery</a>.</p>
+
+<p>For both senders and receivers, an empty constraint object may be appropriate for these parameters.</p>
+
+<h3 id="32-broker_topic">3.2 broker_topic</h3>
+
+<p>The <code class="language-plaintext highlighter-rouge">broker_topic</code> parameter holds the MQTT topic for the source associated with the sender. To facilitate filtering, the recommended format is <code class="language-plaintext highlighter-rouge">x-nmos/events/{version}/sources/{sourceId}</code>, where <code class="language-plaintext highlighter-rouge">{version}</code> is the version of this specification, e.g. <code class="language-plaintext highlighter-rouge">v1.0</code>, and <code class="language-plaintext highlighter-rouge">{sourceId}</code> is the associated source id.</p>
+
+<p>For a sender, this value is intended to be static. This means the IS-05 constraints should list the static value in an âenumâ for this parameter.
+For a receiver, an empty constraint object may be appropriate for this parameter.</p>
+
+<p>Message types (see <a href="2.0._Message_types.html">Message types</a>) which use this parameter as the publishing topic:</p>
+
+<ul>
+  <li>State</li>
+  <li>Reboot</li>
+  <li>Shutdown</li>
+</ul>
+
+<h3 id="33-connection_status_broker_topic">3.3 connection_status_broker_topic</h3>
+
+<p>The <code class="language-plaintext highlighter-rouge">connection_status_broker_topic</code> parameter holds the senderâs MQTT connection status topic. The recommended format is <code class="language-plaintext highlighter-rouge">x-nmos/events/{version}/connections/{connectionId}</code>.<br />
+The <code class="language-plaintext highlighter-rouge">{version}</code> is the version of this specification, e.g. <code class="language-plaintext highlighter-rouge">v1.0</code>.
+The <code class="language-plaintext highlighter-rouge">{connectionId}</code> can be one of the following:</p>
+
+<ul>
+  <li>sender id (if the MQTT connection on the sending side is unique to each sender)</li>
+  <li>device id (if the MQTT connection on the sending side is shared across a device)</li>
+  <li>node id (if the MQTT connection on the sending side is shared across the whole node)</li>
+  <li>any other persistent unique id as long as it creates a unique topic (for more on identifier persistence and generation, see the IS-04 specification)</li>
+</ul>
+
+<p>For a sender, this value is intended to be static. This means the IS-05 constraints should list the static value in an âenumâ for this parameter.
+For a receiver, an empty constraint object may be appropriate for this parameter.</p>
+
+<p>Message types (see <a href="2.0._Message_types.html">Message types</a>) which use this parameter as the publishing topic:</p>
+
+<ul>
+  <li>Connection status</li>
+</ul>
+
+<h3 id="34-broker_protocol">3.4 broker_protocol</h3>
+
+<p>The <code class="language-plaintext highlighter-rouge">broker_protocol</code> parameter provides an indication of whether TLS is used for communication with the broker.
+As specified in IS-05:</p>
+<ul>
+  <li>âmqttâ indicates operation without TLS, and âsecure-mqttâ indicates use of TLS.</li>
+  <li>If the parameter is set to âautoâ the sender or receiver should establish for itself which protocol it should use, based on a discovery mechanism or its own internal configuration.
+This specification recommends setting the default based on the <code class="language-plaintext highlighter-rouge">api_proto</code> value described in <a href="#7-broker-discovery">Broker discovery</a>.</li>
+</ul>
+
+<p>For senders and receivers that do not support both protocols, the IS-05 constraints should list the supported value in an âenumâ for this parameter.</p>
+
+<h3 id="35-broker_authorization">3.5 broker_authorization</h3>
+
+<p>The <code class="language-plaintext highlighter-rouge">broker_authorization</code> parameter is a boolean value which indicates whether authorization is used for communication with the broker.
+As specified in IS-05:</p>
+<ul>
+  <li>If the parameter is set to âautoâ the sender or receiver should establish for itself which protocol it should use, based on a discovery mechanism or its own internal configuration.
+This specification recommends setting the default based on the <code class="language-plaintext highlighter-rouge">api_auth</code> value described in <a href="#7-broker-discovery">Broker discovery</a>.</li>
+</ul>
+
+<p>For senders and receivers that do not support both modes, the IS-05 constraints should list the supported value in an âenumâ for this parameter.</p>
+
+<h3 id="36-ext_is_07_rest_api_url">3.6 ext_is_07_rest_api_url</h3>
+
+<p>The <code class="language-plaintext highlighter-rouge">ext_is_07_rest_api_url</code> parameter represents the URL to the Events API resource which offers the current state and type of an event emitter (source) (see <a href="6.0._Event_and_tally_rest_api.html">Events API</a>)</p>
+
+<p>For a sender, this value is intended to be static. This means the IS-05 constraints should list the static value in an âenumâ for this parameter.
+For a receiver, an empty constraint object may be appropriate for this parameter.</p>
+
+<p>The use of âautoâ is not defined for this parameter.</p>
+
+<p>Example of IS-05 PATCH request on a receiver:</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
+    </span><span class="nl">"sender_id"</span><span class="p">:</span><span class="w"> </span><span class="s2">"9f463872-9621-4939-aa3a-dc3c82d8578b"</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"master_enable"</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"activation"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+        </span><span class="nl">"mode"</span><span class="p">:</span><span class="w"> </span><span class="s2">"activate_immediate"</span><span class="p">,</span><span class="w">
+        </span><span class="nl">"requested_time"</span><span class="p">:</span><span class="w"> </span><span class="kc">null</span><span class="w">
+    </span><span class="p">},</span><span class="w">
+    </span><span class="nl">"transport_params"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
+        </span><span class="p">{</span><span class="w">
+            </span><span class="nl">"broker_topic"</span><span class="p">:</span><span class="w"> </span><span class="s2">"x-nmos/events/v1.0/sources/9f463872-9621-4939-aa3a-dc3c82d8578b"</span><span class="p">,</span><span class="w">
+            </span><span class="nl">"connection_status_broker_topic"</span><span class="p">:</span><span class="w"> </span><span class="s2">"x-nmos/events/v1.0/connections/a9c3cc7a-36f1-429c-b480-87b9d7e26b83"</span><span class="p">,</span><span class="w">
+            </span><span class="nl">"ext_is_07_rest_api_url"</span><span class="p">:</span><span class="w"> </span><span class="s2">"http://hostname/x-nmos/events/v1.0/sources/9f463872-9621-4939-aa3a-dc3c82d8578b/"</span><span class="w">
+        </span><span class="p">}</span><span class="w">
+    </span><span class="p">]</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<h3 id="37-disconnectingparking">3.7 Disconnecting/Parking</h3>
+
+<p>A disconnection IS-05 PATCH request should always trigger the receiver to unsubscribe from the associated <code class="language-plaintext highlighter-rouge">broker_topic</code> and <code class="language-plaintext highlighter-rouge">connection_status_broker_topic</code>.
+If multiple receivers share a connection to the broker then it is up to the implementer to only unsubscribe from the <code class="language-plaintext highlighter-rouge">connection_status_broker_topic</code> when it is no longer needed by any managed receivers.</p>
+
+<h3 id="38-connection-logic-flow">3.8 Connection logic flow</h3>
+
+<h4 id="step-1">Step 1</h4>
+
+<p>If the client does not currently have a connection to the MQTT broker indicated by <code class="language-plaintext highlighter-rouge">destination_host</code> and <code class="language-plaintext highlighter-rouge">destination_port</code> (for senders) or <code class="language-plaintext highlighter-rouge">source_host</code> and <code class="language-plaintext highlighter-rouge">source_port</code> (for receivers), it opens a connection.
+The <code class="language-plaintext highlighter-rouge">broker_protocol</code> and <code class="language-plaintext highlighter-rouge">broker_authorization</code> indicate how the connection should be negotiated.</p>
+
+<p>A sender client should specify a <code class="language-plaintext highlighter-rouge">connection_status</code> message with <code class="language-plaintext highlighter-rouge">"active"</code> set to false, as a retained <em>Will Message</em> in the <em>CONNECT packet</em>, using the <code class="language-plaintext highlighter-rouge">connection_status_broker_topic</code>.
+The sender client should then publish a retained <code class="language-plaintext highlighter-rouge">connection_status</code> message with <code class="language-plaintext highlighter-rouge">"active"</code> set to true, using the <code class="language-plaintext highlighter-rouge">connection_status_broker_topic</code>.</p>
+
+<p>If a receiver client does not already do so, it should subscribe to the <code class="language-plaintext highlighter-rouge">connection_status_broker_topic</code>.</p>
+
+<h4 id="step-2">Step 2</h4>
+
+<p>A sender should then start publishing <code class="language-plaintext highlighter-rouge">state</code> messages (and <code class="language-plaintext highlighter-rouge">reboot</code> or <code class="language-plaintext highlighter-rouge">shutdown</code> messages as required) to the <code class="language-plaintext highlighter-rouge">broker_topic</code>.</p>
+
+<p>A receiver should subscribe to the <code class="language-plaintext highlighter-rouge">broker_topic</code>.</p>
+
+<h4 id="step-3">Step 3</h4>
+
+<p>The client receives the initial (retained) state for the <code class="language-plaintext highlighter-rouge">broker_topic</code> thus solving the problem of late joiners.</p>
+
+<h4 id="step-4">Step 4</h4>
+
+<p>The client continues to receive events from all the sources to which it is subscribed.</p>
+
+<h4 id="step-5">Step 5</h4>
+
+<p>When disconnecting from the broker, a sender client should publish a retained <code class="language-plaintext highlighter-rouge">connection_status</code> message with <code class="language-plaintext highlighter-rouge">"active"</code> set to false, using the <code class="language-plaintext highlighter-rouge">connection_status_broker_topic</code>.
+(With MQTT Version 5.0, the client can just request the broker to publish the <em>Will Message</em> after closing the connection normally, by using <em>Disconnect wth Will Message</em> in the <em>DISCONNECT packet</em>.)</p>
+
+<h2 id="4-qos-settings">4. QoS Settings</h2>
+
+<p>MQTT publishers are recommended to use the QoS (Quality of Service) level <code class="language-plaintext highlighter-rouge">exactly once (2)</code>.</p>
+
+<h2 id="5-late-joiners">5. Late Joiners</h2>
+
+<p>MQTT publishers are required to set the <em>RETAIN flag</em> with every state message in order to solve the problem of late joiners.</p>
+
+<p>Consumers (receivers) have a choice to either use the retained message or query the late joiners API using <code class="language-plaintext highlighter-rouge">ext_is_07_rest_api_url</code> to access the latest state of an emitter in order to get in sync.</p>
+
+<h2 id="6-mqtt-will-message">6. MQTT Will Message</h2>
+
+<p>All event emitters (MQTT publishers) should specify a retained <em>Will Message</em> using the <code class="language-plaintext highlighter-rouge">connection_status_broker_topic</code> parameter as the publishing topic, as described in <a href="/is-07/releases/v1.0.1/docs/2.0._Message_types.html#14-the-connection-status-message-type">Message types - The connection status message type</a>.</p>
+
+<h2 id="7-broker-discovery">7. Broker discovery</h2>
+
+<p>The default MQTT broker should be advertised via the DNS-SD service type <code class="language-plaintext highlighter-rouge">_nmos-mqtt._tcp</code>.</p>
+
+<p><strong>api_proto</strong></p>
+
+<p>Each DNS-SD advertisement of this service type must be accompanied by a TXT record of name <code class="language-plaintext highlighter-rouge">api_proto</code> to indicate the transport protocol underlying MQTT.
+A value of <code class="language-plaintext highlighter-rouge">mqtt</code> indicates MQTT over TCP/IP, while a value of <code class="language-plaintext highlighter-rouge">secure-mqtt</code> indicates that the broker is using TLS on the port.</p>
+
+<p><strong>api_auth</strong></p>
+
+<p>Each DNS-SD advertisement of this service type must be accompanied by a TXT record of name <code class="language-plaintext highlighter-rouge">api_auth</code> to indicate whether authorization is required in order to interact with the broker.
+The value must be either the string <code class="language-plaintext highlighter-rouge">true</code> or the string <code class="language-plaintext highlighter-rouge">false</code>.</p>
+
+<p><a href="5.0._Transports.html">âTransports </a> Â· <a href=".."> Indexâ </a> Â· <a href="5.2._Transport_-_Websocket.html">Transport - Websocketâ</a></p>
+
+
+      </div>
+
+      <div class="footer border-top border-gray-light mt-5 pt-3 text-center text-gray">
+          Documentation built at 04:52:40 CDT on 2024-08-29. <br/>
+      
+      (c) AMWA 2024.
+      RAML/JSON licensed under <a href="https://www.apache.org/licenses/LICENSE-2.0.html">Apache 2.0</a>.
+      Documentation licensed under <a href="http://creativecommons.org/licenses/by-nd/4.0/">CC BY-ND 4.0</a>.
+      
+      </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+
+    
+
+
+    <script>
+    window.onscroll = function() {myFunction()};
+
+    var header = document.getElementById("menu-header");
+    var sticky = header.offsetTop;
+
+    function myFunction() {
+      if (window.pageYOffset > sticky) {
+        header.classList.add("sticky");
+      } else {
+        header.classList.remove("sticky");
+      }
+    }
+
+    </script>
+  </body>
+</html>

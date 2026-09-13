@@ -1,0 +1,334 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>humbucking-coil microphones | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+                
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+			<div id="content">
+                <div id="sidebar">                  
+                    					<h2 class="search">search for mics</h2>
+					<form action="/microphones" method="POST">
+										<script language="JavaScript" type="text/javascript">
+function clearText(field){
+
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+
+}
+					</script>
+						<fieldset>
+						    <input type="text" name="s" size="20" value="Microphone name or model number" style="color: #667;margin-left: 0;margin-bottom: 8px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)"><br />
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<fieldset class="checks">
+							<span class="shaft">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+							</span>
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">&nbsp;<input style="font-size: 8px" type="reset" name="button" value="Reset Form">
+						</fieldset>
+					</form>
+                            <p></p><h3>Definition of "humbucking-coil":</h3><p>Some moving-coil dynamic microphones employ a <b>humbucking coil</b> to reduce the pickup of electromagnetic interference (aka EMI / RFI or radio-frequency interference).</p>
+<h3>Refine Search</h3><p>Find mics tagged '<b>humbucking-coil</b> AND:'</p> 
+<p><a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil+dynamic" title="Mics tagged humbucking-coil AND dynamic">dynamic</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil+end-address" title="Mics tagged humbucking-coil AND end-address">end-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil+kick-drum" title="Mics tagged humbucking-coil AND kick-drum">kick-drum</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil+neodymium" title="Mics tagged humbucking-coil AND neodymium">neodymium</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil+yoke-mount" title="Mics tagged humbucking-coil AND yoke-mount">yoke-mount</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil+side-address" title="Mics tagged humbucking-coil AND side-address">side-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil+large-diaphragm" title="Mics tagged humbucking-coil AND large-diaphragm">large-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil+transformerless" title="Mics tagged humbucking-coil AND transformerless">transformerless</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil+dual-voice" title="Mics tagged humbucking-coil AND dual-voice">dual-voice</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil+rim-mount" title="Mics tagged humbucking-coil AND rim-mount">rim-mount</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil+handheld" title="Mics tagged humbucking-coil AND handheld">handheld</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil+tec-award" title="Mics tagged humbucking-coil AND tec-award">tec-award</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil+perception-live" title="Mics tagged humbucking-coil AND perception-live">perception-live</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil+evolution" title="Mics tagged humbucking-coil AND evolution">evolution</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil+gooseneck" title="Mics tagged humbucking-coil AND gooseneck">gooseneck</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil+broadcast" title="Mics tagged humbucking-coil AND broadcast">broadcast</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil+variable-d" title="Mics tagged humbucking-coil AND variable-d">variable-d</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil+ball-mic" title="Mics tagged humbucking-coil AND ball-mic">ball-mic</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil+hostaphan" title="Mics tagged humbucking-coil AND hostaphan">hostaphan</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil+transformer-coupled" title="Mics tagged humbucking-coil AND transformer-coupled">transformer-coupled</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil+hpf" title="Mics tagged humbucking-coil AND hpf">hpf</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil+varimotion" title="Mics tagged humbucking-coil AND varimotion">varimotion</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil+acoustalloy" title="Mics tagged humbucking-coil AND acoustalloy">acoustalloy</a> </p>
+<h3>Expand Search</h3><p>Find mics tagged '<b>humbucking-coil</b> OR:'</p>
+<p><a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil|dynamic" title="Mics tagged humbucking-coil OR dynamic">dynamic</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil|end-address" title="Mics tagged humbucking-coil OR end-address">end-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil|kick-drum" title="Mics tagged humbucking-coil OR kick-drum">kick-drum</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil|neodymium" title="Mics tagged humbucking-coil OR neodymium">neodymium</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil|yoke-mount" title="Mics tagged humbucking-coil OR yoke-mount">yoke-mount</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil|side-address" title="Mics tagged humbucking-coil OR side-address">side-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil|large-diaphragm" title="Mics tagged humbucking-coil OR large-diaphragm">large-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil|transformerless" title="Mics tagged humbucking-coil OR transformerless">transformerless</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil|dual-voice" title="Mics tagged humbucking-coil OR dual-voice">dual-voice</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil|rim-mount" title="Mics tagged humbucking-coil OR rim-mount">rim-mount</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil|handheld" title="Mics tagged humbucking-coil OR handheld">handheld</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil|tec-award" title="Mics tagged humbucking-coil OR tec-award">tec-award</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil|perception-live" title="Mics tagged humbucking-coil OR perception-live">perception-live</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil|evolution" title="Mics tagged humbucking-coil OR evolution">evolution</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil|gooseneck" title="Mics tagged humbucking-coil OR gooseneck">gooseneck</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil|broadcast" title="Mics tagged humbucking-coil OR broadcast">broadcast</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil|variable-d" title="Mics tagged humbucking-coil OR variable-d">variable-d</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil|ball-mic" title="Mics tagged humbucking-coil OR ball-mic">ball-mic</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil|hostaphan" title="Mics tagged humbucking-coil OR hostaphan">hostaphan</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil|transformer-coupled" title="Mics tagged humbucking-coil OR transformer-coupled">transformer-coupled</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil|hpf" title="Mics tagged humbucking-coil OR hpf">hpf</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil|varimotion" title="Mics tagged humbucking-coil OR varimotion">varimotion</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/humbucking-coil|acoustalloy" title="Mics tagged humbucking-coil OR acoustalloy">acoustalloy</a> </p>
+                </div><!-- /#sidebar -->
+                <div id="column" style="width: auto">
+						    <h2>Mics tagged: humbucking-coil</h2>
+			    <table>
+				                    <tr><td><a title="Electro-Voice ND68 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Electro-Voice/ND68" ><img src="//cdn.recordinghacks.com/images/mics/01784/01784_75.jpg" width="75" height="75" alt="Electro-Voice ND68" title="Electro-Voice ND68"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1784-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Electro-Voice ND68 - Features, Specifications, Datasheet" href="/microphones/Electro-Voice/ND68"><strong>Electro-Voice ND68</strong></a><br />
+                        Cardioid Dynamic Microphone<br />
+                        <a title="dynamic microphones"  href="//recordinghacks.com/microphones/tag/dynamic">dynamic</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="kick-drum microphones"  href="//recordinghacks.com/microphones/tag/kick-drum">kick-drum</a>, <a title="neodymium microphones"  href="//recordinghacks.com/microphones/tag/neodymium">neodymium</a>, <a title="humbucking-coil microphones"  href="//recordinghacks.com/microphones/tag/humbucking-coil">humbucking-coil</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Electro-Voice ND46 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Electro-Voice/ND46" ><img src="//cdn.recordinghacks.com/images/mics/01782/01782_75.jpg" width="75" height="75" alt="Electro-Voice ND46" title="Electro-Voice ND46"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1782-0" src="/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" >                        </span>
+                        <a title="Electro-Voice ND46 - Features, Specifications, Datasheet" href="/microphones/Electro-Voice/ND46"><strong>Electro-Voice ND46</strong></a><br />
+                        Supercardioid Dynamic Microphone<br />
+                        <a title="dynamic microphones"  href="//recordinghacks.com/microphones/tag/dynamic">dynamic</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="neodymium microphones"  href="//recordinghacks.com/microphones/tag/neodymium">neodymium</a>, <a title="yoke-mount microphones"  href="//recordinghacks.com/microphones/tag/yoke-mount">yoke-mount</a>, <a title="humbucking-coil microphones"  href="//recordinghacks.com/microphones/tag/humbucking-coil">humbucking-coil</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="AKG Acoustics D 12 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/AKG-Acoustics/D-12" ><img src="//cdn.recordinghacks.com/images/mics/01550/01550_75.jpg" width="75" height="75" alt="AKG Acoustics D 12" title="AKG Acoustics D 12"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1550-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="AKG Acoustics D 12 - Features, Specifications, Datasheet" href="/microphones/AKG-Acoustics/D-12"><strong>AKG Acoustics D 12</strong></a><br />
+                        Cardioid Dynamic Microphone<br />
+                        <a title="dynamic microphones"  href="//recordinghacks.com/microphones/tag/dynamic">dynamic</a>, <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="kick-drum microphones"  href="//recordinghacks.com/microphones/tag/kick-drum">kick-drum</a>, <a title="humbucking-coil microphones"  href="//recordinghacks.com/microphones/tag/humbucking-coil">humbucking-coil</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="beyerdynamic TG D70d - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/beyerdynamic/TG-D70d" ><img src="//cdn.recordinghacks.com/images/mics/01432/01432_75.jpg" width="75" height="75" alt="beyerdynamic TG D70d" title="beyerdynamic TG D70d"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1432-0" src="/images/icons/patterns/icon_hc.png" width=27 height=27 alt="Hypercardioid" title="Hypercardioid" >                        </span>
+                        <a title="beyerdynamic TG D70d - Features, Specifications, Datasheet" href="/microphones/beyerdynamic/TG-D70d"><strong>beyerdynamic TG D70d</strong></a><br />
+                        Dynamic Microphone<br />
+                        <a title="dynamic microphones"  href="//recordinghacks.com/microphones/tag/dynamic">dynamic</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="kick-drum microphones"  href="//recordinghacks.com/microphones/tag/kick-drum">kick-drum</a>, <a title="humbucking-coil microphones"  href="//recordinghacks.com/microphones/tag/humbucking-coil">humbucking-coil</a>, <a title="dual-voice microphones"  href="//recordinghacks.com/microphones/tag/dual-voice">dual-voice</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Sennheiser Electronics Corporation e 604 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Sennheiser/e-604" ><img src="//cdn.recordinghacks.com/images/mics/01394/01394_75.jpg" width="75" height="75" alt="Sennheiser Electronics Corporation e 604" title="Sennheiser Electronics Corporation e 604"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1394-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Sennheiser Electronics Corporation e 604 - Features, Specifications, Datasheet" href="/microphones/Sennheiser/e-604"><strong>Sennheiser Electronics Corporation e 604</strong></a><br />
+                        Cardioid Dynamic Microphone<br />
+                        <a title="dynamic microphones"  href="//recordinghacks.com/microphones/tag/dynamic">dynamic</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="humbucking-coil microphones"  href="//recordinghacks.com/microphones/tag/humbucking-coil">humbucking-coil</a>, <a title="rim-mount microphones"  href="//recordinghacks.com/microphones/tag/rim-mount">rim-mount</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Sennheiser Electronics Corporation e 935 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Sennheiser/e-935" ><img src="//cdn.recordinghacks.com/images/mics/01381/01381_75.jpg" width="75" height="75" alt="Sennheiser Electronics Corporation e 935" title="Sennheiser Electronics Corporation e 935"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1381-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Sennheiser Electronics Corporation e 935 - Features, Specifications, Datasheet" href="/microphones/Sennheiser/e-935"><strong>Sennheiser Electronics Corporation e 935</strong></a><br />
+                        Cardioid Dynamic Microphone<br />
+                        <a title="dynamic microphones"  href="//recordinghacks.com/microphones/tag/dynamic">dynamic</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="handheld microphones"  href="//recordinghacks.com/microphones/tag/handheld">handheld</a>, <a title="neodymium microphones"  href="//recordinghacks.com/microphones/tag/neodymium">neodymium</a>, <a title="humbucking-coil microphones"  href="//recordinghacks.com/microphones/tag/humbucking-coil">humbucking-coil</a>, <a title="tec-award microphones"  href="//recordinghacks.com/microphones/tag/tec-award">tec-award</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="AKG Acoustics P 4 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/AKG-Acoustics/P4" ><img src="//cdn.recordinghacks.com/images/mics/01365/01365_75.jpg" width="75" height="75" alt="AKG Acoustics P 4" title="AKG Acoustics P 4"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1365-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="AKG Acoustics P 4 - Features, Specifications, Datasheet" href="/microphones/AKG-Acoustics/P4"><strong>AKG Acoustics P 4</strong></a><br />
+                        Cardioid Dynamic Microphone<br />
+                        <a title="dynamic microphones"  href="//recordinghacks.com/microphones/tag/dynamic">dynamic</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="humbucking-coil microphones"  href="//recordinghacks.com/microphones/tag/humbucking-coil">humbucking-coil</a>, <a title="perception-live microphones"  href="//recordinghacks.com/microphones/tag/perception-live">perception-live</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="AKG Acoustics P 2 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/AKG-Acoustics/P2" ><img src="//cdn.recordinghacks.com/images/mics/01364/01364_75.jpg" width="75" height="75" alt="AKG Acoustics P 2" title="AKG Acoustics P 2"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1364-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="AKG Acoustics P 2 - Features, Specifications, Datasheet" href="/microphones/AKG-Acoustics/P2"><strong>AKG Acoustics P 2</strong></a><br />
+                        Cardioid Dynamic Microphone<br />
+                        <a title="dynamic microphones"  href="//recordinghacks.com/microphones/tag/dynamic">dynamic</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="kick-drum microphones"  href="//recordinghacks.com/microphones/tag/kick-drum">kick-drum</a>, <a title="humbucking-coil microphones"  href="//recordinghacks.com/microphones/tag/humbucking-coil">humbucking-coil</a>, <a title="perception-live microphones"  href="//recordinghacks.com/microphones/tag/perception-live">perception-live</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Sennheiser Electronics Corporation e 602 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Sennheiser/e602" ><img src="//cdn.recordinghacks.com/images/mics/01348/01348_75.jpg" width="75" height="75" alt="Sennheiser Electronics Corporation e 602" title="Sennheiser Electronics Corporation e 602"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1348-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Sennheiser Electronics Corporation e 602 - Features, Specifications, Datasheet" href="/microphones/Sennheiser/e602"><strong>Sennheiser Electronics Corporation e 602</strong></a><br />
+                        Cardioid Dynamic Microphone<br />
+                        <a title="dynamic microphones"  href="//recordinghacks.com/microphones/tag/dynamic">dynamic</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="kick-drum microphones"  href="//recordinghacks.com/microphones/tag/kick-drum">kick-drum</a>, <a title="humbucking-coil microphones"  href="//recordinghacks.com/microphones/tag/humbucking-coil">humbucking-coil</a>, <a title="evolution microphones"  href="//recordinghacks.com/microphones/tag/evolution">evolution</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Sennheiser Electronics Corporation e 602 II - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Sennheiser/e-602-II" ><img src="//cdn.recordinghacks.com/images/mics/01340/01340_75.jpg" width="75" height="75" alt="Sennheiser Electronics Corporation e 602 II" title="Sennheiser Electronics Corporation e 602 II"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1340-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Sennheiser Electronics Corporation e 602 II - Features, Specifications, Datasheet" href="/microphones/Sennheiser/e-602-II"><strong>Sennheiser Electronics Corporation e 602 II</strong></a><br />
+                        Cardioid Dynamic Microphone<br />
+                        <a title="dynamic microphones"  href="//recordinghacks.com/microphones/tag/dynamic">dynamic</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="kick-drum microphones"  href="//recordinghacks.com/microphones/tag/kick-drum">kick-drum</a>, <a title="humbucking-coil microphones"  href="//recordinghacks.com/microphones/tag/humbucking-coil">humbucking-coil</a>, <a title="evolution microphones"  href="//recordinghacks.com/microphones/tag/evolution">evolution</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Sennheiser Electronics Corporation MD 431 II - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Sennheiser/MD-431-II" ><img src="//cdn.recordinghacks.com/images/mics/01339/01339_75.jpg" width="75" height="75" alt="Sennheiser Electronics Corporation MD 431 II" title="Sennheiser Electronics Corporation MD 431 II"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1339-0" src="/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" >                        </span>
+                        <a title="Sennheiser Electronics Corporation MD 431 II - Features, Specifications, Datasheet" href="/microphones/Sennheiser/MD-431-II"><strong>Sennheiser Electronics Corporation MD 431 II</strong></a><br />
+                        Supercardioid Dynamic Microphone<br />
+                        <a title="dynamic microphones"  href="//recordinghacks.com/microphones/tag/dynamic">dynamic</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="handheld microphones"  href="//recordinghacks.com/microphones/tag/handheld">handheld</a>, <a title="humbucking-coil microphones"  href="//recordinghacks.com/microphones/tag/humbucking-coil">humbucking-coil</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Sennheiser Electronics Corporation e 815 S - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Sennheiser/e-815-S" ><img src="//cdn.recordinghacks.com/images/mics/01331/01331_75.jpg" width="75" height="75" alt="Sennheiser Electronics Corporation e 815 S" title="Sennheiser Electronics Corporation e 815 S"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1331-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Sennheiser Electronics Corporation e 815 S - Features, Specifications, Datasheet" href="/microphones/Sennheiser/e-815-S"><strong>Sennheiser Electronics Corporation e 815 S</strong></a><br />
+                        Cardioid Dynamic Microphone<br />
+                        <a title="dynamic microphones"  href="//recordinghacks.com/microphones/tag/dynamic">dynamic</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="handheld microphones"  href="//recordinghacks.com/microphones/tag/handheld">handheld</a>, <a title="neodymium microphones"  href="//recordinghacks.com/microphones/tag/neodymium">neodymium</a>, <a title="humbucking-coil microphones"  href="//recordinghacks.com/microphones/tag/humbucking-coil">humbucking-coil</a>, <a title="evolution microphones"  href="//recordinghacks.com/microphones/tag/evolution">evolution</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Sennheiser Electronics Corporation e 840 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Sennheiser/e-840" ><img src="//cdn.recordinghacks.com/images/mics/01330/01330_75.jpg" width="75" height="75" alt="Sennheiser Electronics Corporation e 840" title="Sennheiser Electronics Corporation e 840"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1330-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Sennheiser Electronics Corporation e 840 - Features, Specifications, Datasheet" href="/microphones/Sennheiser/e-840"><strong>Sennheiser Electronics Corporation e 840</strong></a><br />
+                        Cardioid Dynamic Microphone<br />
+                        <a title="dynamic microphones"  href="//recordinghacks.com/microphones/tag/dynamic">dynamic</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="handheld microphones"  href="//recordinghacks.com/microphones/tag/handheld">handheld</a>, <a title="humbucking-coil microphones"  href="//recordinghacks.com/microphones/tag/humbucking-coil">humbucking-coil</a>, <a title="evolution microphones"  href="//recordinghacks.com/microphones/tag/evolution">evolution</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Sennheiser Electronics Corporation e 838 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Sennheiser/e-838" ><img src="//cdn.recordinghacks.com/images/mics/01329/01329_75.jpg" width="75" height="75" alt="Sennheiser Electronics Corporation e 838" title="Sennheiser Electronics Corporation e 838"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1329-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Sennheiser Electronics Corporation e 838 - Features, Specifications, Datasheet" href="/microphones/Sennheiser/e-838"><strong>Sennheiser Electronics Corporation e 838</strong></a><br />
+                        Cardioid Dynamic Microphone<br />
+                        <a title="dynamic microphones"  href="//recordinghacks.com/microphones/tag/dynamic">dynamic</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="handheld microphones"  href="//recordinghacks.com/microphones/tag/handheld">handheld</a>, <a title="humbucking-coil microphones"  href="//recordinghacks.com/microphones/tag/humbucking-coil">humbucking-coil</a>, <a title="evolution microphones"  href="//recordinghacks.com/microphones/tag/evolution">evolution</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Sennheiser Electronics Corporation e 835 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Sennheiser/e-835" ><img src="//cdn.recordinghacks.com/images/mics/01328/01328_75.jpg" width="75" height="75" alt="Sennheiser Electronics Corporation e 835" title="Sennheiser Electronics Corporation e 835"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1328-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Sennheiser Electronics Corporation e 835 - Features, Specifications, Datasheet" href="/microphones/Sennheiser/e-835"><strong>Sennheiser Electronics Corporation e 835</strong></a><br />
+                        Cardioid Dynamic Microphone<br />
+                        <a title="dynamic microphones"  href="//recordinghacks.com/microphones/tag/dynamic">dynamic</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="handheld microphones"  href="//recordinghacks.com/microphones/tag/handheld">handheld</a>, <a title="humbucking-coil microphones"  href="//recordinghacks.com/microphones/tag/humbucking-coil">humbucking-coil</a>, <a title="evolution microphones"  href="//recordinghacks.com/microphones/tag/evolution">evolution</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Sennheiser Electronics Corporation e 825 S - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Sennheiser/e-825" ><img src="//cdn.recordinghacks.com/images/mics/01327/01327_75.jpg" width="75" height="75" alt="Sennheiser Electronics Corporation e 825 S" title="Sennheiser Electronics Corporation e 825 S"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1327-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Sennheiser Electronics Corporation e 825 S - Features, Specifications, Datasheet" href="/microphones/Sennheiser/e-825"><strong>Sennheiser Electronics Corporation e 825 S</strong></a><br />
+                        Cardioid Dynamic Microphone<br />
+                        <a title="dynamic microphones"  href="//recordinghacks.com/microphones/tag/dynamic">dynamic</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="handheld microphones"  href="//recordinghacks.com/microphones/tag/handheld">handheld</a>, <a title="humbucking-coil microphones"  href="//recordinghacks.com/microphones/tag/humbucking-coil">humbucking-coil</a>, <a title="evolution microphones"  href="//recordinghacks.com/microphones/tag/evolution">evolution</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Sennheiser Electronics Corporation e 608 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Sennheiser/e-608" ><img src="//cdn.recordinghacks.com/images/mics/01326/01326_75.jpg" width="75" height="75" alt="Sennheiser Electronics Corporation e 608" title="Sennheiser Electronics Corporation e 608"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1326-0" src="/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" >                        </span>
+                        <a title="Sennheiser Electronics Corporation e 608 - Features, Specifications, Datasheet" href="/microphones/Sennheiser/e-608"><strong>Sennheiser Electronics Corporation e 608</strong></a><br />
+                        Supercardioid Dynamic Microphone<br />
+                        <a title="dynamic microphones"  href="//recordinghacks.com/microphones/tag/dynamic">dynamic</a>, <a title="gooseneck microphones"  href="//recordinghacks.com/microphones/tag/gooseneck">gooseneck</a>, <a title="humbucking-coil microphones"  href="//recordinghacks.com/microphones/tag/humbucking-coil">humbucking-coil</a>, <a title="rim-mount microphones"  href="//recordinghacks.com/microphones/tag/rim-mount">rim-mount</a>, <a title="evolution microphones"  href="//recordinghacks.com/microphones/tag/evolution">evolution</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Sennheiser Electronics Corporation e 902 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Sennheiser/e902" ><img src="//cdn.recordinghacks.com/images/mics/01321/01321_75.jpg" width="75" height="75" alt="Sennheiser Electronics Corporation e 902" title="Sennheiser Electronics Corporation e 902"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1321-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Sennheiser Electronics Corporation e 902 - Features, Specifications, Datasheet" href="/microphones/Sennheiser/e902"><strong>Sennheiser Electronics Corporation e 902</strong></a><br />
+                        Cardioid Dynamic Microphone<br />
+                        <a title="dynamic microphones"  href="//recordinghacks.com/microphones/tag/dynamic">dynamic</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="kick-drum microphones"  href="//recordinghacks.com/microphones/tag/kick-drum">kick-drum</a>, <a title="humbucking-coil microphones"  href="//recordinghacks.com/microphones/tag/humbucking-coil">humbucking-coil</a>, <a title="evolution microphones"  href="//recordinghacks.com/microphones/tag/evolution">evolution</a>, <a title="tec-award microphones"  href="//recordinghacks.com/microphones/tag/tec-award">tec-award</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Sennheiser Electronics Corporation e 905 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Sennheiser/e905" ><img src="//cdn.recordinghacks.com/images/mics/01315/01315_75.jpg" width="75" height="75" alt="Sennheiser Electronics Corporation e 905" title="Sennheiser Electronics Corporation e 905"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1315-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Sennheiser Electronics Corporation e 905 - Features, Specifications, Datasheet" href="/microphones/Sennheiser/e905"><strong>Sennheiser Electronics Corporation e 905</strong></a><br />
+                        Cardioid Dynamic Microphone<br />
+                        <a title="dynamic microphones"  href="//recordinghacks.com/microphones/tag/dynamic">dynamic</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="humbucking-coil microphones"  href="//recordinghacks.com/microphones/tag/humbucking-coil">humbucking-coil</a>, <a title="evolution microphones"  href="//recordinghacks.com/microphones/tag/evolution">evolution</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Shure SM5B - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Shure/SM5B" ><img src="//cdn.recordinghacks.com/images/mics/01251/01251_75.jpg" width="75" height="75" alt="Shure SM5B" title="Shure SM5B"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1251-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Shure SM5B - Features, Specifications, Datasheet" href="/microphones/Shure/SM5B"><strong>Shure SM5B</strong></a><br />
+                        Cardioid Dynamic Microphone<br />
+                        <a title="dynamic microphones"  href="//recordinghacks.com/microphones/tag/dynamic">dynamic</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="yoke-mount microphones"  href="//recordinghacks.com/microphones/tag/yoke-mount">yoke-mount</a>, <a title="humbucking-coil microphones"  href="//recordinghacks.com/microphones/tag/humbucking-coil">humbucking-coil</a>, <a title="broadcast microphones"  href="//recordinghacks.com/microphones/tag/broadcast">broadcast</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Electro-Voice RE320 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Electro-Voice/RE320" ><img src="//cdn.recordinghacks.com/images/mics/01119/01119_75.jpg" width="75" height="75" alt="Electro-Voice RE320" title="Electro-Voice RE320"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1119-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Electro-Voice RE320 - Features, Specifications, Datasheet" href="/microphones/Electro-Voice/RE320"><strong>Electro-Voice RE320</strong></a><br />
+                        Dynamic Microphone<br />
+                        <a title="dynamic microphones"  href="//recordinghacks.com/microphones/tag/dynamic">dynamic</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="kick-drum microphones"  href="//recordinghacks.com/microphones/tag/kick-drum">kick-drum</a>, <a title="neodymium microphones"  href="//recordinghacks.com/microphones/tag/neodymium">neodymium</a>, <a title="variable-d microphones"  href="//recordinghacks.com/microphones/tag/variable-d">variable-d</a>, <a title="humbucking-coil microphones"  href="//recordinghacks.com/microphones/tag/humbucking-coil">humbucking-coil</a>, <a title="broadcast microphones"  href="//recordinghacks.com/microphones/tag/broadcast">broadcast</a>, <a title="dual-voice microphones"  href="//recordinghacks.com/microphones/tag/dual-voice">dual-voice</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Electro-Voice N/D357 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Electro-Voice/N-D357" ><img src="//cdn.recordinghacks.com/images/mics/00987/00987_75.jpg" width="75" height="75" alt="Electro-Voice N/D357" title="Electro-Voice N/D357"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="987-0" src="/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" >                        </span>
+                        <a title="Electro-Voice N/D357 - Features, Specifications, Datasheet" href="/microphones/Electro-Voice/N-D357"><strong>Electro-Voice N/D357</strong></a><br />
+                        Supercardioid Dynamic Microphone<br />
+                        <a title="dynamic microphones"  href="//recordinghacks.com/microphones/tag/dynamic">dynamic</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="handheld microphones"  href="//recordinghacks.com/microphones/tag/handheld">handheld</a>, <a title="neodymium microphones"  href="//recordinghacks.com/microphones/tag/neodymium">neodymium</a>, <a title="humbucking-coil microphones"  href="//recordinghacks.com/microphones/tag/humbucking-coil">humbucking-coil</a>, <a title="ball-mic microphones"  href="//recordinghacks.com/microphones/tag/ball-mic">ball-mic</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Sennheiser Electronics Corporation e 906 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Sennheiser/e906" ><img src="//cdn.recordinghacks.com/images/mics/00904/00904_75.jpg" width="75" height="75" alt="Sennheiser Electronics Corporation e 906" title="Sennheiser Electronics Corporation e 906"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="904-0" src="/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" >                        </span>
+                        <a title="Sennheiser Electronics Corporation e 906 - Features, Specifications, Datasheet" href="/microphones/Sennheiser/e906"><strong>Sennheiser Electronics Corporation e 906</strong></a><br />
+                        Supercardioid Dynamic Microphone<br />
+                        <a title="dynamic microphones"  href="//recordinghacks.com/microphones/tag/dynamic">dynamic</a>, <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="humbucking-coil microphones"  href="//recordinghacks.com/microphones/tag/humbucking-coil">humbucking-coil</a>, <a title="evolution microphones"  href="//recordinghacks.com/microphones/tag/evolution">evolution</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="beyerdynamic M 201 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/beyerdynamic/M-201-TG" ><img src="//cdn.recordinghacks.com/images/mics/00786/00786_75.jpg" width="75" height="75" alt="beyerdynamic M 201" title="beyerdynamic M 201"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="786-0" src="/images/icons/patterns/icon_hc.png" width=27 height=27 alt="Hypercardioid" title="Hypercardioid" >                        </span>
+                        <a title="beyerdynamic M 201 - Features, Specifications, Datasheet" href="/microphones/beyerdynamic/M-201-TG"><strong>beyerdynamic M 201</strong></a><br />
+                        Hypercardioid Dynamic Microphone<br />
+                        <a title="dynamic microphones"  href="//recordinghacks.com/microphones/tag/dynamic">dynamic</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="hostaphan microphones"  href="//recordinghacks.com/microphones/tag/hostaphan">hostaphan</a>, <a title="humbucking-coil microphones"  href="//recordinghacks.com/microphones/tag/humbucking-coil">humbucking-coil</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="beyerdynamic M 88 TG - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/beyerdynamic/M-88" ><img src="//cdn.recordinghacks.com/images/mics/00782/00782_75.jpg" width="75" height="75" alt="beyerdynamic M 88 TG" title="beyerdynamic M 88 TG"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="782-0" src="/images/icons/patterns/icon_hc.png" width=27 height=27 alt="Hypercardioid" title="Hypercardioid" >                        </span>
+                        <a title="beyerdynamic M 88 TG - Features, Specifications, Datasheet" href="/microphones/beyerdynamic/M-88"><strong>beyerdynamic M 88 TG</strong></a><br />
+                        Hypercardioid Dynamic Microphone<br />
+                        <a title="dynamic microphones"  href="//recordinghacks.com/microphones/tag/dynamic">dynamic</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="kick-drum microphones"  href="//recordinghacks.com/microphones/tag/kick-drum">kick-drum</a>, <a title="hostaphan microphones"  href="//recordinghacks.com/microphones/tag/hostaphan">hostaphan</a>, <a title="humbucking-coil microphones"  href="//recordinghacks.com/microphones/tag/humbucking-coil">humbucking-coil</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="AKG Acoustics D7 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/AKG-Acoustics/D7" ><img src="//cdn.recordinghacks.com/images/mics/00779/00779_75.jpg" width="75" height="75" alt="AKG Acoustics D7" title="AKG Acoustics D7"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="779-0" src="/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" >                        </span>
+                        <a title="AKG Acoustics D7 - Features, Specifications, Datasheet" href="/microphones/AKG-Acoustics/D7"><strong>AKG Acoustics D7</strong></a><br />
+                        Supercardioid Dynamic Microphone<br />
+                        <a title="dynamic microphones"  href="//recordinghacks.com/microphones/tag/dynamic">dynamic</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="handheld microphones"  href="//recordinghacks.com/microphones/tag/handheld">handheld</a>, <a title="neodymium microphones"  href="//recordinghacks.com/microphones/tag/neodymium">neodymium</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="varimotion microphones"  href="//recordinghacks.com/microphones/tag/varimotion">varimotion</a>, <a title="humbucking-coil microphones"  href="//recordinghacks.com/microphones/tag/humbucking-coil">humbucking-coil</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Electro-Voice RE16 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Electro-Voice/RE16" ><img src="//cdn.recordinghacks.com/images/mics/00371/00371_75.jpg" width="75" height="75" alt="Electro-Voice RE16" title="Electro-Voice RE16"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="371-0" src="/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" >                        </span>
+                        <a title="Electro-Voice RE16 - Features, Specifications, Datasheet" href="/microphones/Electro-Voice/RE16"><strong>Electro-Voice RE16</strong></a><br />
+                        Supercardioid Dynamic Microphone<br />
+                        <a title="dynamic microphones"  href="//recordinghacks.com/microphones/tag/dynamic">dynamic</a>, <a title="handheld microphones"  href="//recordinghacks.com/microphones/tag/handheld">handheld</a>, <a title="variable-d microphones"  href="//recordinghacks.com/microphones/tag/variable-d">variable-d</a>, <a title="acoustalloy microphones"  href="//recordinghacks.com/microphones/tag/acoustalloy">acoustalloy</a>, <a title="humbucking-coil microphones"  href="//recordinghacks.com/microphones/tag/humbucking-coil">humbucking-coil</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Shure SM7B - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Shure/SM7B" ><img src="//cdn.recordinghacks.com/images/mics/00241/00241_75.jpg" width="75" height="75" alt="Shure SM7B" title="Shure SM7B"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="241-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Shure SM7B - Features, Specifications, Datasheet" href="/microphones/Shure/SM7B"><strong>Shure SM7B</strong></a><br />
+                        Cardioid Dynamic Microphone<br />
+                        <a title="dynamic microphones"  href="//recordinghacks.com/microphones/tag/dynamic">dynamic</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="kick-drum microphones"  href="//recordinghacks.com/microphones/tag/kick-drum">kick-drum</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="humbucking-coil microphones"  href="//recordinghacks.com/microphones/tag/humbucking-coil">humbucking-coil</a>, <a title="broadcast microphones"  href="//recordinghacks.com/microphones/tag/broadcast">broadcast</a><br />                        </td></tr>
+	
+                                </table>
+
+
+                 <!-- end of $nada test -->
+                </div><!-- /#column -->
+			</div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('1784-0');uniqueids.push('1782-0');uniqueids.push('1550-0');uniqueids.push('1432-0');uniqueids.push('1394-0');uniqueids.push('1381-0');uniqueids.push('1365-0');uniqueids.push('1364-0');uniqueids.push('1348-0');uniqueids.push('1340-0');uniqueids.push('1339-0');uniqueids.push('1331-0');uniqueids.push('1330-0');uniqueids.push('1329-0');uniqueids.push('1328-0');uniqueids.push('1327-0');uniqueids.push('1326-0');uniqueids.push('1321-0');uniqueids.push('1315-0');uniqueids.push('1251-0');uniqueids.push('1119-0');uniqueids.push('987-0');uniqueids.push('904-0');uniqueids.push('786-0');uniqueids.push('782-0');uniqueids.push('779-0');uniqueids.push('371-0');uniqueids.push('241-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

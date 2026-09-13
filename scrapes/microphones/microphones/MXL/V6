@@ -1,0 +1,262 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>MXL V6 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="V6, Cardioid Condenser Microphone , aka: V-6 - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/MXL/V6" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The V6 is a FET version of the tube V69, and attempts to emulate the V69&#8217;s sound." href="//recordinghacks.com/microphones/MXL/V69"><img src="//cdn.recordinghacks.com/images/mics/00419/00419_75.jpg" width="75" height="75" alt="The V6 is a FET version of the tube V69, and attempts to emulate the V69&#8217;s sound." title="The V6 is a FET version of the tube V69, and attempts to emulate the V69&#8217;s sound."   ><br /><span>MXL V69 ME</span></a></li>
+                                                    <li class="mictile"><a title="The M3 and V6 were both part of MXL&#8217;s Silicon Valve series." href="//recordinghacks.com/microphones/MXL/M-3"><img src="//cdn.recordinghacks.com/images/mics/01086/01086_75.jpg" width="75" height="75" alt="The M3 and V6 were both part of MXL&#8217;s Silicon Valve series." title="The M3 and V6 were both part of MXL&#8217;s Silicon Valve series."   ><br /><span>MXL M3</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/MXL">MXL microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="MXL V6" href="/microphone-photo/00701/MXL/V6.jpg"><img src="//cdn.recordinghacks.com/images/mics/00701/00701_172.jpg" width="172" height="91" alt="MXL V6" title="MXL V6" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $399</li>
+                                        <li id="none"><em>Discontinued</em></li>                    </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/side-address" alt="side-address microphones">side-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/large-diaphragm" alt="large-diaphragm microphones">large-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformerless" alt="transformerless microphones">transformerless</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/condenser" alt="condenser microphones">condenser</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/silicon-valve" alt="silicon-valve microphones">silicon-valve</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/surface-mount" alt="surface-mount microphones">surface-mount</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/mxl/mxl_v6_announcement.pdf">MXL V6 2009 Relaunch Press Rel</a></li>
+                                                                    <li id="www"><a  href="http://www.eqmag.com/article/marshall-mxl-v6/apr-05/8148">EQ Magazine, 2005-04</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/mxl/V6-recording-review-200507.pdf">Recording Magazine, 2005-07</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/reviews/tapeop/mxl-v6/">Tape Op Review (issue #50)</a></li>
+                                                                </ul>                    
+                                        <h3>V6 Documentation</h3><ul class="man_list" id="icons16">
+                                                                                    </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="701-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>MXL V6</h2>
+                    
+                    <h2 class="sub">                    Cardioid Condenser Microphone</h2>
+                    <p>MXL&#8217;s V6 was the second &#8220;Silicon Valve&#8221; series microphone, intended to emulate tube warmth in a FET condenser design. It is a fixed-cardioid, large-diaphragm model. Unlike most MXL mics, which are manufactured in MXL&#8217;s plant in China, the V6 was designed and is manufactured in Marshall Electronics&#8217; southern-California facility.</p><p>It was discontinued in 2010 due to the lack of availability of some of the components.</p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/mxl/V6-pcb.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/mxl/V6-pcb-sm.jpg" class="thumb shaft" alt="MXL V6 PCB Circuit" width="200" /></a>Although previously described in this space as a transformer-coupled design (due to the EQ Magazine statement below), the mic has never had a transformer. (Rather, the V6&#8217;s Silicon-Valve sibling, the <a href="http://recordinghacks.com/microphones/MXL/M-3">M3</a>, had an output transformer.)</p><p>See also the &#8220;Rev 3&#8221; circuit board, pictured here. The circuit uses a combination of surface-mount and through-hole, discrete components.</p><p><span class="photocredit">[PCB photos: DJS~NJ]</span></p><blockquote><p><cite>EQ Magazine</cite></p><p>The internal mic circuitry is designed to amplify the &#8220;musical&#8221; even-order harmonics, while subduing odd-order harmonics, which are responsible for harsh, edgy sound quality. <strike>Transformers on the output stage also help enhance the tube-like qualities in the mics</strike> [Ed. EQ&#8217;s reviewer was incorrect; the mic had no transformer.]</p></blockquote><p>The V6 ships with a &#8220;hard mount&#8221; stand adapter that attaches to the bottom of the microphone (p/n MXL-V6-H). Optional accessories include metal-mesh pop filters and suspension mounts (e.g. MXL-57 &#8220;high isolation shockmount,&#8221; the MXL USM-001 &#8220;basket shockmount,&#8221; and the MXL USM-002 &#8220;low profile shockmount.&#8221;</p><blockquote><p><cite>EQ Magazine</cite></p><p>The V6 and the <a href="http://recordinghacks.com/microphones/MXL/V69">V69</a> are clearly cut from the same cloth. Both have a round, warm midrange, with open, present top end. There&#8217;s enough proximity effect to work with; the mics handle level well, so you can use them close and take advantage of proximity to fatten up the bottom end. As with the V69, I did find myself wishing for a lowcut filter on the V6 to tame the deep bass &#8220;thumpiness&#8221; that was revealed when monitoring through a subwoofer-equipped system.</p><p>&#8230;I enjoyed using the V6 for the same applications at which the V69 excelled. I liked it on male vocals, where it provides a full tone, with bright but smooth high end. The detailed, open top-end also worked well on steel-string acoustic guitars, delivering a thick sound with plenty of sparkle. Marshall is correct to characterize the mic as smooth sounding, with no &#8220;solid-state&#8221; harshness&#8230;</p><p>The V6 easily lives up to the claims made by Marshall Electronics. It&#8217;s a big sounding mic, with plenty of open top-end, good dynamic response, low noise, and a warm tone.</p></blockquote><p></p><blockquote><p><cite>Recording Magazine</cite></p><p>I was not impressed with the V6 sound on overheads &#8212; it dulled the sound of the cymbals, and did not let the highs breathe as much as I like; however, when used as close mics on a brushed snare, toms,and a ride cymbal&#8230; the sound was so up close, warm and pleasant it was sublime.</p></blockquote><p></p><blockquote><p><cite>Tape Op</cite></p><p>This could easily be the best solid-state mic I&#8217;ve ever used on acoustic guitar.</p></blockquote><p><p>The <a href="//recordinghacks.com/microphones/MXL/V6">MXL V6</a> is also known as: V-6.</p><p>The mic was released in 2005.</p>
+                    <h3>Specifications</h3>
+                                        
+                    <table>
+                                                    <tr><th>Frequency Response - Cardioid<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/0883" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/0/0883.png" width=476 height=159 alt="V6 Cardioid Frequency Response Chart" title="V6 Cardioid Frequency Response Chart" border=0 /></td></tr>
+                            </table>
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                                                                Cardioid
+                                             (22 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Capsule Dimensions</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                                                                                                        Diaphragm diameter: 25mm<br />
+                                                                                            Capsule diameter: 32mm<br />
+                                                                                                                            Diaphragm gauge: 6 microns                                                                    </td>
+                            <td>120 Ohms <em class="mute">(Low)</em></td>
+                            <td>Max SPL: 130 dB<br />                                Self-noise: 16.0 dB(A)</td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>522g <em class="mute">(18.41oz)</em></td>
+                            <td>215mm <em class="mute">(8.46&#39;&#39;)</em></td>
+                            <td>47mm <em class="mute">(1.85&#39;&#39;)</em></td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                        <li>Requires phantom power </li>
+                                                                                                                                                                                <li>Phantom voltage: 48 &plusmn; 4v</li>
+                                        </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('701-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

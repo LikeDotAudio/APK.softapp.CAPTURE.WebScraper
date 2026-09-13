@@ -1,0 +1,5 @@
+## Mics tagged: 12ax7 AND end-address
+
+|  |  |
+| --- | --- |
+| [CharterOak Acoustic Devices S600](http://recordinghacks.com/microphones/CharterOak/S600 "CharterOak Acoustic Devices S600 - Features, Specifications, Datasheet") | Cardioid  [**CharterOak Acoustic Devices S600**](/microphones/CharterOak/S600 "CharterOak Acoustic Devices S600 - Features, Specifications, Datasheet")  Cardioid Tube Condenser Microphone  [large-diaphragm](//recordinghacks.com/microphones/tag/large-diaphragm "large-diaphragm microphones"), [tube](//recordinghacks.com/microphones/tag/tube "tube microphones"), [transformer-coupled](//recordinghacks.com/microphones/tag/transformer-coupled "transformer-coupled microphones"), [12ax7](//recordinghacks.com/microphones/tag/12ax7 "12ax7 microphones"), [edge-terminated](//recordinghacks.com/microphones/tag/edge-terminated "edge-terminated microphones"), [end-address](//recordinghacks.com/microphones/tag/end-address "end-address microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [ecc83](//recordinghacks.com/microphones/tag/ecc83 "ecc83 microphones") |

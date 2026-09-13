@@ -1,0 +1,5 @@
+## Mics tagged: akg-uls
+
+|  |  |
+| --- | --- |
+| [AKG Acoustics C 480 B](http://recordinghacks.com/microphones/AKG-Acoustics/C-480-B "AKG Acoustics C 480 B - Features, Specifications, Datasheet") | OmnidirectionalCardioidHypercardioidShotgun  [**AKG Acoustics C 480 B**](/microphones/AKG-Acoustics/C-480-B "AKG Acoustics C 480 B - Features, Specifications, Datasheet")  Detachable-Capsule Pencil Condenser Microphone  [transformerless](//recordinghacks.com/microphones/tag/transformerless "transformerless microphones"), [detachable-capsule](//recordinghacks.com/microphones/tag/detachable-capsule "detachable-capsule microphones"), [end-address](//recordinghacks.com/microphones/tag/end-address "end-address microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [hpf](//recordinghacks.com/microphones/tag/hpf "hpf microphones"), [akg-uls](//recordinghacks.com/microphones/tag/akg-uls "akg-uls microphones") |

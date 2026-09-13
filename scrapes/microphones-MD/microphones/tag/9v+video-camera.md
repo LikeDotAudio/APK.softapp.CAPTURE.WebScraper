@@ -1,0 +1,5 @@
+## Mics tagged: 9v AND video-camera
+
+|  |  |
+| --- | --- |
+| [RØDE Stereo VideoMic](http://recordinghacks.com/microphones/Rode/Stereo-VideoMic "RØDE Stereo VideoMic - Features, Specifications, Datasheet") | X/Y Stereo  [**RØDE Stereo VideoMic**](/microphones/Rode/Stereo-VideoMic "RØDE Stereo VideoMic - Features, Specifications, Datasheet")  X/Y Stereo Condenser Stereo Microphone  [stereo](//recordinghacks.com/microphones/tag/stereo "stereo microphones"), [end-address](//recordinghacks.com/microphones/tag/end-address "end-address microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [xy-stereo](//recordinghacks.com/microphones/tag/xy-stereo "xy-stereo microphones"), [hpf](//recordinghacks.com/microphones/tag/hpf "hpf microphones"), [battery-power](//recordinghacks.com/microphones/tag/battery-power "battery-power microphones"), [9v](//recordinghacks.com/microphones/tag/9v "9v microphones"), [video-camera](//recordinghacks.com/microphones/tag/video-camera "video-camera microphones") |

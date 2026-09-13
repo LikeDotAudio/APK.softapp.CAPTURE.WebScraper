@@ -1,0 +1,286 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>AKG Acoustics C 414 EB | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="C 414 EB, Multi-Pattern Condenser Microphone , aka: C414EB - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/AKG-Acoustics/C-414-EB" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The C414EB and P48 differed in circuitry and sensitivity, but shared a capsule and body design." href="//recordinghacks.com/microphones/AKG-Acoustics/C-414-EB-P48"><img src="//cdn.recordinghacks.com/images/mics/01005/01005_75.jpg" width="75" height="75" alt="The C414EB and P48 differed in circuitry and sensitivity, but shared a capsule and body design." title="The C414EB and P48 differed in circuitry and sensitivity, but shared a capsule and body design."   ><br /><span>AKG C 414 EB P48</span></a></li>
+                                                    <li class="mictile"><a title="The CM 414 circuit and capsule are reproductions of the AKG C 414 EB." href="//recordinghacks.com/microphones/Advanced-Audio-Microphones/CM-414"><img src="//cdn.recordinghacks.com/images/mics/01466/01466_75.jpg" width="75" height="75" alt="The CM 414 circuit and capsule are reproductions of the AKG C 414 EB." title="The CM 414 circuit and capsule are reproductions of the AKG C 414 EB."   ><br /><span>Advanced Audio CM-414</span></a></li>
+                                                    <li class="mictile"><a title="The P-14 is a modern take on the 1976 C 414 EB." href="//recordinghacks.com/microphones//"><img src="//cdn.recordinghacks.com/images/mics/01878/01878_75.jpg" width="75" height="75" alt="The P-14 is a modern take on the 1976 C 414 EB." title="The P-14 is a modern take on the 1976 C 414 EB."   ><br /><span> </span></a></li>
+                                                    <li class="mictile"><a title="The WA-14 is inspired by the C 414 EB." href="//recordinghacks.com/microphones//"><img src="//cdn.recordinghacks.com/images/mics/01895/01895_75.jpg" width="75" height="75" alt="The WA-14 is inspired by the C 414 EB." title="The WA-14 is inspired by the C 414 EB."   ><br /><span> </span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/AKG-Acoustics">AKG microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                            <a name="mods"></a><div class="graybox"><h3>Mods for the C 414 EB</h3>
+                        <ul class="mod_list">
+                                                    <li style="font-family: Georgia, Serif;"><b>The Mic Shop</b><a href="//recordinghacks.com/microphones/MicShop"><img style="border: 0; padding: 0 0 6px 3px" src="//recordinghacks.com/images/logos/logo_micshop.jpg" height=75 width=75 alt="The Mic Shop" /></a>                            <br />Bill Bradley restores vintage mics in Nashville, TN.</li>
+                                                </ul><br clear="all" />
+                    </div>            
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="AKG Acoustics C 414 EB" href="/microphone-photo/01004/AKG-Acoustics/C-414-EB.jpg"><img src="//cdn.recordinghacks.com/images/mics/01004/01004_172.jpg" width="172" height="101" alt="AKG Acoustics C 414 EB" title="AKG Acoustics C 414 EB" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: n/a</li>
+                                        <li id="none"><em>Discontinued</em></li>                    </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/side-address" alt="side-address microphones">side-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/large-diaphragm" alt="large-diaphragm microphones">large-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/dual-diaphragm" alt="dual-diaphragm microphones">dual-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/multipattern" alt="multipattern microphones">multipattern</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformer-coupled" alt="transformer-coupled microphones">transformer-coupled</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/edge-terminated" alt="edge-terminated microphones">edge-terminated</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/ck12" alt="ck12 microphones">ck12</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/condenser" alt="condenser microphones">condenser</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/hpf" alt="hpf microphones">hpf</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.saturn-sound.com/Curio%27s/story%20of%20the%20akg%20c414.htm">C414 History at Saturn-Sound</a></li>
+                                                                </ul>                    
+                                        <h3>C 414 EB Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.akg.com/site/products/powerslave,id,521,pid,521,nodeid,3,_language,EN.html">C414 Historical Product Info</a></li>
+                                                                    <li id="image"><a rel="shadowbox" href="http://danalexanderaudio.com/Micpics/AKG/AkgC414.jpg">C414EB Brochure</a></li>
+                                                                    <li id="image"><a rel="shadowbox" href="http://recordinghacks.com/images/mic_extras/akg/C414EB-cutsheet1.jpg">C414 EB Cutsheet (pg 1)</a></li>
+                                                                    <li id="image"><a rel="shadowbox" href="http://recordinghacks.com/images/mic_extras/akg/C414EB-cutsheet2.jpg">C414 EB Cutsheet (pg 2)</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/akg/C414EB-service-doc.pdf">C414 EB Service Documentation</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/akg/C414EB-manual.pdf">AKG C414 EB User&#8217;s Guide</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="1004-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="1004-1" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="1004-2" src="//cdn.recordinghacks.com/images/icons/patterns/icon_hc.png" width=27 height=27 alt="Hypercardioid" title="Hypercardioid" ><img id="1004-3" src="//cdn.recordinghacks.com/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ></span>AKG Acoustics C 414 EB</h2>
+                    
+                    <h2 class="sub">                    Multi-Pattern Condenser Microphone</h2>
+                    <p>The 414EB was the second-generation C414 microphone from AKG. Like its predecessor, it combined AKG&#8217;s famous CK-12 capsule with a solid-state amplifier circuit. </p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/akg/C414EB-schematic.png"><img src="//cdn.recordinghacks.com/images/mic_extras/akg/C414EB-schematic-sm.png" class="thumb shaft" alt="AKG C414EB Schematic" width="200" /></a>The EB revision introduced a 3-way high-pass filter, and upgraded the -10dB pad to include a -20dB option; both were selectable via switches on the rear of the mic body, below the microphone capsule.</p><ul><li>The left-side switch controls the pad: 0dB, -10dB, -20dB.</li><li>The right switch controls the HPF: flat, -12dB/octave @ 75Hz, -12dB/octave @ 150Hz.</li></ul><p>As with the original C414, the EB provided 4 polar patterns &#8212; Cardioid, Omni, Figure-of-8, and Hypercardioid &#8212; selectable via a switch below the capsule on the front of the microphone body.</p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/akg/C414EB-capsules.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/akg/C414EB-capsules-sm.jpg" class="thumb shaft" alt="AKG CK-12 Capsule Comparison, by Markus Sauschlager" width="200" /></a>The first production runs of the C414EB used AKG&#8217;s original CK-12 capsule, now known as the &#8220;brass&#8221; CK-12. To reduce manufacturing costs, AKG developed a variation that used fewer parts and an easier assembly method &#8212; notably, it used a &#8220;nylon&#8221; ring that snapped the diaphragm in place, rather than the brass tensioning ring that was screwed down.</p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/akg/C414EB-exploded.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/akg/C414EB-exploded-sm.jpg" class="thumb shaft" alt="AKG C414EB exploded view; photo by Bo Hansen, Hansen Audio, Sweden" width="133" /></a>The 414EB shipped with a stand adapter (AKG p/n SA 18/3), a foam windscreen (p/n W 26), and a plot of the mic&#8217;s frequency-response curve.</p><p><div style="margin-left: 1em;font-family: Verdana,Sans-Serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 10px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none;">Photo credits:<br />CK-12 capsules: Markus Sauschlager, Austria<br />C414EB exploded view: Hans&eacute;n Audio, Sweden</div><p>The <a href="//recordinghacks.com/microphones/AKG-Acoustics/C-414-EB">AKG Acoustics C 414 EB</a> is also known as: C414EB.</p><p>The mic was released in 1976.</p>
+                    <h3>Specifications</h3>
+                                        
+                    <table>
+                                                    <tr><th>Frequency Response - Omnidirectional<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/1350" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/1/1350.png" width=476 height=159 alt="C 414 EB Omnidirectional Frequency Response Chart" title="C 414 EB Omnidirectional Frequency Response Chart" border=0 /></td></tr>
+                                                        <tr><th>Frequency Response - Cardioid<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/1349" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/1/1349.png" width=476 height=159 alt="C 414 EB Cardioid Frequency Response Chart" title="C 414 EB Cardioid Frequency Response Chart" border=0 /></td></tr>
+                                                        <tr><th>Frequency Response - Hypercardioid<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/1351" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/1/1351.png" width=476 height=159 alt="C 414 EB Hypercardioid Frequency Response Chart" title="C 414 EB Hypercardioid Frequency Response Chart" border=0 /></td></tr>
+                                                        <tr><th>Frequency Response - Bidirectional<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/1352" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/1/1352.png" width=476 height=159 alt="C 414 EB Bidirectional Frequency Response Chart" title="C 414 EB Bidirectional Frequency Response Chart" border=0 /></td></tr>
+                            </table>
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                                                                Omnidirectional
+                                             (6 mV/Pa; 30 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                                                            Cardioid
+                                             (6 mV/Pa; 30 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                                                            Hypercardioid
+                                             (6 mV/Pa; 30 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                                                            Bidirectional
+                                             (6 mV/Pa; 30 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                    <li>Pad: -10dB<small> (Via Switch)</small></li>
+                                                                        <li>Pad: -20dB<small> (Via Switch)</small></li>
+                                                                        <li>Filter: HPF: -12 dB/octave @ 75Hz<small> (Via Switch)</small></li>
+                                                                        <li>Filter: HPF: -12 dB/octave @150Hz<small> (Via Switch)</small></li>
+                                                                    </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Capsule Dimensions</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                                                            Diameter n/a<br />
+                                                                                                                                                    </td>
+                            <td>n/a</td>
+                            <td>Max SPL: 155 dB<br />                                Self-noise: 17.0 dB(A)</td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>360g <em class="mute">(12.70oz)</em></td>
+                            <td>141mm <em class="mute">(5.55&#39;&#39;)</em></td>
+                            <td>n/a</td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                        <li>Requires phantom power </li>
+                                                                                                                                                                                <li>Phantom voltage: 9&ndash;52v</li>
+                                        </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('1004-0');uniqueids.push('1004-1');uniqueids.push('1004-2');uniqueids.push('1004-3');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

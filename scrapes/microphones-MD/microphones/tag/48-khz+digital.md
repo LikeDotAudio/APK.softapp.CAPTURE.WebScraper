@@ -1,0 +1,5 @@
+## Mics tagged: 48-khz AND digital
+
+|  |  |
+| --- | --- |
+| [Milab Microphones DM-1001](http://recordinghacks.com/microphones/Milab/DM-1001 "Milab Microphones DM-1001 - Features, Specifications, Datasheet") | continuously variable pattern selection [**Milab Microphones DM-1001**](/microphones/Milab/DM-1001 "Milab Microphones DM-1001 - Features, Specifications, Datasheet")  Multi-Pattern Condenser Microphone  [side-address](//recordinghacks.com/microphones/tag/side-address "side-address microphones"), [dual-diaphragm](//recordinghacks.com/microphones/tag/dual-diaphragm "dual-diaphragm microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [24-bit](//recordinghacks.com/microphones/tag/24-bit "24-bit microphones"), [48-khz](//recordinghacks.com/microphones/tag/48-khz "48-khz microphones"), [rectangular-diaphragm](//recordinghacks.com/microphones/tag/rectangular-diaphragm "rectangular-diaphragm microphones"), [digital](//recordinghacks.com/microphones/tag/digital "digital microphones") |

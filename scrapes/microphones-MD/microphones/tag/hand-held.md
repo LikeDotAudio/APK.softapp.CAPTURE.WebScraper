@@ -1,0 +1,6 @@
+## Mics tagged: hand-held
+
+|  |  |
+| --- | --- |
+| [Shure PGA-58](http://recordinghacks.com/microphones/Shure/PGA-58 "Shure PGA-58 - Features, Specifications, Datasheet") | Omnidirectional  [**Shure PGA-58**](/microphones/Shure/PGA-58 "Shure PGA-58 - Features, Specifications, Datasheet")  Omnidirectional Condenser Microphone  [dynamic](//recordinghacks.com/microphones/tag/dynamic "dynamic microphones"), [end-address](//recordinghacks.com/microphones/tag/end-address "end-address microphones"), [hand-held](//recordinghacks.com/microphones/tag/hand-held "hand-held microphones") |
+| [SE Electronics V3](http://recordinghacks.com/microphones/SE-Electronics/V3 "SE Electronics V3 - Features, Specifications, Datasheet") | Cardioid  [**SE Electronics V3**](/microphones/SE-Electronics/V3 "SE Electronics V3 - Features, Specifications, Datasheet")  Cardioid Dynamic Microphone  [dynamic](//recordinghacks.com/microphones/tag/dynamic "dynamic microphones"), [end-address](//recordinghacks.com/microphones/tag/end-address "end-address microphones"), [hand-held](//recordinghacks.com/microphones/tag/hand-held "hand-held microphones") |

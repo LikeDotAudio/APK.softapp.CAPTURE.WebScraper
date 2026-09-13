@@ -1,0 +1,5 @@
+## Mics tagged: 12ax7 AND aluminum-diaphragm
+
+|  |  |
+| --- | --- |
+| [Aseyer Electric Technology Nanjing Co D36A](http://recordinghacks.com/microphones/Aseyer/D36A "Aseyer Electric Technology Nanjing Co D36A - Features, Specifications, Datasheet") | Cardioid  [**Aseyer Electric Technology Nanjing Co D36A**](/microphones/Aseyer/D36A "Aseyer Electric Technology Nanjing Co D36A - Features, Specifications, Datasheet")  Cardioid Tube Condenser Microphone  [side-address](//recordinghacks.com/microphones/tag/side-address "side-address microphones"), [large-diaphragm](//recordinghacks.com/microphones/tag/large-diaphragm "large-diaphragm microphones"), [tube](//recordinghacks.com/microphones/tag/tube "tube microphones"), [transformerless](//recordinghacks.com/microphones/tag/transformerless "transformerless microphones"), [12ax7](//recordinghacks.com/microphones/tag/12ax7 "12ax7 microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [aluminum-diaphragm](//recordinghacks.com/microphones/tag/aluminum-diaphragm "aluminum-diaphragm microphones") |

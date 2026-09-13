@@ -1,0 +1,5 @@
+## Mics tagged: ac701 AND hpf
+
+|  |  |
+| --- | --- |
+| [Neumann M 269 C](http://recordinghacks.com/microphones/Neumann/M-269 "Neumann M 269 C - Features, Specifications, Datasheet") | continuously variable pattern selection [**Neumann M 269 C**](/microphones/Neumann/M-269 "Neumann M 269 C - Features, Specifications, Datasheet")  Multi-Pattern Tube Condenser Microphone  [side-address](//recordinghacks.com/microphones/tag/side-address "side-address microphones"), [large-diaphragm](//recordinghacks.com/microphones/tag/large-diaphragm "large-diaphragm microphones"), [tube](//recordinghacks.com/microphones/tag/tube "tube microphones"), [multipattern](//recordinghacks.com/microphones/tag/multipattern "multipattern microphones"), [k67](//recordinghacks.com/microphones/tag/k67 "k67 microphones"), [transformer-coupled](//recordinghacks.com/microphones/tag/transformer-coupled "transformer-coupled microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [hpf](//recordinghacks.com/microphones/tag/hpf "hpf microphones"), [ac701](//recordinghacks.com/microphones/tag/ac701 "ac701 microphones") |

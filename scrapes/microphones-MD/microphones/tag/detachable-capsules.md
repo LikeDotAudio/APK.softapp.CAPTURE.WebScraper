@@ -1,0 +1,5 @@
+## Mics tagged: detachable-capsules
+
+|  |  |
+| --- | --- |
+| [Telefunken Elektroakustik M60 FET](http://recordinghacks.com/microphones/Telefunken-USA/M60-FET "Telefunken Elektroakustik M60 FET - Features, Specifications, Datasheet") | OmnidirectionalCardioidHypercardioid  [**Telefunken Elektroakustik M60 FET**](/microphones/Telefunken-USA/M60-FET "Telefunken Elektroakustik M60 FET - Features, Specifications, Datasheet")  Detachable-Capsule Pencil Condenser Microphone  [pencil-mic](//recordinghacks.com/microphones/tag/pencil-mic "pencil-mic microphones"), [transformer-coupled](//recordinghacks.com/microphones/tag/transformer-coupled "transformer-coupled microphones"), [end-address](//recordinghacks.com/microphones/tag/end-address "end-address microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [detachable-capsules](//recordinghacks.com/microphones/tag/detachable-capsules "detachable-capsules microphones") |

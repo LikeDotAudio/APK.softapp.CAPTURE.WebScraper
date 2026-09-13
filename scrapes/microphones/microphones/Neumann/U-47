@@ -1,0 +1,300 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Neumann U 47 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="U 47, Multi-Pattern Tube Condenser Microphone , aka: U47 - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/Neumann/U-47" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The MA-200&#8217;s tube amp circuit design is similar to that of the U-47." href="//recordinghacks.com/microphones/Mojave-Audio/MA-200"><img src="//cdn.recordinghacks.com/images/mics/00428/00428_75.jpg" width="75" height="75" alt="The MA-200&#8217;s tube amp circuit design is similar to that of the U-47." title="The MA-200&#8217;s tube amp circuit design is similar to that of the U-47."   ><br /><span>Mojave Audio MA-200</span></a></li>
+                                                    <li class="mictile"><a title="The Soundelux E47 was modeled after the Neumann U-47." href="//recordinghacks.com/microphones/Soundelux/E47"><img src="//cdn.recordinghacks.com/images/mics/00489/00489_75.jpg" width="75" height="75" alt="The Soundelux E47 was modeled after the Neumann U-47." title="The Soundelux E47 was modeled after the Neumann U-47."   ><br /><span>Soundelux E47</span></a></li>
+                                                    <li class="mictile"><a title="The CM-47 design is based on the Neumann U-47." href="//recordinghacks.com/microphones/Advanced-Audio-Microphones/CM-47"><img src="//cdn.recordinghacks.com/images/mics/00493/00493_75.jpg" width="75" height="75" alt="The CM-47 design is based on the Neumann U-47." title="The CM-47 design is based on the Neumann U-47."   ><br /><span>Advanced Audio CM-47</span></a></li>
+                                                    <li class="mictile"><a title="The Bock 507 employs an amplifier circuit based on the tube U47 design." href="//recordinghacks.com/microphones/bock-audio/507"><img src="//cdn.recordinghacks.com/images/mics/00580/00580_75.jpg" width="75" height="75" alt="The Bock 507 employs an amplifier circuit based on the tube U47 design." title="The Bock 507 employs an amplifier circuit based on the tube U47 design."   ><br /><span>Bock Audio 507</span></a></li>
+                                                    <li class="mictile"><a title="The U47fet is a FET version of the U47 tube microphone." href="//recordinghacks.com/microphones/Neumann/U47fet"><img src="//cdn.recordinghacks.com/images/mics/00582/00582_75.jpg" width="75" height="75" alt="The U47fet is a FET version of the U47 tube microphone." title="The U47fet is a FET version of the U47 tube microphone."   ><br /><span>Neumann U47 fet</span></a></li>
+                                                    <li class="mictile"><a title="The E47C is a recreation of the Neumann U-47." href="//recordinghacks.com/microphones/Soundelux/E47C"><img src="//cdn.recordinghacks.com/images/mics/00585/00585_75.jpg" width="75" height="75" alt="The E47C is a recreation of the Neumann U-47." title="The E47C is a recreation of the Neumann U-47."   ><br /><span>Soundelux E47C</span></a></li>
+                                                    <li class="mictile"><a title="The L47 is a reinterpretation of the Neumann U-47." href="//recordinghacks.com/microphones/Lawson/L47"><img src="//cdn.recordinghacks.com/images/mics/00579/00579_75.jpg" width="75" height="75" alt="The L47 is a reinterpretation of the Neumann U-47." title="The L47 is a reinterpretation of the Neumann U-47."   ><br /><span>Lawson L47MP MKII</span></a></li>
+                                                    <li class="mictile"><a title="The 22 47 series of mics were modeled after the U-47." href="//recordinghacks.com/microphones/Peluso-Microphone-Lab/22-47-LE"><img src="//cdn.recordinghacks.com/images/mics/00403/00403_75.jpg" width="75" height="75" alt="The 22 47 series of mics were modeled after the U-47." title="The 22 47 series of mics were modeled after the U-47."   ><br /><span>Peluso 22 47 LE</span></a></li>
+                                                    <li class="mictile"><a title="Peluso&#8217;s 22 47 SE is modeled after the U-47." href="//recordinghacks.com/microphones/Peluso-Microphone-Lab/22-47-SE"><img src="//cdn.recordinghacks.com/images/mics/00733/00733_75.jpg" width="75" height="75" alt="Peluso&#8217;s 22 47 SE is modeled after the U-47." title="Peluso&#8217;s 22 47 SE is modeled after the U-47."   ><br /><span>Peluso 22 47 SE</span></a></li>
+                                                    <li class="mictile"><a title="The U-47M is modeled after the U-47." href="//recordinghacks.com/microphones/Telefunken-USA/U-47M"><img src="//cdn.recordinghacks.com/images/mics/00743/00743_75.jpg" width="75" height="75" alt="The U-47M is modeled after the U-47." title="The U-47M is modeled after the U-47."   ><br /><span>Telefunken U 47M</span></a></li>
+                                                    <li class="mictile"><a title="The Wunder CM7 is a reproduction" href="//recordinghacks.com/microphones/Wunder-Audio/CM7"><img src="//cdn.recordinghacks.com/images/mics/00753/00753_75.jpg" width="75" height="75" alt="The Wunder CM7 is a reproduction" title="The Wunder CM7 is a reproduction"   ><br /><span>Wunder Audio CM7</span></a></li>
+                                                    <li class="mictile"><a title="The M49 shared capsules (both M7 and K47/K49) with the U-47." href="//recordinghacks.com/microphones/Neumann/M-49"><img src="//cdn.recordinghacks.com/images/mics/00913/00913_75.jpg" width="75" height="75" alt="The M49 shared capsules (both M7 and K47/K49) with the U-47." title="The M49 shared capsules (both M7 and K47/K49) with the U-47."   ><br /><span>Neumann M 49</span></a></li>
+                                                    <li class="mictile"><a title="The U47 and M147 Tube use the same K47 capsule." href="//recordinghacks.com/microphones/Neumann/M-147"><img src="//cdn.recordinghacks.com/images/mics/00922/00922_75.jpg" width="75" height="75" alt="The U47 and M147 Tube use the same K47 capsule." title="The U47 and M147 Tube use the same K47 capsule."   ><br /><span>Neumann M 147 Tube</span></a></li>
+                                                    <li class="mictile"><a title="The JZ V47 was designed to reproduce the sound of the U47." href="//recordinghacks.com/microphones/JZ/Vintage-V47"><img src="//cdn.recordinghacks.com/images/mics/00933/00933_75.jpg" width="75" height="75" alt="The JZ V47 was designed to reproduce the sound of the U47." title="The JZ V47 was designed to reproduce the sound of the U47."   ><br /><span>JZ Vintage V47</span></a></li>
+                                                    <li class="mictile"><a title="The Horch RM4 was modelled after the U 47." href="//recordinghacks.com/microphones/Horch/RM4"><img src="//cdn.recordinghacks.com/images/mics/00973/00973_75.jpg" width="75" height="75" alt="The Horch RM4 was modelled after the U 47." title="The Horch RM4 was modelled after the U 47."   ><br /><span>Horch RM4</span></a></li>
+                                                    <li class="mictile"><a title="The CS-4 is a contemporary tube mic made in the spirit of the U 47." href="//recordinghacks.com/microphones/lucas/CS-4"><img src="//cdn.recordinghacks.com/images/mics/00982/00982_75.jpg" width="75" height="75" alt="The CS-4 is a contemporary tube mic made in the spirit of the U 47." title="The CS-4 is a contemporary tube mic made in the spirit of the U 47."   ><br /><span>Lucas CS-4</span></a></li>
+                                                    <li class="mictile"><a title="The T-Funk U47 is a recreation of the Neumann U 47." href="//recordinghacks.com/microphones/Telefunken-USA/U47"><img src="//cdn.recordinghacks.com/images/mics/01073/01073_75.jpg" width="75" height="75" alt="The T-Funk U47 is a recreation of the Neumann U 47." title="The T-Funk U47 is a recreation of the Neumann U 47."   ><br /><span>Telefunken U-47</span></a></li>
+                                                    <li class="mictile"><a title="The Telefunken and Neumann U47s were identical, except for the badge." href="//recordinghacks.com/microphones/Telefunken/telly-U47"><img src="//cdn.recordinghacks.com/images/mics/01193/01193_75.jpg" width="75" height="75" alt="The Telefunken and Neumann U47s were identical, except for the badge." title="The Telefunken and Neumann U47s were identical, except for the badge."   ><br /><span>Telefunken U47</span></a></li>
+                                                    <li class="mictile"><a title="The RMS47 is a recreation of the U47." href="//recordinghacks.com/microphones/RMS/RMS47"><img src="//cdn.recordinghacks.com/images/mics/01563/01563_75.jpg" width="75" height="75" alt="The RMS47 is a recreation of the U47." title="The RMS47 is a recreation of the U47."   ><br /><span>RMS RMS47</span></a></li>
+                                                    <li class="mictile"><a title="The FLEA 47 is a replica of Neumann U 47" href="//recordinghacks.com/microphones/FLEA/FLEA-47"><img src="//cdn.recordinghacks.com/images/mics/01641/01641_75.jpg" width="75" height="75" alt="The FLEA 47 is a replica of Neumann U 47" title="The FLEA 47 is a replica of Neumann U 47"   ><br /><span>FLEA 47</span></a></li>
+                                                    <li class="mictile"><a title="The TM-47 is a modern recreation of the U 47 tube microphone." href="//recordinghacks.com/microphones/Pearlman/TM-47"><img src="//cdn.recordinghacks.com/images/mics/01695/01695_75.jpg" width="75" height="75" alt="The TM-47 is a modern recreation of the U 47 tube microphone." title="The TM-47 is a modern recreation of the U 47 tube microphone."   ><br /><span>Pearlman TM-47</span></a></li>
+                                                    <li class="mictile"><a title="The ADK Z-47 is their tribute to the Neumann U 47." href="//recordinghacks.com/microphones//"><img src="//cdn.recordinghacks.com/images/mics/01842/01842_75.jpg" width="75" height="75" alt="The ADK Z-47 is their tribute to the Neumann U 47." title="The ADK Z-47 is their tribute to the Neumann U 47."   ><br /><span> </span></a></li>
+                                                    <li class="mictile"><a title="The CM47VE is inspired by the Neumann U 47." href="//recordinghacks.com/microphones//"><img src="//cdn.recordinghacks.com/images/mics/01847/01847_75.jpg" width="75" height="75" alt="The CM47VE is inspired by the Neumann U 47." title="The CM47VE is inspired by the Neumann U 47."   ><br /><span> </span></a></li>
+                                                    <li class="mictile"><a title="The WA-47 is a modern recreation of the U 47" href="//recordinghacks.com/microphones//"><img src="//cdn.recordinghacks.com/images/mics/01891/01891_75.jpg" width="75" height="75" alt="The WA-47 is a modern recreation of the U 47" title="The WA-47 is a modern recreation of the U 47"   ><br /><span> </span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/Neumann">Neumann microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                            <a name="mods"></a><div class="graybox"><h3>Mods for the U 47</h3>
+                        <ul class="mod_list">
+                                                    <li style="font-family: Georgia, Serif;"><b>The Mic Shop</b><a href="//recordinghacks.com/microphones/MicShop"><img style="border: 0; padding: 0 0 6px 3px" src="//recordinghacks.com/images/logos/logo_micshop.jpg" height=75 width=75 alt="The Mic Shop" /></a>                            <br />Bill Bradley restores vintage mics in Nashville, TN.</li>
+                                                    <li style="font-family: Georgia, Serif;"><b>Hamptone</b><a href="//recordinghacks.com/microphones/Hamptone"><img style="border: 0; padding: 0 0 6px 3px" src="//recordinghacks.com/images/logos/logo_hamptone.jpg" height=75 width=75 alt="Hamptone" /></a>                            <br />Scott Hampton repairs vintage tube mics, especially those needing new power supplies. His mic repairs involve replacing and updating selected components, fine-tuning the circuitry, and restoration of the mic's original sonic character. He can also furnish a Hamptone second-generation Tube Mic Power Supply.</li>
+                                                </ul><br clear="all" />
+                    </div>            
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Neumann U 47" href="/microphone-photo/00427/Neumann/U-47.jpg"><img src="//cdn.recordinghacks.com/images/mics/00427/00427_172.jpg" width="172" height="93" alt="Neumann U 47" title="Neumann U 47" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: n/a</li>
+                                        <li id="none"><em>Discontinued</em></li>                    </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/side-address" alt="side-address microphones">side-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/large-diaphragm" alt="large-diaphragm microphones">large-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/dual-diaphragm" alt="dual-diaphragm microphones">dual-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/tube" alt="tube microphones">tube</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/multipattern" alt="multipattern microphones">multipattern</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformer-coupled" alt="transformer-coupled microphones">transformer-coupled</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/condenser" alt="condenser microphones">condenser</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/vf14" alt="vf14 microphones">vf14</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/k47" alt="k47 microphones">k47</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/m7" alt="m7 microphones">m7</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/single-backplate" alt="single-backplate microphones">single-backplate</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="https://www.neumann.com/index.php?lang=en&amp;id=about_us_history_part_2">U47 History</a></li>
+                                                                    <li id="www"><a  href="http://www.eqmag.com/article/great-american-mic/sep-05/12830">EQ Mag shootout, 2005-09</a></li>
+                                                                    <li id="forum"><a  href="http://www.neumann.com/forums/view.php?site=neumann&amp;bn=neumann_archive&amp;key=1077849858">Klaus Heyne on M7/K47 capsules</a></li>
+                                                                    <li id="www"><a  href="http://www.andreas-grosser.com/2009/10/a-description-of-all-transformers-in-u47-article-by-ag/">U47 Output Transformers</a></li>
+                                                                    <li id="www"><a  href="http://www.tab-funkenwerk.com/id58.html">Oliver Archut on the U47</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/2010/06/09/acoustic-guitar-tube-mic-shootout/">U47 in Tube mic shootout</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/2010/04/16/tube-mic-voiceover-test/">Tube Mic VO test</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/2012/07/15/oceanway-vocal-microphone-test/">Oceanway Vocal Mic Shootout</a></li>
+                                                                </ul>                    
+                                        <h3>U 47 Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/neumann/U47-brochure-1958.pdf">Brochure, March 1958 (German)</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/neumann/U47-brochure-1952.pdf">Brochure, 1952 (German)</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/neumann/U47-manual.pdf">Instructions, May 1958</a></li>
+                                                                    <li id="image"><a rel="shadowbox" href="http://recordinghacks.com/images/mic_extras/neumann/u47-1.jpg">U47 Cutsheet (page 1)</a></li>
+                                                                    <li id="image"><a rel="shadowbox" href="http://recordinghacks.com/images/mic_extras/neumann/u47-2.jpg">U47 Cutsheet (page 2)</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="427-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="427-1" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>Neumann U 47</h2>
+                    
+                    <h2 class="sub">                    Multi-Pattern Tube Condenser Microphone</h2>
+                    <p>The original U 47, developed by Neumann in the mid-to-late 1940&#8217;s, was the first switchable pattern condenser microphone. It has become the most revered vocal microphone in history, and inspired dozens of attempts to recreate its sound.</p><p>According to Oliver Archut, a prototype U47 was displayed at the Berlin Radio Show (<em>Berliner Funkausstellung</em>) in 1947. Whether that was a functional microphone, or whether its capsule and circuit were similar to what was commercially released, is not known. </p><p>According to Klaus Heyne of German Masterworks, the first recorded commercial sale of a U47, serial number 72, was in December, 1949. </p><p>The U 47 could produce either a Cardioid or Omnidirectional pickup pattern. The pattern switch was located on the microphone body, and worked by disabling the polarization voltage to the rear diaphragm.</p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/neumann/U47-stepbridge.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/neumann/U47-stepbridge-sm.jpg" class="thumb shaft" alt="U 47" width="133" /></a>(The U 48, introduced around 1957, was a U 47 that provided either Cardioid or Figure-of-8 patterns. The only difference between Omni and Figure-of-8 patterns is the polarity of the rear capsule.)</p><p>The U-47 did not maintain equal output levels across patterns. This is a characteristic that Neumann engineers sought to improve in later mics, such as the M 49. The U-47&#8217;s output was 5dB hotter in Cardioid mode than in Omni, because the capsule&#8217;s rear diaphragm was simply disconnected in Cardioid mode, avoiding the capacitance losses of having it in the circuit. See the <a href="http://recordinghacks.com/pdf/neumann/M49-history.pdf">history of the M49</a> for more information.</p><p>The original U47 employed a steel-jacketed Telefunken VF14 tube, developed by Telefunken specifically for use in microphones. According to Heyne, VF14 production began in 1946; because Telefunken was a 25% owner of Neumann, one could reasonably speculate both that Telefunken engineers played a role in U47 development, and further that the U47 was in simultaneous development by 1946.</p><p>Non-microphonic VF14 tubes would become hard to find within a few years, leading to changes to the U47 design as well as the introduction of the U47fet, a FET condenser intended to sound the same as its tube-circuit sibling.</p><p>Early U47 (and U48) mics contained Neumann&#8217;s M7 capsule, in which the brass backplate was covered with a thin PVC diaphragm. PVC ages poorly, and as early as 1958 the Neumann factory was using the M7&#8217;s successor, a capsule known as the K47/49, which used a metallized polyester diaphragm.</p><p>The K47 capsule used a single, shared backplate, which caused tensioning challenges, in that both diaphragms would have to be tuned identically to produce balanced Figure-of-8 or Omni patterns.</p><p>In the original German-language Neumann documentation for the U47 and similar mics, the term &#8220;Niere&#8221; &#8212; literally &#8220;kidney&#8221; &#8212; is used to denote the Cardioid pattern. The term &#8220;Kugel,&#8221; which translates to &#8220;ball,&#8221; indicates Omnidirectional.<br /><div class="shaft" style="text-align: center"><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/neumann/U47-U48.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/neumann/U47-U48-sm.jpg" class="thumb shaft" alt="U 47 Group Photo" width="200" /></a><br /><span style="font-family: Verdana,Sans-Serif; font-style: normal;">Photo: SouthernTracks.com</span></div></p><blockquote><p><cite>Bill Bradley</cite></p><p>There were about 5000 [U-47s] made, about 3200 long bodies and the rest short. People say it&#8217;s gotta be a long body to be any good. False. They&#8217;re exactly the same microphone inside. </p><p>The mic went through three revisions. They started off with a very large transformer/capacitor package. If you pull the covers off you won&#8217;t believe; they&#8217;re packed. There&#8217;s no room for anything in there. If you take exactly the same mic that&#8217;s five or six years younger, take the shell off &#8212; you&#8217;ll wonder where the mic went.</p></blockquote><p>According to Andreas Grosser, at least 5 different models of output transformer were used within the U 47. Four of them were called the BV-08, despite differences in mounting, appearance, and construction.</p><p>The approximate physical dimensions of the U-47 are as follows:</p><table><tr><td><b>Model</b></td><td><b>Length</b></td><td><b>Diameter</b></td></tr><tr><td>Long body U-47</td><td >240mm</td><td>63mm</td></tr><tr><td>Short body U-47</td><td >200mm</td><td >60mm</td></tr></table><p>The U47 was manufactured by Neumann, but initially distributed by Telefunken. Therefore, many early U47s bear the Telefunken logo. Neumann took over distribution in the 1950s; the mics distributed by Neumann bear a Neumann logo.<p>The <a href="//recordinghacks.com/microphones/Neumann/U-47">Neumann U 47</a> is also known as: U47.</p><p>The mic was released in 1947.</p>
+                    <h3>Specifications</h3>
+                                        
+                    <table>
+                                                    <tr><th>Frequency Response - Omnidirectional<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/0474" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/0/0474.png" width=476 height=159 alt="U 47 Omnidirectional Frequency Response Chart" title="U 47 Omnidirectional Frequency Response Chart" border=0 /></td></tr>
+                                                        <tr><th>Frequency Response - Cardioid<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/0475" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/0/0475.png" width=476 height=159 alt="U 47 Cardioid Frequency Response Chart" title="U 47 Cardioid Frequency Response Chart" border=0 /></td></tr>
+                            </table>
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                                                                Omnidirectional
+                                             (14 mV/Pa; 35 - 15,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                                                            Cardioid
+                                             (25 mV/Pa; 35 - 15,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Capsule Dimensions</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                                                            Diameter n/a<br />
+                                                                                                                                                    </td>
+                            <td>200 Ohms <em class="mute">(Low)</em></td>
+                            <td>                                </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>800g <em class="mute">(28.22oz)</em></td>
+                            <td>240mm <em class="mute">(9.45&#39;&#39;)</em></td>
+                            <td>63mm <em class="mute">(2.48&#39;&#39;)</em></td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                                                                                                                <li>Includes tube power supply </li>
+                                                                                    </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('427-0');uniqueids.push('427-1');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

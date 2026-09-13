@@ -1,0 +1,5 @@
+## Mics tagged: capsule
+
+|  |  |
+| --- | --- |
+| [Golden Age Project FC 4 MC](http://recordinghacks.com/microphones/GoldenAge/FC4MC "Golden Age Project FC 4 MC - Features, Specifications, Datasheet") | OmnidirectionalCardioidHypercardioid  [**Golden Age Project FC 4 MC**](/microphones/GoldenAge/FC4MC "Golden Age Project FC 4 MC - Features, Specifications, Datasheet")  Detachable-Capsule Pencil Condenser Microphone  [pencil-mic](//recordinghacks.com/microphones/tag/pencil-mic "pencil-mic microphones"), [end-address](//recordinghacks.com/microphones/tag/end-address "end-address microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [small-diaphragm](//recordinghacks.com/microphones/tag/small-diaphragm "small-diaphragm microphones"), [fet](//recordinghacks.com/microphones/tag/fet "fet microphones"), [removable](//recordinghacks.com/microphones/tag/removable "removable microphones"), [capsule](//recordinghacks.com/microphones/tag/capsule "capsule microphones") |

@@ -1,0 +1,266 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Violet Design Ltd. Amethyst Vintage | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="Amethyst Vintage, Cardioid Condenser Microphone , aka: amethyst - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/Violet/Amethyst-Vintage" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The Amethyst Vintage and Standard share amplifier circuits; just the capsules differ." href="//recordinghacks.com/microphones/Violet/Amethyst-Standard"><img src="//cdn.recordinghacks.com/images/mics/00729/00729_75.jpg" width="75" height="75" alt="The Amethyst Vintage and Standard share amplifier circuits; just the capsules differ." title="The Amethyst Vintage and Standard share amplifier circuits; just the capsules differ."   ><br /><span>Violet Amethyst Standard</span></a></li>
+                                                    <li class="mictile"><a title="The Globe Standard and Amethyst Vintage both use Violet&#8217;s VD67 capsule." href="//recordinghacks.com/microphones/Violet/Globe-Standard"><img src="//cdn.recordinghacks.com/images/mics/00732/00732_75.jpg" width="75" height="75" alt="The Globe Standard and Amethyst Vintage both use Violet&#8217;s VD67 capsule." title="The Globe Standard and Amethyst Vintage both use Violet&#8217;s VD67 capsule."   ><br /><span>Violet Globe Standard</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/Violet">Violet microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Violet Design Ltd. Amethyst Vintage" href="/microphone-photo/00730/Violet/Amethyst-Vintage.jpg"><img src="//cdn.recordinghacks.com/images/mics/00730/00730_172.jpg" width="172" height="116" alt="Violet Design Ltd. Amethyst Vintage" title="Violet Design Ltd. Amethyst Vintage" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $1,599</li>
+                                                            </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/side-address" alt="side-address microphones">side-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/large-diaphragm" alt="large-diaphragm microphones">large-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/dual-diaphragm" alt="dual-diaphragm microphones">dual-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/k67" alt="k67 microphones">k67</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformerless" alt="transformerless microphones">transformerless</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/center-terminated" alt="center-terminated microphones">center-terminated</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/condenser" alt="condenser microphones">condenser</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/vd67" alt="vd67 microphones">vd67</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://emusician.com/hardware/emusic_violet_design/">Electronic Musician, 2008-06</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://www.fdw-w.com/docs/vio_slothtrop-review.pdf">Slothtrop review</a></li>
+                                                                    <li id="www"><a  href="http://www.proaudioreview.com/article/2532">ProAudioReview, 2007-11</a></li>
+                                                                    <li id="www"><a  href="http://www.soundonsound.com/sos/oct06/articles/violetamethyst.htm">SoundOnSound, 2006-10</a></li>
+                                                                </ul>                    
+                                        <h3>Amethyst Vintage Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://violetusa.com/amethyst.php">Amethyst Product Description</a></li>
+                                                                    <li id="www"><a  href="http://violet-design.com/index.php?option=content&amp;task=view&amp;id=70">Amethyst Product Description</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://violetusa.com/docs/Violet-Amethyst-specs.pdf">Amethyst Cut Sheet</a></li>
+                                                                    <li id="film"><a  href="http://www.gearwire.com/media/violet-microphones-part-one-aes-vienna-lo.mov">Edijs Rudzis - Amethyst Intro</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="730-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>Violet Design Ltd. Amethyst Vintage</h2>
+                    
+                    <h2 class="sub">                    Cardioid Condenser Microphone</h2>
+                    <p>Violet&#8217;s Amethyst Vintage is the second mic in the Amethyst family. Like its sibling, it is a fixed-cardioid, large-diaphragm FET condenser.</p><p>Both models have low-noise (7dBA) amplifier circuits and transformerless outputs. </p><p>Both the Vintage and the Standard model use large-diaphragm (26mm) capsules sputtered with gold and aluminum on 6-micron Mylar film. The difference is that the Vintage uses dual diaphragms, whereas the Standard uses a single diaphragm.</p><p>The Vintage capsule is Violet&#8217;s VD67, a copy of Neumann&#8217;s K67 capsule. Like the original, the VD67 uses dual large diaphragms and dual backplates.</p><p>Sonic differences include changes in frequency response and in the cardioid pickup pattern. The Vintage model has a wider pattern and a sound characterized as &#8220;vintage&#8221; rather than &#8220;modern.&#8221; </p><p>Also, the Vintage mic is painted blue, rather than purple.</p><p>The Amethyst Vintage ships in a padded cherry wood box with no accessories. The company&#8217;s compatible shockmount, p/n ASM, attaches via elastic cords to the chrome knobs protruding from the sides of the microphone; it is available as a separate purchase.</p><blockquote><p><cite>Electronic Musician</cite></p><p>[T]he mic does not include accessories. The stylish and effective ASM shockmount ($171) is optional. Although it is possible to mount the Amethyst Vintage directly to a microphone stand, in all but the most serene settings, you&#8217;re going to want to use the shockmount: resonances transmitted through the stand added an undesirable lower midrange thickening during my review of this mic&#8230;</p><p>Although Violet Design recommends using the Amethyst Vintage on female vocalists, the mic provides a modern, up-front sound on male voices. The vocal tracks easily cut through a mix, yet never sound harsh, strident, or sibilant&#8230;</p><p>Suspended 3.5 feet above a drum kit, the Amethyst Vintage captured a sound that was both immediate and warm. This is the kind of overhead microphone that can really glue a drum kit together, making it sound coherent and powerful.</p></blockquote><p></p><blockquote><p><cite>ProAudioReview</cite></p><p>&#8230;I recorded a wildly unpredictable female rocker (an alto), and was skeptical of the [Amethyst Vintage]&#8217;s ability to handle her extreme dynamics; I have heard many a diaphragm bottom out from her sustained crescendos. With a Manley TNT preamp (the tube side) and an Empirical Labs Distressor patched in, we got a gorgeous vocal that captured all the power of her loud passages, and all the subtle detail of the quiet ones, as well. <em>In fact, this mic was more linear and consistent under such divergent conditions than just about anything I&#8217;ve used previously.</em></p><p>Solo acoustic guitar did reveal some Amethyst limitations, as its placement seemed unexpectedly very sensitive. Its healthy, flat bottom resulted in muddiness if I miked the dreadnaught guitar&#8217;s body anywhere near the sound hole&#8230; Electric guitar was similar, with the AV yielding a thick, warm tone that wasn&#8217;t quite &#8220;modern&#8221; enough for me, but may work well depending on your source and goals&#8230;</p><p>Although capable of wide applications, I think the versatile Amethyst Vintage is a first pick for solo vocals of all kinds. This mic will shine where you may normally go with a U67: when fullness and presence are required.</p></blockquote><p></p><blockquote><p><cite>Sound On Sound</cite></p><p>Both microphones sound very open and natural, with fast and accurate transients, extended bottom ends and modest proximity effects, the Vintage model being slightly better in this respect. Comparing the two models side by side quickly revealed their sonic differences. The <a href="http://recordinghacks.com/microphones/Violet/Amethyst-Standard" rel="nofollow">Standard</a> version has more &#8216;air&#8217;, with a noticeable lift at the extreme HF end compared to the Vintage. It also has a mild &#8216;suck-out&#8217; at upper-mid frequencies &#8212; around 800Hz or so &#8212; which emphasizes its brighter aspect. In addition, there seems slightly more bass, but I suspect that&#8217;s a proximity issue rather than a frequency-response characteristic.</p><p>The Vintage model seems to me the more neutral and linear of the two designs&#8230; However, I&#8217;m not sure that the &#8216;vintage&#8217; tag is really justified &#8212; it sounds pretty modern and bright, certainly in comparison to many of the mics now available that have a deliberately &#8216;aged&#8217; sound quality. Don&#8217;t expect the warm and dull sound that the &#8216;vintage&#8217; term might suggest!</p></blockquote><p><p>The <a href="//recordinghacks.com/microphones/Violet/Amethyst-Vintage">Violet Design Ltd. Amethyst Vintage</a> is also known as: amethyst.</p>
+                    <h3>Specifications</h3>
+                                        
+                    <table>
+                                                    <tr><th>Frequency Response - Cardioid<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/0924" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/0/0924.png" width=476 height=159 alt="Amethyst Vintage Cardioid Frequency Response Chart" title="Amethyst Vintage Cardioid Frequency Response Chart" border=0 /></td></tr>
+                            </table>
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                                                                Cardioid
+                                             (21 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Capsule Dimensions</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                                                                                                        Diaphragm diameter: 26mm<br />
+                                                                                            Capsule diameter: 26mm<br />
+                                                                                                                            Diaphragm gauge: 6 microns                                                                    </td>
+                            <td>50 Ohms <em class="mute">(Low)</em></td>
+                            <td>Max SPL: 134 dB<br />                                Self-noise: 7.0 dB(A)</td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>350g <em class="mute">(12.35oz)</em></td>
+                            <td>168mm <em class="mute">(6.61&#39;&#39;)</em></td>
+                            <td>63mm <em class="mute">(2.48&#39;&#39;)</em></td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                        <li>Requires phantom power </li>
+                                                                                                                                                                                <li>Phantom voltage: 50v</li>
+                                        </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('730-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

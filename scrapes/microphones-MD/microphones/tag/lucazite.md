@@ -1,0 +1,5 @@
+## Mics tagged: lucazite
+
+|  |  |
+| --- | --- |
+| [Lucas Engineering CS-3](http://recordinghacks.com/microphones/lucas/CS-3 "Lucas Engineering CS-3 - Features, Specifications, Datasheet") | Omnidirectional  [**Lucas Engineering CS-3**](/microphones/lucas/CS-3 "Lucas Engineering CS-3 - Features, Specifications, Datasheet")  Omnidirectional Pencil Tube Condenser Microphone  [tube](//recordinghacks.com/microphones/tag/tube "tube microphones"), [pencil-mic](//recordinghacks.com/microphones/tag/pencil-mic "pencil-mic microphones"), [transformer-coupled](//recordinghacks.com/microphones/tag/transformer-coupled "transformer-coupled microphones"), [end-address](//recordinghacks.com/microphones/tag/end-address "end-address microphones"), [mullard](//recordinghacks.com/microphones/tag/mullard "mullard microphones"), [lucazite](//recordinghacks.com/microphones/tag/lucazite "lucazite microphones") |

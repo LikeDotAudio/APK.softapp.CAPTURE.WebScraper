@@ -1,0 +1,5 @@
+## Mics tagged: 6au6 AND transformer-coupled
+
+|  |  |
+| --- | --- |
+| [Sony C-37A](http://recordinghacks.com/microphones/Sony/C-37A "Sony C-37A - Features, Specifications, Datasheet") | OmnidirectionalCardioid  [**Sony C-37A**](/microphones/Sony/C-37A "Sony C-37A - Features, Specifications, Datasheet")  Multi-Pattern Tube Condenser Microphone  [side-address](//recordinghacks.com/microphones/tag/side-address "side-address microphones"), [large-diaphragm](//recordinghacks.com/microphones/tag/large-diaphragm "large-diaphragm microphones"), [tube](//recordinghacks.com/microphones/tag/tube "tube microphones"), [multipattern](//recordinghacks.com/microphones/tag/multipattern "multipattern microphones"), [transformer-coupled](//recordinghacks.com/microphones/tag/transformer-coupled "transformer-coupled microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [yoke-mount](//recordinghacks.com/microphones/tag/yoke-mount "yoke-mount microphones"), [cathode-follower](//recordinghacks.com/microphones/tag/cathode-follower "cathode-follower microphones"), [6au6](//recordinghacks.com/microphones/tag/6au6 "6au6 microphones") |

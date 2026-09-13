@@ -1,0 +1,491 @@
+<!DOCTYPE html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Schema subscription-message.json | is-12</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Schema subscription-message.json" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="AMWA IS-12 NMOS Control Protocol" />
+<meta property="og:description" content="AMWA IS-12 NMOS Control Protocol" />
+<meta property="og:site_name" content="is-12" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Schema subscription-message.json" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"AMWA IS-12 NMOS Control Protocol","headline":"Schema subscription-message.json","url":"/is-12/releases/v1.0.1/APIs/schemas/resolved/subscription-message.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/is-12/assets/css/style.css?v=">
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body adaptive-width">
+
+      <div id="logo-banner" class="adaptive-width">
+          
+              <a href="https://specs.amwa.tv/nmos"><img id="nmos-logo" src="/is-12/assets/images/NMOS-logo.png" alt="NMOS logo"/></a>
+              <span id="title">Networked Media Open Specifications</span>
+              <a href="https://www.amwa.tv/"><img id="from-amwa-logo" src="/is-12/assets/images/from-AMWA-logo.png" target="_blank" alt="from AMWA logo"/></a>
+
+          
+      </div>
+
+        <div id="menu-header" class="header adaptive-width">
+
+        
+
+        
+          <span class="dropdown">DOCS
+	<div class="dropdown-content">
+		<p><b>Docs for v1.0.1</b></p>
+		
+			<p><a href="/is-12/releases/v1.0.1/docs/Overview.html">Overview</a></p>
+		
+			<p><a href="/is-12/releases/v1.0.1/docs/Transport_and_message_encoding.html">Transport and message encoding</a></p>
+		
+			<p><a href="/is-12/releases/v1.0.1/docs/Security_and_authorization.html">Security and authorization</a></p>
+		
+			<p><a href="/is-12/releases/v1.0.1/docs/Protocol_messaging.html">Protocol messaging</a></p>
+		
+			<p><a href="/is-12/releases/v1.0.1/docs/Data_type_marshalling.html">Data type marshalling</a></p>
+		
+			<p><a href="/is-12/releases/v1.0.1/docs/IS-04_interactions.html">IS-04 interactions</a></p>
+		
+			<p><a href="/is-12/releases/v1.0.1/docs/Sending_commands.html">Sending commands</a></p>
+		
+			<p><a href="/is-12/releases/v1.0.1/docs/Exploring_the_device_model.html">Exploring the device model</a></p>
+		
+			<p><a href="/is-12/releases/v1.0.1/docs/Subscribing_to_events.html">Subscribing to events</a></p>
+		
+			<p><a href="/is-12/releases/v1.0.1/docs/Class_definition_discovery.html">Class definition discovery</a></p>
+		
+			<p><a href="/is-12/releases/v1.0.1/docs/Data_type_definition_discovery.html">Data type definition discovery</a></p>
+		
+	</div>
+</span>
+ 
+        
+        
+          <span class="dropdown">APIS
+	<div class="dropdown-content"> 
+		<p><b>RAML APIs for v1.0.1</b></p>
+		
+			<p><a href="/is-12/releases/v1.0.1/APIs/*.html">*</a></p>
+		
+		<p><b>JSON Schemas for v1.0.1</b></p>
+		
+			<p><a href="/is-12/releases/v1.0.1/APIs/schemas/with-refs/base-message.html">base-message</a></p>
+		
+			<p><a href="/is-12/releases/v1.0.1/APIs/schemas/with-refs/command-message.html">command-message</a></p>
+		
+			<p><a href="/is-12/releases/v1.0.1/APIs/schemas/with-refs/command-response-message.html">command-response-message</a></p>
+		
+			<p><a href="/is-12/releases/v1.0.1/APIs/schemas/with-refs/error-message.html">error-message</a></p>
+		
+			<p><a href="/is-12/releases/v1.0.1/APIs/schemas/with-refs/event-data.html">event-data</a></p>
+		
+			<p><a href="/is-12/releases/v1.0.1/APIs/schemas/with-refs/notification-message.html">notification-message</a></p>
+		
+			<p><a href="/is-12/releases/v1.0.1/APIs/schemas/with-refs/property-changed-event-data.html">property-changed-event-data</a></p>
+		
+			<p><a href="/is-12/releases/v1.0.1/APIs/schemas/with-refs/subscription-message.html">subscription-message</a></p>
+		
+			<p><a href="/is-12/releases/v1.0.1/APIs/schemas/with-refs/subscription-response-message.html">subscription-response-message</a></p>
+		
+	</div>
+</span>
+
+        
+        
+        
+          <span class="dropdown">VERSIONS
+	<div class="dropdown-content"> 
+		<p><b>Branches</b></p>
+		
+		
+			<p><a href="/is-12/branches/v1.0.x">v1.0.x</a></p>
+		
+		
+			<p><b>Releases</b></p>
+			
+			
+				<p><a href="/is-12/releases/v1.0.1">v1.0.1</a></p>
+			
+				<p><a href="/is-12/releases/v1.0.0">v1.0.0</a></p>
+			
+		
+	</div>
+</span>
+
+        
+        
+          <span class="dropdown">IS
+	<div class="dropdown-content">
+		<p><b>Interface Specifications</b></p>
+		
+		
+			<p><a href="https://specs.amwa.tv/is-04">IS-04: Discovery & Registration</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-05">IS-05: Device Connection Management</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-07">IS-07: Event & Tally</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-08">IS-08: Audio Channel Mapping</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-09">IS-09: System Parameters</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-10">IS-10: Authorization</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-11">IS-11: Stream Compatibility Management</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-12">IS-12: Control Protocol</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-13">IS-13: Annotation</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-14">IS-14: Device Configuration</a></p>
+		
+	 </div>
+</span>
+          <span class="dropdown">BCP
+	<div class="dropdown-content">
+		<p><b>Best Common Practices</b></p>
+		
+		
+			<p><a href="https://specs.amwa.tv/bcp-002-01">BCP-002-01: Natural Grouping</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-002-02">BCP-002-02: Asset Distinguishing Information</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-003-01">BCP-003-01: Secure Communications in NMOS Systems</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-003-02">BCP-003-02: Authorization in NMOS Systems</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-003-03">BCP-003-03: Certificate Provisioning in NMOS Systems</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-004-01">BCP-004-01: Receiver Capabilities</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-004-02">BCP-004-02: Sender Capabilities</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-005-01">BCP-005-01: EDID to Receiver Capabilities Mapping</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-005-02">BCP-005-02: NMOS Support for IPMX/HKEP</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-005-03">BCP-005-03: NMOS Support for IPMX/PEP</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-006-01">BCP-006-01: NMOS With JPEG XS</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-006-02">BCP-006-02: NMOS With H.264</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-006-03">BCP-006-03: NMOS With H.265</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-006-04">BCP-006-04: NMOS Support for MPEG Transport Streams</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-007-01">BCP-007-01: NMOS With NDI</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-008-01">BCP-008-01: NMOS Receiver Status</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-008-02">BCP-008-02: NMOS Sender Status</a></p>
+		
+	 </div>
+</span>
+          <span class="dropdown">MS
+	<div class="dropdown-content">
+		<p><b>Data Model Specifications</b></p>
+		
+		
+			<p><a href="https://specs.amwa.tv/ms-04">MS-04: ID & Timing Model</a></p>
+		
+			<p><a href="https://specs.amwa.tv/ms-05-01">MS-05-01: NMOS Control Architecture</a></p>
+		
+			<p><a href="https://specs.amwa.tv/ms-05-02">MS-05-02: AMWA NMOS Control Framework</a></p>
+		
+			<p><a href="https://specs.amwa.tv/ms-05-03">MS-05-03: AMWA NMOS Control Block Specs</a></p>
+		
+	 </div>
+</span>
+          <span class="dropdown">INFO
+	<div class="dropdown-content">
+		<p><b>Informative Documents</b></p>
+		
+		
+			<p><a href="https://specs.amwa.tv/info-002">INFO-002: Security Implementation Guide</a></p>
+		
+			<p><a href="https://specs.amwa.tv/info-003">INFO-003: Sink Metadata Processing Architecture</a></p>
+		
+			<p><a href="https://specs.amwa.tv/info-004">INFO-004: Implementation Guide for DNS-SD</a></p>
+		
+			<p><a href="https://specs.amwa.tv/info-005">INFO-005: Implementation Guide for NMOS Controllers</a></p>
+		
+			<p><a href="https://specs.amwa.tv/info-006">INFO-006: Implementation guide for NMOS Device Control & Monitoring</a></p>
+		
+	 </div>
+</span>
+        
+        
+          <span class="dropdown">REG
+	<div class="dropdown-content">
+		<p><b>Parameter Registers</b></p>
+		
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/common">General Procedures and Criteria</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/capabilities">Capabilities</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/device-control-types">Device Control Types</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/device-types">Device Types</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/flow-attributes">Flow Attributes</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/formats">Formats</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/node-service-types">Node Service Types</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/sender-attributes">Sender Attributes</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/source-attributes">Source Attributes</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/tags">Tags</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/transports">Transports</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/transport-parameters">Transport Parameters</a></p>
+		
+	</div>
+</span>
+
+        
+        
+          <span class="dropdown">F-SETS
+	<div class="dropdown-content">
+		<p><b>Control Feature Sets</b></p>
+		
+		
+			<p><a href="https://specs.amwa.tv/nmos-control-feature-sets/branches/main/identification">Identification</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-control-feature-sets/branches/main/monitoring">Monitoring</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-control-feature-sets/branches/main/device-configuration">Device configuration</a></p>
+		
+	</div>
+</span>
+
+        
+
+          
+
+            <span class="dropdown">DEVEL
+              <div class="dropdown-content">
+                <p><b>Developer Links</b></p>
+                <p><a href="https://github.com/AMWA-TV/is-12">GitHub Repo</a></p>
+                <p><a href="https://specs.amwa.tv/nmos-testing">API Testing Tool</a></p>
+                <p><a href="https://specs.amwa.tv/nmos-dashboard/dashboard.html">CI Dashboard</a></p>
+              </div>
+            </span>
+
+          
+
+          <span class="dropdown">SEARCH
+            <div class="dropdown-content">
+              <script async src="https://cse.google.com/cse.js?cx=70787015d40930818"></script>
+              <div class="gcse-searchbox-only"></div>
+            </div>
+          </span>
+
+        
+          <div class="breadcrumbs">
+            
+            
+            
+            <a href="/is-12/">IS-12</a> â¤
+            
+              
+              <a href="/is-12/releases/"> releases </a> â¤
+            
+              
+              <a href="/is-12/releases/v1.0.1/"> v1.0.1 </a> â¤
+            
+              
+              <a href="/is-12/releases/v1.0.1/APIs/"> APIs </a> â¤
+            
+              
+              <a href="/is-12/releases/v1.0.1/APIs/schemas/"> schemas </a> â¤
+            
+            
+              
+                
+                
+              
+            
+          </div>
+        
+
+        </div>
+
+      <div class="content">
+        <br/>
+        <html>
+<meta charset="UTF-8">
+<h2>Schema subscription-message.json</h2>
+<p>
+    <a href="../with-refs/subscription-message.html">Show original (referenced schemas with $ref)</a>
+</p>
+<p>
+    <a href="../subscription-message.json">Get raw JSON</a>
+</p>
+<div id="json-render">
+<script type="text/javascript" src="codemirror/lib/codemirror.js"></script>
+<link rel="stylesheet" href="codemirror/lib/codemirror.css">
+<link rel="stylesheet" href="codemirror/addon/fold/foldgutter.css">
+<script src="codemirror/mode/javascript/javascript.js"></script>
+<script src="codemirror/addon/fold/foldcode.js"></script>
+<script src="codemirror/addon/fold/foldgutter.js"></script>
+<script src="codemirror/addon/fold/brace-fold.js"></script>
+<script src="codemirror/addon/fold/indent-fold.js"></script>
+
+<style>
+  .CodeMirror {
+    border-top: 1px solid black; 
+    border-bottom: 1px solid black;
+    height: 500px;
+  }
+</style>
+
+<textarea id="mytextarea">
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "allOf": [
+        {
+            "$schema": "http://json-schema.org/draft-04/schema#",
+            "description": "Base protocol message structure",
+            "properties": {
+                "messageType": {
+                    "description": "Protocol message type",
+                    "enum": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4,
+                        5
+                    ],
+                    "type": "integer"
+                }
+            },
+            "required": [
+                "messageType"
+            ],
+            "title": "Base protocol message",
+            "type": "object"
+        },
+        {
+            "properties": {
+                "messageType": {
+                    "description": "Protocol message type",
+                    "enum": [
+                        3
+                    ],
+                    "type": "integer"
+                },
+                "subscriptions": {
+                    "description": "Array of OIDs desired for subscription",
+                    "items": {
+                        "type": "integer"
+                    },
+                    "type": "array"
+                }
+            },
+            "required": [
+                "subscriptions",
+                "messageType"
+            ],
+            "type": "object"
+        }
+    ],
+    "description": "Subscription protocol message structure",
+    "title": "Subscription protocol message",
+    "type": "object"
+}
+</textarea>
+<script>
+window.editor_json = CodeMirror.fromTextArea(mytextarea, {
+    mode: {
+        name: "javascript",
+        json: true
+    },
+    readOnly: true,
+    lineNumbers: false,
+    lineWrapping: true,
+    extraKeys: {"Ctrl-Q": function(cm){ cm.foldCode(cm.getCursor()); }},
+    foldGutter: true,
+    gutters: ["CodeMirror-linenumbers", "CodeMirror-foldgutter"],
+    foldOptions: {
+      widget: (from, to) => {
+        var count = undefined;
+
+        // Get open / close token
+        var startToken = '{', endToken = '}';
+        var prevLine = window.editor_json.getLine(from.line);
+        if (prevLine.lastIndexOf('[') > prevLine.lastIndexOf('{')) {
+          startToken = '[', endToken = ']';
+        }
+
+        // Get json content
+        var internal = window.editor_json.getRange(from, to);
+        var toParse = startToken + internal + endToken;
+
+        // Get key count
+        try {
+          var parsed = JSON.parse(toParse);
+          count = Object.keys(parsed).length;
+        } catch(e) { }
+
+        return count ? `\u21A4${count}\u21A6` : '\u2194';
+        }
+      }
+    }
+  );
+editor_json.foldCode(CodeMirror.Pos(3, 0));
+</script>
+</div>
+</html>
+
+
+      </div>
+
+      <div class="footer border-top border-gray-light mt-5 pt-3 text-center text-gray">
+          Documentation built at 04:40:54 CDT on 2025-07-25. <br/>
+      
+      (c) AMWA 2025.
+      RAML/JSON licensed under <a href="https://www.apache.org/licenses/LICENSE-2.0.html">Apache 2.0</a>.
+      Documentation licensed under <a href="http://creativecommons.org/licenses/by-nd/4.0/">CC BY-ND 4.0</a>.
+      
+      </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+
+    
+
+
+    <script>
+    window.onscroll = function() {myFunction()};
+
+    var header = document.getElementById("menu-header");
+    var sticky = header.offsetTop;
+
+    function myFunction() {
+      if (window.pageYOffset > sticky) {
+        header.classList.add("sticky");
+      } else {
+        header.classList.remove("sticky");
+      }
+    }
+
+    </script>
+  </body>
+</html>

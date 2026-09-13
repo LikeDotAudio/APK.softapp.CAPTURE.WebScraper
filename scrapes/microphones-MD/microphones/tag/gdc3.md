@@ -1,0 +1,5 @@
+## Mics tagged: gdc3
+
+|  |  |
+| --- | --- |
+| [JZ Microphones BT-301](http://recordinghacks.com/microphones/JZ/BT-301 "JZ Microphones BT-301 - Features, Specifications, Datasheet") | Cardioid  [**JZ Microphones BT-301**](/microphones/JZ/BT-301 "JZ Microphones BT-301 - Features, Specifications, Datasheet")  Cardioid Pencil Condenser Microphone  [transformerless](//recordinghacks.com/microphones/tag/transformerless "transformerless microphones"), [center-terminated](//recordinghacks.com/microphones/tag/center-terminated "center-terminated microphones"), [end-address](//recordinghacks.com/microphones/tag/end-address "end-address microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [golden-drop](//recordinghacks.com/microphones/tag/golden-drop "golden-drop microphones"), [lowest-noise](//recordinghacks.com/microphones/tag/lowest-noise "lowest-noise microphones"), [gdc3](//recordinghacks.com/microphones/tag/gdc3 "gdc3 microphones") |

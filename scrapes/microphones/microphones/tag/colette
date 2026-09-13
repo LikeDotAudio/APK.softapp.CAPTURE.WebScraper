@@ -1,0 +1,159 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>colette microphones | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+                
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+			<div id="content">
+                <div id="sidebar">                  
+                    					<h2 class="search">search for mics</h2>
+					<form action="/microphones" method="POST">
+										<script language="JavaScript" type="text/javascript">
+function clearText(field){
+
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+
+}
+					</script>
+						<fieldset>
+						    <input type="text" name="s" size="20" value="Microphone name or model number" style="color: #667;margin-left: 0;margin-bottom: 8px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)"><br />
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<fieldset class="checks">
+							<span class="shaft">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+							</span>
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">&nbsp;<input style="font-size: 8px" type="reset" name="button" value="Reset Form">
+						</fieldset>
+					</form>
+                            <p></p><h3>Definition of "colette":</h3><p>Schoeps&#8217; &#8220;Colette&#8221; series is a modular small-diaphragm microphone system comprised of 20 different capsule designs and numerous head amps, both analog and digital. </p><p>Most polar patterns are available in either end-address or side-address designs. Additionally, many special-purpose capsules, incorporating fixed EQ settings, allow use in otherwise challenging applications. </p><p>Optional inline &#8220;active accessories,&#8221; fitted between capsule and head amplifier, include an attenuator, swivel, high-pass filter, and a series of extension tubes and cables to facilitate positioning.</p><p>The capsules in the Colette series have part numbers beginning with <b>MK</b>, such as the MK 4 Cardioid end-address capsule. The head amplifiers use part numbers beginning with <b>CMC</b>, such as the CMC 6 solid-state, low-noise, low-impedance &#8220;microphone amplifier.&#8221;</p><p>The series was introduced in 1973.</p>
+<h3>Refine Search</h3><p>Find mics tagged '<b>colette</b> AND:'</p> 
+<p><a rel="nofollow" href="//recordinghacks.com/microphones/tag/colette+tube" title="Mics tagged colette AND tube">tube</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/colette+pencil-mic" title="Mics tagged colette AND pencil-mic">pencil-mic</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/colette+transformerless" title="Mics tagged colette AND transformerless">transformerless</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/colette+detachable-capsule" title="Mics tagged colette AND detachable-capsule">detachable-capsule</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/colette+condenser" title="Mics tagged colette AND condenser">condenser</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/colette+ac701" title="Mics tagged colette AND ac701">ac701</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/colette+variable-tube-voltage" title="Mics tagged colette AND variable-tube-voltage">variable-tube-voltage</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/colette+dual-voice" title="Mics tagged colette AND dual-voice">dual-voice</a> </p>
+<h3>Expand Search</h3><p>Find mics tagged '<b>colette</b> OR:'</p>
+<p><a rel="nofollow" href="//recordinghacks.com/microphones/tag/colette|tube" title="Mics tagged colette OR tube">tube</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/colette|pencil-mic" title="Mics tagged colette OR pencil-mic">pencil-mic</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/colette|transformerless" title="Mics tagged colette OR transformerless">transformerless</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/colette|detachable-capsule" title="Mics tagged colette OR detachable-capsule">detachable-capsule</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/colette|condenser" title="Mics tagged colette OR condenser">condenser</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/colette|ac701" title="Mics tagged colette OR ac701">ac701</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/colette|variable-tube-voltage" title="Mics tagged colette OR variable-tube-voltage">variable-tube-voltage</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/colette|dual-voice" title="Mics tagged colette OR dual-voice">dual-voice</a> </p>
+                </div><!-- /#sidebar -->
+                <div id="column" style="width: auto">
+						    <h2>Mics tagged: colette</h2>
+			    <table>
+				                    <tr><td><a title="Schoeps Mikrofone M 222 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Schoeps/M-222" ><img src="//cdn.recordinghacks.com/images/mics/01147/01147_75.jpg" width="75" height="75" alt="Schoeps Mikrofone M 222" title="Schoeps Mikrofone M 222"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1147-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="1147-1" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="1147-2" src="/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" ><img id="1147-3" src="/images/icons/patterns/icon_wc.png" width=27 height=27 alt="Wide Cardioid" title="Wide Cardioid" >                        </span>
+                        <a title="Schoeps Mikrofone M 222 - Features, Specifications, Datasheet" href="/microphones/Schoeps/M-222"><strong>Schoeps Mikrofone M 222</strong></a><br />
+                        Detachable-Capsule Pencil Tube Condenser Microphone<br />
+                        <a title="tube microphones"  href="//recordinghacks.com/microphones/tag/tube">tube</a>, <a title="pencil-mic microphones"  href="//recordinghacks.com/microphones/tag/pencil-mic">pencil-mic</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="detachable-capsule microphones"  href="//recordinghacks.com/microphones/tag/detachable-capsule">detachable-capsule</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="ac701 microphones"  href="//recordinghacks.com/microphones/tag/ac701">ac701</a>, <a title="variable-tube-voltage microphones"  href="//recordinghacks.com/microphones/tag/variable-tube-voltage">variable-tube-voltage</a>, <a title="dual-voice microphones"  href="//recordinghacks.com/microphones/tag/dual-voice">dual-voice</a>, <a title="colette microphones"  href="//recordinghacks.com/microphones/tag/colette">colette</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Schoeps Mikrofone CMC 5 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Schoeps/CMC-5" ><img src="//cdn.recordinghacks.com/images/mics/01146/01146_75.jpg" width="75" height="75" alt="Schoeps Mikrofone CMC 5" title="Schoeps Mikrofone CMC 5"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1146-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="1146-1" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="1146-2" src="/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" ><img id="1146-3" src="/images/icons/patterns/icon_wc.png" width=27 height=27 alt="Wide Cardioid" title="Wide Cardioid" >                        </span>
+                        <a title="Schoeps Mikrofone CMC 5 - Features, Specifications, Datasheet" href="/microphones/Schoeps/CMC-5"><strong>Schoeps Mikrofone CMC 5</strong></a><br />
+                        Detachable-Capsule Pencil Condenser Microphone<br />
+                        <a title="pencil-mic microphones"  href="//recordinghacks.com/microphones/tag/pencil-mic">pencil-mic</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="detachable-capsule microphones"  href="//recordinghacks.com/microphones/tag/detachable-capsule">detachable-capsule</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="colette microphones"  href="//recordinghacks.com/microphones/tag/colette">colette</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Schoeps Mikrofone CMC 6 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Schoeps/CMC-6" ><img src="//cdn.recordinghacks.com/images/mics/01145/01145_75.jpg" width="75" height="75" alt="Schoeps Mikrofone CMC 6" title="Schoeps Mikrofone CMC 6"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1145-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="1145-1" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="1145-2" src="/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" ><img id="1145-3" src="/images/icons/patterns/icon_wc.png" width=27 height=27 alt="Wide Cardioid" title="Wide Cardioid" >                        </span>
+                        <a title="Schoeps Mikrofone CMC 6 - Features, Specifications, Datasheet" href="/microphones/Schoeps/CMC-6"><strong>Schoeps Mikrofone CMC 6</strong></a><br />
+                        Detachable-Capsule Pencil Condenser Microphone<br />
+                        <a title="pencil-mic microphones"  href="//recordinghacks.com/microphones/tag/pencil-mic">pencil-mic</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="detachable-capsule microphones"  href="//recordinghacks.com/microphones/tag/detachable-capsule">detachable-capsule</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="colette microphones"  href="//recordinghacks.com/microphones/tag/colette">colette</a><br />                        </td></tr>
+	
+                                </table>
+
+
+                 <!-- end of $nada test -->
+                </div><!-- /#column -->
+			</div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('1147-0');uniqueids.push('1147-1');uniqueids.push('1147-2');uniqueids.push('1147-3');uniqueids.push('1146-0');uniqueids.push('1146-1');uniqueids.push('1146-2');uniqueids.push('1146-3');uniqueids.push('1145-0');uniqueids.push('1145-1');uniqueids.push('1145-2');uniqueids.push('1145-3');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

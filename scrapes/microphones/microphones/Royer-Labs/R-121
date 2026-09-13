@@ -1,0 +1,308 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Royer Labs R-121 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="R-121, Bidirectional Ribbon Microphone , aka: 121, R121, R-121L - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/Royer-Labs/R-121" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>R-121 Microphone Sets</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="Royer Labs R-121 Matched Pair - microphone set" href="//recordinghacks.com/microphones/Royer-Labs/R121-Pair"><img src="//cdn.recordinghacks.com/images/sets/00085/00085_75.jpg" width="75" height="75" alt="" title=""   ><br /><span>Royer Labs R-121 Matched Pair</span></a></li>
+                                                </ul>
+                        </div>
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The R-122 is a Phantom Powered version of the R-121." href="//recordinghacks.com/microphones/Royer-Labs/R-122"><img src="//cdn.recordinghacks.com/images/mics/00444/00444_75.jpg" width="75" height="75" alt="The R-122 is a Phantom Powered version of the R-121." title="The R-122 is a Phantom Powered version of the R-121."   ><br /><span>Royer Labs R-122</span></a></li>
+                                                    <li class="mictile"><a title="The Alctron HRM-10 is an inexpensive copy of the Royer R-121." href="//recordinghacks.com/microphones/Alctron/HRM-10"><img src="//cdn.recordinghacks.com/images/mics/00522/00522_75.jpg" width="75" height="75" alt="The Alctron HRM-10 is an inexpensive copy of the Royer R-121." title="The Alctron HRM-10 is an inexpensive copy of the Royer R-121."   ><br /><span>Alctron RM-10</span></a></li>
+                                                    <li class="mictile"><a title="The ACM-3 is modeled after the Royer R-121." href="//recordinghacks.com/microphones/TnC-Audio/ACM-3"><img src="//cdn.recordinghacks.com/images/mics/00676/00676_75.jpg" width="75" height="75" alt="The ACM-3 is modeled after the Royer R-121." title="The ACM-3 is modeled after the Royer R-121."   ><br /><span>TNC Audio ACM-3</span></a></li>
+                                                    <li class="mictile"><a title="The R-121 and R-121 Live differ only in ribbon thickness." href="//recordinghacks.com/microphones/Royer-Labs/R-121-Live"><img src="//cdn.recordinghacks.com/images/mics/01050/01050_75.jpg" width="75" height="75" alt="The R-121 and R-121 Live differ only in ribbon thickness." title="The R-121 and R-121 Live differ only in ribbon thickness."   ><br /><span>Royer Labs R-121 Live</span></a></li>
+                                                    <li class="mictile"><a title="The R-101 and R-121 use the same basic ribbon motor design." href="//recordinghacks.com/microphones/Royer-Labs/R-101"><img src="//cdn.recordinghacks.com/images/mics/01038/01038_75.jpg" width="75" height="75" alt="The R-101 and R-121 use the same basic ribbon motor design." title="The R-101 and R-121 use the same basic ribbon motor design."   ><br /><span>Royer Labs R-101</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/Royer-Labs">Royer Labs microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Royer Labs R-121" href="/microphone-photo/00443/Royer-Labs/R-121.jpg"><img src="//cdn.recordinghacks.com/images/mics/00443/00443_172.jpg" width="172" height="85" alt="Royer Labs R-121" title="Royer Labs R-121" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $1,395</li>
+                                                            </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/side-address" alt="side-address microphones">side-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/ribbon" alt="ribbon microphones">ribbon</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformer-coupled" alt="transformer-coupled microphones">transformer-coupled</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/offset-ribbon" alt="offset-ribbon microphones">offset-ribbon</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/neodymium" alt="neodymium microphones">neodymium</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/passive-ribbon" alt="passive-ribbon microphones">passive-ribbon</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/made-in-usa" alt="made-in-usa microphones">made-in-usa</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://recordinghacks.com/reviews/royer-r121-pro-audio-review/">ProAudio, 1999-06</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/royerlabs/recording_magazine_199907.pdf">Recording Magazine, 1999-07</a></li>
+                                                                    <li id="www"><a  href="http://www.soundonsound.com/sos/apr00/articles/royerr121.htm">Sound on Sound, 2000-04</a></li>
+                                                                    <li id="www"><a  href="http://www.mojopie.com/2008/12/royer-r-121.html">Mojo Pie review</a></li>
+                                                                    <li id="www"><a  href="http://www.soundonsound.com/sos/dec07/articles/ribbonmicspt2.htm">SOS Ribbon Mic Review, 2007-12</a></li>
+                                                                    <li id="film"><a  href="http://recordinghacks.com/2010/07/17/factory-made-royer-ribbon-microphone/">Factory Made - Royer Ribbons</a></li>
+                                                                    <li id="www"><a  href="http://mixonline.com/mag/audio_royer_labs_ribbonvelocity/index.html">MIX review, 1999-04</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/2012/06/11/david-royer-interview/">R-121 History (interview)</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/reviews/tapeop/royer-r121/">Tape Op Review (issue #19)</a></li>
+                                                                </ul>                    
+                                        <h3>R-121 Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://royerlabs.com/R-121.html">R-121 Product Description</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/royerlabs/R121-cutsheet-2006.pdf">R-121 Cutsheet (2006)</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/royerlabs/R-121manual.pdf">R-121 User Manual</a></li>
+                                                                    <li id="www"><a  href="http://royerlabs.com/2in1.html">Royer R series - 2 mics in 1</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/royerlabs/R-121cutsheet.pdf">R-121 Cutsheet (2009)</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="443-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ></span>Royer Labs R-121</h2>
+                    
+                    <h2 class="sub">                    Bidirectional Ribbon Microphone</h2>
+                    <p>The Royer R-121 is a passive ribbon microphone with an innovative offset ribbon placement that gives the two sides of the microphone distinct features and sound.</p><p><a rel="nofollow" href="http://www.flickr.com/photos/24455487@N05/3203332138/" title="Royer R-121 Ribbon Motor"><img class="thumb shaft" src="http://farm4.static.flickr.com/3340/3203332138_e19bb6119c_m.jpg" width="160" height="240" alt="Royer R-121 Ribbon Motor" /></a>The ribbon element is made of pure aluminum and is 2.5 microns thick, and is tuned to about 40Hz. It is offset toward the front side of the microphone case, which among other features provides a high-SPL capability of 135 dB on the front side. The rear side is equally sensitive but brighter (and less able to handle high SPL). Royer bills this feature as &#8220;<a href="http://royerlabs.com/2in1.html">two mics in one</a>.&#8221; This innovation was <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=6434252.PN.&amp;OS=PN/6434252&amp;RS=PN/6434252">patented</a> in 1999.</p><p>The ribbon is 1.75 inches long, by 3/16ths (4.7mm) wide. The magnets, which define the active area of the ribbon, are 1.5 inches long.</p><p>Royer Labs promotes the following features of the microphone:</p><ul><li>High SPL Capabilities</li><li>No internal active electronics to overload or produce distortion up to maximum SPL rating</li><li>Extremely low residual noise</li><li>Ribbon element is not affected by heat or humidity</li><li>Absence of high frequency phase distortion</li><li>Equal sensitivity from front or back of element</li><li>Consistent frequency response regardless of distance</li></ul><p>That Royer offers a lifetime warranty (to the original owner) for this mic is a testament to its build quality. The ribbon element was originally warrantied for 1 year; more recently, the company changed its policy to &#8220;first re-ribbon free.&#8221;</p><p>The mic is available in &#8220;Burnished Satin Nickel&#8221; or &#8220;Matte Black Chrome&#8221; finishes, and ships in a wood case. Matched pairs are available.</p><p>In 2008, Royer Labs began shipping a &#8220;Live&#8221; version of the R-121, called the R-121L. It is distinguished by a thicker, more durable ribbon (4 microns thick) and a red logo badge. It is intended for higher-SPL live applications.</p><p><a rel="nofollow" href="http://www.beoworld.org/prod_details.asp?pid=1083"><img width="200" src="http://www.beoworld.org/assets/thumbnails/bm3.jpg" class="thumb shaft" alt="Beomic BM3" /></a>Note that the design of the mic, in which parts of the ribbon housing extend beyond the diameter of the body (giving the mic its characteristic &#8220;ears&#8221;), appears to be based on an early ribbon mic design by Bang &amp; Olufsen, the <a href="http://www.beoworld.org/prod_details.asp?pid=1083">Beomic BM3</a> (designed in 1955).</p><blockquote><p><cite>SoundOnSound</cite></p><p>The Royer was lovely on acoustic: intensely clear, yet full. Using the front side, it almost made the guitar sound like a Fender Strat by pulling up the body so much. It was eminently useable, and a very nice contrast to the <a href="http://recordinghacks.com/microphones/Oktava/MK-012">Oktava [MK-012]</a> which, by comparison, offered all detail and no body. The reverse side of the mic, on the other hand, resulted in a tightly-controlled, brighter version of the same character, which we felt should sit fantastically in a pop mix.</p></blockquote><p><p>The <a href="//recordinghacks.com/microphones/Royer-Labs/R-121">Royer Labs R-121</a> is also known as: 121, R121, R-121L.</p><p>The mic was released in 1998.</p>
+                    <h3>Specifications</h3>
+                                        
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                    <span class="shaft" id="anchor504"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show504">CHART</button></span>                                            Bidirectional
+                                             (3.16 mV/Pa; 30 - 15,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Ribbon Construction</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                                                            2.5-micron, 3/16&#39;&#39;x1.75&#39;&#39; offset aluminum ribbon                                                                    </td>
+                            <td>300 Ohms <em class="mute">(Low)</em></td>
+                            <td>Max SPL: 135 dB<br />                                </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>244g <em class="mute">(8.61oz)</em></td>
+                            <td>158mm <em class="mute">(6.22&#39;&#39;)</em></td>
+                            <td>25mm <em class="mute">(0.98&#39;&#39;)</em></td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                                                                                                                                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+             
+<script type="text/javascript">
+        YAHOO.namespace("freq");
+
+        function init_freq_graphs() {
+
+            YAHOO.freq.chartPanel504 = new YAHOO.widget.Panel("chartPanel504",  {  context:["anchor504", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel504.render();
+                
+            YAHOO.freq.manager = new YAHOO.widget.OverlayManager(); 
+            YAHOO.freq.manager.register([YAHOO.freq.chartPanel504,
+                                                   ]);
+                    YAHOO.util.Event.addListener("show504", "click", YAHOO.freq.chartPanel504.show, YAHOO.freq.chartPanel504, true);
+            YAHOO.util.Event.addListener("hide504", "click", YAHOO.freq.chartPanel504.hide, YAHOO.freq.chartPanel504, true);
+            YAHOO.util.Event.addListener("focus504", "click", YAHOO.freq.chartPanel504.focus, YAHOO.freq.chartPanel504, true);
+        
+
+
+        }
+        YAHOO.util.Event.addListener(window, "load", init_freq_graphs);
+</script>
+
+
+<div id="chartPanel504" style="visibility:hidden">
+    <div class="hd"><span>Royer Labs R-121 Frequency Chart: Bidirectional</span></div>
+    <div class="bd">
+    <img name="graph504" src="http://royerlabs.com/images/spec/R-121freq.jpg" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+    <script type="text/javascript">
+    function swap_graph(id) {
+        if (1==0) {}
+    }
+    </script>
+
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('443-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

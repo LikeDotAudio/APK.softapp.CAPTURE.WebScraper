@@ -1,0 +1,5 @@
+## Mics tagged: aa AND lavalier
+
+|  |  |
+| --- | --- |
+| [Audio-Technica PRO 70](http://recordinghacks.com/microphones/Audio-Technica/PRO-70 "Audio-Technica PRO 70 - Features, Specifications, Datasheet") | Cardioid  [**Audio-Technica PRO 70**](/microphones/Audio-Technica/PRO-70 "Audio-Technica PRO 70 - Features, Specifications, Datasheet")  Cardioid Condenser Microphone  [electret](//recordinghacks.com/microphones/tag/electret "electret microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [lavalier](//recordinghacks.com/microphones/tag/lavalier "lavalier microphones"), [battery-power](//recordinghacks.com/microphones/tag/battery-power "battery-power microphones"), [aa](//recordinghacks.com/microphones/tag/aa "aa microphones"), [clip-mount](//recordinghacks.com/microphones/tag/clip-mount "clip-mount microphones") |

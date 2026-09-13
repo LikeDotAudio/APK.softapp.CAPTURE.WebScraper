@@ -1,0 +1,5 @@
+## Mics tagged: 12ax7 AND series-black
+
+|  |  |
+| --- | --- |
+| [Lauten Audio LA-320](http://recordinghacks.com/microphones/Lauten/LA-320 "Lauten Audio LA-320 - Features, Specifications, Datasheet") | Cardioid  [**Lauten Audio LA-320**](/microphones/Lauten/LA-320 "Lauten Audio LA-320 - Features, Specifications, Datasheet")  Cardioid Tube Condenser Microphone  [side-address](//recordinghacks.com/microphones/tag/side-address "side-address microphones"), [tube](//recordinghacks.com/microphones/tag/tube "tube microphones"), [12ax7](//recordinghacks.com/microphones/tag/12ax7 "12ax7 microphones"), [hpf](//recordinghacks.com/microphones/tag/hpf "hpf microphones"), [lpf](//recordinghacks.com/microphones/tag/lpf "lpf microphones"), [series-black](//recordinghacks.com/microphones/tag/series-black "series-black microphones") |

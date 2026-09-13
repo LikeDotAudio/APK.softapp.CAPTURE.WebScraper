@@ -1,0 +1,5 @@
+## Mics tagged: mercenary
+
+|  |  |
+| --- | --- |
+| [Crowley and Tripp El Diablo](http://recordinghacks.com/microphones/Crowley-and-Tripp/El-Diablo "Crowley and Tripp El Diablo - Features, Specifications, Datasheet") | Bidirectional  [**Crowley and Tripp El Diablo**](/microphones/Crowley-and-Tripp/El-Diablo "Crowley and Tripp El Diablo - Features, Specifications, Datasheet")  Bidirectional Ribbon Microphone  [side-address](//recordinghacks.com/microphones/tag/side-address "side-address microphones"), [ribbon](//recordinghacks.com/microphones/tag/ribbon "ribbon microphones"), [transformer-coupled](//recordinghacks.com/microphones/tag/transformer-coupled "transformer-coupled microphones"), [symmetrical](//recordinghacks.com/microphones/tag/symmetrical "symmetrical microphones"), [roswellite](//recordinghacks.com/microphones/tag/roswellite "roswellite microphones"), [mercenary](//recordinghacks.com/microphones/tag/mercenary "mercenary microphones"), [made-in-usa](//recordinghacks.com/microphones/tag/made-in-usa "made-in-usa microphones") |

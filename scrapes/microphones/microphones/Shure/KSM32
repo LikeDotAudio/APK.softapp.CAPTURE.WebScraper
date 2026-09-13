@@ -1,0 +1,267 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Shure KSM32 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="KSM32, Cardioid Condenser Microphone , aka: KSM-32, KSM32/SL, KSM32/CG - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/Shure/KSM32" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The KSM32 has a different capsule than the KSM27, but offers similar packaging and features." href="//recordinghacks.com/microphones/Shure/KSM27"><img src="//cdn.recordinghacks.com/images/mics/00219/00219_75.jpg" width="75" height="75" alt="The KSM32 has a different capsule than the KSM27, but offers similar packaging and features." title="The KSM32 has a different capsule than the KSM27, but offers similar packaging and features."   ><br /><span>Shure KSM27</span></a></li>
+                                                    <li class="mictile"><a title="The KSM32 has a different capsule than the KSM44, but offers similar packaging and features." href="//recordinghacks.com/microphones/Shure/KSM44"><img src="//cdn.recordinghacks.com/images/mics/00221/00221_75.jpg" width="75" height="75" alt="The KSM32 has a different capsule than the KSM44, but offers similar packaging and features." title="The KSM32 has a different capsule than the KSM44, but offers similar packaging and features."   ><br /><span>Shure KSM44</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/Shure">Shure microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Shure KSM32" href="/microphone-photo/00220/Shure/KSM32.jpg"><img src="//cdn.recordinghacks.com/images/mics/00220/00220_172.jpg" width="172" height="92" alt="Shure KSM32" title="Shure KSM32" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $499</li>
+                                                            </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/side-address" alt="side-address microphones">side-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/electret" alt="electret microphones">electret</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformerless" alt="transformerless microphones">transformerless</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/condenser" alt="condenser microphones">condenser</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/hpf" alt="hpf microphones">hpf</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/ksm" alt="ksm microphones">ksm</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.soundonsound.com/sos/may99/articles/shureksm32.htm">SoundOnSound, 1999-05</a></li>
+                                                                    <li id="www"><a  href="http://www.rogernichols.com/EQ/shurecondenser.html">EQ Magazine</a></li>
+                                                                    <li id="www"><a  href="http://mixguides.com/microphones/reviews/audio_shure_ksm_january/">MIX, 2002-01</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/reviews/tapeop/shure-ksm32/">Tape Op Review (issue #16)</a></li>
+                                                                </ul>                    
+                                        <h3>KSM32 Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.shure.com/americas/products/microphones/ksm/ksm32-embossed-single-diaphragm-microphone">KSM32 Product Description</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/shure/us_pro_ksm32_en_ug.pdf">KSM32 User Guide</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/shure/us_pro_ksm32_specsheet.pdf">KSM32 Spec Sheet</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="220-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>Shure KSM32</h2>
+                    
+                    <h2 class="sub">                    Cardioid Condenser Microphone</h2>
+                    <p>The Shure KSM32 is a side-address, cardioid condenser microphone. It uses an electret capsule design and transformerless output.</p><p>The single diaphragm is a gold-layered 2.5 micron Mylar design. It is not a large diaphragm, according to the traditional definition of &#8220;large&#8221; as &#8220;1 inch diameter.&#8221; However, Shure claims the 0.75&#39;&#39;-diameter diaphragm in the KSM32 confers other benefits:</p><blockquote cite="http://shure.custhelp.com/cgi-bin/shure.cfg/php/enduser/std_adp.php?p_faqid=114"><p><cite>Shure</cite></p><p>[Benefits] include <a href="http://shure.custhelp.com/cgi-bin/shure.cfg/php/enduser/std_adp.php?p_faqid=114" rel="nofollow">extended high frequency response, improved linearity and more consistent polar response</a> at high frequencies&#8230; By combining a .750&#39;&#39; diaphragm with embossing technology, the KSM32 is able to provide rich, smooth lows and balanced reproduction of any source without sacrificing clarity.</p></blockquote><p>The Mylar diaphragm is embossed &#8212; stamped to produce a textured surface &#8212; increasing the surface area. This increases the low-frequency response of the diaphragm, and makes it better able to withstand changes in environmental conditions such as temperature and humidity<sup><a href="http://shure.custhelp.com/cgi-bin/shure.cfg/php/enduser/std_adp.php?p_faqid=115" rel="nofollow">*</a></sup>.</p><p>As on the KSM27 and KSM44, a 3-stage mesh pop filter built into the headbasket reduces breath and wind noise. An internal shock mount reduces handling noise. In addition, a 15dB pad switch is available on the mic body, as well as a 3-position high pass filter:</p><ul><li>flat</li><li>-15dB per octave at 80Hz (Low frequency &#8220;cutoff&#8221;)</li><li>-6dB per octave at 115Hz (Low frequency &#8220;rolloff&#8221;)</li></ul><p>As with the other KSM mics, the electronics are Class A; the FET preamp does not use a transformer.<sup><a href="http://shure.custhelp.com/cgi-bin/shure.cfg/php/enduser/std_adp.php?p_faqid=108" rel="nofollow">*</a></sup></p><blockquote><p><cite>Shure</cite></p><p>With careful design, solid state technology can benefit from transformers by providing improved RFI/electrostatic immunity, excellent common-mode rejection ratio, solutions for ground-loop problems, and induced common mode power line interference.</p><p>However, the penalty of using transformers can be costly. High quality transformers tend to be expensive and have large footprints&#8230; smaller transformers are often used resulting in limited dynamic range and unpleasant distortion at usable levels&#8230; These transformers typically do not provide the expected benefits. High parasitic capacitance, unbalanced windings, and poor construction of transformers make the device susceptible to hum from power lines&#8230;</p><p>The KSM32 uses transformerless circuit design. Shure has developed a balanced solid state preamplifier circuit that has virtually all the benefits of a high-quality transformed design without the drawbacks associated with smaller, cost effective transformers. The interface of the microphone is equipped with RFI protective ferrite beads and chokes. These parts prevent leakage of a wide range of radio frequency signals into the microphone?s circuitry, but are transparent to differential audio signals coming from microphone. As a result of careful attention to the interface design, the immunity of the KSM32 to interference and electrostatic shock is better or as good as the best microphones that use high quality transformers.</p></blockquote><p>The KSM32 is packaged two ways:</p><ul><li><b>KSM32/SL</b> - champagne finish; includes locking aluminum case, mic clip, spider shockmount, soft pouch</li><li><b>KSM32/CG</b> - charcoal-gray finish, mic clip, soft pouch</li></ul><p>Note that the grille design of the KSM32 has changed slightly since its introduction. To differentiate it visually from the KSM44, a coarser grille design replaced the original. Shure claims this change is purely cosmetic.<sup><a href="http://shure.custhelp.com/cgi-bin/shure.cfg/php/enduser/std_adp.php?p_faqid=3122" rel="nofollow">*</a></sup></p><blockquote cite="http://www.soundonsound.com/sos/may99/articles/shureksm32.htm"><p><cite>SoundOnSound</cite></p><p>The supplied frequency plot appears to be commendably flat across most of the frequency range, but a few wobbles appear in the region between 2kHz and 10kHz. There are essentially two 3dB peaks at about 7kHz and 10kHz (the upper one being rather narrower than the lower one), with a mild suck-out at 9kHz. All in all, it&#8217;s the kind of frequency balance which would tend to add a little musical presence and clarity to most sources.</p></blockquote><p></p><blockquote><p>In the price/performance ratings I would give the KSM32 a solid 10&#8230; This may end up being Shure&#8217;s workhorse for the next 20 years.</p></blockquote><p><em>How is the KSM-32 different from the KSM-27? How is the KSM-32 different from the KSM-44?</em></p><p>The <a href="http://recordinghacks.com/microphones/Shure/KSM27">KSM27</a> and <a href="http://recordinghacks.com/microphones/Shure/KSM44">KSM44</a> are very similar, and both differ from the KSM32 in several respects, so we&#8217;ll address these questions together.</p><p>The KSM32 is an electret, or permanently polarized condenser design, whereas the KSM27 and KSM44 use an externally-polarized or &#8220;true&#8221; condenser design<sup><a href="http://shure.custhelp.com/cgi-bin/shure.cfg/php/enduser/std_adp.php?p_faqid=2751" rel="nofollow">*</a></sup>.</p><p>The KSM27 and KSM44 are billed as having a &#8220;warm&#8221; sound, whereas the KSM32 is described as &#8220;neutral.&#8221;<sup><a href="http://shure.custhelp.com/cgi-bin/shure.cfg/php/enduser/std_adp.php?p_faqid=2117" rel="nofollow">*</a></sup></p><p>All three KSM mics have a gold-plated 2.5 micron Mylar diaphragm, but it is smaller (0.75&#39;&#39;) in the KSM32. Further, the KSM32 diaphragm is embossed as described above.</p><p>The KSM27 and KSM32 have comparable levels of self-noise, whereas the KSM44 is 5 dB quieter<sup><a href="http://shure.custhelp.com/cgi-bin/shure.cfg/php/enduser/std_adp.php?p_faqid=882" rel="nofollow">*</a></sup>.</p><p>The KSM32 and KSM44 bodies are nearly identical in size, shape, and weight. The KSM27 is smaller but heavier.<p>The <a href="//recordinghacks.com/microphones/Shure/KSM32">Shure KSM32</a> is also known as: KSM-32, KSM32/SL, KSM32/CG.</p><p>The mic was released in 1998.</p>
+                    <h3>Specifications</h3>
+                                        
+                    <table>
+                                                    <tr><th>Frequency Response - Cardioid<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/0232" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/0/0232.png" width=476 height=159 alt="KSM32 Cardioid Frequency Response Chart" title="KSM32 Cardioid Frequency Response Chart" border=0 /></td></tr>
+                            </table>
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                                                                Cardioid
+                                             (16 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                    <li>Pad: -15dB<small> (Via Switch)</small></li>
+                                                                        <li>Filter: HPF: -15dB/oct @ 80Hz<small> (Via Switch)</small></li>
+                                                                        <li>Filter: HPF: -6dB/oct @ 115Hz<small> (Via Switch)</small></li>
+                                                                    </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Capsule Dimensions</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                                                                                                        Diaphragm diameter: 19mm<br />
+                                                                                                                                                                                                </td>
+                            <td>150 Ohms <em class="mute">(Low)</em></td>
+                            <td>Max SPL: 154 dB<br />                                Self-noise: 13.0 dB(A)</td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>490g <em class="mute">(17.28oz)</em></td>
+                            <td>187mm <em class="mute">(7.36&#39;&#39;)</em></td>
+                            <td>56mm <em class="mute">(2.20&#39;&#39;)</em></td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                        <li>Requires phantom power </li>
+                                                                                                                                                                                <li>Phantom voltage: 11-52v</li>
+                                        </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('220-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

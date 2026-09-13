@@ -1,0 +1,348 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Shure Beta 181 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="Beta 181, Detachable-Capsule Condenser Microphone , aka: Beta 181/C, Beta 181/O, Beta 181/S, Beta 181/BI - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/Shure/Beta-181" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Shure Beta 181" href="/microphone-photo/01088/Shure/Beta-181.jpg"><img src="//cdn.recordinghacks.com/images/mics/01088/01088_172.jpg" width="172" height="90" alt="Shure Beta 181" title="Shure Beta 181" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $499</li>
+                                                            </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/side-address" alt="side-address microphones">side-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/electret" alt="electret microphones">electret</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/pencil-mic" alt="pencil-mic microphones">pencil-mic</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/detachable-capsule" alt="detachable-capsule microphones">detachable-capsule</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/condenser" alt="condenser microphones">condenser</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://recordinghacks.com/press-releases/shure-introduces-innovative-beta-181-instrument-microphone/">Beta 181 Intro Press Release</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/2012/03/15/live-sax-condenser-microphones/">Sax Mic Shootout, 2012</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/2012/09/27/shure-beta-181-review/">Beta 181 review (2012)</a></li>
+                                                                    <li id="www"><a  href="http://www.musictech.net/2011/06/beta-91a-98a-c-181microphone-review/">MusicTech Review 2011-06</a></li>
+                                                                </ul>                    
+                                        <h3>Beta 181 Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/shure/beta-181-user-guide.pdf">Beta 181 User Guide</a></li>
+                                                                    <li id="www"><a  href="http://www.shure.com/americas/products/microphones/beta/beta181-ultra-compact-side-address-microphone">Beta 181 Product Description</a></li>
+                                                                </ul>                    
+                                        <h3>Beta 181 Awards</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a href="//recordinghacks.com/awards#4">2011 TEC Awards</a></li>
+                                        </ul>                    
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="1088-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="1088-1" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="1088-2" src="//cdn.recordinghacks.com/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ><img id="1088-3" src="//cdn.recordinghacks.com/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" ></span>Shure Beta 181</h2>
+                    
+                    <h2 class="sub">                    Detachable-Capsule Condenser Microphone</h2>
+                    <p>Shure&#8217;s Beta 181 is an innovative, compact microphone system with four compatible detachable capsules: Cardioid, Omni, Figure-of-8, and Supercardioid.</p><p>All four are small-diaphragm electret capsules. The capsules&#8217; sensitivity lies in the range of 2.4&ndash;4.7 mV/Pa, which is lower than most studio condensers. The capsules&#8217; self-noise ratings are over 20dBA, making the mic appear to be best suited to reproduction of relatively loud sources and/or stage environments where the noise floor is unlikely to be audible. In such applications, the benefit of lower sensitivity is that the mic can be used without a pad.</p><p>These characteristics, according to Shure, are entirely by design. As part of the Beta product line, the 181 was designed to be used on loud sources on stage, without a pad. The Beta 181 can withstand a max SPL over 150dB without clipping; this is unusual for a condenser microphone, but is an excellent tradeoff given its intended applications.</p><p>One of the unique features of the Beta 181 is its side-address form factor. This allows the mic to be hung by its cable over a guitar cabinet, or to be positioned just over the rim of a drum much more easily than an end-address design.</p><p>Another unique feature is the orientation pin on the capsule head. This ensures that the front of the capsule lines up with the logo on the head amp, making it easy to discern the front of the mic. (We have seen side-address microphones that are not so well labeled; in the pressure of a session setup, it is surprisingly easy to point such capsules <em>away</em> from the source.)</p><p>All four capsules show nominally flat frequency response from 50Hz to about 3kHz, and all but the Fig-8 show a broad presence peak of up to +7dB at 10kHz. </p><p>Polar pattern control is tight and consistent below 1000Hz for all capsules. Above 2500Hz, the patterns are frequency-dependent, suggesting that the mics&#8217; off-axis response is somewhat colored at higher frequencies.</p><p>The Beta 181 is available in multiple configurations, including:</p><ul><li><b>Beta 181/C</b> - with RPM181/C Cardioid capsule</li><li><b>Beta 181/S</b> - with RPM181/S Supercardioid capsule</li><li><b>Beta 181/O</b> - with RPM181/O Omnidirectional capsule</li><li><b>Beta 181/BI</b> - with RPM181/BI bidirectional (figure-of-8) capsule</li></ul><p>Some sellers provide alternative packages, including deluxe stereo sets.</p><p>The mic ships with a single Beta 181 head amplifier (Shure p/n RPM181/PRE), one of the four capsules &#8212; Cardioid, Omni, Supercardioid, Figure-of-8 &#8212; plus a mic clip (p/n A57F), foam windscreen (p/n A181WS), and a zippered storage pouch (p/n A181C).</p><blockquote><p><cite>Tony SanFilippo, 2012</cite></p><p><a href="http://recordinghacks.com/2012/09/27/shure-beta-181-review/">The Beta 181 on toms RULED!!!</a></p></blockquote><p><p>The <a href="//recordinghacks.com/microphones/Shure/Beta-181">Shure Beta 181</a> is also known as: Beta 181/C, Beta 181/O, Beta 181/S, Beta 181/BI.</p><p>The mic was released in 2010.</p>
+                    <h3>Specifications</h3>
+                    <table><tr><th>Compatible Capsules</th></tr><tr><td><table style="width: 440px">                        <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00285/00285_75.jpg" width="75" height="75" alt="Shure RPM181/BI" title="Shure RPM181/BI"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap6852" src="//cdn.recordinghacks.com/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ></span>
+                        <strong>Shure RPM181/BI</strong><br />
+                        Bidirectional capsule<br />
+                        Sensitivity: 2.81 mV/Pa<br />
+                        <span class="shaft" id="anchor6852"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show6852">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $311 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00282/00282_75.jpg" width="75" height="75" alt="Shure RPM181/C" title="Shure RPM181/C"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap6853" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>Shure RPM181/C</strong><br />
+                        Cardioid capsule<br />
+                        Sensitivity: 4.73 mV/Pa<br />
+                        <span class="shaft" id="anchor6853"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show6853">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $311 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00284/00284_75.jpg" width="75" height="75" alt="Shure RPM181/O" title="Shure RPM181/O"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap6854" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ></span>
+                        <strong>Shure RPM181/O</strong><br />
+                        Omnidirectional capsule<br />
+                        Sensitivity: 2.5 mV/Pa<br />
+                        <span class="shaft" id="anchor6854"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show6854">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $311 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00283/00283_75.jpg" width="75" height="75" alt="Shure RPM181/S" title="Shure RPM181/S"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap6855" src="//cdn.recordinghacks.com/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" ></span>
+                        <strong>Shure RPM181/S</strong><br />
+                        Supercardioid capsule<br />
+                        Sensitivity: 3.35 mV/Pa<br />
+                        <span class="shaft" id="anchor6855"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show6855">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $311 | Still In Production</li>
+                        </td></tr>
+                    </table></td></tr></table>
+                    <table>
+                        <tr>
+                            <th>Pads &amp; Filters</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>n/a                                
+                                </td>
+                            <td>110 Ohms <em class="mute">(Low)</em></td>
+                            <td>Max SPL: 151 dB<br />                                </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>145g <em class="mute">(5.11oz)</em></td>
+                            <td>124mm <em class="mute">(4.88&#39;&#39;)</em></td>
+                            <td>20mm <em class="mute">(0.79&#39;&#39;)</em></td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                        <li>Requires phantom power </li>
+                                                                                                                                                                                <li>Phantom voltage: 11&ndash;52v</li>
+                                        </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+             
+<script type="text/javascript">
+        YAHOO.namespace("freq");
+
+        function init_freq_graphs() {
+
+            YAHOO.freq.chartPanel6852 = new YAHOO.widget.Panel("chartPanel6852",  {  context:["anchor6852", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel6852.render();
+
+            YAHOO.freq.chartPanel6853 = new YAHOO.widget.Panel("chartPanel6853",  {  context:["anchor6853", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel6853.render();
+
+            YAHOO.freq.chartPanel6854 = new YAHOO.widget.Panel("chartPanel6854",  {  context:["anchor6854", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel6854.render();
+
+            YAHOO.freq.chartPanel6855 = new YAHOO.widget.Panel("chartPanel6855",  {  context:["anchor6855", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel6855.render();
+
+                
+            YAHOO.freq.manager = new YAHOO.widget.OverlayManager(); 
+            YAHOO.freq.manager.register([YAHOO.freq.chartPanel6852,
+                                                   YAHOO.freq.chartPanel6853,
+                                                   YAHOO.freq.chartPanel6854,
+                                                   YAHOO.freq.chartPanel6855,
+                                                   ]);
+
+          
+            YAHOO.util.Event.addListener("show6852", "click", YAHOO.freq.chartPanel6852.show, YAHOO.freq.chartPanel6852, true);
+            YAHOO.util.Event.addListener("hide6852", "click", YAHOO.freq.chartPanel6852.hide, YAHOO.freq.chartPanel6852, true);
+            YAHOO.util.Event.addListener("focus6852", "click", YAHOO.freq.chartPanel6852.focus, YAHOO.freq.chartPanel6852, true);
+
+          
+            YAHOO.util.Event.addListener("show6853", "click", YAHOO.freq.chartPanel6853.show, YAHOO.freq.chartPanel6853, true);
+            YAHOO.util.Event.addListener("hide6853", "click", YAHOO.freq.chartPanel6853.hide, YAHOO.freq.chartPanel6853, true);
+            YAHOO.util.Event.addListener("focus6853", "click", YAHOO.freq.chartPanel6853.focus, YAHOO.freq.chartPanel6853, true);
+
+          
+            YAHOO.util.Event.addListener("show6854", "click", YAHOO.freq.chartPanel6854.show, YAHOO.freq.chartPanel6854, true);
+            YAHOO.util.Event.addListener("hide6854", "click", YAHOO.freq.chartPanel6854.hide, YAHOO.freq.chartPanel6854, true);
+            YAHOO.util.Event.addListener("focus6854", "click", YAHOO.freq.chartPanel6854.focus, YAHOO.freq.chartPanel6854, true);
+
+          
+            YAHOO.util.Event.addListener("show6855", "click", YAHOO.freq.chartPanel6855.show, YAHOO.freq.chartPanel6855, true);
+            YAHOO.util.Event.addListener("hide6855", "click", YAHOO.freq.chartPanel6855.hide, YAHOO.freq.chartPanel6855, true);
+            YAHOO.util.Event.addListener("focus6855", "click", YAHOO.freq.chartPanel6855.focus, YAHOO.freq.chartPanel6855, true);
+
+            
+    
+        }
+        YAHOO.util.Event.addListener(window, "load", init_freq_graphs);
+</script>
+
+
+<div id="chartPanel6852" style="visibility:hidden">
+    <div class="hd"><span>Shure Beta 181 Frequency Chart: Bidirectional</span></div>
+    <div class="bd">
+    <img name="graph6852" src="http://recordinghacks.com/images/graphs/shure/beta181-fig8.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel6853" style="visibility:hidden">
+    <div class="hd"><span>Shure Beta 181 Frequency Chart: Cardioid</span></div>
+    <div class="bd">
+    <img name="graph6853" src="http://recordinghacks.com/images/graphs/shure/beta181-cardioid.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel6854" style="visibility:hidden">
+    <div class="hd"><span>Shure Beta 181 Frequency Chart: Omnidirectional</span></div>
+    <div class="bd">
+    <img name="graph6854" src="http://recordinghacks.com/images/graphs/shure/beta181-omni.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel6855" style="visibility:hidden">
+    <div class="hd"><span>Shure Beta 181 Frequency Chart: Supercardioid</span></div>
+    <div class="bd">
+    <img name="graph6855" src="http://recordinghacks.com/images/graphs/shure/beta181-super.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('1088-0');uniqueids.push('1088-1');uniqueids.push('1088-2');uniqueids.push('1088-3');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

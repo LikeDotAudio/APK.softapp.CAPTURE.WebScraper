@@ -1,0 +1,274 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>9v OR single-diaphragm microphones | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+                <meta name="robots" content="noindex,follow" />
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+			<div id="content">
+                <div id="sidebar">                  
+                    					<h2 class="search">search for mics</h2>
+					<form action="/microphones" method="POST">
+										<script language="JavaScript" type="text/javascript">
+function clearText(field){
+
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+
+}
+					</script>
+						<fieldset>
+						    <input type="text" name="s" size="20" value="Microphone name or model number" style="color: #667;margin-left: 0;margin-bottom: 8px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)"><br />
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<fieldset class="checks">
+							<span class="shaft">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+							</span>
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">&nbsp;<input style="font-size: 8px" type="reset" name="button" value="Reset Form">
+						</fieldset>
+					</form>
+                            
+                </div><!-- /#sidebar -->
+                <div id="column" style="width: auto">
+						    <h2>Mics tagged: 9v OR single-diaphragm</h2>
+			    <table>
+				                    <tr><td><a title="Apex Electronics 591 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Apex-Electronics/591" ><img src="//cdn.recordinghacks.com/images/mics/01546/01546_75.jpg" width="75" height="75" alt="Apex Electronics 591" title="Apex Electronics 591"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1546-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Apex Electronics 591 - Features, Specifications, Datasheet" href="/microphones/Apex-Electronics/591"><strong>Apex Electronics 591</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="battery-power microphones"  href="//recordinghacks.com/microphones/tag/battery-power">battery-power</a>, <a title="9v microphones"  href="//recordinghacks.com/microphones/tag/9v">9v</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Sony C38B - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Sony/C38B" ><img src="//cdn.recordinghacks.com/images/mics/01451/01451_75.jpg" width="75" height="75" alt="Sony C38B" title="Sony C38B"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1451-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="1451-1" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Sony C38B - Features, Specifications, Datasheet" href="/microphones/Sony/C38B"><strong>Sony C38B</strong></a><br />
+                        Multi-Pattern Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="yoke-mount microphones"  href="//recordinghacks.com/microphones/tag/yoke-mount">yoke-mount</a>, <a title="battery-power microphones"  href="//recordinghacks.com/microphones/tag/battery-power">battery-power</a>, <a title="single-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/single-diaphragm">single-diaphragm</a>, <a title="9v microphones"  href="//recordinghacks.com/microphones/tag/9v">9v</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Brauner Valvet X - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Brauner/Valvet_X" ><img src="//cdn.recordinghacks.com/images/mics/01230/01230_75.jpg" width="75" height="75" alt="Brauner Valvet X" title="Brauner Valvet X"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1230-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Brauner Valvet X - Features, Specifications, Datasheet" href="/microphones/Brauner/Valvet_X"><strong>Brauner Valvet X</strong></a><br />
+                        Cardioid Tube Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="tube microphones"  href="//recordinghacks.com/microphones/tag/tube">tube</a>, <a title="center-terminated microphones"  href="//recordinghacks.com/microphones/tag/center-terminated">center-terminated</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="single-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/single-diaphragm">single-diaphragm</a>, <a title="cardioid microphones"  href="//recordinghacks.com/microphones/tag/cardioid">cardioid</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="JZ Microphones Vintage V12 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/JZ/Vintage-V12" ><img src="//cdn.recordinghacks.com/images/mics/01143/01143_75.jpg" width="75" height="75" alt="JZ Microphones Vintage V12" title="JZ Microphones Vintage V12"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1143-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="JZ Microphones Vintage V12 - Features, Specifications, Datasheet" href="/microphones/JZ/Vintage-V12"><strong>JZ Microphones Vintage V12</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="center-terminated microphones"  href="//recordinghacks.com/microphones/tag/center-terminated">center-terminated</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="single-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/single-diaphragm">single-diaphragm</a>, <a title="golden-drop microphones"  href="//recordinghacks.com/microphones/tag/golden-drop">golden-drop</a>, <a title="lowest-noise microphones"  href="//recordinghacks.com/microphones/tag/lowest-noise">lowest-noise</a>, <a title="gdc12 microphones"  href="//recordinghacks.com/microphones/tag/gdc12">gdc12</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Aseyer Electric Technology Nanjing Co D36B Pro - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Aseyer/D36B-Pro" ><img src="//cdn.recordinghacks.com/images/mics/01101/01101_75.jpg" width="75" height="75" alt="Aseyer Electric Technology Nanjing Co D36B Pro" title="Aseyer Electric Technology Nanjing Co D36B Pro"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1101-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Aseyer Electric Technology Nanjing Co D36B Pro - Features, Specifications, Datasheet" href="/microphones/Aseyer/D36B-Pro"><strong>Aseyer Electric Technology Nanjing Co D36B Pro</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="edge-terminated microphones"  href="//recordinghacks.com/microphones/tag/edge-terminated">edge-terminated</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="single-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/single-diaphragm">single-diaphragm</a>, <a title="aluminum-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/aluminum-diaphragm">aluminum-diaphragm</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Josephson Engineering C715 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Josephson/C715" ><img src="//cdn.recordinghacks.com/images/mics/01089/01089_75.jpg" width="75" height="75" alt="Josephson Engineering C715" title="Josephson Engineering C715"   ></a></td>
+                        <td><span class="shaft">
+					    <img src="/images/icons/patterns/icon_cv.png" id="1089-0" width=27 height=27 alt="continuously variable pattern selection" title="Continuously variable pattern selection"></span>
+                        <a title="Josephson Engineering C715 - Features, Specifications, Datasheet" href="/microphones/Josephson/C715"><strong>Josephson Engineering C715</strong></a><br />
+                        Multi-Pattern Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="lundahl microphones"  href="//recordinghacks.com/microphones/tag/lundahl">lundahl</a>, <a title="yoke-mount microphones"  href="//recordinghacks.com/microphones/tag/yoke-mount">yoke-mount</a>, <a title="single-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/single-diaphragm">single-diaphragm</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Shure Beta 27 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Shure/Beta-27" ><img src="//cdn.recordinghacks.com/images/mics/01047/01047_75.jpg" width="75" height="75" alt="Shure Beta 27" title="Shure Beta 27"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1047-0" src="/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" >                        </span>
+                        <a title="Shure Beta 27 - Features, Specifications, Datasheet" href="/microphones/Shure/Beta-27"><strong>Shure Beta 27</strong></a><br />
+                        Supercardioid Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="externally-biased microphones"  href="//recordinghacks.com/microphones/tag/externally-biased">externally-biased</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="single-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/single-diaphragm">single-diaphragm</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Microtech Gefell M 1030 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Microtech-Gefell/M-1030" ><img src="//cdn.recordinghacks.com/images/mics/01007/01007_75.jpg" width="75" height="75" alt="Microtech Gefell M 1030" title="Microtech Gefell M 1030"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1007-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Microtech Gefell M 1030 - Features, Specifications, Datasheet" href="/microphones/Microtech-Gefell/M-1030"><strong>Microtech Gefell M 1030</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="single-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/single-diaphragm">single-diaphragm</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Lewitt Audio LCT 540 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Lewitt/LCT-540" ><img src="//cdn.recordinghacks.com/images/mics/00972/00972_75.jpg" width="75" height="75" alt="Lewitt Audio LCT 540" title="Lewitt Audio LCT 540"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="972-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Lewitt Audio LCT 540 - Features, Specifications, Datasheet" href="/microphones/Lewitt/LCT-540"><strong>Lewitt Audio LCT 540</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="externally-biased microphones"  href="//recordinghacks.com/microphones/tag/externally-biased">externally-biased</a>, <a title="k67 microphones"  href="//recordinghacks.com/microphones/tag/k67">k67</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="center-terminated microphones"  href="//recordinghacks.com/microphones/tag/center-terminated">center-terminated</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="single-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/single-diaphragm">single-diaphragm</a>, <a title="surface-mount microphones"  href="//recordinghacks.com/microphones/tag/surface-mount">surface-mount</a>, <a title="authentica microphones"  href="//recordinghacks.com/microphones/tag/authentica">authentica</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Marek Design GmbH RS-1 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Marek-Design/RS-1" ><img src="//cdn.recordinghacks.com/images/mics/00925/00925_75.jpg" width="75" height="75" alt="Marek Design GmbH RS-1" title="Marek Design GmbH RS-1"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="925-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="925-1" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="925-2" src="/images/icons/patterns/icon_hc.png" width=27 height=27 alt="Hypercardioid" title="Hypercardioid" ><img id="925-3" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ><img id="925-4" src="/images/icons/patterns/icon_wc.png" width=27 height=27 alt="Wide Cardioid" title="Wide Cardioid" >                        </span>
+                        <a title="Marek Design GmbH RS-1 - Features, Specifications, Datasheet" href="/microphones/Marek-Design/RS-1"><strong>Marek Design GmbH RS-1</strong></a><br />
+                        Multi-Pattern Tube Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="tube microphones"  href="//recordinghacks.com/microphones/tag/tube">tube</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="edge-terminated microphones"  href="//recordinghacks.com/microphones/tag/edge-terminated">edge-terminated</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="single-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/single-diaphragm">single-diaphragm</a>, <a title="aluminum-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/aluminum-diaphragm">aluminum-diaphragm</a>, <a title="lowest-noise microphones"  href="//recordinghacks.com/microphones/tag/lowest-noise">lowest-noise</a>, <a title="line-level microphones"  href="//recordinghacks.com/microphones/tag/line-level">line-level</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="R&#00216;DE M3 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Rode/M3" ><img src="//cdn.recordinghacks.com/images/mics/00780/00780_75.jpg" width="75" height="75" alt="R&#00216;DE M3" title="R&#00216;DE M3"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="780-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="R&#00216;DE M3 - Features, Specifications, Datasheet" href="/microphones/Rode/M3"><strong>R&#00216;DE M3</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="battery-power microphones"  href="//recordinghacks.com/microphones/tag/battery-power">battery-power</a>, <a title="9v microphones"  href="//recordinghacks.com/microphones/tag/9v">9v</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Violet Design Ltd. Amethyst Standard - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Violet/Amethyst-Standard" ><img src="//cdn.recordinghacks.com/images/mics/00729/00729_75.jpg" width="75" height="75" alt="Violet Design Ltd. Amethyst Standard" title="Violet Design Ltd. Amethyst Standard"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="729-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Violet Design Ltd. Amethyst Standard - Features, Specifications, Datasheet" href="/microphones/Violet/Amethyst-Standard"><strong>Violet Design Ltd. Amethyst Standard</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="center-terminated microphones"  href="//recordinghacks.com/microphones/tag/center-terminated">center-terminated</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="single-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/single-diaphragm">single-diaphragm</a>, <a title="vd26 microphones"  href="//recordinghacks.com/microphones/tag/vd26">vd26</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Neumann TLM 103 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Neumann/TLM103" ><img src="//cdn.recordinghacks.com/images/mics/00586/00586_75.jpg" width="75" height="75" alt="Neumann TLM 103" title="Neumann TLM 103"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="586-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Neumann TLM 103 - Features, Specifications, Datasheet" href="/microphones/Neumann/TLM103"><strong>Neumann TLM 103</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="center-terminated microphones"  href="//recordinghacks.com/microphones/tag/center-terminated">center-terminated</a>, <a title="pressure-gradient microphones"  href="//recordinghacks.com/microphones/tag/pressure-gradient">pressure-gradient</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="single-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/single-diaphragm">single-diaphragm</a>, <a title="k103 microphones"  href="//recordinghacks.com/microphones/tag/k103">k103</a>, <a title="surface-mount microphones"  href="//recordinghacks.com/microphones/tag/surface-mount">surface-mount</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="R&#00216;DE Stereo VideoMic - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Rode/Stereo-VideoMic" ><img src="//cdn.recordinghacks.com/images/mics/00360/00360_75.jpg" width="75" height="75" alt="R&#00216;DE Stereo VideoMic" title="R&#00216;DE Stereo VideoMic"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="360-0" src="/images/icons/patterns/icon_xy.png" width=27 height=27 alt="X/Y Stereo" title="X/Y Stereo" >                        </span>
+                        <a title="R&#00216;DE Stereo VideoMic - Features, Specifications, Datasheet" href="/microphones/Rode/Stereo-VideoMic"><strong>R&#00216;DE Stereo VideoMic</strong></a><br />
+                        X/Y Stereo Condenser Stereo Microphone<br />
+                        <a title="stereo microphones"  href="//recordinghacks.com/microphones/tag/stereo">stereo</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="xy-stereo microphones"  href="//recordinghacks.com/microphones/tag/xy-stereo">xy-stereo</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="battery-power microphones"  href="//recordinghacks.com/microphones/tag/battery-power">battery-power</a>, <a title="9v microphones"  href="//recordinghacks.com/microphones/tag/9v">9v</a>, <a title="video-camera microphones"  href="//recordinghacks.com/microphones/tag/video-camera">video-camera</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="R&#00216;DE NT4 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Rode/NT4" ><img src="//cdn.recordinghacks.com/images/mics/00353/00353_75.jpg" width="75" height="75" alt="R&#00216;DE NT4" title="R&#00216;DE NT4"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="353-0" src="/images/icons/patterns/icon_xy.png" width=27 height=27 alt="X/Y Stereo" title="X/Y Stereo" >                        </span>
+                        <a title="R&#00216;DE NT4 - Features, Specifications, Datasheet" href="/microphones/Rode/NT4"><strong>R&#00216;DE NT4</strong></a><br />
+                        X/Y Stereo Condenser Stereo Microphone<br />
+                        <a title="stereo microphones"  href="//recordinghacks.com/microphones/tag/stereo">stereo</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="externally-polarized microphones"  href="//recordinghacks.com/microphones/tag/externally-polarized">externally-polarized</a>, <a title="battery-power microphones"  href="//recordinghacks.com/microphones/tag/battery-power">battery-power</a>, <a title="9v microphones"  href="//recordinghacks.com/microphones/tag/9v">9v</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="R&#00216;DE NT3 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Rode/NT3" ><img src="//cdn.recordinghacks.com/images/mics/00352/00352_75.jpg" width="75" height="75" alt="R&#00216;DE NT3" title="R&#00216;DE NT3"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="352-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="R&#00216;DE NT3 - Features, Specifications, Datasheet" href="/microphones/Rode/NT3"><strong>R&#00216;DE NT3</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="externally-biased microphones"  href="//recordinghacks.com/microphones/tag/externally-biased">externally-biased</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="battery-power microphones"  href="//recordinghacks.com/microphones/tag/battery-power">battery-power</a>, <a title="9v microphones"  href="//recordinghacks.com/microphones/tag/9v">9v</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="AKG Acoustics C 1000 S - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/AKG-Acoustics/C-1000-S" ><img src="//cdn.recordinghacks.com/images/mics/00271/00271_75.jpg" width="75" height="75" alt="AKG Acoustics C 1000 S" title="AKG Acoustics C 1000 S"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="271-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="271-1" src="/images/icons/patterns/icon_hc.png" width=27 height=27 alt="Hypercardioid" title="Hypercardioid" >                        </span>
+                        <a title="AKG Acoustics C 1000 S - Features, Specifications, Datasheet" href="/microphones/AKG-Acoustics/C-1000-S"><strong>AKG Acoustics C 1000 S</strong></a><br />
+                        Detachable-Capsule Condenser Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="battery-power microphones"  href="//recordinghacks.com/microphones/tag/battery-power">battery-power</a>, <a title="9v microphones"  href="//recordinghacks.com/microphones/tag/9v">9v</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Blue Microphones Blueberry - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Blue-Microphones/Blueberry" ><img src="//cdn.recordinghacks.com/images/mics/00263/00263_75.jpg" width="75" height="75" alt="Blue Microphones Blueberry" title="Blue Microphones Blueberry"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="263-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Blue Microphones Blueberry - Features, Specifications, Datasheet" href="/microphones/Blue-Microphones/Blueberry"><strong>Blue Microphones Blueberry</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="edge-terminated microphones"  href="//recordinghacks.com/microphones/tag/edge-terminated">edge-terminated</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="single-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/single-diaphragm">single-diaphragm</a>, <a title="rohs microphones"  href="//recordinghacks.com/microphones/tag/rohs">rohs</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Blue Microphones OmniMouse - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Blue-Microphones/OmniMouse" ><img src="//cdn.recordinghacks.com/images/mics/00262/00262_75.jpg" width="75" height="75" alt="Blue Microphones OmniMouse" title="Blue Microphones OmniMouse"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="262-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="Blue Microphones OmniMouse - Features, Specifications, Datasheet" href="/microphones/Blue-Microphones/OmniMouse"><strong>Blue Microphones OmniMouse</strong></a><br />
+                        Omnidirectional Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="b4 microphones"  href="//recordinghacks.com/microphones/tag/b4">b4</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="center-terminated microphones"  href="//recordinghacks.com/microphones/tag/center-terminated">center-terminated</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="single-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/single-diaphragm">single-diaphragm</a>, <a title="swivel-head microphones"  href="//recordinghacks.com/microphones/tag/swivel-head">swivel-head</a>, <a title="spherical-capsule microphones"  href="//recordinghacks.com/microphones/tag/spherical-capsule">spherical-capsule</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica ATM35 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/ATM35" ><img src="//cdn.recordinghacks.com/images/mics/00058/00058_75.jpg" width="75" height="75" alt="Audio-Technica ATM35" title="Audio-Technica ATM35"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="58-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Audio-Technica ATM35 - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/ATM35"><strong>Audio-Technica ATM35</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="lavalier microphones"  href="//recordinghacks.com/microphones/tag/lavalier">lavalier</a>, <a title="battery-power microphones"  href="//recordinghacks.com/microphones/tag/battery-power">battery-power</a>, <a title="9v microphones"  href="//recordinghacks.com/microphones/tag/9v">9v</a>, <a title="clip-mount microphones"  href="//recordinghacks.com/microphones/tag/clip-mount">clip-mount</a><br />                        </td></tr>
+	
+                                </table>
+
+
+                 <!-- end of $nada test -->
+                </div><!-- /#column -->
+			</div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('1546-0');uniqueids.push('1451-0');uniqueids.push('1451-1');uniqueids.push('1230-0');uniqueids.push('1143-0');uniqueids.push('1101-0');uniqueids.push('1089-0');uniqueids.push('1047-0');uniqueids.push('1007-0');uniqueids.push('972-0');uniqueids.push('925-0');uniqueids.push('925-1');uniqueids.push('925-2');uniqueids.push('925-3');uniqueids.push('925-4');uniqueids.push('780-0');uniqueids.push('729-0');uniqueids.push('586-0');uniqueids.push('360-0');uniqueids.push('353-0');uniqueids.push('352-0');uniqueids.push('271-0');uniqueids.push('271-1');uniqueids.push('263-0');uniqueids.push('262-0');uniqueids.push('58-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

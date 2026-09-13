@@ -1,0 +1,250 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>nickel-diaphragm microphones | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+                
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+			<div id="content">
+                <div id="sidebar">                  
+                    					<h2 class="search">search for mics</h2>
+					<form action="/microphones" method="POST">
+										<script language="JavaScript" type="text/javascript">
+function clearText(field){
+
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+
+}
+					</script>
+						<fieldset>
+						    <input type="text" name="s" size="20" value="Microphone name or model number" style="color: #667;margin-left: 0;margin-bottom: 8px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)"><br />
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<fieldset class="checks">
+							<span class="shaft">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+							</span>
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">&nbsp;<input style="font-size: 8px" type="reset" name="button" value="Reset Form">
+						</fieldset>
+					</form>
+                            
+<h3>Refine Search</h3><p>Find mics tagged '<b>nickel-diaphragm</b> AND:'</p> 
+<p><a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm+transformerless" title="Mics tagged nickel-diaphragm AND transformerless">transformerless</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm+detachable-capsule" title="Mics tagged nickel-diaphragm AND detachable-capsule">detachable-capsule</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm+end-address" title="Mics tagged nickel-diaphragm AND end-address">end-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm+condenser" title="Mics tagged nickel-diaphragm AND condenser">condenser</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm+electret" title="Mics tagged nickel-diaphragm AND electret">electret</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm+pencil-mic" title="Mics tagged nickel-diaphragm AND pencil-mic">pencil-mic</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm+side-address" title="Mics tagged nickel-diaphragm AND side-address">side-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm+large-diaphragm" title="Mics tagged nickel-diaphragm AND large-diaphragm">large-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm+transformer-coupled" title="Mics tagged nickel-diaphragm AND transformer-coupled">transformer-coupled</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm+multipattern" title="Mics tagged nickel-diaphragm AND multipattern">multipattern</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm+dual-capsule" title="Mics tagged nickel-diaphragm AND dual-capsule">dual-capsule</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm+tripolar" title="Mics tagged nickel-diaphragm AND tripolar">tripolar</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm+bv-107" title="Mics tagged nickel-diaphragm AND bv-107">bv-107</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm+tube" title="Mics tagged nickel-diaphragm AND tube">tube</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm+ac701" title="Mics tagged nickel-diaphragm AND ac701">ac701</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm+titanium-diaphragm" title="Mics tagged nickel-diaphragm AND titanium-diaphragm">titanium-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm+tec-award" title="Mics tagged nickel-diaphragm AND tec-award">tec-award</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm+spherical-capsule" title="Mics tagged nickel-diaphragm AND spherical-capsule">spherical-capsule</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm+k33" title="Mics tagged nickel-diaphragm AND k33">k33</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm+k33ti" title="Mics tagged nickel-diaphragm AND k33ti">k33ti</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm+externally-biased" title="Mics tagged nickel-diaphragm AND externally-biased">externally-biased</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm+edge-terminated" title="Mics tagged nickel-diaphragm AND edge-terminated">edge-terminated</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm+equitek" title="Mics tagged nickel-diaphragm AND equitek">equitek</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm+lowest-noise" title="Mics tagged nickel-diaphragm AND lowest-noise">lowest-noise</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm+5840" title="Mics tagged nickel-diaphragm AND 5840">5840</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm+jensen" title="Mics tagged nickel-diaphragm AND jensen">jensen</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm+cathode-follower" title="Mics tagged nickel-diaphragm AND cathode-follower">cathode-follower</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm+ammo-box" title="Mics tagged nickel-diaphragm AND ammo-box">ammo-box</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm+hpf" title="Mics tagged nickel-diaphragm AND hpf">hpf</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm+pressure-gradient" title="Mics tagged nickel-diaphragm AND pressure-gradient">pressure-gradient</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm+ceramic" title="Mics tagged nickel-diaphragm AND ceramic">ceramic</a> </p>
+<h3>Expand Search</h3><p>Find mics tagged '<b>nickel-diaphragm</b> OR:'</p>
+<p><a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm|transformerless" title="Mics tagged nickel-diaphragm OR transformerless">transformerless</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm|detachable-capsule" title="Mics tagged nickel-diaphragm OR detachable-capsule">detachable-capsule</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm|end-address" title="Mics tagged nickel-diaphragm OR end-address">end-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm|condenser" title="Mics tagged nickel-diaphragm OR condenser">condenser</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm|electret" title="Mics tagged nickel-diaphragm OR electret">electret</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm|pencil-mic" title="Mics tagged nickel-diaphragm OR pencil-mic">pencil-mic</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm|side-address" title="Mics tagged nickel-diaphragm OR side-address">side-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm|large-diaphragm" title="Mics tagged nickel-diaphragm OR large-diaphragm">large-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm|transformer-coupled" title="Mics tagged nickel-diaphragm OR transformer-coupled">transformer-coupled</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm|multipattern" title="Mics tagged nickel-diaphragm OR multipattern">multipattern</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm|dual-capsule" title="Mics tagged nickel-diaphragm OR dual-capsule">dual-capsule</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm|tripolar" title="Mics tagged nickel-diaphragm OR tripolar">tripolar</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm|bv-107" title="Mics tagged nickel-diaphragm OR bv-107">bv-107</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm|tube" title="Mics tagged nickel-diaphragm OR tube">tube</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm|ac701" title="Mics tagged nickel-diaphragm OR ac701">ac701</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm|titanium-diaphragm" title="Mics tagged nickel-diaphragm OR titanium-diaphragm">titanium-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm|tec-award" title="Mics tagged nickel-diaphragm OR tec-award">tec-award</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm|spherical-capsule" title="Mics tagged nickel-diaphragm OR spherical-capsule">spherical-capsule</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm|k33" title="Mics tagged nickel-diaphragm OR k33">k33</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm|k33ti" title="Mics tagged nickel-diaphragm OR k33ti">k33ti</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm|externally-biased" title="Mics tagged nickel-diaphragm OR externally-biased">externally-biased</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm|edge-terminated" title="Mics tagged nickel-diaphragm OR edge-terminated">edge-terminated</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm|equitek" title="Mics tagged nickel-diaphragm OR equitek">equitek</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm|lowest-noise" title="Mics tagged nickel-diaphragm OR lowest-noise">lowest-noise</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm|5840" title="Mics tagged nickel-diaphragm OR 5840">5840</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm|jensen" title="Mics tagged nickel-diaphragm OR jensen">jensen</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm|cathode-follower" title="Mics tagged nickel-diaphragm OR cathode-follower">cathode-follower</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm|ammo-box" title="Mics tagged nickel-diaphragm OR ammo-box">ammo-box</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm|hpf" title="Mics tagged nickel-diaphragm OR hpf">hpf</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm|pressure-gradient" title="Mics tagged nickel-diaphragm OR pressure-gradient">pressure-gradient</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/nickel-diaphragm|ceramic" title="Mics tagged nickel-diaphragm OR ceramic">ceramic</a> </p>
+                </div><!-- /#sidebar -->
+                <div id="column" style="width: auto">
+						    <h2>Mics tagged: nickel-diaphragm</h2>
+			    <table>
+				                    <tr><td><a title="Microtech Gefell M 221 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Microtech-Gefell/M-221" ><img src="//cdn.recordinghacks.com/images/mics/01286/01286_75.jpg" width="75" height="75" alt="Microtech Gefell M 221" title="Microtech Gefell M 221"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1286-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="Microtech Gefell M 221 - Features, Specifications, Datasheet" href="/microphones/Microtech-Gefell/M-221"><strong>Microtech Gefell M 221</strong></a><br />
+                        Detachable-Capsule Condenser Microphone<br />
+                        <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="detachable-capsule microphones"  href="//recordinghacks.com/microphones/tag/detachable-capsule">detachable-capsule</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="nickel-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/nickel-diaphragm">nickel-diaphragm</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="MicW CN201 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Mic-W/CN201" ><img src="//cdn.recordinghacks.com/images/mics/01276/01276_75.jpg" width="75" height="75" alt="MicW CN201" title="MicW CN201"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1276-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="MicW CN201 - Features, Specifications, Datasheet" href="/microphones/Mic-W/CN201"><strong>MicW CN201</strong></a><br />
+                        Omnidirectional Condenser Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="nickel-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/nickel-diaphragm">nickel-diaphragm</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="MicW CN255 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Mic-W/CN255" ><img src="//cdn.recordinghacks.com/images/mics/01275/01275_75.jpg" width="75" height="75" alt="MicW CN255" title="MicW CN255"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1275-0" src="/images/icons/patterns/icon_wc.png" width=27 height=27 alt="Wide Cardioid" title="Wide Cardioid" >                        </span>
+                        <a title="MicW CN255 - Features, Specifications, Datasheet" href="/microphones/Mic-W/CN255"><strong>MicW CN255</strong></a><br />
+                        Wide Cardioid Condenser Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="nickel-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/nickel-diaphragm">nickel-diaphragm</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="MicW n241 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Mic-W/n241" ><img src="//cdn.recordinghacks.com/images/mics/01273/01273_75.jpg" width="75" height="75" alt="MicW n241" title="MicW n241"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1273-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="MicW n241 - Features, Specifications, Datasheet" href="/microphones/Mic-W/n241"><strong>MicW n241</strong></a><br />
+                        Omnidirectional Pencil Condenser Microphone<br />
+                        <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="nickel-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/nickel-diaphragm">nickel-diaphragm</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="MicW n201 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Mic-W/n201" ><img src="//cdn.recordinghacks.com/images/mics/01272/01272_75.jpg" width="75" height="75" alt="MicW n201" title="MicW n201"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1272-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="MicW n201 - Features, Specifications, Datasheet" href="/microphones/Mic-W/n201"><strong>MicW n201</strong></a><br />
+                        Omnidirectional Pencil Condenser Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="detachable-capsule microphones"  href="//recordinghacks.com/microphones/tag/detachable-capsule">detachable-capsule</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="nickel-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/nickel-diaphragm">nickel-diaphragm</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="MicW N151 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Mic-W/N151" ><img src="//cdn.recordinghacks.com/images/mics/01170/01170_75.jpg" width="75" height="75" alt="MicW N151" title="MicW N151"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1170-0" src="/images/icons/patterns/icon_wc.png" width=27 height=27 alt="Wide Cardioid" title="Wide Cardioid" >                        </span>
+                        <a title="MicW N151 - Features, Specifications, Datasheet" href="/microphones/Mic-W/N151"><strong>MicW N151</strong></a><br />
+                        Wide Cardioid Condenser Microphone<br />
+                        <a title="pencil-mic microphones"  href="//recordinghacks.com/microphones/tag/pencil-mic">pencil-mic</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="nickel-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/nickel-diaphragm">nickel-diaphragm</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Aseyer Electric Technology Nanjing Co L36B - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Aseyer/L36B" ><img src="//cdn.recordinghacks.com/images/mics/01102/01102_75.jpg" width="75" height="75" alt="Aseyer Electric Technology Nanjing Co L36B" title="Aseyer Electric Technology Nanjing Co L36B"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1102-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Aseyer Electric Technology Nanjing Co L36B - Features, Specifications, Datasheet" href="/microphones/Aseyer/L36B"><strong>Aseyer Electric Technology Nanjing Co L36B</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="nickel-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/nickel-diaphragm">nickel-diaphragm</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="MicW n101 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Mic-W/N101" ><img src="//cdn.recordinghacks.com/images/mics/01100/01100_75.jpg" width="75" height="75" alt="MicW n101" title="MicW n101"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1100-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="MicW n101 - Features, Specifications, Datasheet" href="/microphones/Mic-W/N101"><strong>MicW n101</strong></a><br />
+                        Omnidirectional Pencil Condenser Microphone<br />
+                        <a title="pencil-mic microphones"  href="//recordinghacks.com/microphones/tag/pencil-mic">pencil-mic</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="nickel-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/nickel-diaphragm">nickel-diaphragm</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Neumann KM 88i - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Neumann/KM-88" ><img src="//cdn.recordinghacks.com/images/mics/01049/01049_75.jpg" width="75" height="75" alt="Neumann KM 88i" title="Neumann KM 88i"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1049-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="1049-1" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="1049-2" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Neumann KM 88i - Features, Specifications, Datasheet" href="/microphones/Neumann/KM-88"><strong>Neumann KM 88i</strong></a><br />
+                        Multi-Pattern Pencil Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="dual-capsule microphones"  href="//recordinghacks.com/microphones/tag/dual-capsule">dual-capsule</a>, <a title="nickel-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/nickel-diaphragm">nickel-diaphragm</a>, <a title="tripolar microphones"  href="//recordinghacks.com/microphones/tag/tripolar">tripolar</a>, <a title="bv-107 microphones"  href="//recordinghacks.com/microphones/tag/bv-107">bv-107</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Neumann KM 54 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Neumann/KM-54" ><img src="//cdn.recordinghacks.com/images/mics/01014/01014_75.jpg" width="75" height="75" alt="Neumann KM 54" title="Neumann KM 54"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1014-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Neumann KM 54 - Features, Specifications, Datasheet" href="/microphones/Neumann/KM-54"><strong>Neumann KM 54</strong></a><br />
+                        Cardioid Pencil Tube Condenser Microphone<br />
+                        <a title="tube microphones"  href="//recordinghacks.com/microphones/tag/tube">tube</a>, <a title="pencil-mic microphones"  href="//recordinghacks.com/microphones/tag/pencil-mic">pencil-mic</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="nickel-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/nickel-diaphragm">nickel-diaphragm</a>, <a title="ac701 microphones"  href="//recordinghacks.com/microphones/tag/ac701">ac701</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Neumann TLM 50 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Neumann/TLM-50" ><img src="//cdn.recordinghacks.com/images/mics/00916/00916_75.jpg" width="75" height="75" alt="Neumann TLM 50" title="Neumann TLM 50"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="916-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="Neumann TLM 50 - Features, Specifications, Datasheet" href="/microphones/Neumann/TLM-50"><strong>Neumann TLM 50</strong></a><br />
+                        Omnidirectional Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="nickel-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/nickel-diaphragm">nickel-diaphragm</a>, <a title="titanium-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/titanium-diaphragm">titanium-diaphragm</a>, <a title="tec-award microphones"  href="//recordinghacks.com/microphones/tag/tec-award">tec-award</a>, <a title="spherical-capsule microphones"  href="//recordinghacks.com/microphones/tag/spherical-capsule">spherical-capsule</a>, <a title="k33 microphones"  href="//recordinghacks.com/microphones/tag/k33">k33</a>, <a title="k33ti microphones"  href="//recordinghacks.com/microphones/tag/k33ti">k33ti</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="CAD Audio E100S - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/CAD/E100S" ><img src="//cdn.recordinghacks.com/images/mics/00865/00865_75.jpg" width="75" height="75" alt="CAD Audio E100S" title="CAD Audio E100S"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="865-0" src="/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" >                        </span>
+                        <a title="CAD Audio E100S - Features, Specifications, Datasheet" href="/microphones/CAD/E100S"><strong>CAD Audio E100S</strong></a><br />
+                        Supercardioid Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="externally-biased microphones"  href="//recordinghacks.com/microphones/tag/externally-biased">externally-biased</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="edge-terminated microphones"  href="//recordinghacks.com/microphones/tag/edge-terminated">edge-terminated</a>, <a title="nickel-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/nickel-diaphragm">nickel-diaphragm</a>, <a title="equitek microphones"  href="//recordinghacks.com/microphones/tag/equitek">equitek</a>, <a title="lowest-noise microphones"  href="//recordinghacks.com/microphones/tag/lowest-noise">lowest-noise</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="McHugh Military AMM-68 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/McHugh/AMM-68" ><img src="//cdn.recordinghacks.com/images/mics/00824/00824_75.jpg" width="75" height="75" alt="McHugh Military AMM-68" title="McHugh Military AMM-68"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="824-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="McHugh Military AMM-68 - Features, Specifications, Datasheet" href="/microphones/McHugh/AMM-68"><strong>McHugh Military AMM-68</strong></a><br />
+                        Omnidirectional Pencil Tube Condenser Microphone<br />
+                        <a title="tube microphones"  href="//recordinghacks.com/microphones/tag/tube">tube</a>, <a title="pencil-mic microphones"  href="//recordinghacks.com/microphones/tag/pencil-mic">pencil-mic</a>, <a title="5840 microphones"  href="//recordinghacks.com/microphones/tag/5840">5840</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="jensen microphones"  href="//recordinghacks.com/microphones/tag/jensen">jensen</a>, <a title="cathode-follower microphones"  href="//recordinghacks.com/microphones/tag/cathode-follower">cathode-follower</a>, <a title="nickel-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/nickel-diaphragm">nickel-diaphragm</a>, <a title="ammo-box microphones"  href="//recordinghacks.com/microphones/tag/ammo-box">ammo-box</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Microtech Gefell M 296 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Microtech-Gefell/M-296" ><img src="//cdn.recordinghacks.com/images/mics/00640/00640_75.jpg" width="75" height="75" alt="Microtech Gefell M 296" title="Microtech Gefell M 296"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="640-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="Microtech Gefell M 296 - Features, Specifications, Datasheet" href="/microphones/Microtech-Gefell/M-296"><strong>Microtech Gefell M 296</strong></a><br />
+                        Omnidirectional Pencil Condenser Microphone<br />
+                        <a title="pencil-mic microphones"  href="//recordinghacks.com/microphones/tag/pencil-mic">pencil-mic</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="nickel-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/nickel-diaphragm">nickel-diaphragm</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Microtech Gefell M 295 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Microtech-Gefell/M-295" ><img src="//cdn.recordinghacks.com/images/mics/00636/00636_75.jpg" width="75" height="75" alt="Microtech Gefell M 295" title="Microtech Gefell M 295"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="636-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Microtech Gefell M 295 - Features, Specifications, Datasheet" href="/microphones/Microtech-Gefell/M-295"><strong>Microtech Gefell M 295</strong></a><br />
+                        Cardioid Pencil Condenser Microphone<br />
+                        <a title="pencil-mic microphones"  href="//recordinghacks.com/microphones/tag/pencil-mic">pencil-mic</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="pressure-gradient microphones"  href="//recordinghacks.com/microphones/tag/pressure-gradient">pressure-gradient</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="ceramic microphones"  href="//recordinghacks.com/microphones/tag/ceramic">ceramic</a>, <a title="nickel-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/nickel-diaphragm">nickel-diaphragm</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Microtech Gefell M 294 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Microtech-Gefell/M-294" ><img src="//cdn.recordinghacks.com/images/mics/00635/00635_75.jpg" width="75" height="75" alt="Microtech Gefell M 294" title="Microtech Gefell M 294"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="635-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Microtech Gefell M 294 - Features, Specifications, Datasheet" href="/microphones/Microtech-Gefell/M-294"><strong>Microtech Gefell M 294</strong></a><br />
+                        Cardioid Pencil Condenser Microphone<br />
+                        <a title="pencil-mic microphones"  href="//recordinghacks.com/microphones/tag/pencil-mic">pencil-mic</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="pressure-gradient microphones"  href="//recordinghacks.com/microphones/tag/pressure-gradient">pressure-gradient</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="ceramic microphones"  href="//recordinghacks.com/microphones/tag/ceramic">ceramic</a>, <a title="nickel-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/nickel-diaphragm">nickel-diaphragm</a><br />                        </td></tr>
+	
+                                </table>
+
+
+                 <!-- end of $nada test -->
+                </div><!-- /#column -->
+			</div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('1286-0');uniqueids.push('1276-0');uniqueids.push('1275-0');uniqueids.push('1273-0');uniqueids.push('1272-0');uniqueids.push('1170-0');uniqueids.push('1102-0');uniqueids.push('1100-0');uniqueids.push('1049-0');uniqueids.push('1049-1');uniqueids.push('1049-2');uniqueids.push('1014-0');uniqueids.push('916-0');uniqueids.push('865-0');uniqueids.push('824-0');uniqueids.push('640-0');uniqueids.push('636-0');uniqueids.push('635-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

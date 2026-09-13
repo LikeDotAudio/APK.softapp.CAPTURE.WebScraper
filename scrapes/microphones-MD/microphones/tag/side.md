@@ -1,0 +1,5 @@
+## Mics tagged: side
+
+|  |  |
+| --- | --- |
+| [Warm Audio WA-87](http://recordinghacks.com/microphones/WarmAudio/WA-87 "Warm Audio WA-87 - Features, Specifications, Datasheet") | OmnidirectionalCardioidBidirectional  [**Warm Audio WA-87**](/microphones/WarmAudio/WA-87 "Warm Audio WA-87 - Features, Specifications, Datasheet")  Multi-Pattern Condenser Microphone  [transformer](//recordinghacks.com/microphones/tag/transformer "transformer microphones"), [center-terminated](//recordinghacks.com/microphones/tag/center-terminated "center-terminated microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [k87](//recordinghacks.com/microphones/tag/k87 "k87 microphones"), [multi-pattern](//recordinghacks.com/microphones/tag/multi-pattern "multi-pattern microphones"), [side](//recordinghacks.com/microphones/tag/side "side microphones"), [address](//recordinghacks.com/microphones/tag/address "address microphones") |

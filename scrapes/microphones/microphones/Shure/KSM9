@@ -1,0 +1,270 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Shure KSM9 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="KSM9, Multi-Pattern Condenser Microphone , aka: KSM-9 - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/Shure/KSM9" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The KSM9 and MTP 940 CM are multipattern stage vocal mics." href="//recordinghacks.com/microphones/Lewitt/MTP-940-CM"><img src="//cdn.recordinghacks.com/images/mics/01565/01565_75.jpg" width="75" height="75" alt="The KSM9 and MTP 940 CM are multipattern stage vocal mics." title="The KSM9 and MTP 940 CM are multipattern stage vocal mics."   ><br /><span>Lewitt MTP 940 CM</span></a></li>
+                                                    <li class="mictile"><a title="The Shure KSM9 and KSM9HS differ only in their polar pattern choices." href="//recordinghacks.com/microphones/Shure/KSM9HS"><img src="//cdn.recordinghacks.com/images/mics/01568/01568_75.jpg" width="75" height="75" alt="The Shure KSM9 and KSM9HS differ only in their polar pattern choices." title="The Shure KSM9 and KSM9HS differ only in their polar pattern choices."   ><br /><span>Shure KSM9HS</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/Shure">Shure microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Shure KSM9" href="/microphone-photo/00778/Shure/KSM9.jpg"><img src="//cdn.recordinghacks.com/images/mics/00778/00778_172.jpg" width="172" height="85" alt="Shure KSM9" title="Shure KSM9" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $699</li>
+                                                            </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/electret" alt="electret microphones">electret</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/multipattern" alt="multipattern microphones">multipattern</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformerless" alt="transformerless microphones">transformerless</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/end-address" alt="end-address microphones">end-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/condenser" alt="condenser microphones">condenser</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/handheld" alt="handheld microphones">handheld</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/surface-mount" alt="surface-mount microphones">surface-mount</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/ksm" alt="ksm microphones">ksm</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.proaudioreview.com/article/144">ProAudioReview, 2006-10</a></li>
+                                                                    <li id="www"><a  href="http://www.performing-musician.com/pm/apr08/articles/shureksm9.htm">Performing Musician, 2008-04</a></li>
+                                                                </ul>                    
+                                        <h3>KSM9 Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.shure.com/americas/products/microphones/ksm/ksm9-handheld-vocal-microphone">KSM9 Product Description</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/shure/KSM9-manual.pdf">KSM9 User Guide</a></li>
+                                                                    <li id="film"><a  href="http://mixonline.com/wnamm/video/shure_ksm9_mic_video/">KSM9 Product Intro</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/shure/us_pro_ksm9_specsheet.pdf">KSM9 Spec Sheet</a></li>
+                                                                </ul>                    
+                                        <h3>KSM9 Awards</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a href="//recordinghacks.com/awards#3">2009 PSW Readers Choice Awards</a></li>
+                                            <li id="www"><a href="//recordinghacks.com/awards#8">2007 TEC Awards</a> (Nominated)</li>
+                                        </ul>                    
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="778-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="778-1" src="//cdn.recordinghacks.com/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" ></span>Shure KSM9</h2>
+                    
+                    <h2 class="sub">                    Multi-Pattern Condenser Microphone</h2>
+                    <p>Shure&#8217;s KSM9 is a stage condenser in a traditional handheld form factor. It is intended for vocal use.</p><p>The mic has a dual-diaphragm 19.8mm OD electret condenser capsule, with diaphragms mounted 3.7mm apart. The output of these capsules is manipulated electronically to support two pickup patterns, cardioid and supercardioid.<br /><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/shure/KSM9-cartridge.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/shure/KSM9-cartridge-sm.jpg" class="thumb shaft" alt="KSM9 Multipattern Cartridge" width="200" /></a></p><blockquote><p><cite>Shure</cite></p><p>Both elements face forward and are contained within a single housing. The front element is acoustically tuned &#8220;half-way&#8221; between cardioid and supercardioid.</p><p>Via a double-pole switch, the rear element is connected in parallel to the front element. When the rear element is connected to have the same polarity as the front element, the resultant pattern is cardioid. When the rear element is connected to have the opposite polarity as the front element, the resultant pattern is supercardioid. Using this approach, the sensitivities of both patterns are nearly identical.</p><p>Compared to a single element directional microphone, this  two element design also lessens proximity effect, handling noise, and wind noise.</p></blockquote><p>The capsule in the KSM9 is tuned to produce the strongest rear rejection at a distance of 6 feet, which is a typical distance between the mic on stage and a floor monitor. </p><p>The mic&#8217;s circuit uses surface-mount components, and was laboriously redesigned to optimize it for the lowest possible self-noise. The circuit includes &#8220;significant&#8221; RF/EMI filtering, according to Shure.</p><p>The KSM9 is available in two colors:</p><ul><li><b>KSM9/CG</b> - Charcoal Black</li><li><b>KSM9/SL</b> - Champagne</li></ul><p>Both are built with a cast aluminum handle.</p><p>It includes a mic clip (Shure p/n A25E) and an aluminum carrying case (Shure p/n A9SC).</p><p>Available replacement parts are listed in the User&#8217;s Guide (see sidebar link).</p><blockquote><p><cite>Pro Audio Review, 2006</cite></p><p>I have been amazed at the smoothness across the frequency spectrum and &#8220;smooth&#8221; is the best way to describe this mic&#8230;</p><p>The switchable pattern is very useful for all types of vocalists in every situation. In the cardioid pattern the KSM9 performs very well and airy when having a vocalist on a set of in-ear monitors or with a lower stage volume. In the supercardioid pattern the mic response is beautifully with superb off-axis rejection. There is little difference in the frequency response and character of the mic in either pickup pattern&#8230;</p><p>This mic sounds like what you have always wanted a live mic to sound like. That is to say you have the brilliant clarity of a large diaphragm studio microphone in a durable live application. It is crisp without sounding too harsh, but warm and natural for a true reproduction of the human voice.</p></blockquote><p></p><blockquote><p><cite>Performing Musician</cite></p><p>In comparison with some less costly, back-electret, live vocal mics I had to hand for test purposes, the KSM9 consistently delivered the smoothest and most musical result&#8230; The impression is of a studio-quality mic designed for live performance&#8230; By way of output, the levels of the KSM9 and my test mics were pretty evenly matched, and rejection of feedback was nominally similar too.</p><p>The <a href="http://recordinghacks.com/microphones/Rode/M3">Rode M3</a> we reviewed recently is about a fifth of the price and sounds similarly studio-like, but it isn&#8217;t nearly as good at rejecting popping&#8230;</p><p>Judged on a combination of sound, resistance to feedback and popping, and build quality, the KSM9 is the best live vocal capacitor microphone I&#8217;ve had the pleasure of using to date, but there are viable alternatives snapping at its heels for considerably less money, and unless you have a very high-quality sound system, you may not hear a great deal of difference. However, for the professional performer who simply must have the best, the KSM9 ticks all the right boxes.</p></blockquote><p><p>The <a href="//recordinghacks.com/microphones/Shure/KSM9">Shure KSM9</a> is also known as: KSM-9.</p><p>The mic was released in 2006.</p>
+                    <h3>Specifications</h3>
+                                        
+                    <table>
+                                                    <tr><th>Frequency Response - Cardioid<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/1004" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/1/1004.png" width=476 height=159 alt="KSM9 Cardioid Frequency Response Chart" title="KSM9 Cardioid Frequency Response Chart" border=0 /></td></tr>
+                                                        <tr><th>Frequency Response - Supercardioid<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/1005" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/1/1005.png" width=476 height=159 alt="KSM9 Supercardioid Frequency Response Chart" title="KSM9 Supercardioid Frequency Response Chart" border=0 /></td></tr>
+                            </table>
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                                                                Cardioid
+                                             (2.8 mV/Pa; 50 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                                                            Supercardioid
+                                             (2.8 mV/Pa; 50 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Capsule Dimensions</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                                                                                                        Capsule diameter: 19.8mm<br />
+                                                                                                                                                    </td>
+                            <td>150 Ohms <em class="mute">(Low)</em></td>
+                            <td>Max SPL: 152 dB<br />                                Self-noise: 22.0 dB(A)</td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>300g <em class="mute">(10.58oz)</em></td>
+                            <td>191mm <em class="mute">(7.52&#39;&#39;)</em></td>
+                            <td>49mm <em class="mute">(1.93&#39;&#39;)</em></td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                        <li>Requires phantom power </li>
+                                                                                                                                                                                <li>Phantom voltage: 11-48v</li>
+                                        </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('778-0');uniqueids.push('778-1');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

@@ -1,0 +1,229 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>offset-ribbon microphones | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+                
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+			<div id="content">
+                <div id="sidebar">                  
+                    					<h2 class="search">search for mics</h2>
+					<form action="/microphones" method="POST">
+										<script language="JavaScript" type="text/javascript">
+function clearText(field){
+
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+
+}
+					</script>
+						<fieldset>
+						    <input type="text" name="s" size="20" value="Microphone name or model number" style="color: #667;margin-left: 0;margin-bottom: 8px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)"><br />
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<fieldset class="checks">
+							<span class="shaft">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+							</span>
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">&nbsp;<input style="font-size: 8px" type="reset" name="button" value="Reset Form">
+						</fieldset>
+					</form>
+                            <p></p><h3>Definition of "offset-ribbon":</h3><p>Microphones tagged <b>offset-ribbon</b> employ an innovative ribbon motor design, patented by David Royer and Richard Perrotta of Royer Labs. The ribbon, while remaining centered between the pole pieces of the magnet, is displaced toward the front of the microphone. This design provides higher SPL handling capabilities (from the front of the mic) and changes the frequency response between front and back axes.</p><p>Some China-manufactured ribbon mics copied this design, but some reports suggest that the manufacturers are reverting to a traditional, non-offset design in order to avoid claims of patent infringement by Royer against US-based &#8220;rabadgers&#8221; of the imported mics.</p><p>Read more about <a href="http://www.google.com/patents?vid=USPAT6434252">patent 6434252 &#8212; offset ribbon microphone</a>.</p>
+<h3>Refine Search</h3><p>Find mics tagged '<b>offset-ribbon</b> AND:'</p> 
+<p><a rel="nofollow" href="//recordinghacks.com/microphones/tag/offset-ribbon+side-address" title="Mics tagged offset-ribbon AND side-address">side-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/offset-ribbon+ribbon" title="Mics tagged offset-ribbon AND ribbon">ribbon</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/offset-ribbon+transformer-coupled" title="Mics tagged offset-ribbon AND transformer-coupled">transformer-coupled</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/offset-ribbon+neodymium" title="Mics tagged offset-ribbon AND neodymium">neodymium</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/offset-ribbon+passive-ribbon" title="Mics tagged offset-ribbon AND passive-ribbon">passive-ribbon</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/offset-ribbon+bidirectional" title="Mics tagged offset-ribbon AND bidirectional">bidirectional</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/offset-ribbon+figure-8" title="Mics tagged offset-ribbon AND figure-8">figure-8</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/offset-ribbon+active-ribbon" title="Mics tagged offset-ribbon AND active-ribbon">active-ribbon</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/offset-ribbon+hpf" title="Mics tagged offset-ribbon AND hpf">hpf</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/offset-ribbon+made-in-usa" title="Mics tagged offset-ribbon AND made-in-usa">made-in-usa</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/offset-ribbon+dual-voice" title="Mics tagged offset-ribbon AND dual-voice">dual-voice</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/offset-ribbon+lollipop" title="Mics tagged offset-ribbon AND lollipop">lollipop</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/offset-ribbon+tube" title="Mics tagged offset-ribbon AND tube">tube</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/offset-ribbon+5840" title="Mics tagged offset-ribbon AND 5840">5840</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/offset-ribbon+jensen" title="Mics tagged offset-ribbon AND jensen">jensen</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/offset-ribbon+cathode-follower" title="Mics tagged offset-ribbon AND cathode-follower">cathode-follower</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/offset-ribbon+transformerless" title="Mics tagged offset-ribbon AND transformerless">transformerless</a> </p>
+<h3>Expand Search</h3><p>Find mics tagged '<b>offset-ribbon</b> OR:'</p>
+<p><a rel="nofollow" href="//recordinghacks.com/microphones/tag/offset-ribbon|side-address" title="Mics tagged offset-ribbon OR side-address">side-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/offset-ribbon|ribbon" title="Mics tagged offset-ribbon OR ribbon">ribbon</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/offset-ribbon|transformer-coupled" title="Mics tagged offset-ribbon OR transformer-coupled">transformer-coupled</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/offset-ribbon|neodymium" title="Mics tagged offset-ribbon OR neodymium">neodymium</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/offset-ribbon|passive-ribbon" title="Mics tagged offset-ribbon OR passive-ribbon">passive-ribbon</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/offset-ribbon|bidirectional" title="Mics tagged offset-ribbon OR bidirectional">bidirectional</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/offset-ribbon|figure-8" title="Mics tagged offset-ribbon OR figure-8">figure-8</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/offset-ribbon|active-ribbon" title="Mics tagged offset-ribbon OR active-ribbon">active-ribbon</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/offset-ribbon|hpf" title="Mics tagged offset-ribbon OR hpf">hpf</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/offset-ribbon|made-in-usa" title="Mics tagged offset-ribbon OR made-in-usa">made-in-usa</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/offset-ribbon|dual-voice" title="Mics tagged offset-ribbon OR dual-voice">dual-voice</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/offset-ribbon|lollipop" title="Mics tagged offset-ribbon OR lollipop">lollipop</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/offset-ribbon|tube" title="Mics tagged offset-ribbon OR tube">tube</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/offset-ribbon|5840" title="Mics tagged offset-ribbon OR 5840">5840</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/offset-ribbon|jensen" title="Mics tagged offset-ribbon OR jensen">jensen</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/offset-ribbon|cathode-follower" title="Mics tagged offset-ribbon OR cathode-follower">cathode-follower</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/offset-ribbon|transformerless" title="Mics tagged offset-ribbon OR transformerless">transformerless</a> </p>
+                </div><!-- /#sidebar -->
+                <div id="column" style="width: auto">
+						    <h2>Mics tagged: offset-ribbon</h2>
+			    <table>
+				                    <tr><td><a title="Royer Labs R-10 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Royer-Labs/R-10" ><img src="//cdn.recordinghacks.com/images/mics/01773/01773_75.jpg" width="75" height="75" alt="Royer Labs R-10" title="Royer Labs R-10"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1773-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Royer Labs R-10 - Features, Specifications, Datasheet" href="/microphones/Royer-Labs/R-10"><strong>Royer Labs R-10</strong></a><br />
+                        Bidirectional Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="offset-ribbon microphones"  href="//recordinghacks.com/microphones/tag/offset-ribbon">offset-ribbon</a>, <a title="neodymium microphones"  href="//recordinghacks.com/microphones/tag/neodymium">neodymium</a>, <a title="passive-ribbon microphones"  href="//recordinghacks.com/microphones/tag/passive-ribbon">passive-ribbon</a>, <a title="bidirectional microphones"  href="//recordinghacks.com/microphones/tag/bidirectional">bidirectional</a>, <a title="figure-8 microphones"  href="//recordinghacks.com/microphones/tag/figure-8">figure-8</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Royer Labs R-122 Mk II - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Royer-Labs/R-122-Mk-II" ><img src="//cdn.recordinghacks.com/images/mics/01697/01697_75.jpg" width="75" height="75" alt="Royer Labs R-122 Mk II" title="Royer Labs R-122 Mk II"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1697-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Royer Labs R-122 Mk II - Features, Specifications, Datasheet" href="/microphones/Royer-Labs/R-122-Mk-II"><strong>Royer Labs R-122 Mk II</strong></a><br />
+                        Bidirectional Active Ribbon Microphone<br />
+                        <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="active-ribbon microphones"  href="//recordinghacks.com/microphones/tag/active-ribbon">active-ribbon</a>, <a title="offset-ribbon microphones"  href="//recordinghacks.com/microphones/tag/offset-ribbon">offset-ribbon</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Royer Labs R-122 Live - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Royer-Labs/R-122-Live" ><img src="//cdn.recordinghacks.com/images/mics/01051/01051_75.jpg" width="75" height="75" alt="Royer Labs R-122 Live" title="Royer Labs R-122 Live"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1051-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Royer Labs R-122 Live - Features, Specifications, Datasheet" href="/microphones/Royer-Labs/R-122-Live"><strong>Royer Labs R-122 Live</strong></a><br />
+                        Bidirectional Active Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="active-ribbon microphones"  href="//recordinghacks.com/microphones/tag/active-ribbon">active-ribbon</a>, <a title="offset-ribbon microphones"  href="//recordinghacks.com/microphones/tag/offset-ribbon">offset-ribbon</a>, <a title="neodymium microphones"  href="//recordinghacks.com/microphones/tag/neodymium">neodymium</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Royer Labs R-121 Live - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Royer-Labs/R-121-Live" ><img src="//cdn.recordinghacks.com/images/mics/01050/01050_75.jpg" width="75" height="75" alt="Royer Labs R-121 Live" title="Royer Labs R-121 Live"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1050-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Royer Labs R-121 Live - Features, Specifications, Datasheet" href="/microphones/Royer-Labs/R-121-Live"><strong>Royer Labs R-121 Live</strong></a><br />
+                        Bidirectional Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="offset-ribbon microphones"  href="//recordinghacks.com/microphones/tag/offset-ribbon">offset-ribbon</a>, <a title="neodymium microphones"  href="//recordinghacks.com/microphones/tag/neodymium">neodymium</a>, <a title="passive-ribbon microphones"  href="//recordinghacks.com/microphones/tag/passive-ribbon">passive-ribbon</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Royer Labs R-101 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Royer-Labs/R-101" ><img src="//cdn.recordinghacks.com/images/mics/01038/01038_75.jpg" width="75" height="75" alt="Royer Labs R-101" title="Royer Labs R-101"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1038-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Royer Labs R-101 - Features, Specifications, Datasheet" href="/microphones/Royer-Labs/R-101"><strong>Royer Labs R-101</strong></a><br />
+                        Bidirectional Ribbon Microphone<br />
+                        <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="offset-ribbon microphones"  href="//recordinghacks.com/microphones/tag/offset-ribbon">offset-ribbon</a>, <a title="neodymium microphones"  href="//recordinghacks.com/microphones/tag/neodymium">neodymium</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a>, <a title="dual-voice microphones"  href="//recordinghacks.com/microphones/tag/dual-voice">dual-voice</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="SE Electronics R1 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/SE-Electronics/R1" ><img src="//cdn.recordinghacks.com/images/mics/00670/00670_75.jpg" width="75" height="75" alt="SE Electronics R1" title="SE Electronics R1"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="670-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="SE Electronics R1 - Features, Specifications, Datasheet" href="/microphones/SE-Electronics/R1"><strong>SE Electronics R1</strong></a><br />
+                        Bidirectional Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="offset-ribbon microphones"  href="//recordinghacks.com/microphones/tag/offset-ribbon">offset-ribbon</a>, <a title="neodymium microphones"  href="//recordinghacks.com/microphones/tag/neodymium">neodymium</a>, <a title="passive-ribbon microphones"  href="//recordinghacks.com/microphones/tag/passive-ribbon">passive-ribbon</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="t.bone RM700 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/t.bone/RM700" ><img src="//cdn.recordinghacks.com/images/mics/00537/00537_75.jpg" width="75" height="75" alt="t.bone RM700" title="t.bone RM700"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="537-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="t.bone RM700 - Features, Specifications, Datasheet" href="/microphones/t.bone/RM700"><strong>t.bone RM700</strong></a><br />
+                        Bidirectional Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="offset-ribbon microphones"  href="//recordinghacks.com/microphones/tag/offset-ribbon">offset-ribbon</a>, <a title="lollipop microphones"  href="//recordinghacks.com/microphones/tag/lollipop">lollipop</a>, <a title="neodymium microphones"  href="//recordinghacks.com/microphones/tag/neodymium">neodymium</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="t.bone RB100 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/t.bone/RB100" ><img src="//cdn.recordinghacks.com/images/mics/00524/00524_75.jpg" width="75" height="75" alt="t.bone RB100" title="t.bone RB100"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="524-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="t.bone RB100 - Features, Specifications, Datasheet" href="/microphones/t.bone/RB100"><strong>t.bone RB100</strong></a><br />
+                        Bidirectional Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="offset-ribbon microphones"  href="//recordinghacks.com/microphones/tag/offset-ribbon">offset-ribbon</a>, <a title="neodymium microphones"  href="//recordinghacks.com/microphones/tag/neodymium">neodymium</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Nady RSM-3 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Nady/RSM-3" ><img src="//cdn.recordinghacks.com/images/mics/00523/00523_75.jpg" width="75" height="75" alt="Nady RSM-3" title="Nady RSM-3"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="523-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Nady RSM-3 - Features, Specifications, Datasheet" href="/microphones/Nady/RSM-3"><strong>Nady RSM-3</strong></a><br />
+                        Bidirectional Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="offset-ribbon microphones"  href="//recordinghacks.com/microphones/tag/offset-ribbon">offset-ribbon</a>, <a title="neodymium microphones"  href="//recordinghacks.com/microphones/tag/neodymium">neodymium</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Ningbo Alctron Electronics Co., Ltd. RM-10 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Alctron/HRM-10" ><img src="//cdn.recordinghacks.com/images/mics/00522/00522_75.jpg" width="75" height="75" alt="Ningbo Alctron Electronics Co., Ltd. RM-10" title="Ningbo Alctron Electronics Co., Ltd. RM-10"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="522-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Ningbo Alctron Electronics Co., Ltd. RM-10 - Features, Specifications, Datasheet" href="/microphones/Alctron/HRM-10"><strong>Ningbo Alctron Electronics Co., Ltd. RM-10</strong></a><br />
+                        Bidirectional Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="offset-ribbon microphones"  href="//recordinghacks.com/microphones/tag/offset-ribbon">offset-ribbon</a>, <a title="passive-ribbon microphones"  href="//recordinghacks.com/microphones/tag/passive-ribbon">passive-ribbon</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Royer Labs R-122V - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Royer-Labs/R-122V" ><img src="//cdn.recordinghacks.com/images/mics/00445/00445_75.jpg" width="75" height="75" alt="Royer Labs R-122V" title="Royer Labs R-122V"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="445-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Royer Labs R-122V - Features, Specifications, Datasheet" href="/microphones/Royer-Labs/R-122V"><strong>Royer Labs R-122V</strong></a><br />
+                        Bidirectional Tube Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="tube microphones"  href="//recordinghacks.com/microphones/tag/tube">tube</a>, <a title="5840 microphones"  href="//recordinghacks.com/microphones/tag/5840">5840</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="offset-ribbon microphones"  href="//recordinghacks.com/microphones/tag/offset-ribbon">offset-ribbon</a>, <a title="neodymium microphones"  href="//recordinghacks.com/microphones/tag/neodymium">neodymium</a>, <a title="jensen microphones"  href="//recordinghacks.com/microphones/tag/jensen">jensen</a>, <a title="cathode-follower microphones"  href="//recordinghacks.com/microphones/tag/cathode-follower">cathode-follower</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Royer Labs R-122 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Royer-Labs/R-122" ><img src="//cdn.recordinghacks.com/images/mics/00444/00444_75.jpg" width="75" height="75" alt="Royer Labs R-122" title="Royer Labs R-122"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="444-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Royer Labs R-122 - Features, Specifications, Datasheet" href="/microphones/Royer-Labs/R-122"><strong>Royer Labs R-122</strong></a><br />
+                        Bidirectional Active Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="active-ribbon microphones"  href="//recordinghacks.com/microphones/tag/active-ribbon">active-ribbon</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="offset-ribbon microphones"  href="//recordinghacks.com/microphones/tag/offset-ribbon">offset-ribbon</a>, <a title="neodymium microphones"  href="//recordinghacks.com/microphones/tag/neodymium">neodymium</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Royer Labs R-121 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Royer-Labs/R-121" ><img src="//cdn.recordinghacks.com/images/mics/00443/00443_75.jpg" width="75" height="75" alt="Royer Labs R-121" title="Royer Labs R-121"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="443-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Royer Labs R-121 - Features, Specifications, Datasheet" href="/microphones/Royer-Labs/R-121"><strong>Royer Labs R-121</strong></a><br />
+                        Bidirectional Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="offset-ribbon microphones"  href="//recordinghacks.com/microphones/tag/offset-ribbon">offset-ribbon</a>, <a title="neodymium microphones"  href="//recordinghacks.com/microphones/tag/neodymium">neodymium</a>, <a title="passive-ribbon microphones"  href="//recordinghacks.com/microphones/tag/passive-ribbon">passive-ribbon</a>, <a title="made-in-usa microphones"  href="//recordinghacks.com/microphones/tag/made-in-usa">made-in-usa</a><br />                        </td></tr>
+	
+                                </table>
+
+
+                 <!-- end of $nada test -->
+                </div><!-- /#column -->
+			</div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('1773-0');uniqueids.push('1697-0');uniqueids.push('1051-0');uniqueids.push('1050-0');uniqueids.push('1038-0');uniqueids.push('670-0');uniqueids.push('537-0');uniqueids.push('524-0');uniqueids.push('523-0');uniqueids.push('522-0');uniqueids.push('445-0');uniqueids.push('444-0');uniqueids.push('443-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

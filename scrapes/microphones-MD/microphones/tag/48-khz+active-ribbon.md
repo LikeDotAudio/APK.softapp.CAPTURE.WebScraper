@@ -1,0 +1,5 @@
+## Mics tagged: 48-khz AND active-ribbon
+
+|  |  |
+| --- | --- |
+| [MXL UR-1](http://recordinghacks.com/microphones/MXL/UR-1 "MXL UR-1 - Features, Specifications, Datasheet") | Bidirectional  [**MXL UR-1**](/microphones/MXL/UR-1 "MXL UR-1 - Features, Specifications, Datasheet")  Bidirectional Ribbon Microphone  [dynamic](//recordinghacks.com/microphones/tag/dynamic "dynamic microphones"), [usb](//recordinghacks.com/microphones/tag/usb "usb microphones"), [side-address](//recordinghacks.com/microphones/tag/side-address "side-address microphones"), [ribbon](//recordinghacks.com/microphones/tag/ribbon "ribbon microphones"), [active-ribbon](//recordinghacks.com/microphones/tag/active-ribbon "active-ribbon microphones"), [yoke-mount](//recordinghacks.com/microphones/tag/yoke-mount "yoke-mount microphones"), [16-bit](//recordinghacks.com/microphones/tag/16-bit "16-bit microphones"), [48-khz](//recordinghacks.com/microphones/tag/48-khz "48-khz microphones"), [headphone-jack](//recordinghacks.com/microphones/tag/headphone-jack "headphone-jack microphones") |

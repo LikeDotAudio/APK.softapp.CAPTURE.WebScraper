@@ -1,0 +1,5 @@
+## Mics tagged: 16-bit AND spherical
+
+|  |  |
+| --- | --- |
+| [Blue Microphones Snowball](http://recordinghacks.com/microphones/Blue-Microphones/Snowball "Blue Microphones Snowball - Features, Specifications, Datasheet") | OmnidirectionalCardioid  [**Blue Microphones Snowball**](/microphones/Blue-Microphones/Snowball "Blue Microphones Snowball - Features, Specifications, Datasheet")  Multi-Pattern Condenser Microphone  [usb](//recordinghacks.com/microphones/tag/usb "usb microphones"), [electret](//recordinghacks.com/microphones/tag/electret "electret microphones"), [multipattern](//recordinghacks.com/microphones/tag/multipattern "multipattern microphones"), [spherical](//recordinghacks.com/microphones/tag/spherical "spherical microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [16-bit](//recordinghacks.com/microphones/tag/16-bit "16-bit microphones"), [44.1-khz](//recordinghacks.com/microphones/tag/44.1-khz "44.1-khz microphones") |

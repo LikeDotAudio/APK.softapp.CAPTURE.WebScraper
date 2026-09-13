@@ -1,0 +1,276 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Neumann KM 86 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="KM 86, Multi-Pattern Condenser Microphone , aka: KM86 - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/Neumann/KM-86" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The KM 86 used a pair of KM 84 capsules, mounted back-to-back." href="//recordinghacks.com/microphones/Neumann/KM-84"><img src="//cdn.recordinghacks.com/images/mics/00466/00466_75.jpg" width="75" height="75" alt="The KM 86 used a pair of KM 84 capsules, mounted back-to-back." title="The KM 86 used a pair of KM 84 capsules, mounted back-to-back."   ><br /><span>Neumann KM 84</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/Neumann">Neumann microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                            <a name="mods"></a><div class="graybox"><h3>Mods for the KM 86</h3>
+                        <ul class="mod_list">
+                                                    <li style="font-family: Georgia, Serif;"><b>The Mic Shop</b><a href="//recordinghacks.com/microphones/MicShop"><img style="border: 0; padding: 0 0 6px 3px" src="//recordinghacks.com/images/logos/logo_micshop.jpg" height=75 width=75 alt="The Mic Shop" /></a>                            <br />Bill Bradley restores vintage mics in Nashville, TN.</li>
+                                                </ul><br clear="all" />
+                    </div>            
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Neumann KM 86" href="/microphone-photo/01068/Neumann/KM-86.jpg"><img src="//cdn.recordinghacks.com/images/mics/01068/01068_172.jpg" width="172" height="84" alt="Neumann KM 86" title="Neumann KM 86" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: n/a</li>
+                                        <li id="none"><em>Discontinued</em></li>                    </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/side-address" alt="side-address microphones">side-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/multipattern" alt="multipattern microphones">multipattern</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformer-coupled" alt="transformer-coupled microphones">transformer-coupled</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/condenser" alt="condenser microphones">condenser</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/dual-capsule" alt="dual-capsule microphones">dual-capsule</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/kk84" alt="kk84 microphones">kk84</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/tripolar" alt="tripolar microphones">tripolar</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="forum"><a  href="http://neumann.com/forums/view.php?site=neumann&amp;bn=neumann_archive&amp;key=1017819136">Klaus Heyne on KM86 Capsules</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/neumann/KM66-history.pdf">KM 66 History and Features</a></li>
+                                                                </ul>                    
+                                        <h3>KM 86 Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/neumann/KM-brochure.pdf">KM 86 Brochure</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/neumann/KM86-manual-1984.pdf">KM 86 Manual</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/neumann/KM86-parts.pdf">KM 86 Parts List</a></li>
+                                                                    <li id="image"><a rel="shadowbox" href="http://recordinghacks.com/images/mic_extras/neumann/KM86i-catalog.jpg">KM86i Catalog Page</a></li>
+                                                                    <li id="image"><a rel="shadowbox" href="http://recordinghacks.com/images/mic_extras/neumann/KM86-schematic.gif">KM86 Schematic</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="1068-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="1068-1" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="1068-2" src="//cdn.recordinghacks.com/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ></span>Neumann KM 86</h2>
+                    
+                    <h2 class="sub">                    Multi-Pattern Condenser Microphone</h2>
+                    <p>The KM 86 is a multipattern FET condenser microphone with two KK84 small-diaphragm Cardioid capsules mounted back-to-back. This mic was essentially a phantom-powered FET version of the KM 66 tube mic; both models contained a switch on the mic body allows selection of Cardioid, Omnidirectional, or figure-of-8 polar patterns.</p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/neumann/KM66-capsules.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/neumann/KM66-capsules-sm.jpg" class="thumb shaft" alt="KM 66/KM 86 Capsule Assembly" width="133" /></a>The use of two fixed-Cardioid capsules mounted back-to-back was a relatively recent innovation for Neumann. The idea was developed in the mid-1960s and first commercialized in the KM-66, released in 1966.</p><p>Unlike large-diaphragm multipattern mics, which create switchable polar patterns by combining the output of two sides of a dual-diaphragm capsule in a variety of ways, the KM66, KM76, and KM86 utilize twin single-sided capsules developed for the fixed-Cardioid KM-84. The two capsules are mounted back-to-back, with 1cm of space between the diaphragms.</p><blockquote><p><cite>Klaus Heyne</cite></p><p>The functional difference for generating figure eight with one capsule, a combined backplate and two diaphragms or two entirely separate cardioid capsules is two-fold.</p><p>One, the physical distance, measured from diaphragm to diaphragm, is slightly bigger on the KM86 compared with, say, a <a href="http://recordinghacks.com/microphones/Neumann/U-87-Ai">U87</a>. So there is some additional time delay involved.</p><p>Two, each of the two cardioid capsules which form the figure eight on a KM86 is somewhat &#8216;purer&#8217; in as much as the directional discrimination for each cardioid is derived from sound waves hitting the back plate (and then the inside of the diaphragm) directly, rather than traveling through another diaphragm, as in the case of combined backplate systems, like <a href="http://recordinghacks.com/microphones/tag/k67">K67</a>/<a href="http://recordinghacks.com/microphones/tag/k47">K47</a>, etc.</p></blockquote><p>The increase in space between the two diaphragms, as compared to a dual-diaphragm capsule, results in greater phase differences for low-frequency signals striking the two capsules; this in turn leads to an improvement in low-frequency response when the mic is in Figure-of-8 mode.</p><p>Because the figure-8 performance of most dual-diaphragm capsules suffers in the low frequencies, the KM-86 and related microphones offer superior low-frequency reproduction.</p><blockquote><p><cite>Neumann</cite></p><p>Polar diagrams of typical dual-diaphragm microphones indicate that the reverse attenuation of the cardioid pickup pattern decreases remarkably towards the low frequencies. When the two capsule halves are activated at the same time, the backside part adds a much higher share of the whole signal. This generates an narrower figure-8 pattern in the low frequencies and an uneven response due to changes in distance.</p><p>In the KM 66, the cardioid and figure-8 patterns feature an accurate representation of low frequencies, even in such a case where the microphone is used at a greater distance from the sound source.</p></blockquote><p>The capsule assembly was shockmounted, to reduce mechanical noise. Over time, these rubber components can become brittle, reducing their effectiveness. </p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/neumann/KM86i.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/neumann/KM86i-sm.jpg" class="thumb shaft" alt="KM 86i" width="200" /></a>The microphone&#8217;s name is descriptive: <b>KM</b> is for <em>Kleine Mikrofon</em> (&#8220;small microphone&#8221;). The digit <b>8</b> indicates the use of P48 phantom power. The digit <b>6</b> indicates a multipattern microphone.</p><p>A second switch, on the rear of the microphone body, enabled a -10dB pad.</p><p>The KM86 was available in two colors, with two possible output connectors, yielding four possible configurations:</p><ul><li><b>KM 86</b> - 3-pin Binder/Tuchel jack, silver/nickel finish, 175mm length</li><li><b>KM 86 i</b> - 3-pin XLR jack, silver/nickel finish, 185mm length</li><li><b>KM 86 mt</b> - 3-pin Binder/Tuchel jack, dark matte gray finish, 175mm length</li><li><b>KM 86 i mt</b> - 3-pin XLR jack, dark matte gray finish, 185mm length</li></ul><p>Like many of the Neumann microphones of its era, the KM86/KM86i could be modified for 50&Omega; output impedance, rather than the standard 200&Omega;. Mics configured for 50&Omega; from the factory were marked with a red dot next to the serial number.</p><p>The KM86/KM86i specifications changed during its 18-year production run. For example, an early catalog specifies the sensitivity at 0.7mV/&mu;b (7mV/Pa). But the user guide from 1980 specs the sensitivity at 9.5 mV/Pa.</p><p>The KM86 microphone was discontinued in 1986.<p>The <a href="//recordinghacks.com/microphones/Neumann/KM-86">Neumann KM 86</a> is also known as: KM86.</p><p>The mic was released in 1968.</p>
+                    <h3>Specifications</h3>
+                                        
+                    <table>
+                                                    <tr><th>Frequency Response - Omnidirectional<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/1470" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/1/1470.png" width=476 height=159 alt="KM 86 Omnidirectional Frequency Response Chart" title="KM 86 Omnidirectional Frequency Response Chart" border=0 /></td></tr>
+                                                        <tr><th>Frequency Response - Cardioid<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/1471" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/1/1471.png" width=476 height=159 alt="KM 86 Cardioid Frequency Response Chart" title="KM 86 Cardioid Frequency Response Chart" border=0 /></td></tr>
+                                                        <tr><th>Frequency Response - Bidirectional<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/1472" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/1/1472.png" width=476 height=159 alt="KM 86 Bidirectional Frequency Response Chart" title="KM 86 Bidirectional Frequency Response Chart" border=0 /></td></tr>
+                            </table>
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                                                                Omnidirectional
+                                             (9.5 mV/Pa; 40 - 16,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                                                            Cardioid
+                                             (7 mV/Pa; 40 - 16,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                                                            Bidirectional
+                                             (7 mV/Pa; 40 - 16,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                    <li>Pad: -10dB<small> (Via Switch)</small></li>
+                                                                    </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Capsule Dimensions</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                                                            Diameter n/a<br />
+                                                                                                                                                    </td>
+                            <td>200 Ohms <em class="mute">(Low)</em></td>
+                            <td>Max SPL: 131 dB<br />                                Self-noise: 19.0 dB(A)</td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>200g <em class="mute">(7.05oz)</em></td>
+                            <td>175mm <em class="mute">(6.89&#39;&#39;)</em></td>
+                            <td>n/a</td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                        <li>Requires phantom power </li>
+                                                                                                                                                                                <li>Phantom voltage: 48&plusmn;4v</li>
+                                        </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('1068-0');uniqueids.push('1068-1');uniqueids.push('1068-2');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

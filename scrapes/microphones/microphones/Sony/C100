@@ -1,0 +1,318 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Sony C100 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="C100, Multi-Pattern Condenser Microphone , aka: C-100 - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/Sony/C100" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Sony C100" href="/microphone-photo/01813/Sony/C100.jpg"><img src="//cdn.recordinghacks.com/images/mics/01813/01813_172.jpg" width="172" height="87" alt="Sony C100" title="Sony C100" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $1,699</li>
+                                                            </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/side-address" alt="side-address microphones">side-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/large-diaphragm" alt="large-diaphragm microphones">large-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/dual-diaphragm" alt="dual-diaphragm microphones">dual-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/electret" alt="electret microphones">electret</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformerless" alt="transformerless microphones">transformerless</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/condenser" alt="condenser microphones">condenser</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/dual-capsule" alt="dual-capsule microphones">dual-capsule</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="https://www.soundonsound.com/reviews/sony-c100">SOS 02-2018</a></li>
+                                                                    <li id="www"><a  href="https://www.prosoundnetwork.com/gear-and-technology/review-sony-c-100-high-resolution-condenser-mic">PSN 02-2018</a></li>
+                                                                </ul>                    
+                                        <h3>C100 Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="https://pro.sony/ue_US/products/studio-microphones/c-100">C100 Product Page</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="https://pro.sony/ue_US/pdf/c-100">C100 Spec Sheet</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="1813-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="1813-1" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="1813-2" src="//cdn.recordinghacks.com/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ></span>Sony C100</h2>
+                    
+                    <h2 class="sub">                    Multi-Pattern Condenser Microphone</h2>
+                    <p>The Sony C100a is Sony&#8217;s first new microphone release in 25 years. It is a dual-capsule, mono microphone with a separate single-backplate electret capsule mounted above the large dual-diaphragm capsule, similar in appearance (but not function) to the Sanken CU-44X MKII. It is a transformerless design.</p><p>Since Sony has a hand in every aspect of recorded music, from record labels to manufacturing speakers, they thought it necessary to manufacture a mic that would capture high resolution sound at the source. As a result, the C100 was designed and improved with the help of Sony Music, the process taking three years of research and development.</p><p>The 17mm electret capsule, the topmost capsule in the headbasket, allows the C100 to capture high resolution audio up to 50,000Hz. The two capsules are crossed over at 25kHz, with the 25mm large diaphragm (lower) capsule handling everything below 25kHz</p><blockquote><p><cite>SoundOnSound</cite><br />A spectrum analyser revealed that it definitely has greater extension in the ultrasonic range than conventional large-diaphragm capacitor mics. Whereas my C414 had rolled off completely by 30kHz, the C100 was still going at 40kHz and above, and what it had captured was obviously audio generated by the source, rather than random noise.</p></blockquote><p>This is a novel arrangement, different from the Sanken mics or any other dual capsule arrangement we&#8217;re aware of, primarily because of the crossover point. For instance, the Sanken CU-44X MKII and the CU-42 cross over to the second capsule at a much lower frequency, 1kHz. Due to Sony&#8217;s high-frequency crossover, lower sample rates do not make use of the smaller capsule, thereby avoiding the potential pitfalls of an internal crossover. </p><p>Both capsules are new designs, and the 17mm capsule is the same capsule found in the other Sony microphones introduced at AES 2017, the ECM-100U and 100N.</p><p>The C100 is a multi-pattern microphone, taking advantage of the dual diaphragms on the larger of the two capsules in the microphone. Accordingly, it has a switch on the front for omni, figure-8 and cardioid. There are also switches on the rear of the mic for a -10db pad, and a 70Hz low cut filter. </p><p>The C100 is sold with a shock mount and a windscreen inside a protective plastic case.<p>The <a href="//recordinghacks.com/microphones/Sony/C100">Sony C100</a> is also known as: C-100.</p><p>The mic was released in 2017.</p>
+                    <h3>Specifications</h3>
+                                        
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                    <span class="shaft" id="anchor2465"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show2465">CHART</button></span>                                            Omnidirectional
+                                             (14 mV/Pa; 20 - 50,000Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                <span class="shaft" id="anchor2464"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show2464">CHART</button></span>                                            Cardioid
+                                             (15.8 mV/Pa; 20 - 50,000Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                <span class="shaft" id="anchor2466"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show2466">CHART</button></span>                                            Bidirectional
+                                             (17.7 mV/Pa; 20 - 50,000Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                    <li>Pad: -10db<small> (Via Switch)</small></li>
+                                                                        <li>Filter: 70Hz Low Cut<small> (Via Switch)</small></li>
+                                                                    </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Capsule Dimensions</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                                                                                                        Diaphragm diameter: 25mm<br />
+                                                                                                                                                                                                </td>
+                            <td>90 Ohms <em class="mute">(Low)</em></td>
+                            <td>Max SPL: 131 dB<br />                                Self-noise: 18.0 dB(A)</td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>290g <em class="mute">(10.23oz)</em></td>
+                            <td>175mm <em class="mute">(6.89&#39;&#39;)</em></td>
+                            <td>40mm <em class="mute">(1.57&#39;&#39;)</em></td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                        <li>Requires phantom power </li>
+                                                                                                                                                                                <li>Phantom voltage: 48v</li>
+                                        </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+             
+<script type="text/javascript">
+        YAHOO.namespace("freq");
+
+        function init_freq_graphs() {
+
+            YAHOO.freq.chartPanel2465 = new YAHOO.widget.Panel("chartPanel2465",  {  context:["anchor2465", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel2465.render();
+            YAHOO.freq.chartPanel2464 = new YAHOO.widget.Panel("chartPanel2464",  {  context:["anchor2464", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel2464.render();
+            YAHOO.freq.chartPanel2466 = new YAHOO.widget.Panel("chartPanel2466",  {  context:["anchor2466", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel2466.render();
+                
+            YAHOO.freq.manager = new YAHOO.widget.OverlayManager(); 
+            YAHOO.freq.manager.register([YAHOO.freq.chartPanel2465,
+                                                   YAHOO.freq.chartPanel2464,
+                                                   YAHOO.freq.chartPanel2466,
+                                                   ]);
+                    YAHOO.util.Event.addListener("show2465", "click", YAHOO.freq.chartPanel2465.show, YAHOO.freq.chartPanel2465, true);
+            YAHOO.util.Event.addListener("hide2465", "click", YAHOO.freq.chartPanel2465.hide, YAHOO.freq.chartPanel2465, true);
+            YAHOO.util.Event.addListener("focus2465", "click", YAHOO.freq.chartPanel2465.focus, YAHOO.freq.chartPanel2465, true);
+                    YAHOO.util.Event.addListener("show2464", "click", YAHOO.freq.chartPanel2464.show, YAHOO.freq.chartPanel2464, true);
+            YAHOO.util.Event.addListener("hide2464", "click", YAHOO.freq.chartPanel2464.hide, YAHOO.freq.chartPanel2464, true);
+            YAHOO.util.Event.addListener("focus2464", "click", YAHOO.freq.chartPanel2464.focus, YAHOO.freq.chartPanel2464, true);
+                    YAHOO.util.Event.addListener("show2466", "click", YAHOO.freq.chartPanel2466.show, YAHOO.freq.chartPanel2466, true);
+            YAHOO.util.Event.addListener("hide2466", "click", YAHOO.freq.chartPanel2466.hide, YAHOO.freq.chartPanel2466, true);
+            YAHOO.util.Event.addListener("focus2466", "click", YAHOO.freq.chartPanel2466.focus, YAHOO.freq.chartPanel2466, true);
+        
+
+
+        }
+        YAHOO.util.Event.addListener(window, "load", init_freq_graphs);
+</script>
+
+
+<div id="chartPanel2465" style="visibility:hidden">
+    <div class="hd"><span>Sony C100 Frequency Chart: Omnidirectional</span></div>
+    <div class="bd">
+    <img name="graph2465" src="http://recordinghacks.com/images/mic_extras/sony/C100-omni.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel2464" style="visibility:hidden">
+    <div class="hd"><span>Sony C100 Frequency Chart: Cardioid</span></div>
+    <div class="bd">
+    <img name="graph2464" src="http://recordinghacks.com/images/mic_extras/sony/C100-Cardioid.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel2466" style="visibility:hidden">
+    <div class="hd"><span>Sony C100 Frequency Chart: Bidirectional</span></div>
+    <div class="bd">
+    <img name="graph2466" src="http://recordinghacks.com/images/mic_extras/sony/C100-Fig8.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+    <script type="text/javascript">
+    function swap_graph(id) {
+        if (1==0) {}
+    }
+    </script>
+
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('1813-0');uniqueids.push('1813-1');uniqueids.push('1813-2');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

@@ -1,0 +1,5 @@
+## Mics tagged: 96-khz AND mogami
+
+|  |  |
+| --- | --- |
+| [MXL USB.009](http://recordinghacks.com/microphones/MXL/USB-009 "MXL USB.009 - Features, Specifications, Datasheet") | Cardioid  [**MXL USB.009**](/microphones/MXL/USB-009 "MXL USB.009 - Features, Specifications, Datasheet")  Cardioid Condenser Microphone  [usb](//recordinghacks.com/microphones/tag/usb "usb microphones"), [side-address](//recordinghacks.com/microphones/tag/side-address "side-address microphones"), [large-diaphragm](//recordinghacks.com/microphones/tag/large-diaphragm "large-diaphragm microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [24-bit](//recordinghacks.com/microphones/tag/24-bit "24-bit microphones"), [96-khz](//recordinghacks.com/microphones/tag/96-khz "96-khz microphones"), [mogami](//recordinghacks.com/microphones/tag/mogami "mogami microphones") |

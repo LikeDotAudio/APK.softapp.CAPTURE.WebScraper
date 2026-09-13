@@ -1,0 +1,299 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>40-series microphones | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+                
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+			<div id="content">
+                <div id="sidebar">                  
+                    					<h2 class="search">search for mics</h2>
+					<form action="/microphones" method="POST">
+										<script language="JavaScript" type="text/javascript">
+function clearText(field){
+
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+
+}
+					</script>
+						<fieldset>
+						    <input type="text" name="s" size="20" value="Microphone name or model number" style="color: #667;margin-left: 0;margin-bottom: 8px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)"><br />
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<fieldset class="checks">
+							<span class="shaft">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+							</span>
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">&nbsp;<input style="font-size: 8px" type="reset" name="button" value="Reset Form">
+						</fieldset>
+					</form>
+                            <p></p><h3>Definition of "40-series":</h3><p>Audio-Technica&#8217;s &#8220;40 Series&#8221; product line is a collection of large- and small-diaphragm studio microphones intended for home and commercial studios. They have been the company&#8217;s premium product line for many years, and are praised for their sonic qualities as well as their reliability.</p><p>Read more about the <a href="http://www.audio-technica.com/cgi-bin/product_search/wired_mics/mics_by_line.pl?product_line=Microphones%3A+40+Series&amp;lang=eng">Audio-Technica 40 Series</a>.</p>
+<h3>Refine Search</h3><p>Find mics tagged '<b>40-series</b> AND:'</p> 
+<p><a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series+side-address" title="Mics tagged 40-series AND side-address">side-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series+externally-biased" title="Mics tagged 40-series AND externally-biased">externally-biased</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series+multipattern" title="Mics tagged 40-series AND multipattern">multipattern</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series+transformerless" title="Mics tagged 40-series AND transformerless">transformerless</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series+center-terminated" title="Mics tagged 40-series AND center-terminated">center-terminated</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series+condenser" title="Mics tagged 40-series AND condenser">condenser</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series+hpf" title="Mics tagged 40-series AND hpf">hpf</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series+surface-mount" title="Mics tagged 40-series AND surface-mount">surface-mount</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series+tripolar" title="Mics tagged 40-series AND tripolar">tripolar</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series+limited-edition" title="Mics tagged 40-series AND limited-edition">limited-edition</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series+pencil-mic" title="Mics tagged 40-series AND pencil-mic">pencil-mic</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series+detachable-capsule" title="Mics tagged 40-series AND detachable-capsule">detachable-capsule</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series+end-address" title="Mics tagged 40-series AND end-address">end-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series+externally-polarized" title="Mics tagged 40-series AND externally-polarized">externally-polarized</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series+rohs" title="Mics tagged 40-series AND rohs">rohs</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series+electret" title="Mics tagged 40-series AND electret">electret</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series+dual-diaphragm" title="Mics tagged 40-series AND dual-diaphragm">dual-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series+transformer-coupled" title="Mics tagged 40-series AND transformer-coupled">transformer-coupled</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series+stereo" title="Mics tagged 40-series AND stereo">stereo</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series+dual-capsule" title="Mics tagged 40-series AND dual-capsule">dual-capsule</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series+mid-side" title="Mics tagged 40-series AND mid-side">mid-side</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series+ribbon" title="Mics tagged 40-series AND ribbon">ribbon</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series+active-ribbon" title="Mics tagged 40-series AND active-ribbon">active-ribbon</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series+dual-ribbon" title="Mics tagged 40-series AND dual-ribbon">dual-ribbon</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series+neodymium" title="Mics tagged 40-series AND neodymium">neodymium</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series+microlinear" title="Mics tagged 40-series AND microlinear">microlinear</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series+shotgun" title="Mics tagged 40-series AND shotgun">shotgun</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series+video-camera" title="Mics tagged 40-series AND video-camera">video-camera</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series+tube" title="Mics tagged 40-series AND tube">tube</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series+6922" title="Mics tagged 40-series AND 6922">6922</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series+edge-terminated" title="Mics tagged 40-series AND edge-terminated">edge-terminated</a> </p>
+<h3>Expand Search</h3><p>Find mics tagged '<b>40-series</b> OR:'</p>
+<p><a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series|side-address" title="Mics tagged 40-series OR side-address">side-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series|externally-biased" title="Mics tagged 40-series OR externally-biased">externally-biased</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series|multipattern" title="Mics tagged 40-series OR multipattern">multipattern</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series|transformerless" title="Mics tagged 40-series OR transformerless">transformerless</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series|center-terminated" title="Mics tagged 40-series OR center-terminated">center-terminated</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series|condenser" title="Mics tagged 40-series OR condenser">condenser</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series|hpf" title="Mics tagged 40-series OR hpf">hpf</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series|surface-mount" title="Mics tagged 40-series OR surface-mount">surface-mount</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series|tripolar" title="Mics tagged 40-series OR tripolar">tripolar</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series|limited-edition" title="Mics tagged 40-series OR limited-edition">limited-edition</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series|pencil-mic" title="Mics tagged 40-series OR pencil-mic">pencil-mic</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series|detachable-capsule" title="Mics tagged 40-series OR detachable-capsule">detachable-capsule</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series|end-address" title="Mics tagged 40-series OR end-address">end-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series|externally-polarized" title="Mics tagged 40-series OR externally-polarized">externally-polarized</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series|rohs" title="Mics tagged 40-series OR rohs">rohs</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series|electret" title="Mics tagged 40-series OR electret">electret</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series|dual-diaphragm" title="Mics tagged 40-series OR dual-diaphragm">dual-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series|transformer-coupled" title="Mics tagged 40-series OR transformer-coupled">transformer-coupled</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series|stereo" title="Mics tagged 40-series OR stereo">stereo</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series|dual-capsule" title="Mics tagged 40-series OR dual-capsule">dual-capsule</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series|mid-side" title="Mics tagged 40-series OR mid-side">mid-side</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series|ribbon" title="Mics tagged 40-series OR ribbon">ribbon</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series|active-ribbon" title="Mics tagged 40-series OR active-ribbon">active-ribbon</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series|dual-ribbon" title="Mics tagged 40-series OR dual-ribbon">dual-ribbon</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series|neodymium" title="Mics tagged 40-series OR neodymium">neodymium</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series|microlinear" title="Mics tagged 40-series OR microlinear">microlinear</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series|shotgun" title="Mics tagged 40-series OR shotgun">shotgun</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series|video-camera" title="Mics tagged 40-series OR video-camera">video-camera</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series|tube" title="Mics tagged 40-series OR tube">tube</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series|6922" title="Mics tagged 40-series OR 6922">6922</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/40-series|edge-terminated" title="Mics tagged 40-series OR edge-terminated">edge-terminated</a> </p>
+                </div><!-- /#sidebar -->
+                <div id="column" style="width: auto">
+						    <h2>Mics tagged: 40-series</h2>
+			    <table>
+				                    <tr><td><a title="Audio-Technica AT4050/LE - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/AT4050LE" ><img src="//cdn.recordinghacks.com/images/mics/01281/01281_75.jpg" width="75" height="75" alt="Audio-Technica AT4050/LE" title="Audio-Technica AT4050/LE"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1281-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="1281-1" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="1281-2" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Audio-Technica AT4050/LE - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/AT4050LE"><strong>Audio-Technica AT4050/LE</strong></a><br />
+                        Multi-Pattern Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="externally-biased microphones"  href="//recordinghacks.com/microphones/tag/externally-biased">externally-biased</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="center-terminated microphones"  href="//recordinghacks.com/microphones/tag/center-terminated">center-terminated</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="surface-mount microphones"  href="//recordinghacks.com/microphones/tag/surface-mount">surface-mount</a>, <a title="tripolar microphones"  href="//recordinghacks.com/microphones/tag/tripolar">tripolar</a>, <a title="limited-edition microphones"  href="//recordinghacks.com/microphones/tag/limited-edition">limited-edition</a>, <a title="40-series microphones"  href="//recordinghacks.com/microphones/tag/40-series">40-series</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica AT4050URUSHI - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/AT4050URUSHI" ><img src="//cdn.recordinghacks.com/images/mics/01280/01280_75.jpg" width="75" height="75" alt="Audio-Technica AT4050URUSHI" title="Audio-Technica AT4050URUSHI"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1280-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="1280-1" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="1280-2" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Audio-Technica AT4050URUSHI - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/AT4050URUSHI"><strong>Audio-Technica AT4050URUSHI</strong></a><br />
+                        Multi-Pattern Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="externally-biased microphones"  href="//recordinghacks.com/microphones/tag/externally-biased">externally-biased</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="center-terminated microphones"  href="//recordinghacks.com/microphones/tag/center-terminated">center-terminated</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="surface-mount microphones"  href="//recordinghacks.com/microphones/tag/surface-mount">surface-mount</a>, <a title="tripolar microphones"  href="//recordinghacks.com/microphones/tag/tripolar">tripolar</a>, <a title="limited-edition microphones"  href="//recordinghacks.com/microphones/tag/limited-edition">limited-edition</a>, <a title="40-series microphones"  href="//recordinghacks.com/microphones/tag/40-series">40-series</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica AT4049b - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/AT4049b" ><img src="//cdn.recordinghacks.com/images/mics/01037/01037_75.jpg" width="75" height="75" alt="Audio-Technica AT4049b" title="Audio-Technica AT4049b"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1037-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="1037-1" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="1037-2" src="/images/icons/patterns/icon_hc.png" width=27 height=27 alt="Hypercardioid" title="Hypercardioid" >                        </span>
+                        <a title="Audio-Technica AT4049b - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/AT4049b"><strong>Audio-Technica AT4049b</strong></a><br />
+                        Detachable-Capsule Pencil Condenser Microphone<br />
+                        <a title="pencil-mic microphones"  href="//recordinghacks.com/microphones/tag/pencil-mic">pencil-mic</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="detachable-capsule microphones"  href="//recordinghacks.com/microphones/tag/detachable-capsule">detachable-capsule</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="externally-polarized microphones"  href="//recordinghacks.com/microphones/tag/externally-polarized">externally-polarized</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="rohs microphones"  href="//recordinghacks.com/microphones/tag/rohs">rohs</a>, <a title="40-series microphones"  href="//recordinghacks.com/microphones/tag/40-series">40-series</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica AT4053b - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/AT4053b" ><img src="//cdn.recordinghacks.com/images/mics/01036/01036_75.jpg" width="75" height="75" alt="Audio-Technica AT4053b" title="Audio-Technica AT4053b"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1036-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="1036-1" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="1036-2" src="/images/icons/patterns/icon_hc.png" width=27 height=27 alt="Hypercardioid" title="Hypercardioid" >                        </span>
+                        <a title="Audio-Technica AT4053b - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/AT4053b"><strong>Audio-Technica AT4053b</strong></a><br />
+                        Detachable-Capsule Pencil Condenser Microphone<br />
+                        <a title="pencil-mic microphones"  href="//recordinghacks.com/microphones/tag/pencil-mic">pencil-mic</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="detachable-capsule microphones"  href="//recordinghacks.com/microphones/tag/detachable-capsule">detachable-capsule</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="externally-polarized microphones"  href="//recordinghacks.com/microphones/tag/externally-polarized">externally-polarized</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="rohs microphones"  href="//recordinghacks.com/microphones/tag/rohs">rohs</a>, <a title="40-series microphones"  href="//recordinghacks.com/microphones/tag/40-series">40-series</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica AT4051b - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/AT4051b" ><img src="//cdn.recordinghacks.com/images/mics/01035/01035_75.jpg" width="75" height="75" alt="Audio-Technica AT4051b" title="Audio-Technica AT4051b"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1035-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="1035-1" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="1035-2" src="/images/icons/patterns/icon_hc.png" width=27 height=27 alt="Hypercardioid" title="Hypercardioid" >                        </span>
+                        <a title="Audio-Technica AT4051b - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/AT4051b"><strong>Audio-Technica AT4051b</strong></a><br />
+                        Detachable-Capsule Pencil Condenser Microphone<br />
+                        <a title="pencil-mic microphones"  href="//recordinghacks.com/microphones/tag/pencil-mic">pencil-mic</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="detachable-capsule microphones"  href="//recordinghacks.com/microphones/tag/detachable-capsule">detachable-capsule</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="externally-polarized microphones"  href="//recordinghacks.com/microphones/tag/externally-polarized">externally-polarized</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="rohs microphones"  href="//recordinghacks.com/microphones/tag/rohs">rohs</a>, <a title="40-series microphones"  href="//recordinghacks.com/microphones/tag/40-series">40-series</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica AT4022 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/AT4022" ><img src="//cdn.recordinghacks.com/images/mics/01034/01034_75.jpg" width="75" height="75" alt="Audio-Technica AT4022" title="Audio-Technica AT4022"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1034-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="Audio-Technica AT4022 - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/AT4022"><strong>Audio-Technica AT4022</strong></a><br />
+                        Omnidirectional Condenser Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="pencil-mic microphones"  href="//recordinghacks.com/microphones/tag/pencil-mic">pencil-mic</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="40-series microphones"  href="//recordinghacks.com/microphones/tag/40-series">40-series</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica AT4047MP - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/AT4047MP" ><img src="//cdn.recordinghacks.com/images/mics/01033/01033_75.jpg" width="75" height="75" alt="Audio-Technica AT4047MP" title="Audio-Technica AT4047MP"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1033-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="1033-1" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="1033-2" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Audio-Technica AT4047MP - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/AT4047MP"><strong>Audio-Technica AT4047MP</strong></a><br />
+                        Multi-Pattern Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="dual-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/dual-diaphragm">dual-diaphragm</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="center-terminated microphones"  href="//recordinghacks.com/microphones/tag/center-terminated">center-terminated</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="tripolar microphones"  href="//recordinghacks.com/microphones/tag/tripolar">tripolar</a>, <a title="40-series microphones"  href="//recordinghacks.com/microphones/tag/40-series">40-series</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica AT4031 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/AT4031" ><img src="//cdn.recordinghacks.com/images/mics/00986/00986_75.jpg" width="75" height="75" alt="Audio-Technica AT4031" title="Audio-Technica AT4031"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="986-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Audio-Technica AT4031 - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/AT4031"><strong>Audio-Technica AT4031</strong></a><br />
+                        Cardioid Pencil Condenser Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="pencil-mic microphones"  href="//recordinghacks.com/microphones/tag/pencil-mic">pencil-mic</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="40-series microphones"  href="//recordinghacks.com/microphones/tag/40-series">40-series</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica AT4050ST - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/AT4050ST" ><img src="//cdn.recordinghacks.com/images/mics/00944/00944_75.jpg" width="75" height="75" alt="Audio-Technica AT4050ST" title="Audio-Technica AT4050ST"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="944-0" src="/images/icons/patterns/icon_xy.png" width=27 height=27 alt="X/Y Stereo" title="X/Y Stereo" ><img id="944-1" src="/images/icons/patterns/icon_ms.png" width=27 height=27 alt="Mid-Side Stereo" title="Mid-Side Stereo" >                        </span>
+                        <a title="Audio-Technica AT4050ST - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/AT4050ST"><strong>Audio-Technica AT4050ST</strong></a><br />
+                        Multi-Pattern Condenser Stereo Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="dual-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/dual-diaphragm">dual-diaphragm</a>, <a title="stereo microphones"  href="//recordinghacks.com/microphones/tag/stereo">stereo</a>, <a title="externally-biased microphones"  href="//recordinghacks.com/microphones/tag/externally-biased">externally-biased</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="center-terminated microphones"  href="//recordinghacks.com/microphones/tag/center-terminated">center-terminated</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="dual-capsule microphones"  href="//recordinghacks.com/microphones/tag/dual-capsule">dual-capsule</a>, <a title="mid-side microphones"  href="//recordinghacks.com/microphones/tag/mid-side">mid-side</a>, <a title="surface-mount microphones"  href="//recordinghacks.com/microphones/tag/surface-mount">surface-mount</a>, <a title="40-series microphones"  href="//recordinghacks.com/microphones/tag/40-series">40-series</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica AT4081 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/AT4081" ><img src="//cdn.recordinghacks.com/images/mics/00920/00920_75.jpg" width="75" height="75" alt="Audio-Technica AT4081" title="Audio-Technica AT4081"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="920-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Audio-Technica AT4081 - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/AT4081"><strong>Audio-Technica AT4081</strong></a><br />
+                        Bidirectional Active Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="active-ribbon microphones"  href="//recordinghacks.com/microphones/tag/active-ribbon">active-ribbon</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="dual-ribbon microphones"  href="//recordinghacks.com/microphones/tag/dual-ribbon">dual-ribbon</a>, <a title="neodymium microphones"  href="//recordinghacks.com/microphones/tag/neodymium">neodymium</a>, <a title="microlinear microphones"  href="//recordinghacks.com/microphones/tag/microlinear">microlinear</a>, <a title="40-series microphones"  href="//recordinghacks.com/microphones/tag/40-series">40-series</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica AT4080 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/AT4080" ><img src="//cdn.recordinghacks.com/images/mics/00919/00919_75.jpg" width="75" height="75" alt="Audio-Technica AT4080" title="Audio-Technica AT4080"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="919-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Audio-Technica AT4080 - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/AT4080"><strong>Audio-Technica AT4080</strong></a><br />
+                        Bidirectional Active Ribbon Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="ribbon microphones"  href="//recordinghacks.com/microphones/tag/ribbon">ribbon</a>, <a title="active-ribbon microphones"  href="//recordinghacks.com/microphones/tag/active-ribbon">active-ribbon</a>, <a title="dual-ribbon microphones"  href="//recordinghacks.com/microphones/tag/dual-ribbon">dual-ribbon</a>, <a title="neodymium microphones"  href="//recordinghacks.com/microphones/tag/neodymium">neodymium</a>, <a title="microlinear microphones"  href="//recordinghacks.com/microphones/tag/microlinear">microlinear</a>, <a title="40-series microphones"  href="//recordinghacks.com/microphones/tag/40-series">40-series</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica AT4021 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/AT4021" ><img src="//cdn.recordinghacks.com/images/mics/00764/00764_75.jpg" width="75" height="75" alt="Audio-Technica AT4021" title="Audio-Technica AT4021"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="764-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Audio-Technica AT4021 - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/AT4021"><strong>Audio-Technica AT4021</strong></a><br />
+                        Cardioid Pencil Condenser Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="pencil-mic microphones"  href="//recordinghacks.com/microphones/tag/pencil-mic">pencil-mic</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="40-series microphones"  href="//recordinghacks.com/microphones/tag/40-series">40-series</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica AT4073a - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/AT4073a" ><img src="//cdn.recordinghacks.com/images/mics/00026/00026_75.jpg" width="75" height="75" alt="Audio-Technica AT4073a" title="Audio-Technica AT4073a"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="26-0" src="/images/icons/patterns/icon_sg.png" width=27 height=27 alt="Shotgun" title="Shotgun" >                        </span>
+                        <a title="Audio-Technica AT4073a - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/AT4073a"><strong>Audio-Technica AT4073a</strong></a><br />
+                        Shotgun Condenser Microphone<br />
+                        <a title="externally-biased microphones"  href="//recordinghacks.com/microphones/tag/externally-biased">externally-biased</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="shotgun microphones"  href="//recordinghacks.com/microphones/tag/shotgun">shotgun</a>, <a title="video-camera microphones"  href="//recordinghacks.com/microphones/tag/video-camera">video-camera</a>, <a title="40-series microphones"  href="//recordinghacks.com/microphones/tag/40-series">40-series</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica AT4071a - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/AT4071a" ><img src="//cdn.recordinghacks.com/images/mics/00025/00025_75.jpg" width="75" height="75" alt="Audio-Technica AT4071a" title="Audio-Technica AT4071a"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="25-0" src="/images/icons/patterns/icon_sg.png" width=27 height=27 alt="Shotgun" title="Shotgun" >                        </span>
+                        <a title="Audio-Technica AT4071a - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/AT4071a"><strong>Audio-Technica AT4071a</strong></a><br />
+                        Shotgun Condenser Microphone<br />
+                        <a title="externally-biased microphones"  href="//recordinghacks.com/microphones/tag/externally-biased">externally-biased</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="shotgun microphones"  href="//recordinghacks.com/microphones/tag/shotgun">shotgun</a>, <a title="40-series microphones"  href="//recordinghacks.com/microphones/tag/40-series">40-series</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica AT4060 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/AT4060" ><img src="//cdn.recordinghacks.com/images/mics/00024/00024_75.jpg" width="75" height="75" alt="Audio-Technica AT4060" title="Audio-Technica AT4060"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="24-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Audio-Technica AT4060 - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/AT4060"><strong>Audio-Technica AT4060</strong></a><br />
+                        Cardioid Tube Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="dual-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/dual-diaphragm">dual-diaphragm</a>, <a title="tube microphones"  href="//recordinghacks.com/microphones/tag/tube">tube</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="6922 microphones"  href="//recordinghacks.com/microphones/tag/6922">6922</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="externally-polarized microphones"  href="//recordinghacks.com/microphones/tag/externally-polarized">externally-polarized</a>, <a title="40-series microphones"  href="//recordinghacks.com/microphones/tag/40-series">40-series</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica AT4053a - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/AT4053a" ><img src="//cdn.recordinghacks.com/images/mics/00023/00023_75.jpg" width="75" height="75" alt="Audio-Technica AT4053a" title="Audio-Technica AT4053a"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="23-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="23-1" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="23-2" src="/images/icons/patterns/icon_hc.png" width=27 height=27 alt="Hypercardioid" title="Hypercardioid" >                        </span>
+                        <a title="Audio-Technica AT4053a - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/AT4053a"><strong>Audio-Technica AT4053a</strong></a><br />
+                        Detachable-Capsule Pencil Condenser Microphone<br />
+                        <a title="pencil-mic microphones"  href="//recordinghacks.com/microphones/tag/pencil-mic">pencil-mic</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="detachable-capsule microphones"  href="//recordinghacks.com/microphones/tag/detachable-capsule">detachable-capsule</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="40-series microphones"  href="//recordinghacks.com/microphones/tag/40-series">40-series</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica AT4051a - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/AT4051a" ><img src="//cdn.recordinghacks.com/images/mics/00022/00022_75.jpg" width="75" height="75" alt="Audio-Technica AT4051a" title="Audio-Technica AT4051a"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="22-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="22-1" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="22-2" src="/images/icons/patterns/icon_hc.png" width=27 height=27 alt="Hypercardioid" title="Hypercardioid" >                        </span>
+                        <a title="Audio-Technica AT4051a - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/AT4051a"><strong>Audio-Technica AT4051a</strong></a><br />
+                        Detachable-Capsule Pencil Condenser Microphone<br />
+                        <a title="pencil-mic microphones"  href="//recordinghacks.com/microphones/tag/pencil-mic">pencil-mic</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="detachable-capsule microphones"  href="//recordinghacks.com/microphones/tag/detachable-capsule">detachable-capsule</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="externally-polarized microphones"  href="//recordinghacks.com/microphones/tag/externally-polarized">externally-polarized</a>, <a title="40-series microphones"  href="//recordinghacks.com/microphones/tag/40-series">40-series</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica AT4050 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/AT4050" ><img src="//cdn.recordinghacks.com/images/mics/00021/00021_75.jpg" width="75" height="75" alt="Audio-Technica AT4050" title="Audio-Technica AT4050"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="21-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="21-1" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="21-2" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Audio-Technica AT4050 - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/AT4050"><strong>Audio-Technica AT4050</strong></a><br />
+                        Multi-Pattern Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="externally-biased microphones"  href="//recordinghacks.com/microphones/tag/externally-biased">externally-biased</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="center-terminated microphones"  href="//recordinghacks.com/microphones/tag/center-terminated">center-terminated</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="surface-mount microphones"  href="//recordinghacks.com/microphones/tag/surface-mount">surface-mount</a>, <a title="tripolar microphones"  href="//recordinghacks.com/microphones/tag/tripolar">tripolar</a>, <a title="40-series microphones"  href="//recordinghacks.com/microphones/tag/40-series">40-series</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica AT4049a - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/AT4049a" ><img src="//cdn.recordinghacks.com/images/mics/00020/00020_75.jpg" width="75" height="75" alt="Audio-Technica AT4049a" title="Audio-Technica AT4049a"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="20-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="20-1" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="20-2" src="/images/icons/patterns/icon_hc.png" width=27 height=27 alt="Hypercardioid" title="Hypercardioid" >                        </span>
+                        <a title="Audio-Technica AT4049a - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/AT4049a"><strong>Audio-Technica AT4049a</strong></a><br />
+                        Detachable-Capsule Pencil Condenser Microphone<br />
+                        <a title="pencil-mic microphones"  href="//recordinghacks.com/microphones/tag/pencil-mic">pencil-mic</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="detachable-capsule microphones"  href="//recordinghacks.com/microphones/tag/detachable-capsule">detachable-capsule</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="40-series microphones"  href="//recordinghacks.com/microphones/tag/40-series">40-series</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica AT4047/SV - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/AT4047-SV" ><img src="//cdn.recordinghacks.com/images/mics/00019/00019_75.jpg" width="75" height="75" alt="Audio-Technica AT4047/SV" title="Audio-Technica AT4047/SV"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="19-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Audio-Technica AT4047/SV - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/AT4047-SV"><strong>Audio-Technica AT4047/SV</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="dual-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/dual-diaphragm">dual-diaphragm</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="40-series microphones"  href="//recordinghacks.com/microphones/tag/40-series">40-series</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica AT4041 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/AT4041" ><img src="//cdn.recordinghacks.com/images/mics/00018/00018_75.jpg" width="75" height="75" alt="Audio-Technica AT4041" title="Audio-Technica AT4041"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="18-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Audio-Technica AT4041 - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/AT4041"><strong>Audio-Technica AT4041</strong></a><br />
+                        Cardioid Pencil Condenser Microphone<br />
+                        <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="pencil-mic microphones"  href="//recordinghacks.com/microphones/tag/pencil-mic">pencil-mic</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="40-series microphones"  href="//recordinghacks.com/microphones/tag/40-series">40-series</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica AT4040 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/AT4040" ><img src="//cdn.recordinghacks.com/images/mics/00017/00017_75.jpg" width="75" height="75" alt="Audio-Technica AT4040" title="Audio-Technica AT4040"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="17-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Audio-Technica AT4040 - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/AT4040"><strong>Audio-Technica AT4040</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="externally-biased microphones"  href="//recordinghacks.com/microphones/tag/externally-biased">externally-biased</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="edge-terminated microphones"  href="//recordinghacks.com/microphones/tag/edge-terminated">edge-terminated</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="surface-mount microphones"  href="//recordinghacks.com/microphones/tag/surface-mount">surface-mount</a>, <a title="40-series microphones"  href="//recordinghacks.com/microphones/tag/40-series">40-series</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Audio-Technica AT4033/CL - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Audio-Technica/AT4033-CL" ><img src="//cdn.recordinghacks.com/images/mics/00016/00016_75.jpg" width="75" height="75" alt="Audio-Technica AT4033/CL" title="Audio-Technica AT4033/CL"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="16-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Audio-Technica AT4033/CL - Features, Specifications, Datasheet" href="/microphones/Audio-Technica/AT4033-CL"><strong>Audio-Technica AT4033/CL</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="electret microphones"  href="//recordinghacks.com/microphones/tag/electret">electret</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="surface-mount microphones"  href="//recordinghacks.com/microphones/tag/surface-mount">surface-mount</a>, <a title="40-series microphones"  href="//recordinghacks.com/microphones/tag/40-series">40-series</a><br />                        </td></tr>
+	
+                                </table>
+
+
+                 <!-- end of $nada test -->
+                </div><!-- /#column -->
+			</div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('1281-0');uniqueids.push('1281-1');uniqueids.push('1281-2');uniqueids.push('1280-0');uniqueids.push('1280-1');uniqueids.push('1280-2');uniqueids.push('1037-0');uniqueids.push('1037-1');uniqueids.push('1037-2');uniqueids.push('1036-0');uniqueids.push('1036-1');uniqueids.push('1036-2');uniqueids.push('1035-0');uniqueids.push('1035-1');uniqueids.push('1035-2');uniqueids.push('1034-0');uniqueids.push('1033-0');uniqueids.push('1033-1');uniqueids.push('1033-2');uniqueids.push('986-0');uniqueids.push('944-0');uniqueids.push('944-1');uniqueids.push('920-0');uniqueids.push('919-0');uniqueids.push('764-0');uniqueids.push('26-0');uniqueids.push('25-0');uniqueids.push('24-0');uniqueids.push('23-0');uniqueids.push('23-1');uniqueids.push('23-2');uniqueids.push('22-0');uniqueids.push('22-1');uniqueids.push('22-2');uniqueids.push('21-0');uniqueids.push('21-1');uniqueids.push('21-2');uniqueids.push('20-0');uniqueids.push('20-1');uniqueids.push('20-2');uniqueids.push('19-0');uniqueids.push('18-0');uniqueids.push('17-0');uniqueids.push('16-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

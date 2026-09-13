@@ -1,0 +1,5 @@
+## Mics tagged: 40-series AND edge-terminated
+
+|  |  |
+| --- | --- |
+| [Audio-Technica AT4040](http://recordinghacks.com/microphones/Audio-Technica/AT4040 "Audio-Technica AT4040 - Features, Specifications, Datasheet") | Cardioid  [**Audio-Technica AT4040**](/microphones/Audio-Technica/AT4040 "Audio-Technica AT4040 - Features, Specifications, Datasheet")  Cardioid Condenser Microphone  [side-address](//recordinghacks.com/microphones/tag/side-address "side-address microphones"), [externally-biased](//recordinghacks.com/microphones/tag/externally-biased "externally-biased microphones"), [transformerless](//recordinghacks.com/microphones/tag/transformerless "transformerless microphones"), [edge-terminated](//recordinghacks.com/microphones/tag/edge-terminated "edge-terminated microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [surface-mount](//recordinghacks.com/microphones/tag/surface-mount "surface-mount microphones"), [40-series](//recordinghacks.com/microphones/tag/40-series "40-series microphones") |

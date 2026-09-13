@@ -1,0 +1,5 @@
+## Mics tagged: smc.
+
+|  |  |
+| --- | --- |
+| [Shure KSM42](http://recordinghacks.com/microphones/Shure/KSM42 "Shure KSM42 - Features, Specifications, Datasheet") | Cardioid  [**Shure KSM42**](/microphones/Shure/KSM42 "Shure KSM42 - Features, Specifications, Datasheet")  Cardioid Condenser Microphone  [side-address](//recordinghacks.com/microphones/tag/side-address "side-address microphones"), [large-diaphragm](//recordinghacks.com/microphones/tag/large-diaphragm "large-diaphragm microphones"), [dual-diaphragm](//recordinghacks.com/microphones/tag/dual-diaphragm "dual-diaphragm microphones"), [externally-biased](//recordinghacks.com/microphones/tag/externally-biased "externally-biased microphones"), [edge-terminated](//recordinghacks.com/microphones/tag/edge-terminated "edge-terminated microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [prethos](//recordinghacks.com/microphones/tag/prethos "prethos microphones"), [smc.](//recordinghacks.com/microphones/tag/smc. "smc. microphones"), [ksm](//recordinghacks.com/microphones/tag/ksm "ksm microphones") |

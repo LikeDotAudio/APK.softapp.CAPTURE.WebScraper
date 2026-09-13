@@ -1,0 +1,264 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>rf-condenser microphones | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+                
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+			<div id="content">
+                <div id="sidebar">                  
+                    					<h2 class="search">search for mics</h2>
+					<form action="/microphones" method="POST">
+										<script language="JavaScript" type="text/javascript">
+function clearText(field){
+
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+
+}
+					</script>
+						<fieldset>
+						    <input type="text" name="s" size="20" value="Microphone name or model number" style="color: #667;margin-left: 0;margin-bottom: 8px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)"><br />
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<fieldset class="checks">
+							<span class="shaft">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+							</span>
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">&nbsp;<input style="font-size: 8px" type="reset" name="button" value="Reset Form">
+						</fieldset>
+					</form>
+                            <p></p><h3>Definition of "rf-condenser":</h3><p><b>RF Condenser</b> microphones are distinguished from the more-common FET condensers by the following characteristics:</p><ul><li>RF condenser use a relatively low capsule polarization voltage, and a relatively loose diaphragm tension.</li><li>The low impedance audio signal from the capsule can drive a bipolar transistor directly, avoiding the need for relatively high-noise FETs.</li><li>The low-noise signal can be equalized to deliver a desired frequency response.</li><li>The output circuit is balanced without requiring a transformer.</li></ul><p>According to Sennheiser:<br />&#8220;RF Condenser microphones constitute a unique, sophisticated class of condenser microphones.  They &#8230; renowned for their high quality, accurate sound reproduction, ruggedness, all-weather operation, wide frequency response and extremely low inherent self-noise.</p><p>&#8220;Usually, a high capsule polarization voltage would be necessary; however, RF condenser microphones use a comparatively low RF voltage, which is generated by a low-noise oscillator.  It is modulated by the capacitance changes produced by the sound waves moving the capsule diaphragm.  Following the demodulation, a low-noise audio frequency signal with very low source impedance is available, which can be used to directly drive &#8216;ordinary&#8217; bipolar transistors.</p><p>&#8220;As bipolar transistors produce less random noise than the FETs usually needed, electrical equalization technology can be included to increase the microphone&#8217;s dynamic range and linearize its frequency response.  As a result, an excellent low frequency response can be achieved even with small capsules, which would normally only be possible using larger capsules. In addition, small capsules achieve a considerably better high frequency response than large capsules.</p><p>&#8220;The RF process results in a considerable reduction of the electrical impedance of the capsule and enables RF condenser microphones to be operated in all weather conditions.  A further advantage of this process is that an ungrounded audio frequency signal is available although the capsule is grounded.  This is why all RF condenser microphones possess a genuine fully floating, balanced output without an audio frequency transformer.&#8221;</p><p>(originally published here: <tt>http://www.sennheiserusa.com/newsite/mat_dev/ip/transde_ip_technology_B.asp</tt>)</p>
+<h3>Refine Search</h3><p>Find mics tagged '<b>rf-condenser</b> AND:'</p> 
+<p><a rel="nofollow" href="//recordinghacks.com/microphones/tag/rf-condenser+transformerless" title="Mics tagged rf-condenser AND transformerless">transformerless</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/rf-condenser+end-address" title="Mics tagged rf-condenser AND end-address">end-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/rf-condenser+condenser" title="Mics tagged rf-condenser AND condenser">condenser</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/rf-condenser+shotgun" title="Mics tagged rf-condenser AND shotgun">shotgun</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/rf-condenser+pencil-mic" title="Mics tagged rf-condenser AND pencil-mic">pencil-mic</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/rf-condenser+pencil" title="Mics tagged rf-condenser AND pencil">pencil</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/rf-condenser+side-address" title="Mics tagged rf-condenser AND side-address">side-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/rf-condenser+video-camera" title="Mics tagged rf-condenser AND video-camera">video-camera</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/rf-condenser+eng" title="Mics tagged rf-condenser AND eng">eng</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/rf-condenser+broadcast" title="Mics tagged rf-condenser AND broadcast">broadcast</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/rf-condenser+stereo" title="Mics tagged rf-condenser AND stereo">stereo</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/rf-condenser+mid-side" title="Mics tagged rf-condenser AND mid-side">mid-side</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/rf-condenser+externally-biased" title="Mics tagged rf-condenser AND externally-biased">externally-biased</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/rf-condenser+multipattern" title="Mics tagged rf-condenser AND multipattern">multipattern</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/rf-condenser+hpf" title="Mics tagged rf-condenser AND hpf">hpf</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/rf-condenser+dual-capsule" title="Mics tagged rf-condenser AND dual-capsule">dual-capsule</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/rf-condenser+multitrack" title="Mics tagged rf-condenser AND multitrack">multitrack</a> </p>
+<h3>Expand Search</h3><p>Find mics tagged '<b>rf-condenser</b> OR:'</p>
+<p><a rel="nofollow" href="//recordinghacks.com/microphones/tag/rf-condenser|transformerless" title="Mics tagged rf-condenser OR transformerless">transformerless</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/rf-condenser|end-address" title="Mics tagged rf-condenser OR end-address">end-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/rf-condenser|condenser" title="Mics tagged rf-condenser OR condenser">condenser</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/rf-condenser|shotgun" title="Mics tagged rf-condenser OR shotgun">shotgun</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/rf-condenser|pencil-mic" title="Mics tagged rf-condenser OR pencil-mic">pencil-mic</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/rf-condenser|pencil" title="Mics tagged rf-condenser OR pencil">pencil</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/rf-condenser|side-address" title="Mics tagged rf-condenser OR side-address">side-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/rf-condenser|video-camera" title="Mics tagged rf-condenser OR video-camera">video-camera</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/rf-condenser|eng" title="Mics tagged rf-condenser OR eng">eng</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/rf-condenser|broadcast" title="Mics tagged rf-condenser OR broadcast">broadcast</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/rf-condenser|stereo" title="Mics tagged rf-condenser OR stereo">stereo</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/rf-condenser|mid-side" title="Mics tagged rf-condenser OR mid-side">mid-side</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/rf-condenser|externally-biased" title="Mics tagged rf-condenser OR externally-biased">externally-biased</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/rf-condenser|multipattern" title="Mics tagged rf-condenser OR multipattern">multipattern</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/rf-condenser|hpf" title="Mics tagged rf-condenser OR hpf">hpf</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/rf-condenser|dual-capsule" title="Mics tagged rf-condenser OR dual-capsule">dual-capsule</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/rf-condenser|multitrack" title="Mics tagged rf-condenser OR multitrack">multitrack</a> </p>
+                </div><!-- /#sidebar -->
+                <div id="column" style="width: auto">
+						    <h2>Mics tagged: rf-condenser</h2>
+			    <table>
+				                    <tr><td><a title="Sennheiser Electronics Corporation MKH 60 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Sennheiser/MKH-60" ><img src="//cdn.recordinghacks.com/images/mics/01413/01413_75.jpg" width="75" height="75" alt="Sennheiser Electronics Corporation MKH 60" title="Sennheiser Electronics Corporation MKH 60"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1413-0" src="/images/icons/patterns/icon_sg.png" width=27 height=27 alt="Shotgun" title="Shotgun" >                        </span>
+                        <a title="Sennheiser Electronics Corporation MKH 60 - Features, Specifications, Datasheet" href="/microphones/Sennheiser/MKH-60"><strong>Sennheiser Electronics Corporation MKH 60</strong></a><br />
+                        Shotgun Condenser Microphone<br />
+                        <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="shotgun microphones"  href="//recordinghacks.com/microphones/tag/shotgun">shotgun</a>, <a title="rf-condenser microphones"  href="//recordinghacks.com/microphones/tag/rf-condenser">rf-condenser</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Sennheiser Electronics Corporation MKH 415 T - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Sennheiser/MKH-415-T" ><img src="//cdn.recordinghacks.com/images/mics/01412/01412_75.jpg" width="75" height="75" alt="Sennheiser Electronics Corporation MKH 415 T" title="Sennheiser Electronics Corporation MKH 415 T"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1412-0" src="/images/icons/patterns/icon_sg.png" width=27 height=27 alt="Shotgun" title="Shotgun" >                        </span>
+                        <a title="Sennheiser Electronics Corporation MKH 415 T - Features, Specifications, Datasheet" href="/microphones/Sennheiser/MKH-415-T"><strong>Sennheiser Electronics Corporation MKH 415 T</strong></a><br />
+                        Shotgun Condenser Microphone<br />
+                        <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="shotgun microphones"  href="//recordinghacks.com/microphones/tag/shotgun">shotgun</a>, <a title="rf-condenser microphones"  href="//recordinghacks.com/microphones/tag/rf-condenser">rf-condenser</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Sennheiser Electronics Corporation MKH 70 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Sennheiser/MKH-70" ><img src="//cdn.recordinghacks.com/images/mics/01393/01393_75.jpg" width="75" height="75" alt="Sennheiser Electronics Corporation MKH 70" title="Sennheiser Electronics Corporation MKH 70"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1393-0" src="/images/icons/patterns/icon_sg.png" width=27 height=27 alt="Shotgun" title="Shotgun" >                        </span>
+                        <a title="Sennheiser Electronics Corporation MKH 70 - Features, Specifications, Datasheet" href="/microphones/Sennheiser/MKH-70"><strong>Sennheiser Electronics Corporation MKH 70</strong></a><br />
+                        Shotgun Condenser Microphone<br />
+                        <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="shotgun microphones"  href="//recordinghacks.com/microphones/tag/shotgun">shotgun</a>, <a title="rf-condenser microphones"  href="//recordinghacks.com/microphones/tag/rf-condenser">rf-condenser</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Sennheiser Electronics Corporation MKH 50 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Sennheiser/MKH-50" ><img src="//cdn.recordinghacks.com/images/mics/01373/01373_75.jpg" width="75" height="75" alt="Sennheiser Electronics Corporation MKH 50" title="Sennheiser Electronics Corporation MKH 50"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1373-0" src="/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" >                        </span>
+                        <a title="Sennheiser Electronics Corporation MKH 50 - Features, Specifications, Datasheet" href="/microphones/Sennheiser/MKH-50"><strong>Sennheiser Electronics Corporation MKH 50</strong></a><br />
+                        Supercardioid Pencil Condenser Microphone<br />
+                        <a title="pencil-mic microphones"  href="//recordinghacks.com/microphones/tag/pencil-mic">pencil-mic</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="rf-condenser microphones"  href="//recordinghacks.com/microphones/tag/rf-condenser">rf-condenser</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Sennheiser Electronics Corporation MKH 40 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Sennheiser/MKH-40" ><img src="//cdn.recordinghacks.com/images/mics/01372/01372_75.jpg" width="75" height="75" alt="Sennheiser Electronics Corporation MKH 40" title="Sennheiser Electronics Corporation MKH 40"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1372-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Sennheiser Electronics Corporation MKH 40 - Features, Specifications, Datasheet" href="/microphones/Sennheiser/MKH-40"><strong>Sennheiser Electronics Corporation MKH 40</strong></a><br />
+                        Cardioid Pencil Condenser Microphone<br />
+                        <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="pencil microphones"  href="//recordinghacks.com/microphones/tag/pencil">pencil</a>, <a title="rf-condenser microphones"  href="//recordinghacks.com/microphones/tag/rf-condenser">rf-condenser</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Sennheiser Electronics Corporation MKH 30 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Sennheiser/MKH-30" ><img src="//cdn.recordinghacks.com/images/mics/01371/01371_75.jpg" width="75" height="75" alt="Sennheiser Electronics Corporation MKH 30" title="Sennheiser Electronics Corporation MKH 30"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1371-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Sennheiser Electronics Corporation MKH 30 - Features, Specifications, Datasheet" href="/microphones/Sennheiser/MKH-30"><strong>Sennheiser Electronics Corporation MKH 30</strong></a><br />
+                        Bidirectional Pencil Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="rf-condenser microphones"  href="//recordinghacks.com/microphones/tag/rf-condenser">rf-condenser</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Sennheiser Electronics Corporation MKH 20 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Sennheiser/MKH-20" ><img src="//cdn.recordinghacks.com/images/mics/01355/01355_75.jpg" width="75" height="75" alt="Sennheiser Electronics Corporation MKH 20" title="Sennheiser Electronics Corporation MKH 20"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1355-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="Sennheiser Electronics Corporation MKH 20 - Features, Specifications, Datasheet" href="/microphones/Sennheiser/MKH-20"><strong>Sennheiser Electronics Corporation MKH 20</strong></a><br />
+                        Omnidirectional Pencil Condenser Microphone<br />
+                        <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="pencil microphones"  href="//recordinghacks.com/microphones/tag/pencil">pencil</a>, <a title="rf-condenser microphones"  href="//recordinghacks.com/microphones/tag/rf-condenser">rf-condenser</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Sennheiser Electronics Corporation MKH 8020 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Sennheiser/MKH-8020" ><img src="//cdn.recordinghacks.com/images/mics/01350/01350_75.jpg" width="75" height="75" alt="Sennheiser Electronics Corporation MKH 8020" title="Sennheiser Electronics Corporation MKH 8020"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1350-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="Sennheiser Electronics Corporation MKH 8020 - Features, Specifications, Datasheet" href="/microphones/Sennheiser/MKH-8020"><strong>Sennheiser Electronics Corporation MKH 8020</strong></a><br />
+                        Omnidirectional Pencil Condenser Microphone<br />
+                        <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="rf-condenser microphones"  href="//recordinghacks.com/microphones/tag/rf-condenser">rf-condenser</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Sennheiser Electronics Corporation MKH 8050 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Sennheiser/MKH-8050" ><img src="//cdn.recordinghacks.com/images/mics/01349/01349_75.jpg" width="75" height="75" alt="Sennheiser Electronics Corporation MKH 8050" title="Sennheiser Electronics Corporation MKH 8050"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1349-0" src="/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" >                        </span>
+                        <a title="Sennheiser Electronics Corporation MKH 8050 - Features, Specifications, Datasheet" href="/microphones/Sennheiser/MKH-8050"><strong>Sennheiser Electronics Corporation MKH 8050</strong></a><br />
+                        Supercardioid Pencil Condenser Microphone<br />
+                        <a title="pencil-mic microphones"  href="//recordinghacks.com/microphones/tag/pencil-mic">pencil-mic</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="rf-condenser microphones"  href="//recordinghacks.com/microphones/tag/rf-condenser">rf-condenser</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Sennheiser Electronics Corporation MKH 8040 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Sennheiser/MKH-8040" ><img src="//cdn.recordinghacks.com/images/mics/01347/01347_75.jpg" width="75" height="75" alt="Sennheiser Electronics Corporation MKH 8040" title="Sennheiser Electronics Corporation MKH 8040"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1347-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Sennheiser Electronics Corporation MKH 8040 - Features, Specifications, Datasheet" href="/microphones/Sennheiser/MKH-8040"><strong>Sennheiser Electronics Corporation MKH 8040</strong></a><br />
+                        Cardioid Pencil Condenser Microphone<br />
+                        <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="pencil microphones"  href="//recordinghacks.com/microphones/tag/pencil">pencil</a>, <a title="rf-condenser microphones"  href="//recordinghacks.com/microphones/tag/rf-condenser">rf-condenser</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Sennheiser Electronics Corporation MKH 8060 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Sennheiser/MKH-8060" ><img src="//cdn.recordinghacks.com/images/mics/01346/01346_75.jpg" width="75" height="75" alt="Sennheiser Electronics Corporation MKH 8060" title="Sennheiser Electronics Corporation MKH 8060"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1346-0" src="/images/icons/patterns/icon_sg.png" width=27 height=27 alt="Shotgun" title="Shotgun" >                        </span>
+                        <a title="Sennheiser Electronics Corporation MKH 8060 - Features, Specifications, Datasheet" href="/microphones/Sennheiser/MKH-8060"><strong>Sennheiser Electronics Corporation MKH 8060</strong></a><br />
+                        Shotgun Condenser Microphone<br />
+                        <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="shotgun microphones"  href="//recordinghacks.com/microphones/tag/shotgun">shotgun</a>, <a title="rf-condenser microphones"  href="//recordinghacks.com/microphones/tag/rf-condenser">rf-condenser</a>, <a title="video-camera microphones"  href="//recordinghacks.com/microphones/tag/video-camera">video-camera</a>, <a title="eng microphones"  href="//recordinghacks.com/microphones/tag/eng">eng</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Sennheiser Electronics Corporation MKH 8070 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Sennheiser/MKH-8070" ><img src="//cdn.recordinghacks.com/images/mics/01345/01345_75.jpg" width="75" height="75" alt="Sennheiser Electronics Corporation MKH 8070" title="Sennheiser Electronics Corporation MKH 8070"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1345-0" src="/images/icons/patterns/icon_sg.png" width=27 height=27 alt="Shotgun" title="Shotgun" >                        </span>
+                        <a title="Sennheiser Electronics Corporation MKH 8070 - Features, Specifications, Datasheet" href="/microphones/Sennheiser/MKH-8070"><strong>Sennheiser Electronics Corporation MKH 8070</strong></a><br />
+                        Shotgun Condenser Microphone<br />
+                        <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="shotgun microphones"  href="//recordinghacks.com/microphones/tag/shotgun">shotgun</a>, <a title="rf-condenser microphones"  href="//recordinghacks.com/microphones/tag/rf-condenser">rf-condenser</a>, <a title="broadcast microphones"  href="//recordinghacks.com/microphones/tag/broadcast">broadcast</a>, <a title="eng microphones"  href="//recordinghacks.com/microphones/tag/eng">eng</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Sennheiser Electronics Corporation MKH 418-S - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Sennheiser/MKH-418-S" ><img src="//cdn.recordinghacks.com/images/mics/01344/01344_75.jpg" width="75" height="75" alt="Sennheiser Electronics Corporation MKH 418-S" title="Sennheiser Electronics Corporation MKH 418-S"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1344-0" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ><img id="1344-1" src="/images/icons/patterns/icon_sg.png" width=27 height=27 alt="Shotgun" title="Shotgun" ><img id="1344-2" src="/images/icons/patterns/icon_ms.png" width=27 height=27 alt="Mid-Side Stereo" title="Mid-Side Stereo" >                        </span>
+                        <a title="Sennheiser Electronics Corporation MKH 418-S - Features, Specifications, Datasheet" href="/microphones/Sennheiser/MKH-418-S"><strong>Sennheiser Electronics Corporation MKH 418-S</strong></a><br />
+                        Multi-Pattern Condenser Stereo Microphone<br />
+                        <a title="stereo microphones"  href="//recordinghacks.com/microphones/tag/stereo">stereo</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="mid-side microphones"  href="//recordinghacks.com/microphones/tag/mid-side">mid-side</a>, <a title="shotgun microphones"  href="//recordinghacks.com/microphones/tag/shotgun">shotgun</a>, <a title="rf-condenser microphones"  href="//recordinghacks.com/microphones/tag/rf-condenser">rf-condenser</a>, <a title="eng microphones"  href="//recordinghacks.com/microphones/tag/eng">eng</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Sennheiser Electronics Corporation MKH 416 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Sennheiser/MKH-416" ><img src="//cdn.recordinghacks.com/images/mics/01324/01324_75.jpg" width="75" height="75" alt="Sennheiser Electronics Corporation MKH 416" title="Sennheiser Electronics Corporation MKH 416"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1324-0" src="/images/icons/patterns/icon_sg.png" width=27 height=27 alt="Shotgun" title="Shotgun" >                        </span>
+                        <a title="Sennheiser Electronics Corporation MKH 416 - Features, Specifications, Datasheet" href="/microphones/Sennheiser/MKH-416"><strong>Sennheiser Electronics Corporation MKH 416</strong></a><br />
+                        Shotgun Condenser Microphone<br />
+                        <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="shotgun microphones"  href="//recordinghacks.com/microphones/tag/shotgun">shotgun</a>, <a title="rf-condenser microphones"  href="//recordinghacks.com/microphones/tag/rf-condenser">rf-condenser</a>, <a title="eng microphones"  href="//recordinghacks.com/microphones/tag/eng">eng</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="R&#00216;DE NTG-8 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Rode/NTG-8" ><img src="//cdn.recordinghacks.com/images/mics/01308/01308_75.jpg" width="75" height="75" alt="R&#00216;DE NTG-8" title="R&#00216;DE NTG-8"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1308-0" src="/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" >                        </span>
+                        <a title="R&#00216;DE NTG-8 - Features, Specifications, Datasheet" href="/microphones/Rode/NTG-8"><strong>R&#00216;DE NTG-8</strong></a><br />
+                        Supercardioid Condenser Microphone<br />
+                        <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="shotgun microphones"  href="//recordinghacks.com/microphones/tag/shotgun">shotgun</a>, <a title="rf-condenser microphones"  href="//recordinghacks.com/microphones/tag/rf-condenser">rf-condenser</a>, <a title="video-camera microphones"  href="//recordinghacks.com/microphones/tag/video-camera">video-camera</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="R&#00216;DE NTG-3 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Rode/NTG-3" ><img src="//cdn.recordinghacks.com/images/mics/01307/01307_75.jpg" width="75" height="75" alt="R&#00216;DE NTG-3" title="R&#00216;DE NTG-3"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1307-0" src="/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" >                        </span>
+                        <a title="R&#00216;DE NTG-3 - Features, Specifications, Datasheet" href="/microphones/Rode/NTG-3"><strong>R&#00216;DE NTG-3</strong></a><br />
+                        Supercardioid Condenser Microphone<br />
+                        <a title="externally-biased microphones"  href="//recordinghacks.com/microphones/tag/externally-biased">externally-biased</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="end-address microphones"  href="//recordinghacks.com/microphones/tag/end-address">end-address</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="shotgun microphones"  href="//recordinghacks.com/microphones/tag/shotgun">shotgun</a>, <a title="rf-condenser microphones"  href="//recordinghacks.com/microphones/tag/rf-condenser">rf-condenser</a>, <a title="video-camera microphones"  href="//recordinghacks.com/microphones/tag/video-camera">video-camera</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Sennheiser Electronics Corporation MKH 800 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Sennheiser/MKH-800" ><img src="//cdn.recordinghacks.com/images/mics/00907/00907_75.jpg" width="75" height="75" alt="Sennheiser Electronics Corporation MKH 800" title="Sennheiser Electronics Corporation MKH 800"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="907-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="907-1" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="907-2" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ><img id="907-3" src="/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" ><img id="907-4" src="/images/icons/patterns/icon_wc.png" width=27 height=27 alt="Wide Cardioid" title="Wide Cardioid" >                        </span>
+                        <a title="Sennheiser Electronics Corporation MKH 800 - Features, Specifications, Datasheet" href="/microphones/Sennheiser/MKH-800"><strong>Sennheiser Electronics Corporation MKH 800</strong></a><br />
+                        Multi-Pattern Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="rf-condenser microphones"  href="//recordinghacks.com/microphones/tag/rf-condenser">rf-condenser</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Sennheiser Electronics Corporation MKH 800 TWIN - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Sennheiser/MKH-800-TWIN" ><img src="//cdn.recordinghacks.com/images/mics/00906/00906_75.jpg" width="75" height="75" alt="Sennheiser Electronics Corporation MKH 800 TWIN" title="Sennheiser Electronics Corporation MKH 800 TWIN"   ></a></td>
+                        <td><span class="shaft">
+					    <img src="/images/icons/patterns/icon_cv.png" id="906-0" width=27 height=27 alt="continuously variable pattern selection" title="Continuously variable pattern selection"></span>
+                        <a title="Sennheiser Electronics Corporation MKH 800 TWIN - Features, Specifications, Datasheet" href="/microphones/Sennheiser/MKH-800-TWIN"><strong>Sennheiser Electronics Corporation MKH 800 TWIN</strong></a><br />
+                        Multi-Pattern Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="dual-capsule microphones"  href="//recordinghacks.com/microphones/tag/dual-capsule">dual-capsule</a>, <a title="rf-condenser microphones"  href="//recordinghacks.com/microphones/tag/rf-condenser">rf-condenser</a>, <a title="multitrack microphones"  href="//recordinghacks.com/microphones/tag/multitrack">multitrack</a><br />                        </td></tr>
+	
+                                </table>
+
+
+                 <!-- end of $nada test -->
+                </div><!-- /#column -->
+			</div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('1413-0');uniqueids.push('1412-0');uniqueids.push('1393-0');uniqueids.push('1373-0');uniqueids.push('1372-0');uniqueids.push('1371-0');uniqueids.push('1355-0');uniqueids.push('1350-0');uniqueids.push('1349-0');uniqueids.push('1347-0');uniqueids.push('1346-0');uniqueids.push('1345-0');uniqueids.push('1344-0');uniqueids.push('1344-1');uniqueids.push('1344-2');uniqueids.push('1324-0');uniqueids.push('1308-0');uniqueids.push('1307-0');uniqueids.push('907-0');uniqueids.push('907-1');uniqueids.push('907-2');uniqueids.push('907-3');uniqueids.push('907-4');uniqueids.push('906-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

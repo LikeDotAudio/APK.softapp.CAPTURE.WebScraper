@@ -1,0 +1,152 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>prethos microphones | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+                
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+			<div id="content">
+                <div id="sidebar">                  
+                    					<h2 class="search">search for mics</h2>
+					<form action="/microphones" method="POST">
+										<script language="JavaScript" type="text/javascript">
+function clearText(field){
+
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+
+}
+					</script>
+						<fieldset>
+						    <input type="text" name="s" size="20" value="Microphone name or model number" style="color: #667;margin-left: 0;margin-bottom: 8px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)"><br />
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<fieldset class="checks">
+							<span class="shaft">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+							</span>
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">&nbsp;<input style="font-size: 8px" type="reset" name="button" value="Reset Form">
+						</fieldset>
+					</form>
+                            <p></p><h3>Definition of "prethos":</h3><p><b>Prethos&trade;</b> is a microphone amplifier circuit technology developed and trademarked by Shure Bros. The name stands for &#8220;preamplifier ethos.&#8221; </p><p>The Prethos &#8220;Advanced Preamplifier Technology&#8221; circuits are Class A, discrete, and transformerless. Claimed benefits include:</p><ul style="padding-left: 1em"><li>Maximized dynamic range</li><li>Minimized self-noise</li><li>Transparency</li><li>Fast transient response time</li><li>No crossover distortion</li><li>Minimized harmonic distortion</li><li>Minimized intermodulation distortion</li></ul><p>These amplifier circuits employ surface-mount technology, and are built and populated in the US, then assembled into the KSM microphones at Shure&#8217;s facility in Wheeling, IL.</p><p>According to Shure, &#8220;Prethos&trade; Advanced Preamplifier Technology&#8221; is comprised of three proprietary design attributes:</p><ol style="padding: 0 1.5em 0 1.5em"><li>Superior component selection - Extensive research and benchmarking led to the selection of key electronic components based on specific requirements for noise and distortion performance.</li><li>Breakthrough design topology - &#8220;This proprietary design efficiently manages current consumption, yielding a superior output clipping level specification.  Isolation of critical components consistently provides best-in-class noise performance with extremely low distortion factors.&#8221;</li><li>Meticulous manufacturing process - &#8220;Stringent manufacturing processes are employed during assembly which ensures that the pristine integrity of each component is never compromised.  This results in superior noise performance and robust reliability throughout the life of the product.&#8221;</li></ol><p>The Prethos branding was first seen in 2010, on the KSM44A and KSM42 microphones.</p>
+<h3>Refine Search</h3><p>Find mics tagged '<b>prethos</b> AND:'</p> 
+<p><a rel="nofollow" href="//recordinghacks.com/microphones/tag/prethos+side-address" title="Mics tagged prethos AND side-address">side-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/prethos+large-diaphragm" title="Mics tagged prethos AND large-diaphragm">large-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/prethos+dual-diaphragm" title="Mics tagged prethos AND dual-diaphragm">dual-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/prethos+externally-biased" title="Mics tagged prethos AND externally-biased">externally-biased</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/prethos+edge-terminated" title="Mics tagged prethos AND edge-terminated">edge-terminated</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/prethos+condenser" title="Mics tagged prethos AND condenser">condenser</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/prethos+smc." title="Mics tagged prethos AND smc.">smc.</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/prethos+ksm" title="Mics tagged prethos AND ksm">ksm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/prethos+multipattern" title="Mics tagged prethos AND multipattern">multipattern</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/prethos+transformerless" title="Mics tagged prethos AND transformerless">transformerless</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/prethos+hpf" title="Mics tagged prethos AND hpf">hpf</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/prethos+surface-mount" title="Mics tagged prethos AND surface-mount">surface-mount</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/prethos+lowest-noise" title="Mics tagged prethos AND lowest-noise">lowest-noise</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/prethos+tripolar" title="Mics tagged prethos AND tripolar">tripolar</a> </p>
+<h3>Expand Search</h3><p>Find mics tagged '<b>prethos</b> OR:'</p>
+<p><a rel="nofollow" href="//recordinghacks.com/microphones/tag/prethos|side-address" title="Mics tagged prethos OR side-address">side-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/prethos|large-diaphragm" title="Mics tagged prethos OR large-diaphragm">large-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/prethos|dual-diaphragm" title="Mics tagged prethos OR dual-diaphragm">dual-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/prethos|externally-biased" title="Mics tagged prethos OR externally-biased">externally-biased</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/prethos|edge-terminated" title="Mics tagged prethos OR edge-terminated">edge-terminated</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/prethos|condenser" title="Mics tagged prethos OR condenser">condenser</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/prethos|smc." title="Mics tagged prethos OR smc.">smc.</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/prethos|ksm" title="Mics tagged prethos OR ksm">ksm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/prethos|multipattern" title="Mics tagged prethos OR multipattern">multipattern</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/prethos|transformerless" title="Mics tagged prethos OR transformerless">transformerless</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/prethos|hpf" title="Mics tagged prethos OR hpf">hpf</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/prethos|surface-mount" title="Mics tagged prethos OR surface-mount">surface-mount</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/prethos|lowest-noise" title="Mics tagged prethos OR lowest-noise">lowest-noise</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/prethos|tripolar" title="Mics tagged prethos OR tripolar">tripolar</a> </p>
+                </div><!-- /#sidebar -->
+                <div id="column" style="width: auto">
+						    <h2>Mics tagged: prethos</h2>
+			    <table>
+				                    <tr><td><a title="Shure KSM42 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Shure/KSM42" ><img src="//cdn.recordinghacks.com/images/mics/01042/01042_75.jpg" width="75" height="75" alt="Shure KSM42" title="Shure KSM42"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1042-0" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" >                        </span>
+                        <a title="Shure KSM42 - Features, Specifications, Datasheet" href="/microphones/Shure/KSM42"><strong>Shure KSM42</strong></a><br />
+                        Cardioid Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="dual-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/dual-diaphragm">dual-diaphragm</a>, <a title="externally-biased microphones"  href="//recordinghacks.com/microphones/tag/externally-biased">externally-biased</a>, <a title="edge-terminated microphones"  href="//recordinghacks.com/microphones/tag/edge-terminated">edge-terminated</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="prethos microphones"  href="//recordinghacks.com/microphones/tag/prethos">prethos</a>, <a title="smc. microphones"  href="//recordinghacks.com/microphones/tag/smc.">smc.</a>, <a title="ksm microphones"  href="//recordinghacks.com/microphones/tag/ksm">ksm</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Shure KSM44A - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Shure/KSM44A" ><img src="//cdn.recordinghacks.com/images/mics/01039/01039_75.jpg" width="75" height="75" alt="Shure KSM44A" title="Shure KSM44A"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="1039-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="1039-1" src="/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="1039-2" src="/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" >                        </span>
+                        <a title="Shure KSM44A - Features, Specifications, Datasheet" href="/microphones/Shure/KSM44A"><strong>Shure KSM44A</strong></a><br />
+                        Multi-Pattern Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="dual-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/dual-diaphragm">dual-diaphragm</a>, <a title="externally-biased microphones"  href="//recordinghacks.com/microphones/tag/externally-biased">externally-biased</a>, <a title="multipattern microphones"  href="//recordinghacks.com/microphones/tag/multipattern">multipattern</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="edge-terminated microphones"  href="//recordinghacks.com/microphones/tag/edge-terminated">edge-terminated</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="hpf microphones"  href="//recordinghacks.com/microphones/tag/hpf">hpf</a>, <a title="surface-mount microphones"  href="//recordinghacks.com/microphones/tag/surface-mount">surface-mount</a>, <a title="lowest-noise microphones"  href="//recordinghacks.com/microphones/tag/lowest-noise">lowest-noise</a>, <a title="tripolar microphones"  href="//recordinghacks.com/microphones/tag/tripolar">tripolar</a>, <a title="prethos microphones"  href="//recordinghacks.com/microphones/tag/prethos">prethos</a>, <a title="ksm microphones"  href="//recordinghacks.com/microphones/tag/ksm">ksm</a><br />                        </td></tr>
+	
+                                </table>
+
+
+                 <!-- end of $nada test -->
+                </div><!-- /#column -->
+			</div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('1042-0');uniqueids.push('1039-0');uniqueids.push('1039-1');uniqueids.push('1039-2');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

@@ -1,0 +1,262 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Audio-Technica AT4080 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="AT4080, Bidirectional Active Ribbon Microphone  - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/Audio-Technica/AT4080" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The AT4080 and AT4081 share a ribbon-motor design, although the AT4080 has lower noise." href="//recordinghacks.com/microphones/Audio-Technica/AT4081"><img src="//cdn.recordinghacks.com/images/mics/00920/00920_75.jpg" width="75" height="75" alt="The AT4080 and AT4081 share a ribbon-motor design, although the AT4080 has lower noise." title="The AT4080 and AT4081 share a ribbon-motor design, although the AT4080 has lower noise."   ><br /><span>Audio-Technica AT4081</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/Audio-Technica">Audio-Technica microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Audio-Technica AT4080" href="/microphone-photo/00919/Audio-Technica/AT4080.jpg"><img src="//cdn.recordinghacks.com/images/mics/00919/00919_172.jpg" width="172" height="88" alt="Audio-Technica AT4080" title="Audio-Technica AT4080" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $1,245</li>
+                                                            </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/side-address" alt="side-address microphones">side-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/ribbon" alt="ribbon microphones">ribbon</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/active-ribbon" alt="active-ribbon microphones">active-ribbon</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/dual-ribbon" alt="dual-ribbon microphones">dual-ribbon</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/neodymium" alt="neodymium microphones">neodymium</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/microlinear" alt="microlinear microphones">microlinear</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/40-series" alt="40-series microphones">40-series</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://emusician.com/mics/audio_technica_at4080_at4081_review/">Electronic Musician, 2010-06</a></li>
+                                                                    <li id="www"><a  href="http://www.soundonsound.com/sos/aug10/articles/at-4080-4081.htm">Sound On Sound Review 2010-08</a></li>
+                                                                    <li id="www"><a  href="http://mixonline.com/gear/reviews/audio_technica_at4080_review/">Mix Review 2010-08</a></li>
+                                                                </ul>                    
+                                        <h3>AT4080 Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.audio-technica.com/cms/wired_mics/b0107aebd9c2641d/index.html">AT4080 Product Description</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/audio-technica/AT4080-specification.pdf">AT4080 Technical Specification</a></li>
+                                                                </ul>                    
+                                        <h3>AT4080 Awards</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a href="//recordinghacks.com/awards#12">MIX Certified Hit, AES 2009</a></li>
+                                        </ul>                    
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="919-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ></span>Audio-Technica AT4080</h2>
+                    
+                    <h2 class="sub">                    Bidirectional Active Ribbon Microphone</h2>
+                    <p>The AT4080 is one of a pair of new ribbon microphones with onboard phantom-powered amplifier circuits. </p><p>Introduced in 2009, the AT4080 and AT4081 feature several new developments intended to advance the state of the art in ribbon microphone development. Audio-Technica claims to have 18 patents pending for its two new ribbon microphones.</p><p>The motor is a dual-ribbon design. The use of two ribbons can increase the sensitivity of the transducer, as they are wired in series. The two ribbons are mounted front-to-back, with one positioned slightly in front of the magnetic pole, and the other slightly behind it. The two ribbons move in unison, in a design very much like that used in the dual-ribbon Beyerdynamic M130, and M160.</p><p>The ribbon motor is mounted behind a resonator plate &#8212; a perforated metal plate that is in a sense a hardware EQ device. It is likely responsible for raising the mic&#8217;s HF response. Presumably, both sides of the ribbon motor are capped with identical resonators.</p><p>As in all modern ribbon mics, the magnets in the AT4080 are Neodymium.</p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/audio-technica/AT4080-interior.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/audio-technica/AT4080-interior-sm.jpg" class="thumb shaft" alt="AT4080 Ribbon Motor" width="200" /></a>Audio-Technica&#8217;s &#8220;MicroLinear&trade; ribbon imprint&#8221; is claimed to increase ribbon durability. We speculate that the process behind this feature is described within one or both of the following patent applications:</p><ul><li><a href="http://www.google.com/patents/about?id=pUqUAAAAEBAJ">#11/067,929</a> - <b>Gold plating</b></p><p>The pure aluminum foil used in ribbon microphones is susceptible to corrosion from moisture in the air, resulting in a coating of aluminum hydroxide upon the surface of the ribbon. Further, the bimetallic junction of the aluminum ribbon with its mounts (usually brass) can lead to electrolytic corrosion, increasing the resistance of the circuit and resulting in decreased sensitivity and increased noise.</p><p>Coating the ribbon and its junction plates with a thin (500 Angstrom) film of gold can prevent corrosion, without adversely affecting the mass or resonant frequency of the ribbon.</li><li><a href="http://www.google.com/patents/about?id=Iz3HAAAAEBAJ">#12/276,923</a> - <b>Lengthwise corrugation</b></p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/audio-technica/ribbon-patent.png"><img src="//cdn.recordinghacks.com/images/mic_extras/audio-technica/ribbon-patent-sm.png" class="thumb shaft" alt="Audio-Technica patent illustration - ribbon motor" width="133" /></a>This patent application&#8217;s claim appears to be limited to the idea that by corrugating the ends of the ribbon such that the lines are parallel to its length, the ribbon is stiffer and therefore easier to install, and further that the clamping mechanism can form a tighter electrical connection, reducing resistance.</p><p>Curiously, every illustration in the patent shows that the middle ~80% of the ribbon is also corrugated parallel to its length. This is different from the vast majority of ribbons on the market, which (following the RCA standard) utilize &#8220;short&#8221; corrugation lines perpendicular to the ribbon&#8217;s length. The design in the A-T patent illustration looks identical to the corrugation style of Beyerdynamic&#8217;s short-ribbon mics (such as the <a href="http://recordinghacks.com/microphones/beyerdynamic/M-130">M 130</a>).</p><p>The application also mentions the use of a U-shaped ribbon clamp, which when tightened flattens out to better grip the end of the ribbon.<br /></li></ul><p>To be clear, the above patent excerpts are not necessarily related to the AT4080.</p><p>The ribbon is connected to a transformer, which in turn feeds an amplifier circuit fed by +48V phantom power. The output circuit is transformerless.</p><p>The amp&#8217;s self-noise rating, 22dBA, puts it among the noisiest 15% of mics in our database. <a href="http://recordinghacks.com/microphones/Blue-Microphones/Woodpecker">Blue&#8217;s Woodpecker</a> ribbon mic is also rated at 22dBA; most other active ribbons measure between 16dBA&ndash;20dBA.</p><p>At a distance of 12&#39;&#39;, the mic exhibits a strong low-frequency response, +5dB at 30Hz to +4dB at 100Hz. Midrange response is relatively flat to 5kHz. The response slopes down -3dB at 10kHz, peaks to 0dB at 13kHz, then drops at 45&deg; to -10dB at 20kHz.</p><p>The mic&#8217;s response to closer sources (proximity effect) is unknown.</p><p>The AT4080 ships with a soft pouch, an elastic shockmount (A-T p/n AT8449/SV), and a padded storage case.</p><p><br /><em>How does the AT4081 differ from the AT4080?</em></p><p>This list is not comprehensive, but we note the following differences:</p><ul><li>The AT4080 list price is $400 higher.</li><li>The AT4080&#8217;s output transformer is larger.</li><li>The mic&#8217;s self-noise rating is 3dB lower than the AT4081.</li><li>The case and headbasket design are different; the AT4081 is much smaller and might be easier to position for some applications.</li><li>The AT4080 is presented as a vocal mic, and has a low-frequency lift (due to the larger output transformer) not found in the AT4081.</li></ul><p>The Audio Technica AT4080 was part of our massive <a href="http://recordinghacks.com/2011/07/11/60000-ribbon-mic-shootout/" target="blank">Ribbon Mic Shootout</a> in 2011.<p>Permalink: <a href="//recordinghacks.com/microphones/Audio-Technica/AT4080">Audio-Technica AT4080</a></p><p>The mic was released in 2009.</p>
+                    <h3>Specifications</h3>
+                                        
+                    <table>
+                                                    <tr><th>Frequency Response - Bidirectional<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/1212" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/1/1212.png" width=476 height=159 alt="AT4080 Bidirectional Frequency Response Chart" title="AT4080 Bidirectional Frequency Response Chart" border=0 /></td></tr>
+                            </table>
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                                                                Bidirectional
+                                             (11.2 mV/Pa; 20 - 15,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Ribbon Construction</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                                                            dual 55mm x 5mm x 2micron ribbons                                                                    </td>
+                            <td>100 Ohms <em class="mute">(Low)</em></td>
+                            <td>                                Self-noise: 22.0 dB(A)</td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>474g <em class="mute">(16.72oz)</em></td>
+                            <td>177mm <em class="mute">(6.97&#39;&#39;)</em></td>
+                            <td>53mm <em class="mute">(2.09&#39;&#39;)</em></td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                        <li>Requires phantom power </li>
+                                                                                                                                                                                <li>Phantom voltage: 48v</li>
+                                        </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('919-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

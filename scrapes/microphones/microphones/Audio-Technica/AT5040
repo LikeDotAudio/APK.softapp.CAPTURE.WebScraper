@@ -1,0 +1,289 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Audio-Technica AT5040 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="AT5040, Cardioid Condenser Microphone  - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/Audio-Technica/AT5040" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The AT5040 and AT5045 both utilize rectangular electret capsules." href="//recordinghacks.com/microphones/Audio-Technica/AT5045"><img src="//cdn.recordinghacks.com/images/mics/01691/01691_75.jpg" width="75" height="75" alt="The AT5040 and AT5045 both utilize rectangular electret capsules." title="The AT5040 and AT5045 both utilize rectangular electret capsules."   ><br /><span>Audio-Technica AT5045</span></a></li>
+                                                    <li class="mictile"><a title="The AT5047 is a transformer-coupled version of the AT5040." href="//recordinghacks.com/microphones/Audio-Technica/AT5047"><img src="//cdn.recordinghacks.com/images/mics/01775/01775_75.jpg" width="75" height="75" alt="The AT5047 is a transformer-coupled version of the AT5040." title="The AT5047 is a transformer-coupled version of the AT5040."   ><br /><span>Audio-Technica AT5047</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/Audio-Technica">Audio-Technica microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Audio-Technica AT5040" href="/microphone-photo/01549/Audio-Technica/AT5040.jpg"><img src="//cdn.recordinghacks.com/images/mics/01549/01549_172.jpg" width="172" height="106" alt="Audio-Technica AT5040" title="Audio-Technica AT5040" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $2,999</li>
+                                                            </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/side-address" alt="side-address microphones">side-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/large-diaphragm" alt="large-diaphragm microphones">large-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/electret" alt="electret microphones">electret</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformerless" alt="transformerless microphones">transformerless</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/condenser" alt="condenser microphones">condenser</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/rectangular-diaphragm" alt="rectangular-diaphragm microphones">rectangular-diaphragm</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.soundonsound.com/sos/dec12/articles/audio-technica-at5040.htm">SOS Review, 2012-12</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/2013/06/06/audio-technica-at5040-review/">RecordingHacks review, 2013-06</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/2013/07/10/at5040-voiceover-mic-review/">AT5040 in VO Mic Shootout</a></li>
+                                                                    <li id="www"><a  href="http://www.prosoundnetwork.com/article/audio-technica-at5040-cardioid-condenser-microphone/17065">ProAudioReview 2013-12</a></li>
+                                                                    <li id="www"><a  href="http://tapeop.com/reviews/gear/95/at5040-cardioid-condenser-mic/">TapeOp Review 2013-05</a></li>
+                                                                </ul>                    
+                                        <h3>AT5040 Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.audio-technica.com/cgi-bin/map_set_lang.pl?redir=/AT5040">AT5040 Launch Announcement</a></li>
+                                                                    <li id="www"><a  href="http://www.audio-technica.com/cms/wired_mics/ebf915ca0e65db10/index.html">AT5040 Product Description</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/audio-technica/at5040_specsheet.pdf">AT5040 Cutsheet</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/audio-technica/at5040_literature.pdf">AT5040 Brochure</a></li>
+                                                                </ul>                    
+                                        <h3>AT5040 Awards</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a href="//recordinghacks.com/awards#34">PSN AES Best of Show 2012</a></li>
+                                            <li id="www"><a href="//recordinghacks.com/awards#38">2013 PAR Excellence Awards</a></li>
+                                            <li id="www"><a href="//recordinghacks.com/awards#39">2013 TEC Awards</a> (Nominated)</li>
+                                            <li id="www"><a href="//recordinghacks.com/awards#42">EM Editors' Choice Awards 2014</a></li>
+                                        </ul>                    
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="1549-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>Audio-Technica AT5040</h2>
+                    
+                    <h2 class="sub">                    Cardioid Condenser Microphone</h2>
+                    <p>The AT5040 is Audio-Technica&#8217;s new flagship vocal condenser microphone. Introduced at the 2012 AES convention, it simultaneously launches the company&#8217;s new &#8220;50 Series&#8221; of studio microphones.</p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images/mic_extras/audio-technica/AT5040-capsule-detail.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/audio-technica/AT5040-capsule-detail.jpg" class="thumb shaft" alt="AT5040" width="150" height="150" /></a>The microphone&#8217;s capsule is remarkable. It is comprised of four separate rectangular elements, the output of which is summed electronically. According to the manufacturer, the use of four separate elements provides a very large surface area without a corresponding loss of transient response, as would be the case for a large single-element design. The total surface area is approximately twice the size of a traditional one-inch round condenser capsule.</p><p>The four elements are prepolarized electrets. The membrane material is 2 microns thick. The assembly is shockmounted within the microphone chassis.</p><p>The use of <a href="/microphones/tag/rectangular-diaphragm">rectangular membranes</a> reduces the amplitude of natural resonances within the diaphragm; whereas a round diaphragm has a single resonant frequency, a rectangular diaphragm has two &#8212; each of which has a lower amplitude given the same input signal. Because these resonances typically occur within the audio band, a rectangular capsule can theoretically have a flatter response than a similar-sized round capsule. </p><p>The large diaphragm surface area allows the microphone to have an extremely high sensitivity rating 56 mV/Pa. The mic&#8217;s high output level is entirely a function of the capsule. </p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/audio-technica/AT5040_pcb.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/audio-technica/AT5040_pcb-sm.jpg" class="thumb shaft" alt="AT5040 Circuit Board" width="220" /></a>The mic&#8217;s circuit is a linear, two-stage buffered amplifier, built with a mix of surface-mount and through-hole discrete components. It applies no gain nor EQ to the signal from the capsule. Its output is transformerless.</p><p>The large capsule and high-quality electronics give the microphone a very low self-noise rating of 5 dBA. </p><p>The primary philosophy behind the design is described as &#8220;purity of sound.&#8221; The mic has no DC converter, no pad, no high-pass or other onboard EQ, as these circuits would color the sound.</p><p>The large, open headbasket is constructed of two layers of metal mesh. Unusually, these screens are bonded together to avoid the possibility of sympathetic resononance. The construction also acts as a Faraday cage, which allows the circuit to avoid the use of RFI filtering that could affect the mic&#8217;s sound quality.</p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/audio-technica/AT4050-mount.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/audio-technica/AT4050-mount-sm.jpg" class="thumb shaft" alt="AT5040" width="150" /></a>With the launch of the AT5040, Audio-Technica has also announced a new shockmount design, called the AT8480. This mount was designed to not only decouple the mic from its stand, but also to avoid creating audible resonances or reflections.</p><p>The mic snaps into the arms of the shockmount, which can be locked to prevent escape. </p><p>The mic ships with its shockmount in a foam-lined carrying case.</p><p><iframe width="560" height="315" src="http://www.youtube.com/embed/RMJQIio_pCg?rel=0" frameborder="0" allowfullscreen></iframe><p>Permalink: <a href="//recordinghacks.com/microphones/Audio-Technica/AT5040">Audio-Technica AT5040</a></p><p>The mic was released in 2012.</p>
+                    <h3>Specifications</h3>
+                                        
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                                                                Cardioid
+                                             (56.2 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Capsule Dimensions</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                                                            Diameter n/a<br />
+                                                                                Diaphragm gauge: 2 microns                                                                    </td>
+                            <td>50 Ohms <em class="mute">(Low)</em></td>
+                            <td>Max SPL: 142 dB<br />                                Self-noise: 5.0 dB(A)</td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>582g <em class="mute">(20.53oz)</em></td>
+                            <td>163mm <em class="mute">(6.42&#39;&#39;)</em></td>
+                            <td>n/a</td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                        <li>Requires phantom power </li>
+                                                                                                                                                                            </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+             
+<script type="text/javascript">
+        YAHOO.namespace("freq");
+
+        function init_freq_graphs() {
+
+                
+            YAHOO.freq.manager = new YAHOO.widget.OverlayManager(); 
+            YAHOO.freq.manager.register([]);
+        
+
+
+        }
+        YAHOO.util.Event.addListener(window, "load", init_freq_graphs);
+</script>
+
+
+    <script type="text/javascript">
+    function swap_graph(id) {
+        if (1==0) {}
+    }
+    </script>
+
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('1549-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

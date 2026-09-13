@@ -1,0 +1,5 @@
+## Mics tagged: ac701 AND telefunken
+
+|  |  |
+| --- | --- |
+| [Schoeps Mikrofone M 221 B](http://recordinghacks.com/microphones/Schoeps/M-221-B "Schoeps Mikrofone M 221 B - Features, Specifications, Datasheet") | [**Schoeps Mikrofone M 221 B**](/microphones/Schoeps/M-221-B "Schoeps Mikrofone M 221 B - Features, Specifications, Datasheet")  Pencil Tube Condenser Microphone  [tube](//recordinghacks.com/microphones/tag/tube "tube microphones"), [pencil-mic](//recordinghacks.com/microphones/tag/pencil-mic "pencil-mic microphones"), [detachable-capsule](//recordinghacks.com/microphones/tag/detachable-capsule "detachable-capsule microphones"), [transformer-coupled](//recordinghacks.com/microphones/tag/transformer-coupled "transformer-coupled microphones"), [end-address](//recordinghacks.com/microphones/tag/end-address "end-address microphones"), [ac701](//recordinghacks.com/microphones/tag/ac701 "ac701 microphones"), [telefunken](//recordinghacks.com/microphones/tag/telefunken "telefunken microphones") |

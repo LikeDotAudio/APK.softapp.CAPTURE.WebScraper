@@ -1,0 +1,17 @@
+{
+"$id": "https://www.amwa.tv/event\_and\_tally/source.json",
+"$schema": "http://json-schema.org/draft-04/schema#",
+"description": "Describes the Event & Tally source",
+"items": {
+"enum": [
+"type/",
+"state/"
+],
+"maxItems": 2,
+"minItems": 2,
+"type": "string",
+"uniqueItems": true
+},
+"title": "Event & Tally source",
+"type": "array"
+}

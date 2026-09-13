@@ -1,0 +1,5 @@
+## Mics tagged: 48-khz AND made-in-usa
+
+|  |  |
+| --- | --- |
+| [Apogee Electronics MiC](http://recordinghacks.com/microphones/Apogee/MiC "Apogee Electronics MiC - Features, Specifications, Datasheet") | Cardioid  [**Apogee Electronics MiC**](/microphones/Apogee/MiC "Apogee Electronics MiC - Features, Specifications, Datasheet")  Cardioid Condenser Microphone  [side-address](//recordinghacks.com/microphones/tag/side-address "side-address microphones"), [transformerless](//recordinghacks.com/microphones/tag/transformerless "transformerless microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [24-bit](//recordinghacks.com/microphones/tag/24-bit "24-bit microphones"), [48-khz](//recordinghacks.com/microphones/tag/48-khz "48-khz microphones"), [made-in-usa](//recordinghacks.com/microphones/tag/made-in-usa "made-in-usa microphones") |

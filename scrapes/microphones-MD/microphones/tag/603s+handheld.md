@@ -1,0 +1,5 @@
+## Mics tagged: 603s AND handheld
+
+|  |  |
+| --- | --- |
+| [MXL LSC-1B](http://recordinghacks.com/microphones/MXL/LSC-1 "MXL LSC-1B - Features, Specifications, Datasheet") | OmnidirectionalCardioidHypercardioid  [**MXL LSC-1B**](/microphones/MXL/LSC-1 "MXL LSC-1B - Features, Specifications, Datasheet")  Detachable-Capsule Condenser Microphone  [multipattern](//recordinghacks.com/microphones/tag/multipattern "multipattern microphones"), [detachable-capsule](//recordinghacks.com/microphones/tag/detachable-capsule "detachable-capsule microphones"), [end-address](//recordinghacks.com/microphones/tag/end-address "end-address microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [handheld](//recordinghacks.com/microphones/tag/handheld "handheld microphones"), [603s](//recordinghacks.com/microphones/tag/603s "603s microphones") |

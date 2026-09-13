@@ -1,0 +1,453 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>3 Zigma Audio CHI | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="CHI, Detachable-Capsule Pencil Condenser Microphone , aka: HA-TL - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/3-Zigma/CHI" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>CHI Microphone Sets</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="3 Zigma Master 4x10 Toolkit - microphone set" href="//recordinghacks.com/microphones/3-Zigma/Master-4x10"><img src="//cdn.recordinghacks.com/images/sets/00050/00050_75.jpg" width="75" height="75" alt="" title=""   ><br /><span>3 Zigma Master 4x10 Toolkit</span></a></li>
+                                                    <li class="mictile"><a title="3 Zigma Studio 2x6 Toolkit - microphone set" href="//recordinghacks.com/microphones/3-Zigma/Studio-2x6"><img src="//cdn.recordinghacks.com/images/sets/00051/00051_75.jpg" width="75" height="75" alt="" title=""   ><br /><span>3 Zigma Studio 2x6 Toolkit</span></a></li>
+                                                    <li class="mictile"><a title="3 Zigma Studio 1x3 Toolkit - microphone set" href="//recordinghacks.com/microphones/3-Zigma/Studio-1x3"><img src="//cdn.recordinghacks.com/images/sets/00101/00101_75.jpg" width="75" height="75" alt="" title=""   ><br /><span>3 Zigma Studio 1x3 Toolkit</span></a></li>
+                                                </ul>
+                        </div>
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The CHI&#8217;s GK47 head, like JZ&#8217;s V47, evokes the sound of the U 47." href="//recordinghacks.com/microphones/JZ/Vintage-V47"><img src="//cdn.recordinghacks.com/images/mics/00933/00933_75.jpg" width="75" height="75" alt="The CHI&#8217;s GK47 head, like JZ&#8217;s V47, evokes the sound of the U 47." title="The CHI&#8217;s GK47 head, like JZ&#8217;s V47, evokes the sound of the U 47."   ><br /><span>JZ Vintage V47</span></a></li>
+                                                    <li class="mictile"><a title="The CHI HA-TL with GK67 capsule, like the V67, attempts to recreate the sound of the U67." href="//recordinghacks.com/microphones/JZ/Vintage-V67"><img src="//cdn.recordinghacks.com/images/mics/00970/00970_75.jpg" width="75" height="75" alt="The CHI HA-TL with GK67 capsule, like the V67, attempts to recreate the sound of the U67." title="The CHI HA-TL with GK67 capsule, like the V67, attempts to recreate the sound of the U67."   ><br /><span>JZ Vintage V67</span></a></li>
+                                                    <li class="mictile"><a title="The CHI series is modeled after the Schoeps Colette series." href="//recordinghacks.com/microphones/Schoeps/CMC-6"><img src="//cdn.recordinghacks.com/images/mics/01145/01145_75.jpg" width="75" height="75" alt="The CHI series is modeled after the Schoeps Colette series." title="The CHI series is modeled after the Schoeps Colette series."   ><br /><span>Schoeps CMC 6</span></a></li>
+                                                    <li class="mictile"><a title="The HA-XF is the transformer-coupled version of the HA-TL." href="//recordinghacks.com/microphones/3-Zigma/HA-FX"><img src="//cdn.recordinghacks.com/images/mics/01155/01155_75.jpg" width="75" height="75" alt="The HA-XF is the transformer-coupled version of the HA-TL." title="The HA-XF is the transformer-coupled version of the HA-TL."   ><br /><span>3 Zigma CHI HA/FX</span></a></li>
+                                                    <li class="mictile"><a title="The CHI and SU-012 both host a variety of small- and large-diaphragm capsule heads." href="//recordinghacks.com/microphones/Soyuz/SU-012"><img src="//cdn.recordinghacks.com/images/mics/01663/01663_75.jpg" width="75" height="75" alt="The CHI and SU-012 both host a variety of small- and large-diaphragm capsule heads." title="The CHI and SU-012 both host a variety of small- and large-diaphragm capsule heads."   ><br /><span>Soyuz SU-012</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/3-Zigma">3 Zigma microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="3 Zigma Audio CHI" href="/microphone-photo/00704/3-Zigma/CHI.jpg"><img src="//cdn.recordinghacks.com/images/mics/00704/00704_172.jpg" width="172" height="91" alt="3 Zigma Audio CHI" title="3 Zigma Audio CHI" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $895</li>
+                                                            </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/large-diaphragm" alt="large-diaphragm microphones">large-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/pencil-mic" alt="pencil-mic microphones">pencil-mic</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformerless" alt="transformerless microphones">transformerless</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/detachable-capsule" alt="detachable-capsule microphones">detachable-capsule</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/hybrid-mic" alt="hybrid-mic microphones">hybrid-mic</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://recordinghacks.com/2010/01/10/3-zigma-chi-microphone-review/">CHI Mic Review, 2010-01</a></li>
+                                                                </ul>                    
+                                        <h3>CHI Documentation</h3><ul class="man_list" id="icons16">
+                                                                                        <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/3zigma/CHI_User_Guide.pdf">CHI User Guide</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/3zigma/CHI_applications_guide.pdf">CHI Application Guide</a></li>
+                                                                    <li id="www"><a  href="http://www.hybridmic.com/">CHI Product Description</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="704-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="704-1" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="704-2" src="//cdn.recordinghacks.com/images/icons/patterns/icon_hc.png" width=27 height=27 alt="Hypercardioid" title="Hypercardioid" ></span>3 Zigma Audio CHI</h2>
+                    
+                    <h2 class="sub">                    Detachable-Capsule Pencil Condenser Microphone</h2>
+                    <p>The CHI is a modular microphone system, also known as a &#8220;hybrid&#8221; mic system, modeled after Schoeps &#8220;Colette&#8221; microphone series. The basic idea is that capsules are separate from &#8220;head amplifiers,&#8221; and can be mixed and matched to suit any specific recording need.</p><p>But while the Colette series offers only small-diaphragm capsules, the CHI system offers small <em>and</em> large-diaphragm capsules.</p><p>The CHI system&#8217;s initial release, in 2009, consisted of a single head amp &#8212; a transformerless FET design built into a brass body &#8212; and eight interchangeable capsules. The name is pronounced <em>chai,</em> and stands for &#8220;Capsule Head Integration.&#8221;</p><p>The transformerless head amp (microphone body) was designed with minimalist circuitry. It is intended as a neutral, transparent, low-noise amplifier, so that the tone of the capsule is not affected by any coloration or distortion from the amplifier stage.</p><p>The amp circuit was designed by JP Gerard, the lead designer for ADK. </p><p><a rel="nofollow" href="http://www.flickr.com/photos/24455487@N05/3472755944/" title="3 Zigma CHI, small-diaphragm capsule"><img src="http://farm4.static.flickr.com/3618/3472755944_b8c189b713_m.jpg" width="69" height="240" alt="3 Zigma CHI" class="thumb shaft" /></a>The capsules were designed in a 3-way collaboration between JP Gerard, ADK founder Larry Villella, and an unnamed aerospace engineer in Australia, and are built at a new facility set up by 3 Zigma in rural China. </p><p>This &#8220;capsuleworks&#8221; has grown into a full microphone factory and is handling the manufacture of the entire CHI system. </p><p>Four small-diameter (17mm) capsules are available, covering the traditional SDC options: cardioid, hypercardioid, and omni (two varieties). These small-diameter capsules are intended to provide transparency (or neutrality) and versatility rather than a colored response.</p><blockquote><p><cite>Larry Villella</cite></p><p>JP and I have long had this back and forth <em>t&ecirc;te-&agrave;-t&ecirc;te</em> about flavors, because he&#8217;s European, and I&#8217;m American&#8230; As you know, there&#8217;s British EQ and American EQ; there&#8217;s a flavor difference. There&#8217;s a cultural underpinning to all of this. That&#8217;s why B&ouml;sendorfers don&#8217;t sound like Steinways and Beethoven doesn&#8217;t sound like Mozart.</p><p>When we came to the all-important small-diaphragm CHI, we had this classic argument where JP loves Schoeps, and I love <a href="http://recordinghacks.com/microphones/Neumann/KM-84">KM-84</a>s. We did this compromise curve, that&#8217;s not as bright as a Schoeps, and not as mellow as a KM-84. </p><p>And he and I both concluded it&#8217;s the most useful small-diaphragm cardioid either one of us has ever used. And it was because instead of being stubborn, we compromised and made a blend.</p></blockquote><p>The two SDC omni capsules are distinguished by their HF response.</p><blockquote><p><cite>3 Zigma</cite></p><p><b>Diffuse Field response:</b> to be used when a relatively flat treble is required off-axis, for instance when the room sound needs to be accurately represented (= brighter source). No proximity effect and a detailed, emphasized top end to compensate for HF losses encountered when the mics are placed away from the source. This is the best choice for &#8220;natural&#8221; distant stereo recordings.</p><p><b>Free Field response:</b> to be used when a relatively flat treble is required on-axis, for instance when the source needs to be accurately represented (= darker room sound). No proximity effect and a detailed but un-emphasized top end. This is the best choice for solo work, when a very natural sound up close is needed. Lifelike response, in mono or stereo.</p></blockquote><p>Four large-diameter (27.5mm) capsules are also available. In contrast to the SDC capsules, the LDC capsules provide <em>no</em> pattern variation, but lots of color &#8212; that is, they are all cardioid, and are distinguished by the tone they provide.</p><ul><li><b>C-Lol-12</b> - Inspired by the C12. The same capsule (p/n GK12) can be found in ADK&#8217;s CS-12.</li><li><b>C-Lol-47</b> - Inspired by the <a href="http://recordinghacks.com/microphones/Neumann/U-47">U-47</a>.</li><li><b>C-Lol-67</b> - Inspired by the U-67. The same capsule (p/n GK67) can be found in ADK&#8217;s CS-67.</li><li><b>C-Lol-251</b> - Inspired by the Ela M 251. Has two presence peaks, +2dB @ 5kHz and +5dB @ 15kHz, and deeper lows than the other Lollipop capsules (-2dB @ 20Hz). The same capsule can be found in ADK&#8217;s Cremona 251-Au.</li></ul><p>Because the CHI is designed as a mix-and-match system, multiple packages are offered, including <em>a la carte</em> bodies and caps. Example MSRPs:</p><ul><li>CHI Transformerless head amp: $595</li><li>Head amp plus one LD capsule (C-Lol-12, C-Lol-67, C-Lol-47): $895</li><li>Head amp plus C-Lol-251: $995</li><li>Two head amps plus two SDC caps (cardioid or Omni-diffuse), matched: $1995</li><li>Four head amps plus four SDC caps, matched: $3995</li><li>Head amp plus one LDC and two SDC: $2180 (add $100 for C-Lol-251)</li><li>Two head amps, two LDC, four SDC: $3995</li></ul><p>The initial (2009) production run of brass-body CHI microphones suffered from a few minor usability challenges &#8212; for example, the shockmounts would not grip the microphones adequately, the capsule threads felt a little too delicate, and the LDC caps did not sufficiently indicate their model numbers nor the front of the capsule. </p><p>These issues will all be addressed in the 2010 production run, which will introduce:</p><ul><li>A redesigned mic body, machined from stainless-steel</li><li>A second head amp, with a transformer-coupled output stage</li><li>A new LDC capsule based on the M49</li><li>New shockmount and flightcase options</li></ul><p><p>The <a href="//recordinghacks.com/microphones/3-Zigma/CHI">3 Zigma Audio CHI</a> is also known as: HA-TL.</p><p>The mic was released in 2008.</p>
+                    <h3>Specifications</h3>
+                    <table><tr><th>Compatible Capsules</th></tr><tr><td><table style="width: 440px">                        <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00229/00229_75.jpg" width="75" height="75" alt="3 Zigma Audio C-LOL-12" title="3 Zigma Audio C-LOL-12"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap6749" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>3 Zigma Audio C-LOL-12</strong><br />
+                        27.5mm large diaphragm Cardioid capsule<br />
+                        Sensitivity: 22 mV/Pa<br />
+                        <span class="shaft" id="anchor6749"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show6749">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $595 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00232/00232_75.jpg" width="75" height="75" alt="3 Zigma Audio C-LOL-251" title="3 Zigma Audio C-LOL-251"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap6750" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>3 Zigma Audio C-LOL-251</strong><br />
+                        27.5mm large diaphragm Cardioid capsule<br />
+                        Sensitivity: 20 mV/Pa<br />
+                        <span class="shaft" id="anchor6750"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show6750">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $695 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00231/00231_75.jpg" width="75" height="75" alt="3 Zigma Audio C-LOL-47" title="3 Zigma Audio C-LOL-47"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap6751" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>3 Zigma Audio C-LOL-47</strong><br />
+                        27.5mm large diaphragm Cardioid capsule<br />
+                        Sensitivity: 18 mV/Pa<br />
+                        <span class="shaft" id="anchor6751"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show6751">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $595 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00230/00230_75.jpg" width="75" height="75" alt="3 Zigma Audio C-LOL-67" title="3 Zigma Audio C-LOL-67"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap6752" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>3 Zigma Audio C-LOL-67</strong><br />
+                        27.5mm large diaphragm Cardioid capsule<br />
+                        Sensitivity: 22 mV/Pa<br />
+                        <span class="shaft" id="anchor6752"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show6752">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $595 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00225/00225_75.jpg" width="75" height="75" alt="3 Zigma Audio SD-C Cardioid" title="3 Zigma Audio SD-C Cardioid"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap6753" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>3 Zigma Audio SD-C Cardioid</strong><br />
+                        17mm Cardioid capsule<br />
+                        Sensitivity: 16 mV/Pa<br />
+                        <span class="shaft" id="anchor6753"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show6753">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $495 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00226/00226_75.jpg" width="75" height="75" alt="3 Zigma Audio SD-H Hypercardioid" title="3 Zigma Audio SD-H Hypercardioid"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap6754" src="//cdn.recordinghacks.com/images/icons/patterns/icon_hc.png" width=27 height=27 alt="Hypercardioid" title="Hypercardioid" ></span>
+                        <strong>3 Zigma Audio SD-H Hypercardioid</strong><br />
+                        17mm Hypercardioid capsule<br />
+                        Sensitivity: 12.6 mV/Pa<br />
+                        <span class="shaft" id="anchor6754"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show6754">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $495 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00227/00227_75.jpg" width="75" height="75" alt="3 Zigma Audio SD-O-D Diffuse-field Omni" title="3 Zigma Audio SD-O-D Diffuse-field Omni"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap6755" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ></span>
+                        <strong>3 Zigma Audio SD-O-D Diffuse-field Omni</strong><br />
+                        17mm Omnidirectional capsule<br />
+                        Sensitivity: 18 mV/Pa<br />
+                        <span class="shaft" id="anchor6755"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show6755">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $495 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00228/00228_75.jpg" width="75" height="75" alt="3 Zigma Audio SD-O-F Free-field Omni" title="3 Zigma Audio SD-O-F Free-field Omni"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap6756" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ></span>
+                        <strong>3 Zigma Audio SD-O-F Free-field Omni</strong><br />
+                        17mm Omnidirectional capsule<br />
+                        Sensitivity: 18 mV/Pa<br />
+                        <span class="shaft" id="anchor6756"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show6756">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $549 | Still In Production</li>
+                        </td></tr>
+                    </table></td></tr></table>
+                    <table>
+                        <tr>
+                            <th>Pads &amp; Filters</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>n/a                                
+                                </td>
+                            <td>n/a</td>
+                            <td>                                </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>n/a</em></td>
+                            <td>n/a</td>
+                            <td>22mm <em class="mute">(0.87&#39;&#39;)</em></td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                        <li>Requires phantom power </li>
+                                                                                                                                                                                <li>Phantom voltage: 48v</li>
+                                        </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+             
+<script type="text/javascript">
+        YAHOO.namespace("freq");
+
+        function init_freq_graphs() {
+
+            YAHOO.freq.chartPanel6749 = new YAHOO.widget.Panel("chartPanel6749",  {  context:["anchor6749", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel6749.render();
+
+            YAHOO.freq.chartPanel6750 = new YAHOO.widget.Panel("chartPanel6750",  {  context:["anchor6750", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel6750.render();
+
+            YAHOO.freq.chartPanel6751 = new YAHOO.widget.Panel("chartPanel6751",  {  context:["anchor6751", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel6751.render();
+
+            YAHOO.freq.chartPanel6752 = new YAHOO.widget.Panel("chartPanel6752",  {  context:["anchor6752", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel6752.render();
+
+            YAHOO.freq.chartPanel6753 = new YAHOO.widget.Panel("chartPanel6753",  {  context:["anchor6753", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel6753.render();
+
+            YAHOO.freq.chartPanel6754 = new YAHOO.widget.Panel("chartPanel6754",  {  context:["anchor6754", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel6754.render();
+
+            YAHOO.freq.chartPanel6755 = new YAHOO.widget.Panel("chartPanel6755",  {  context:["anchor6755", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel6755.render();
+
+            YAHOO.freq.chartPanel6756 = new YAHOO.widget.Panel("chartPanel6756",  {  context:["anchor6756", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel6756.render();
+
+                
+            YAHOO.freq.manager = new YAHOO.widget.OverlayManager(); 
+            YAHOO.freq.manager.register([YAHOO.freq.chartPanel6749,
+                                                   YAHOO.freq.chartPanel6750,
+                                                   YAHOO.freq.chartPanel6751,
+                                                   YAHOO.freq.chartPanel6752,
+                                                   YAHOO.freq.chartPanel6753,
+                                                   YAHOO.freq.chartPanel6754,
+                                                   YAHOO.freq.chartPanel6755,
+                                                   YAHOO.freq.chartPanel6756,
+                                                   ]);
+
+          
+            YAHOO.util.Event.addListener("show6749", "click", YAHOO.freq.chartPanel6749.show, YAHOO.freq.chartPanel6749, true);
+            YAHOO.util.Event.addListener("hide6749", "click", YAHOO.freq.chartPanel6749.hide, YAHOO.freq.chartPanel6749, true);
+            YAHOO.util.Event.addListener("focus6749", "click", YAHOO.freq.chartPanel6749.focus, YAHOO.freq.chartPanel6749, true);
+
+          
+            YAHOO.util.Event.addListener("show6750", "click", YAHOO.freq.chartPanel6750.show, YAHOO.freq.chartPanel6750, true);
+            YAHOO.util.Event.addListener("hide6750", "click", YAHOO.freq.chartPanel6750.hide, YAHOO.freq.chartPanel6750, true);
+            YAHOO.util.Event.addListener("focus6750", "click", YAHOO.freq.chartPanel6750.focus, YAHOO.freq.chartPanel6750, true);
+
+          
+            YAHOO.util.Event.addListener("show6751", "click", YAHOO.freq.chartPanel6751.show, YAHOO.freq.chartPanel6751, true);
+            YAHOO.util.Event.addListener("hide6751", "click", YAHOO.freq.chartPanel6751.hide, YAHOO.freq.chartPanel6751, true);
+            YAHOO.util.Event.addListener("focus6751", "click", YAHOO.freq.chartPanel6751.focus, YAHOO.freq.chartPanel6751, true);
+
+          
+            YAHOO.util.Event.addListener("show6752", "click", YAHOO.freq.chartPanel6752.show, YAHOO.freq.chartPanel6752, true);
+            YAHOO.util.Event.addListener("hide6752", "click", YAHOO.freq.chartPanel6752.hide, YAHOO.freq.chartPanel6752, true);
+            YAHOO.util.Event.addListener("focus6752", "click", YAHOO.freq.chartPanel6752.focus, YAHOO.freq.chartPanel6752, true);
+
+          
+            YAHOO.util.Event.addListener("show6753", "click", YAHOO.freq.chartPanel6753.show, YAHOO.freq.chartPanel6753, true);
+            YAHOO.util.Event.addListener("hide6753", "click", YAHOO.freq.chartPanel6753.hide, YAHOO.freq.chartPanel6753, true);
+            YAHOO.util.Event.addListener("focus6753", "click", YAHOO.freq.chartPanel6753.focus, YAHOO.freq.chartPanel6753, true);
+
+          
+            YAHOO.util.Event.addListener("show6754", "click", YAHOO.freq.chartPanel6754.show, YAHOO.freq.chartPanel6754, true);
+            YAHOO.util.Event.addListener("hide6754", "click", YAHOO.freq.chartPanel6754.hide, YAHOO.freq.chartPanel6754, true);
+            YAHOO.util.Event.addListener("focus6754", "click", YAHOO.freq.chartPanel6754.focus, YAHOO.freq.chartPanel6754, true);
+
+          
+            YAHOO.util.Event.addListener("show6755", "click", YAHOO.freq.chartPanel6755.show, YAHOO.freq.chartPanel6755, true);
+            YAHOO.util.Event.addListener("hide6755", "click", YAHOO.freq.chartPanel6755.hide, YAHOO.freq.chartPanel6755, true);
+            YAHOO.util.Event.addListener("focus6755", "click", YAHOO.freq.chartPanel6755.focus, YAHOO.freq.chartPanel6755, true);
+
+          
+            YAHOO.util.Event.addListener("show6756", "click", YAHOO.freq.chartPanel6756.show, YAHOO.freq.chartPanel6756, true);
+            YAHOO.util.Event.addListener("hide6756", "click", YAHOO.freq.chartPanel6756.hide, YAHOO.freq.chartPanel6756, true);
+            YAHOO.util.Event.addListener("focus6756", "click", YAHOO.freq.chartPanel6756.focus, YAHOO.freq.chartPanel6756, true);
+
+            
+    
+        }
+        YAHOO.util.Event.addListener(window, "load", init_freq_graphs);
+</script>
+
+
+<div id="chartPanel6749" style="visibility:hidden">
+    <div class="hd"><span>3 Zigma Audio CHI Frequency Chart: Cardioid</span></div>
+    <div class="bd">
+    <img name="graph6749" src="http://hybridmic.adkmic.com/lollipops/sm/C-LOL-12_curve.jpg" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel6750" style="visibility:hidden">
+    <div class="hd"><span>3 Zigma Audio CHI Frequency Chart: Cardioid</span></div>
+    <div class="bd">
+    <img name="graph6750" src="http://hybridmic.adkmic.com/lollipops/sm/C-LOL-251_curve.jpg" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel6751" style="visibility:hidden">
+    <div class="hd"><span>3 Zigma Audio CHI Frequency Chart: Cardioid</span></div>
+    <div class="bd">
+    <img name="graph6751" src="http://hybridmic.adkmic.com/lollipops/sm/C-LOL-47_curve.jpg" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel6752" style="visibility:hidden">
+    <div class="hd"><span>3 Zigma Audio CHI Frequency Chart: Cardioid</span></div>
+    <div class="bd">
+    <img name="graph6752" src="http://hybridmic.adkmic.com/lollipops/sm/C-LOL-67_curve.jpg" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel6753" style="visibility:hidden">
+    <div class="hd"><span>3 Zigma Audio CHI Frequency Chart: Cardioid</span></div>
+    <div class="bd">
+    <img name="graph6753" src="http://hybridmic.adkmic.com/lipsticks/sm/SD-C_curve.jpg" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel6754" style="visibility:hidden">
+    <div class="hd"><span>3 Zigma Audio CHI Frequency Chart: Hypercardioid</span></div>
+    <div class="bd">
+    <img name="graph6754" src="http://hybridmic.adkmic.com/lipsticks/sm/SD-C_curve.jpg" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel6755" style="visibility:hidden">
+    <div class="hd"><span>3 Zigma Audio CHI Frequency Chart: Omnidirectional</span></div>
+    <div class="bd">
+    <img name="graph6755" src="http://hybridmic.adkmic.com/lipsticks/sm/SD-O-D_curve.jpg" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel6756" style="visibility:hidden">
+    <div class="hd"><span>3 Zigma Audio CHI Frequency Chart: Omnidirectional</span></div>
+    <div class="bd">
+    <img name="graph6756" src="http://hybridmic.adkmic.com/lipsticks/sm/SD-OMNI-F_curve.jpg" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('704-0');uniqueids.push('704-1');uniqueids.push('704-2');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

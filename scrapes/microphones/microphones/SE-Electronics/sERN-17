@@ -1,0 +1,308 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>SE Electronics sERN 17 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="sERN 17, Detachable-Capsule Pencil Condenser Microphone , aka: RN17 - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/SE-Electronics/sERN-17" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The sERN17 and RNR1 use similar Neve transformers." href="//recordinghacks.com/microphones/SE-Electronics/RNR1"><img src="//cdn.recordinghacks.com/images/mics/00686/00686_75.jpg" width="75" height="75" alt="The sERN17 and RNR1 use similar Neve transformers." title="The sERN17 and RNR1 use similar Neve transformers."   ><br /><span>sE RNR1</span></a></li>
+                                                    <li class="mictile"><a title="The CR-1 uses the ~15mm condenser capsule developed for the sERN 17." href="//recordinghacks.com/microphones/SE-Electronics/CR-1"><img src="//cdn.recordinghacks.com/images/mics/01120/01120_75.jpg" width="75" height="75" alt="The CR-1 uses the ~15mm condenser capsule developed for the sERN 17." title="The CR-1 uses the ~15mm condenser capsule developed for the sERN 17."   ><br /><span>sE CR-1</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/SE-Electronics">sE microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="SE Electronics sERN 17" href="/microphone-photo/01093/SE-Electronics/sERN-17.jpg"><img src="//cdn.recordinghacks.com/images/mics/01093/01093_172.jpg" width="172" height="80" alt="SE Electronics sERN 17" title="SE Electronics sERN 17" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $1,499</li>
+                                                            </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/pencil-mic" alt="pencil-mic microphones">pencil-mic</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/multipattern" alt="multipattern microphones">multipattern</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/detachable-capsule" alt="detachable-capsule microphones">detachable-capsule</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformer-coupled" alt="transformer-coupled microphones">transformer-coupled</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/end-address" alt="end-address microphones">end-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/neve" alt="neve microphones">neve</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.prosoundnetwork.com/article/se-electronics-rn17-condenser-microphone/13706">PSN Review, 2011-10</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/se/AudioMedia-RN17-07.2011.pdf">Audio Media review, 2011-07</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/2011/10/14/prairie-sun-drum-overhead-mic-shootout/">RH Drum OH Shootout</a></li>
+                                                                    <li id="www"><a  href="http://tapeop.com/reviews/86/rn17-condenser-mic/">Tape Op, 2011-11</a></li>
+                                                                    <li id="www"><a  href="http://www.prosoundnetwork.com/article/se-rupert-neve-rn17-stereo-pair-small-diaphragm-condenser-sdc-microphones/14518">ProAudioReview 2012-02</a></li>
+                                                                </ul>                    
+                                        <h3>sERN 17 Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.seelectronics.com/se-rn17-rupert-neve-mic">sERN 17 Product Description</a></li>
+                                                                </ul>                    
+                                        <h3>sERN 17 Awards</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a href="//recordinghacks.com/awards#30">2012 PAR Excellence Awards</a></li>
+                                            <li id="www"><a href="//recordinghacks.com/awards#32">2012 TEC Awards</a> (Nominated)</li>
+                                        </ul>                    
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="1093-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="1093-1" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="1093-2" src="//cdn.recordinghacks.com/images/icons/patterns/icon_hc.png" width=27 height=27 alt="Hypercardioid" title="Hypercardioid" ><img id="1093-3" src="//cdn.recordinghacks.com/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ></span>SE Electronics sERN 17</h2>
+                    
+                    <h2 class="sub">                    Detachable-Capsule Pencil Condenser Microphone</h2>
+                    <p>The sERN 17 is a detachable-capsule FET condenser with an oversized output transformer. It is the second microphone resulting from the collaboration of Rupert Neve with sE Electronics (the first being the <a href="http://recordinghacks.com/microphones/SE-Electronics/RNR1">RNR1 Ribbon</a>).</p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/se/sE17-shockmount.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/se/sE17-shockmount-sm.jpg" class="thumb shaft" alt="sERN 17 Shockmount" width="200" /></a>sE makes five compatible capsules, all with 17mm-diameter elements: Omni, Wide Cardioid, Cardioid, Hypercardioid, and &#8212; somewhat unusually &#8212; Figure-of-8. The latter mounts two of the Cardioid capsules back-to-back within the capsule housing. Although the other capsules are all end-address, the figure-of-8 is side-address.</p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/se/sE17-box.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/se/sE17-box-sm.jpg" class="thumb shaft" alt="sERN 17 Kit" width="200" /></a>The mic ships with the Cardioid capsule and a shockmount in a padded wooden storage box, with announced MSRP of $1299 (Dec, 2010). The box includes 5 metal canisters for storage of additional capsules.</p><p>The mic was displayed at AES/San Francisco in November, 2010 and is scheduled to begin shipping in February, 2011.</p><p>Additional details on this mic are forthcoming.</p><blockquote><p><cite>Audio Media, 2011-07</cite><br />The RN17 gives the user a clean sound in a way that is almost shocking. This does not hit you at first and you may even be tempted to think that they lack top end &#8212; but when you work these mics with a good EQ, you get to hear just how pure the output really is&#8230;</p><p>Those sparkling highs from some microphones that impress so easily on first listen can refuse to sit in the mix and may even start to &#8220;spit&#8221; when boosted. The RN17 sounds neutral and you might even think that it is without character &#8212; until you start to twiddle knobs and push faders. Then you get all the character you want.</p></blockquote><p><p>The <a href="//recordinghacks.com/microphones/SE-Electronics/sERN-17">SE Electronics sERN 17</a> is also known as: RN17.</p><p>The mic was released in 2010.</p>
+                    <h3>Specifications</h3>
+                    <table><tr><th>Compatible Capsules</th></tr><tr><td><table style="width: 440px">                        <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00291/00291_75.jpg" width="75" height="75" alt="SE Electronics sERN 17 Bidirectional" title="SE Electronics sERN 17 Bidirectional"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap6713" src="//cdn.recordinghacks.com/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ></span>
+                        <strong>SE Electronics sERN 17 Bidirectional</strong><br />
+                        Bidirectional capsule<br />
+                        Sensitivity:  mV/Pa<br />
+                        Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: n/a | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00287/00287_75.jpg" width="75" height="75" alt="SE Electronics sERN 17 Cardioid" title="SE Electronics sERN 17 Cardioid"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap6714" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>SE Electronics sERN 17 Cardioid</strong><br />
+                        Cardioid capsule<br />
+                        Sensitivity:  mV/Pa<br />
+                        <span class="shaft" id="anchor6714"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show6714">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: n/a | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00289/00289_75.jpg" width="75" height="75" alt="SE Electronics sERN 17 Hypercardioid" title="SE Electronics sERN 17 Hypercardioid"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap6715" src="//cdn.recordinghacks.com/images/icons/patterns/icon_hc.png" width=27 height=27 alt="Hypercardioid" title="Hypercardioid" ></span>
+                        <strong>SE Electronics sERN 17 Hypercardioid</strong><br />
+                        Hypercardioid capsule<br />
+                        Sensitivity:  mV/Pa<br />
+                        Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: n/a | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00290/00290_75.jpg" width="75" height="75" alt="SE Electronics sERN 17 Omnidirectional" title="SE Electronics sERN 17 Omnidirectional"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap6716" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ></span>
+                        <strong>SE Electronics sERN 17 Omnidirectional</strong><br />
+                        Omnidirectional capsule<br />
+                        Sensitivity:  mV/Pa<br />
+                        Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: n/a | Still In Production</li>
+                        </td></tr>
+                    </table></td></tr></table>
+                    <table>
+                        <tr>
+                            <th>Pads &amp; Filters</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>n/a                                
+                                </td>
+                            <td>n/a</td>
+                            <td>                                </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>n/a</em></td>
+                            <td>n/a</td>
+                            <td>n/a</td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                        <li>Requires phantom power </li>
+                                                                                                                                                                                <li>Phantom voltage: 48v</li>
+                                        </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+             
+<script type="text/javascript">
+        YAHOO.namespace("freq");
+
+        function init_freq_graphs() {
+
+            YAHOO.freq.chartPanel6714 = new YAHOO.widget.Panel("chartPanel6714",  {  context:["anchor6714", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel6714.render();
+
+                
+            YAHOO.freq.manager = new YAHOO.widget.OverlayManager(); 
+            YAHOO.freq.manager.register([YAHOO.freq.chartPanel6714,
+                                                   ]);
+
+          
+            YAHOO.util.Event.addListener("show6714", "click", YAHOO.freq.chartPanel6714.show, YAHOO.freq.chartPanel6714, true);
+            YAHOO.util.Event.addListener("hide6714", "click", YAHOO.freq.chartPanel6714.hide, YAHOO.freq.chartPanel6714, true);
+            YAHOO.util.Event.addListener("focus6714", "click", YAHOO.freq.chartPanel6714.focus, YAHOO.freq.chartPanel6714, true);
+
+            
+    
+        }
+        YAHOO.util.Event.addListener(window, "load", init_freq_graphs);
+</script>
+
+
+<div id="chartPanel6714" style="visibility:hidden">
+    <div class="hd"><span>SE Electronics sERN 17 Frequency Chart: Cardioid</span></div>
+    <div class="bd">
+    <img name="graph6714" src="http://www.seelectronics.com/images/RN17_chart.jpg" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('1093-0');uniqueids.push('1093-1');uniqueids.push('1093-2');uniqueids.push('1093-3');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

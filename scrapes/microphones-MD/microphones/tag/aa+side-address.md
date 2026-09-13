@@ -1,0 +1,5 @@
+## Mics tagged: aa AND side-address
+
+|  |  |
+| --- | --- |
+| [Audio-Technica ATR6250](http://recordinghacks.com/microphones/Audio-Technica/ATR6250 "Audio-Technica ATR6250 - Features, Specifications, Datasheet") | X/Y Stereo  [**Audio-Technica ATR6250**](/microphones/Audio-Technica/ATR6250 "Audio-Technica ATR6250 - Features, Specifications, Datasheet")  X/Y Stereo Condenser Microphone  [side-address](//recordinghacks.com/microphones/tag/side-address "side-address microphones"), [stereo](//recordinghacks.com/microphones/tag/stereo "stereo microphones"), [dual-capsule](//recordinghacks.com/microphones/tag/dual-capsule "dual-capsule microphones"), [xy-stereo](//recordinghacks.com/microphones/tag/xy-stereo "xy-stereo microphones"), [battery-power](//recordinghacks.com/microphones/tag/battery-power "battery-power microphones"), [aa](//recordinghacks.com/microphones/tag/aa "aa microphones"), [video-camera](//recordinghacks.com/microphones/tag/video-camera "video-camera microphones") |

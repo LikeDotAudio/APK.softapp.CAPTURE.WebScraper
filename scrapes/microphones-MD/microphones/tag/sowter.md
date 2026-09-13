@@ -1,0 +1,5 @@
+## Mics tagged: sowter
+
+|  |  |
+| --- | --- |
+| [ADK Z-12](http://recordinghacks.com/microphones/ADK/z-12 "ADK Z-12 - Features, Specifications, Datasheet") | 9 polar patterns [**ADK Z-12**](/microphones/ADK/z-12 "ADK Z-12 - Features, Specifications, Datasheet")  Multi-Pattern Tube Condenser Microphone  [side-address](//recordinghacks.com/microphones/tag/side-address "side-address microphones"), [tube](//recordinghacks.com/microphones/tag/tube "tube microphones"), [multipattern](//recordinghacks.com/microphones/tag/multipattern "multipattern microphones"), [transformer-coupled](//recordinghacks.com/microphones/tag/transformer-coupled "transformer-coupled microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [sowter](//recordinghacks.com/microphones/tag/sowter "sowter microphones") |

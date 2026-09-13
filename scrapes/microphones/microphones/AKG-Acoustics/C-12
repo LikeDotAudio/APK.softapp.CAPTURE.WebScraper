@@ -1,0 +1,279 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>AKG Acoustics C 12 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="C 12, Multi-Pattern Tube Condenser Microphone , aka: C12 - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/AKG-Acoustics/C-12" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The ElaM 251 and C12 share a CK12 capsule and have similar circuits; both were made by AKG." href="//recordinghacks.com/microphones/Telefunken/ElaM-251"><img src="//cdn.recordinghacks.com/images/mics/00854/00854_75.jpg" width="75" height="75" alt="The ElaM 251 and C12 share a CK12 capsule and have similar circuits; both were made by AKG." title="The ElaM 251 and C12 share a CK12 capsule and have similar circuits; both were made by AKG."   ><br /><span>Telefunken Ela M 251</span></a></li>
+                                                    <li class="mictile"><a title="The Wunder CM12 is a modern recreation of the AKG C12." href="//recordinghacks.com/microphones/Wunder-Audio/CM12"><img src="//cdn.recordinghacks.com/images/mics/00430/00430_75.jpg" width="75" height="75" alt="The Wunder CM12 is a modern recreation of the AKG C12." title="The Wunder CM12 is a modern recreation of the AKG C12."   ><br /><span>Wunder Audio CM12</span></a></li>
+                                                    <li class="mictile"><a title="The Peluso P12 is a modern recreation of the AKG C12." href="//recordinghacks.com/microphones/Peluso-Microphone-Lab/P12"><img src="//cdn.recordinghacks.com/images/mics/00900/00900_75.jpg" width="75" height="75" alt="The Peluso P12 is a modern recreation of the AKG C12." title="The Peluso P12 is a modern recreation of the AKG C12."   ><br /><span>Peluso P12</span></a></li>
+                                                    <li class="mictile"><a title="The Advanced Audio CM12 is a modern recreation of the AKG C12." href="//recordinghacks.com/microphones/Advanced-Audio-Microphones/CM-12"><img src="//cdn.recordinghacks.com/images/mics/00494/00494_75.jpg" width="75" height="75" alt="The Advanced Audio CM12 is a modern recreation of the AKG C12." title="The Advanced Audio CM12 is a modern recreation of the AKG C12."   ><br /><span>Advanced Audio CM-12</span></a></li>
+                                                    <li class="mictile"><a title="The Telefunken (USA) C-12 is a modern recreation of the AKG C12." href="//recordinghacks.com/microphones/Telefunken-USA/Ela-M12"><img src="//cdn.recordinghacks.com/images/mics/00857/00857_75.jpg" width="75" height="75" alt="The Telefunken (USA) C-12 is a modern recreation of the AKG C12." title="The Telefunken (USA) C-12 is a modern recreation of the AKG C12."   ><br /><span>Telefunken C-12</span></a></li>
+                                                    <li class="mictile"><a title="AKG&#8217;s C12VR is intended as a modern reproduction of the C12, although it differs significantly in components and sound." href="//recordinghacks.com/microphones/AKG-Acoustics/C-12-VR"><img src="//cdn.recordinghacks.com/images/mics/00272/00272_75.jpg" width="75" height="75" alt="AKG&#8217;s C12VR is intended as a modern reproduction of the C12, although it differs significantly in components and sound." title="AKG&#8217;s C12VR is intended as a modern reproduction of the C12, although it differs significantly in components and sound."   ><br /><span>AKG C 12 VR</span></a></li>
+                                                    <li class="mictile"><a title="The JZ V12 is intended as a sonic recreation of the AKG C12." href="//recordinghacks.com/microphones/JZ/Vintage-V12"><img src="//cdn.recordinghacks.com/images/mics/01143/01143_75.jpg" width="75" height="75" alt="The JZ V12 is intended as a sonic recreation of the AKG C12." title="The JZ V12 is intended as a sonic recreation of the AKG C12."   ><br /><span>JZ Vintage V12</span></a></li>
+                                                    <li class="mictile"><a title="The C12 CG is a modern remake of the AKG C12." href="//recordinghacks.com/microphones/Cathedral-Guitars/C12-CG"><img src="//cdn.recordinghacks.com/images/mics/01622/01622_75.jpg" width="75" height="75" alt="The C12 CG is a modern remake of the AKG C12." title="The C12 CG is a modern remake of the AKG C12."   ><br /><span>Cathedral Guitars C12 CG</span></a></li>
+                                                    <li class="mictile"><a title="The C12 CG is a modern remake of the AKG C12." href="//recordinghacks.com/microphones//"><img src="//cdn.recordinghacks.com/images/mics/00000/00000_75.jpg" width="75" height="75" alt="The C12 CG is a modern remake of the AKG C12." title="The C12 CG is a modern remake of the AKG C12."   ><br /><span> </span></a></li>
+                                                    <li class="mictile"><a title="Flea 12 is a replica of the original AKG C12" href="//recordinghacks.com/microphones/FLEA/FLEA-12"><img src="//cdn.recordinghacks.com/images/mics/01643/01643_75.jpg" width="75" height="75" alt="Flea 12 is a replica of the original AKG C12" title="Flea 12 is a replica of the original AKG C12"   ><br /><span>FLEA 12</span></a></li>
+                                                    <li class="mictile"><a title="The ADK Z-12 is a modern tribute to the vintage C12." href="//recordinghacks.com/microphones/ADK/z-12"><img src="//cdn.recordinghacks.com/images/mics/01844/01844_75.jpg" width="75" height="75" alt="The ADK Z-12 is a modern tribute to the vintage C12." title="The ADK Z-12 is a modern tribute to the vintage C12."   ><br /><span>ADK Z-12</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/AKG-Acoustics">AKG microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                            <a name="mods"></a><div class="graybox"><h3>Mods for the C 12</h3>
+                        <ul class="mod_list">
+                                                    <li style="font-family: Georgia, Serif;"><b>The Mic Shop</b><a href="//recordinghacks.com/microphones/MicShop"><img style="border: 0; padding: 0 0 6px 3px" src="//recordinghacks.com/images/logos/logo_micshop.jpg" height=75 width=75 alt="The Mic Shop" /></a>                            <br />Bill Bradley restores vintage mics in Nashville, TN.</li>
+                                                    <li style="font-family: Georgia, Serif;"><b>Hamptone</b><a href="//recordinghacks.com/microphones/Hamptone"><img style="border: 0; padding: 0 0 6px 3px" src="//recordinghacks.com/images/logos/logo_hamptone.jpg" height=75 width=75 alt="Hamptone" /></a>                            <br />Scott Hampton repairs vintage tube mics, especially those needing new power supplies. His mic repairs involve replacing and updating selected components, fine-tuning the circuitry, and restoration of the mic's original sonic character. He can also furnish a Hamptone second-generation Tube Mic Power Supply.</li>
+                                                </ul><br clear="all" />
+                    </div>            
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="AKG Acoustics C 12" href="/microphone-photo/00912/AKG-Acoustics/C-12.jpg"><img src="//cdn.recordinghacks.com/images/mics/00912/00912_172.jpg" width="172" height="84" alt="AKG Acoustics C 12" title="AKG Acoustics C 12" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: n/a</li>
+                                        <li id="none"><em>Discontinued</em></li>                    </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/side-address" alt="side-address microphones">side-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/large-diaphragm" alt="large-diaphragm microphones">large-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/tube" alt="tube microphones">tube</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/multipattern" alt="multipattern microphones">multipattern</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformer-coupled" alt="transformer-coupled microphones">transformer-coupled</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/6072" alt="6072 microphones">6072</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/ck12" alt="ck12 microphones">ck12</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/condenser" alt="condenser microphones">condenser</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/12ay7" alt="12ay7 microphones">12ay7</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/t14" alt="t14 microphones">t14</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://mixguides.com/microphones/vintage_products/audio_vintage_microphones_part_3/">Stephen Paul on the C12</a></li>
+                                                                </ul>                    
+                                        <h3>C 12 Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.coutant.org/akgc12/">C12 at Coutant.org</a></li>
+                                                                    <li id="image"><a rel="shadowbox" href="http://recordinghacks.com/images/mic_extras/akg/C12-schematic.jpg">C12/N12 Schematic</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/akg/C12-cabling.pdf">C12/S12/N12 Cabling Guide-AKG</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/akg/C12-catalog.pdf">AKG C12 Catalog (Eng/German)</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img src="//cdn.recordinghacks.com/images/icons/patterns/icon_9.png" id="912-0" width=27 height=27 alt="9 polar patterns" title="Cardioid, Omni, Figure 8, and six intermediate positions" ></span>AKG Acoustics C 12</h2>
+                    
+                    <h2 class="sub">                    Multi-Pattern Tube Condenser Microphone</h2>
+                    <p>AKG&#8217;s C12 is one of the best-known tube condenser microphones in history. It is a side-address, large-diaphragm design based on AKG&#8217;s CK12 capsule, a 6072 dual-triode glass tube, and a transformer-coupled output circuit.</p><p><a rel="shadowbox" href="http://www.saturn-sound.com/images%20-%20microphones/akg%20c12%20-%20inside.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/akg/C12-circuit-sm.jpg" class="thumb shaft" alt="AKG C12 Circuit" width="200" /></a>The C12 is the evolutionary source of several other significant mics, such as AKG&#8217;s 414 series and Telefunken&#8217;s Ela M 250/251. Numerous modern manufacturers have released tribute/recreation models claiming at least some degree of historical accuracy (see the Related Mics sidebar).</p><p>The original <a href="http://recordinghacks.com/microphones/tag/ck12">CK12 capsule</a> is widely considered to be one of the finest condenser microphone capsules in history. Although it evolved over time, as AKG changed diaphragm materials and weights (from 10-micron Styroflex to, eventually, 6-micron Mylar), and changed the size of the chamber between the backplates, the basic design remained the same: a dual-backplate large-diaphragm capsule with twin edge-terminated diaphragms.</p><p><img src="//cdn.recordinghacks.com/images/mic_extras/akg/N12.jpg" class="thumb shaft" width="200" alt="AKG N12 power supply and S12 switch box" />By varying the voltage and polarization of the two diaphragms, the user could alter the microphone&#8217;s directionality. The C12 could produce 9 different polar patterns. Curiously, the switch was found neither on the microphone body nor the power supply, but on a separate device called the S12, which plugged into the N12 power supply via a dedicated cable.</p><p><a rel="shadowbox" href="http://oldmics.cz/img/v/162_2.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/akg/C12-nose-sm.jpg" class="thumb shaft" alt="AKG C12" width="133" /></a>The AKG catalog boasted that the S12 could alter the mic&#8217;s polar pattern &#8220;without clicking or other disturbing noises [up]on switching,&#8221; and further that neither the mic&#8217;s sensitivity nor frequency response varied with the pattern.</p><p>The C12 shares a capsule, tube, and amplifier-circuit similarities with the Telefunken Ela M 251E, which was commissioned by Telefunken and built by AKG. But numerous differences between the two mics mean the two mics sound different:</p><ul><li>The amplifier circuits are not identical.</li><li>Pattern controls on the 251 were on the microphone body.</li><li>The tube in the 251 was inverted, reducing the possibility of signal loss and noise by reducing the length of the cable connection to the capsule.</li><li>The 251 case and headbasket were ~9mm larger in diameter, and the grille construction was different; these physical differences alters the frequency response and coloration of the capsule.</li></ul><p><a rel="shadowbox" href="http://www.saturn-sound.com/images%20-%20microphones/akg%20c12%20transformer%20types.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/akg/C12-transformers-sm.jpg" class="thumb shaft" alt="C12 Output Transformers" width="200" /></a>According to Saturn Sound, early C12s used a V2148 output transformer, which AKG soon replaced with a physically smaller design called the T14.</p><p>The C12 was discontinued in 1963, after a 10-year manufacturing run. Approximately 2500 C12 microphones were produced.</p><p>In 1994, AKG released the C 12 VR (Vintage Revival), presented as an &#8220;exact replica of the original C 12.&#8221; The mic uses a 6072 tube, and a capsule called a CK12, but has little else in common with the capsule, circuit, or sound of the original C12.<p>The <a href="//recordinghacks.com/microphones/AKG-Acoustics/C-12">AKG Acoustics C 12</a> is also known as: C12.</p><p>The mic was released in 1953.</p>
+                    <h3>Specifications</h3>
+                                        
+                    <table>
+                                                    <tr><th>Frequency Response - Omnidirectional<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/1197" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/1/1197.png" width=476 height=159 alt="C 12 Omnidirectional Frequency Response Chart" title="C 12 Omnidirectional Frequency Response Chart" border=0 /></td></tr>
+                                                        <tr><th>Frequency Response - Cardioid<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/1196" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/1/1196.png" width=476 height=159 alt="C 12 Cardioid Frequency Response Chart" title="C 12 Cardioid Frequency Response Chart" border=0 /></td></tr>
+                            </table>
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                                                                Omnidirectional
+                                             (10 mV/Pa; 30 - 15,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                                                            Cardioid
+                                             (10 mV/Pa; 30 - 15,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Capsule Dimensions</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                                                            Diameter n/a<br />
+                                                                                                                                                    </td>
+                            <td>200 Ohms <em class="mute">(Low)</em></td>
+                            <td>                                </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>560g <em class="mute">(19.75oz)</em></td>
+                            <td>255mm <em class="mute">(10.04&#39;&#39;)</em></td>
+                            <td>43mm <em class="mute">(1.69&#39;&#39;)</em></td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                                                                                                                <li>Includes tube power supply </li>
+                                                                                    </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('912-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

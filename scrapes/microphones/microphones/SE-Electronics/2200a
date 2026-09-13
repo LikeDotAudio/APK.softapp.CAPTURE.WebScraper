@@ -1,0 +1,271 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>SE Electronics 2200a | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="2200a, Cardioid Condenser Microphone , aka: sE2200a - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/SE-Electronics/2200a" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The sE2200T is a tube version of the sE2200A. Both mics use the same capsule." href="//recordinghacks.com/microphones/SE-Electronics/2200T"><img src="//cdn.recordinghacks.com/images/mics/00683/00683_75.jpg" width="75" height="75" alt="The sE2200T is a tube version of the sE2200A. Both mics use the same capsule." title="The sE2200T is a tube version of the sE2200A. Both mics use the same capsule."   ><br /><span>sE 2200T</span></a></li>
+                                                    <li class="mictile"><a title="The 4400a and 2200a share a basic capsule design (although the 4400a is a dual-diaphragm, multipattern mic)." href="//recordinghacks.com/microphones/SE-Electronics/4400a"><img src="//cdn.recordinghacks.com/images/mics/00703/00703_75.jpg" width="75" height="75" alt="The 4400a and 2200a share a basic capsule design (although the 4400a is a dual-diaphragm, multipattern mic)." title="The 4400a and 2200a share a basic capsule design (although the 4400a is a dual-diaphragm, multipattern mic)."   ><br /><span>sE 4400a</span></a></li>
+                                                    <li class="mictile"><a title="The USB2200a is a USB version of the 2200a." href="//recordinghacks.com/microphones/SE-Electronics/USB-2200a"><img src="//cdn.recordinghacks.com/images/mics/01028/01028_75.jpg" width="75" height="75" alt="The USB2200a is a USB version of the 2200a." title="The USB2200a is a USB version of the 2200a."   ><br /><span>sE USB2200a</span></a></li>
+                                                    <li class="mictile"><a title="The sE2000 and 2200a share a topology and sonic profile." href="//recordinghacks.com/microphones/SE-Electronics/sE2000-v2"><img src="//cdn.recordinghacks.com/images/mics/01187/01187_75.jpg" width="75" height="75" alt="The sE2000 and 2200a share a topology and sonic profile." title="The sE2000 and 2200a share a topology and sonic profile."   ><br /><span>sE sE2000</span></a></li>
+                                                    <li class="mictile"><a title="The sE 2200a mk2 is a multipattern version of the 2200a." href="//recordinghacks.com/microphones/SE-Electronics/2200a-II"><img src="//cdn.recordinghacks.com/images/mics/01291/01291_75.jpg" width="75" height="75" alt="The sE 2200a mk2 is a multipattern version of the 2200a." title="The sE 2200a mk2 is a multipattern version of the 2200a."   ><br /><span>sE sE2200a II</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/SE-Electronics">sE microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="SE Electronics 2200a" href="/microphone-photo/00663/SE-Electronics/2200a.jpg"><img src="//cdn.recordinghacks.com/images/mics/00663/00663_172.jpg" width="172" height="94" alt="SE Electronics 2200a" title="SE Electronics 2200a" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $399</li>
+                                        <li id="none"><em>Discontinued</em></li>                    </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/side-address" alt="side-address microphones">side-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/large-diaphragm" alt="large-diaphragm microphones">large-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformer-coupled" alt="transformer-coupled microphones">transformer-coupled</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/condenser" alt="condenser microphones">condenser</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.soundonsound.com/sos/jun06/articles/semini2200a.htm">SoundOnSound, 2006-06</a></li>
+                                                                    <li id="www"><a  href="http://www.proaudioreview.com/article/2594">ProAudioReview, 2008-01</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://www.seelectronics.com/revpdfs/sE2200a/FM_sE2200A_AWARD.pdf">Future Music #45</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://www.seelectronics.com/revpdfs/sE2200a/MTM_sE2200A.pdf">MusicTech, 2004-05</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://www.seelectronics.com/revpdfs/sE2200a/MusicMart_sE2200a_lr.pdf">MusicMart, 2004-07</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://www.seelectronics.com/revpdfs/sE2200a/Z2200A_Mixdown.pdf">Mixdown, 2005-02</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/reviews/tapeop/se-electronics-se2200a/">Tape Op Review (issue #48)</a></li>
+                                                                </ul>                    
+                                        <h3>2200a Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.seelectronics.com/sE2200a.html">sE2200a Product Description</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/se/SE2200A.pdf">sE2200a Data Sheet</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="663-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>SE Electronics 2200a</h2>
+                    
+                    <h2 class="sub">                    Cardioid Condenser Microphone</h2>
+                    <p>The sE2200A is a fixed-cardioid, large-diaphragm condenser mic; it is a revised version of the company&#8217;s model 2200, itself well-received as a decent, inexpensive, general-purpose LDC.</p><p>The single-diaphragm capsule measures 1&#39;&#39; in diameter.</p><p><em>How does the 2200a differ from the 2200?</em></p><ul><li>The 2200a uses more surface-mount components.</li><li>The body of the 2200a has been redesigned.</li><li>Mechanical resonances have been reduced.</li><li>HPF and pad switches have been improved.</li><li>The &#8220;full replacement&#8221; period of the warranty was doubled to 2 years for the 2200a.</li><li>The strength and finish quality of the shockmount have been improved.</li></ul><p></p><blockquote><p><cite>SoundOnSound</cite></p><p>the 2200A produces a noticeably smooth, comfortable sound, with a slightly fatter low end and well-defined, but silky-smooth highs. The 2200A&#8217;s frequency plot shows a gentle bass hump at the low end, matched by a very wide, shallow rise at the high end, giving the mic a slight &#8216;smile&#8217; characteristic that is both subtle and flattering.</p></blockquote><p>FutureMusic reports that the mic&#8217;s frequency response changes when the -10dB pad is engaged.</p><p>The 2200a ships with an elastic shockmount. Two packaging options are available (prices as of late 2011):</p><ul><li>With a flight case, $399</li><li>No flight case, $349</li></ul><p><p>The <a href="//recordinghacks.com/microphones/SE-Electronics/2200a">SE Electronics 2200a</a> is also known as: sE2200a.</p><p>The mic was released in 2004.</p>
+                    <h3>Specifications</h3>
+                                        
+                    <table>
+                                                    <tr><th>Frequency Response - Cardioid<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/0821" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/0/0821.png" width=476 height=159 alt="2200a Cardioid Frequency Response Chart" title="2200a Cardioid Frequency Response Chart" border=0 /></td></tr>
+                            </table>
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                                                                Cardioid
+                                             (14.1 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                    <li>Pad: -10dB<small> (Via Switch)</small></li>
+                                                                        <li>Filter: HPF (100Hz)<small> (Via Switch)</small></li>
+                                                                    </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Capsule Dimensions</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                                                                                                        Diaphragm diameter: 25mm<br />
+                                                                                                                                                                                                </td>
+                            <td>200 Ohms <em class="mute">(Low)</em></td>
+                            <td>Max SPL: 125 dB<br />                                </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>n/a</em></td>
+                            <td>178mm <em class="mute">(7.01&#39;&#39;)</em></td>
+                            <td>51mm <em class="mute">(2.01&#39;&#39;)</em></td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                        <li>Requires phantom power </li>
+                                                                                                                                                                                <li>Phantom voltage: 48 &plusmn; 4v</li>
+                                        </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('663-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

@@ -1,0 +1,5 @@
+## Mics tagged: 96-khz AND iphone
+
+|  |  |
+| --- | --- |
+| [RØDE iXY](http://recordinghacks.com/microphones/Rode/iXY "RØDE iXY - Features, Specifications, Datasheet") | X/Y Stereo  [**RØDE iXY**](/microphones/Rode/iXY "RØDE iXY - Features, Specifications, Datasheet")  X/Y Stereo Condenser Stereo Microphone  [electret](//recordinghacks.com/microphones/tag/electret "electret microphones"), [stereo](//recordinghacks.com/microphones/tag/stereo "stereo microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [xy-stereo](//recordinghacks.com/microphones/tag/xy-stereo "xy-stereo microphones"), [24-bit](//recordinghacks.com/microphones/tag/24-bit "24-bit microphones"), [96-khz](//recordinghacks.com/microphones/tag/96-khz "96-khz microphones"), [iphone](//recordinghacks.com/microphones/tag/iphone "iphone microphones") |

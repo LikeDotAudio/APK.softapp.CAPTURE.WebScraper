@@ -1,0 +1,5 @@
+## Mics tagged: 6j1p AND detachable-capsule
+
+|  |  |
+| --- | --- |
+| [Soyuz Microphones 017](http://recordinghacks.com/microphones/Soyuz/SU-017 "Soyuz Microphones 017 - Features, Specifications, Datasheet") | Cardioid  [**Soyuz Microphones 017**](/microphones/Soyuz/SU-017 "Soyuz Microphones 017 - Features, Specifications, Datasheet")  Cardioid Tube Condenser Microphone  [large-diaphragm](//recordinghacks.com/microphones/tag/large-diaphragm "large-diaphragm microphones"), [tube](//recordinghacks.com/microphones/tag/tube "tube microphones"), [k67](//recordinghacks.com/microphones/tag/k67 "k67 microphones"), [detachable-capsule](//recordinghacks.com/microphones/tag/detachable-capsule "detachable-capsule microphones"), [transformer-coupled](//recordinghacks.com/microphones/tag/transformer-coupled "transformer-coupled microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [hybrid-mic](//recordinghacks.com/microphones/tag/hybrid-mic "hybrid-mic microphones"), [6j1p](//recordinghacks.com/microphones/tag/6j1p "6j1p microphones") |

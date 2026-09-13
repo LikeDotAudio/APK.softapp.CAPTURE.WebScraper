@@ -1,0 +1,443 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Oktava MK-012-USB | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="MK-012-USB, Detachable-Capsule Condenser Microphone , aka: MK012 USB - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/Oktava/MK-012-USB" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The MK-012 and 012-USB share a preamp circuit design and many compatible capsules." href="//recordinghacks.com/microphones/Oktava/MK-012"><img src="//cdn.recordinghacks.com/images/mics/00447/00447_75.jpg" width="75" height="75" alt="The MK-012 and 012-USB share a preamp circuit design and many compatible capsules." title="The MK-012 and 012-USB share a preamp circuit design and many compatible capsules."   ><br /><span>Oktava MK-012</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/Oktava">Oktava microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Oktava MK-012-USB" href="/microphone-photo/00538/Oktava/MK-012-USB.jpg"><img src="//cdn.recordinghacks.com/images/mics/00538/00538_172.jpg" width="172" height="92" alt="Oktava MK-012-USB" title="Oktava MK-012-USB" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $125</li>
+                                                            </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/usb" alt="usb microphones">usb</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/detachable-capsule" alt="detachable-capsule microphones">detachable-capsule</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/condenser" alt="condenser microphones">condenser</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/16-bit" alt="16-bit microphones">16-bit</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/48-khz" alt="48-khz microphones">48-khz</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://recordinghacks.com/2008/07/17/oktava-mk012-capsules/">Michael Joly Capsule Review</a></li>
+                                                                </ul>                    
+                                        
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="538-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="538-1" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="538-2" src="//cdn.recordinghacks.com/images/icons/patterns/icon_hc.png" width=27 height=27 alt="Hypercardioid" title="Hypercardioid" ><img id="538-3" src="//cdn.recordinghacks.com/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ><img id="538-4" src="//cdn.recordinghacks.com/images/icons/patterns/icon_wc.png" width=27 height=27 alt="Wide Cardioid" title="Wide Cardioid" ></span>Oktava MK-012-USB</h2>
+                    
+                    <h2 class="sub">                    Detachable-Capsule Condenser Microphone</h2>
+                    <p>The MK-012-USB combines the FET preamp circuit of the famous <a href="http://recordinghacks.com/microphones/Oktava/MK-012">MK-012</a> with USB power and an A/D converter (16Bit/48kHz resolution). The mic preamp is compatible with most Oktava capsules; see below for a full list.</p><p>The 012-USB ships in a soft case with a USB cable. No capsules are included; the product appears to be targeted at MK-012 owners who seek the convenience of USB-powered recording, and who already own a selection of applicable capsules.<p>The <a href="//recordinghacks.com/microphones/Oktava/MK-012-USB">Oktava MK-012-USB</a> is also known as: MK012 USB.</p><p>The mic was released in 2008.</p>
+                    <h3>Specifications</h3>
+                    <table><tr><th>Compatible Capsules</th></tr><tr><td><table style="width: 440px">                        <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00137/00137_75.jpg" width="75" height="75" alt="Oktava MK-012 Cardioid" title="Oktava MK-012 Cardioid"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap6282" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>Oktava MK-012 Cardioid</strong><br />
+                        17.5mm Cardioid capsule<br />
+                        Sensitivity: 10 mV/Pa<br />
+                        <span class="shaft" id="anchor6282"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show6282">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $65 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00252/00252_75.jpg" width="75" height="75" alt="Oktava MK-012 Fig-8" title="Oktava MK-012 Fig-8"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap6283" src="//cdn.recordinghacks.com/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ></span>
+                        <strong>Oktava MK-012 Fig-8</strong><br />
+                        17.5mm Bidirectional capsule<br />
+                        Sensitivity: n/a mV/Pa<br />
+                        <span class="shaft" id="anchor6283"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show6283">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: n/a | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00143/00143_75.jpg" width="75" height="75" alt="Oktava MK-012 Fig-8 Adapter" title="Oktava MK-012 Fig-8 Adapter"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap6284" src="//cdn.recordinghacks.com/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ></span>
+                        <strong>Oktava MK-012 Fig-8 Adapter</strong><br />
+                        17.5mm Bidirectional capsule<br />
+                        Sensitivity: 8 mV/Pa<br />
+                        Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $395 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00139/00139_75.jpg" width="75" height="75" alt="Oktava MK-012 Hypercardioid" title="Oktava MK-012 Hypercardioid"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap6285" src="//cdn.recordinghacks.com/images/icons/patterns/icon_hc.png" width=27 height=27 alt="Hypercardioid" title="Hypercardioid" ></span>
+                        <strong>Oktava MK-012 Hypercardioid</strong><br />
+                        17.5mm Hypercardioid capsule<br />
+                        Sensitivity: 10 mV/Pa<br />
+                        <span class="shaft" id="anchor6285"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show6285">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $85 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00138/00138_75.jpg" width="75" height="75" alt="Oktava MK-012 Omni" title="Oktava MK-012 Omni"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap6286" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ></span>
+                        <strong>Oktava MK-012 Omni</strong><br />
+                        17.5mm Omnidirectional capsule<br />
+                        Sensitivity: 10 mV/Pa<br />
+                        <span class="shaft" id="anchor6286"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show6286">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $85 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00152/00152_75.jpg" width="75" height="75" alt="Oktava MK-101" title="Oktava MK-101"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap6287" src="//cdn.recordinghacks.com/images/icons/patterns/icon_wc.png" width=27 height=27 alt="Wide Cardioid" title="Wide Cardioid" ></span>
+                        <strong>Oktava MK-101</strong><br />
+                        26mm large diaphragm Wide Cardioid capsule<br />
+                        Sensitivity: 16 mV/Pa<br />
+                        <span class="shaft" id="anchor6287"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show6287">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $235 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00153/00153_75.jpg" width="75" height="75" alt="Oktava MK-102" title="Oktava MK-102"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap6288" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>Oktava MK-102</strong><br />
+                        27.5mm large diaphragm Cardioid capsule<br />
+                        Sensitivity: 16 mV/Pa<br />
+                        <span class="shaft" id="anchor6288"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show6288">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $279 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00167/00167_75.jpg" width="75" height="75" alt="Oktava MK-103" title="Oktava MK-103"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap6289" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>Oktava MK-103</strong><br />
+                        19.5mm Cardioid capsule<br />
+                        Sensitivity: 7 mV/Pa<br />
+                        <span class="shaft" id="anchor6289"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show6289">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $245 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00151/00151_75.jpg" width="75" height="75" alt="Oktava MK-104" title="Oktava MK-104"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap6290" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>Oktava MK-104</strong><br />
+                        27mm large diaphragm Cardioid capsule<br />
+                        Sensitivity: 9 mV/Pa<br />
+                        <span class="shaft" id="anchor6290"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show6290">CHART</button></span>Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $300 | Still In Production</li>
+                        </td></tr>
+                    </table></td></tr></table>
+                    <table>
+                        <tr>
+                            <th>Pads &amp; Filters</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>n/a                                
+                                </td>
+                            <td>n/a</td>
+                            <td>                                </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>n/a</em></td>
+                            <td>n/a</td>
+                            <td>n/a</td>
+                            <td><ul><li>USB (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                                                                                                                                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+             
+<script type="text/javascript">
+        YAHOO.namespace("freq");
+
+        function init_freq_graphs() {
+
+            YAHOO.freq.chartPanel6282 = new YAHOO.widget.Panel("chartPanel6282",  {  context:["anchor6282", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel6282.render();
+
+            YAHOO.freq.chartPanel6283 = new YAHOO.widget.Panel("chartPanel6283",  {  context:["anchor6283", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel6283.render();
+
+            YAHOO.freq.chartPanel6285 = new YAHOO.widget.Panel("chartPanel6285",  {  context:["anchor6285", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel6285.render();
+
+            YAHOO.freq.chartPanel6286 = new YAHOO.widget.Panel("chartPanel6286",  {  context:["anchor6286", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel6286.render();
+
+            YAHOO.freq.chartPanel6287 = new YAHOO.widget.Panel("chartPanel6287",  {  context:["anchor6287", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel6287.render();
+
+            YAHOO.freq.chartPanel6288 = new YAHOO.widget.Panel("chartPanel6288",  {  context:["anchor6288", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel6288.render();
+
+            YAHOO.freq.chartPanel6289 = new YAHOO.widget.Panel("chartPanel6289",  {  context:["anchor6289", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel6289.render();
+
+            YAHOO.freq.chartPanel6290 = new YAHOO.widget.Panel("chartPanel6290",  {  context:["anchor6290", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel6290.render();
+
+                
+            YAHOO.freq.manager = new YAHOO.widget.OverlayManager(); 
+            YAHOO.freq.manager.register([YAHOO.freq.chartPanel6282,
+                                                   YAHOO.freq.chartPanel6283,
+                                                   YAHOO.freq.chartPanel6285,
+                                                   YAHOO.freq.chartPanel6286,
+                                                   YAHOO.freq.chartPanel6287,
+                                                   YAHOO.freq.chartPanel6288,
+                                                   YAHOO.freq.chartPanel6289,
+                                                   YAHOO.freq.chartPanel6290,
+                                                   ]);
+
+          
+            YAHOO.util.Event.addListener("show6282", "click", YAHOO.freq.chartPanel6282.show, YAHOO.freq.chartPanel6282, true);
+            YAHOO.util.Event.addListener("hide6282", "click", YAHOO.freq.chartPanel6282.hide, YAHOO.freq.chartPanel6282, true);
+            YAHOO.util.Event.addListener("focus6282", "click", YAHOO.freq.chartPanel6282.focus, YAHOO.freq.chartPanel6282, true);
+
+          
+            YAHOO.util.Event.addListener("show6283", "click", YAHOO.freq.chartPanel6283.show, YAHOO.freq.chartPanel6283, true);
+            YAHOO.util.Event.addListener("hide6283", "click", YAHOO.freq.chartPanel6283.hide, YAHOO.freq.chartPanel6283, true);
+            YAHOO.util.Event.addListener("focus6283", "click", YAHOO.freq.chartPanel6283.focus, YAHOO.freq.chartPanel6283, true);
+
+          
+            YAHOO.util.Event.addListener("show6285", "click", YAHOO.freq.chartPanel6285.show, YAHOO.freq.chartPanel6285, true);
+            YAHOO.util.Event.addListener("hide6285", "click", YAHOO.freq.chartPanel6285.hide, YAHOO.freq.chartPanel6285, true);
+            YAHOO.util.Event.addListener("focus6285", "click", YAHOO.freq.chartPanel6285.focus, YAHOO.freq.chartPanel6285, true);
+
+          
+            YAHOO.util.Event.addListener("show6286", "click", YAHOO.freq.chartPanel6286.show, YAHOO.freq.chartPanel6286, true);
+            YAHOO.util.Event.addListener("hide6286", "click", YAHOO.freq.chartPanel6286.hide, YAHOO.freq.chartPanel6286, true);
+            YAHOO.util.Event.addListener("focus6286", "click", YAHOO.freq.chartPanel6286.focus, YAHOO.freq.chartPanel6286, true);
+
+          
+            YAHOO.util.Event.addListener("show6287", "click", YAHOO.freq.chartPanel6287.show, YAHOO.freq.chartPanel6287, true);
+            YAHOO.util.Event.addListener("hide6287", "click", YAHOO.freq.chartPanel6287.hide, YAHOO.freq.chartPanel6287, true);
+            YAHOO.util.Event.addListener("focus6287", "click", YAHOO.freq.chartPanel6287.focus, YAHOO.freq.chartPanel6287, true);
+
+          
+            YAHOO.util.Event.addListener("show6288", "click", YAHOO.freq.chartPanel6288.show, YAHOO.freq.chartPanel6288, true);
+            YAHOO.util.Event.addListener("hide6288", "click", YAHOO.freq.chartPanel6288.hide, YAHOO.freq.chartPanel6288, true);
+            YAHOO.util.Event.addListener("focus6288", "click", YAHOO.freq.chartPanel6288.focus, YAHOO.freq.chartPanel6288, true);
+
+          
+            YAHOO.util.Event.addListener("show6289", "click", YAHOO.freq.chartPanel6289.show, YAHOO.freq.chartPanel6289, true);
+            YAHOO.util.Event.addListener("hide6289", "click", YAHOO.freq.chartPanel6289.hide, YAHOO.freq.chartPanel6289, true);
+            YAHOO.util.Event.addListener("focus6289", "click", YAHOO.freq.chartPanel6289.focus, YAHOO.freq.chartPanel6289, true);
+
+          
+            YAHOO.util.Event.addListener("show6290", "click", YAHOO.freq.chartPanel6290.show, YAHOO.freq.chartPanel6290, true);
+            YAHOO.util.Event.addListener("hide6290", "click", YAHOO.freq.chartPanel6290.hide, YAHOO.freq.chartPanel6290, true);
+            YAHOO.util.Event.addListener("focus6290", "click", YAHOO.freq.chartPanel6290.focus, YAHOO.freq.chartPanel6290, true);
+
+            
+    
+        }
+        YAHOO.util.Event.addListener(window, "load", init_freq_graphs);
+</script>
+
+
+<div id="chartPanel6282" style="visibility:hidden">
+    <div class="hd"><span>Oktava MK-012-USB Frequency Chart: Cardioid</span></div>
+    <div class="bd">
+    <img name="graph6282" src="http://www.oktava-online.com/mk012card.gif" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel6283" style="visibility:hidden">
+    <div class="hd"><span>Oktava MK-012-USB Frequency Chart: Bidirectional</span></div>
+    <div class="bd">
+    <img name="graph6283" src="http://recordinghacks.com/images/graphs/oktava/fig8capsule.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel6285" style="visibility:hidden">
+    <div class="hd"><span>Oktava MK-012-USB Frequency Chart: Hypercardioid</span></div>
+    <div class="bd">
+    <img name="graph6285" src="http://www.oktava-online.com/mk012hiper.gif" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel6286" style="visibility:hidden">
+    <div class="hd"><span>Oktava MK-012-USB Frequency Chart: Omnidirectional</span></div>
+    <div class="bd">
+    <img name="graph6286" src="http://www.oktava-online.com/mk012krug.gif" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel6287" style="visibility:hidden">
+    <div class="hd"><span>Oktava MK-012-USB Frequency Chart: Wide Cardioid</span></div>
+    <div class="bd">
+    <img name="graph6287" src="http://www.oktava-online.com/fr101.gif" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel6288" style="visibility:hidden">
+    <div class="hd"><span>Oktava MK-012-USB Frequency Chart: Cardioid</span></div>
+    <div class="bd">
+    <img name="graph6288" src="http://www.oktava-online.com/fr102.gif" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel6289" style="visibility:hidden">
+    <div class="hd"><span>Oktava MK-012-USB Frequency Chart: Cardioid</span></div>
+    <div class="bd">
+    <img name="graph6289" src="http://www.oktava-online.com/fr103.gif" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel6290" style="visibility:hidden">
+    <div class="hd"><span>Oktava MK-012-USB Frequency Chart: Cardioid</span></div>
+    <div class="bd">
+    <img name="graph6290" src="http://www.oktava-online.com/fr104.gif" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('538-0');uniqueids.push('538-1');uniqueids.push('538-2');uniqueids.push('538-3');uniqueids.push('538-4');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

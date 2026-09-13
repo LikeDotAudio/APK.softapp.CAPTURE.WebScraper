@@ -1,0 +1,262 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Sennheiser Electronics Corporation MD 421-II | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="MD 421-II, Cardioid Dynamic Microphone , aka: 421, MD421, MD421II - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/Sennheiser/MD-421" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Sennheiser Electronics Corporation MD 421-II" href="/microphone-photo/00467/Sennheiser/MD-421.jpg"><img src="//cdn.recordinghacks.com/images/mics/00467/00467_172.jpg" width="172" height="86" alt="Sennheiser Electronics Corporation MD 421-II" title="Sennheiser Electronics Corporation MD 421-II" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $598</li>
+                                                            </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/dynamic" alt="dynamic microphones">dynamic</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/end-address" alt="end-address microphones">end-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/kick-drum" alt="kick-drum microphones">kick-drum</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/hpf" alt="hpf microphones">hpf</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/broadcast" alt="broadcast microphones">broadcast</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.soundonsound.com/sos/Nov02/articles/qa1102.asp#Anchor-41949">MD 421 vs. MD 421-II, SOS 2002</a></li>
+                                                                    <li id="forum"><a  href="http://groups.google.com/group/rec.audio.pro/msg/239c2b5c75c928b4">Scott Dorsey on 421 Mk. II</a></li>
+                                                                    <li id="forum"><a  href="http://recforums.prosoundweb.com/index.php/t/27542/18521/">Old vs. new capsule mounting</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/2011/06/02/ultimate-podcast-mic-shootout/">Ultimate Podcast Mic Shootout</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/2012/06/08/kick-drum-mic-shootout/">Kick Drum Mic Shootout</a></li>
+                                                                </ul>                    
+                                        <h3>MD 421-II Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.sennheiser.com/sennheiser/home_en.nsf/root/professional_wired-microphones_vocal-microphones_classic-dynamic_000984">MD 421-II Product Description</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/sennheiser/MD_421_II_GB.pdf">MD 421 Data Sheet</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/sennheiser/MD421II_bda.pdf">MD 421 User Guide</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/sennheiser/md421ii.pdf">USA data sheet</a></li>
+                                                                    <li id="www"><a  href="http://www.sennheiserusa.com/newsite/productdetail.asp?transid=005334">MD 421 SE Product Description</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="467-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>Sennheiser Electronics Corporation MD 421-II</h2>
+                    
+                    <h2 class="sub">                    Cardioid Dynamic Microphone</h2>
+                    <p>Truly a classic microphone, the MD 421 has been a fixture in recording studios since its introduction in 1960.</p><p>The MD421 has a 5-position bass roll-off switch. The switch is not marked with specific frequencies or amounts (dB) of cut. The &#8220;flat&#8221; position is marked M for Music; the other extreme is marked &#8220;S&#8221; for Speech, and cuts the low end by approximately 6dB below 500 Hz. Three intermediate positions are provided. </p><p>The &#8220;Mk. II&#8221; edition was created in 2002. Hugh Robjohns of SoundOnSound researched the difference. In essence, the Mk. II was designed to sound the same as the original, but to cost less to manufacture. </p><p>Nonetheless, mic authority Scott Dorsey has said:</p><blockquote><p>The only audible differences I know of are between the older units and the newer Mk. II. <a href="http://groups.google.com/group/rec.audio.pro/msg/239c2b5c75c928b4" rel="nofollow">The Mk. II has a very different sound with a presence boost added that I don&#8217;t much like.</a></p></blockquote><p></p><blockquote><p><cite>Sennheiser, 2010</cite></p><p> Significant upgrades incorporated into the MD 421 II include a metal inner chassis for better weight distribution and, with the contour-fitted bass roll-off control, a shorter, sleeker housing. The glass composite housing and hardened stainless steel basket afford improved durability. With the acoustic components now enclosed in the inner chassis the mic is less sensitive to dust and humidity. Servicing is also easier with the new design, since individual components can be more easily replaced and self-sealing acoustic connections mean that adhesives and sealing compounds are no longer required.</p></blockquote><p><img src="//cdn.recordinghacks.com/images/mic_extras/MD421SE.jpg" width="200" class="full shaft" />A special edition of the mic, called the MD 421 SE, was released to celebrate the 90th birthday of company founder Dr. Fritz Sennheiser. Visually distinctive with a gold-plated grille, the mic was available in a limited production run of 990 units, and shipped in a wooden case with a signed certificate of authenticity. Curiously, this mic cost only $650, not significantly more than the MSRP on the Mk. II version of the microphone. Also worth noting is that the SE was claimed to &#8220;sonically recapture the original 1960s mic design,&#8221; suggesting that it lacks the presence peak that Scott Dorsey hears in the Mk. II edition.</p><p>Additional models of the MD421:</p><ul><li><b>MD421 N</b> - 3-pin DIN 41524 connector. Has HPF.</li><li><b>MD421-2</b> - 3-pin Tuchel plug. No HPF.</li><li><b>MD421-U</b> - XLR adaptor, HPF.</li><li>MD 421-U-4 - has adapter for 3/8-inch threads</li><li>MD 421-U-5 - has adapter for 5/8-inch x 27G threads</li></ul><p>The MD 421 was inducted into the TEC Hall of Fame in 2011, following the mic&#8217;s 50th anniversary celebration in 2010. At the time of the TEC announcement, Sennheiser revealed that over 500,000 MD-421/MD-421-II microphones had been sold.<p>The <a href="//recordinghacks.com/microphones/Sennheiser/MD-421">Sennheiser Electronics Corporation MD 421-II</a> is also known as: 421, MD421, MD421II.</p><p>The mic was released in 1960.</p>
+                    <h3>Specifications</h3>
+                                        
+                    <table>
+                                                    <tr><th>Frequency Response - Cardioid<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/0552" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/0/0552.png" width=476 height=159 alt="MD 421-II Cardioid Frequency Response Chart" title="MD 421-II Cardioid Frequency Response Chart" border=0 /></td></tr>
+                            </table>
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                                                                Cardioid
+                                             (2 mV/Pa; 30 - 17,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                    <li>Filter: M: flat<small> (Via Switch)</small></li>
+                                                                        <li>Filter: HPF position 2<small> (Via Switch)</small></li>
+                                                                        <li>Filter: HPF position 3<small> (Via Switch)</small></li>
+                                                                        <li>Filter: HPF position 4<small> (Via Switch)</small></li>
+                                                                        <li>Filter: S: -6dB @ 500Hz<small> (Via Switch)</small></li>
+                                                                    </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Coil Diameter</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                    n/a                                </td>
+                            <td>200 Ohms <em class="mute">(Low)</em></td>
+                            <td><a href="/2008/02/26/maximum-spl-of-dynamic-microphones/">SPL n/a</a><br />                                </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>385g <em class="mute">(13.58oz)</em></td>
+                            <td>215mm <em class="mute">(8.46&#39;&#39;)</em></td>
+                            <td>49mm <em class="mute">(1.93&#39;&#39;)</em></td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                                                                                                                                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('467-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

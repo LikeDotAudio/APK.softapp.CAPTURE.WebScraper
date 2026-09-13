@@ -1,0 +1,34 @@
+{
+"$id": "https://www.amwa.tv/event\_and\_tally/type\_number.json",
+"$schema": "http://json-schema.org/draft-04/schema#",
+"type": "object",
+"description": "Type definition for the number type",
+"title": "Number Type",
+"additionalProperties": false,
+"required": [
+"type",
+"min",
+"max"
+],
+"properties": {
+"type": {
+"description": "Base type name",
+"type": "string",
+"enum": [
+"number"
+]
+},
+"scale": {
+"description": "Denominator typically used for rational numbers in the event payload",
+"type": "integer",
+"minimum": 1
+},
+"min": { "$ref": "number.json" },
+"max": { "$ref": "number.json" },
+"step": { "$ref": "number.json" },
+"unit": {
+"description": "Unit of measure",
+"type": "string"
+}
+}
+}

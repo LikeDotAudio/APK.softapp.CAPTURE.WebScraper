@@ -1,0 +1,5 @@
+## Mics tagged: 96-khz AND made-in-usa
+
+|  |  |
+| --- | --- |
+| [Apogee Electronics MiC 96k](http://recordinghacks.com/microphones/Apogee/MiC-96k "Apogee Electronics MiC 96k - Features, Specifications, Datasheet") | Cardioid  [**Apogee Electronics MiC 96k**](/microphones/Apogee/MiC-96k "Apogee Electronics MiC 96k - Features, Specifications, Datasheet")  Cardioid Condenser Microphone  [usb](//recordinghacks.com/microphones/tag/usb "usb microphones"), [side-address](//recordinghacks.com/microphones/tag/side-address "side-address microphones"), [transformerless](//recordinghacks.com/microphones/tag/transformerless "transformerless microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [24-bit](//recordinghacks.com/microphones/tag/24-bit "24-bit microphones"), [96-khz](//recordinghacks.com/microphones/tag/96-khz "96-khz microphones"), [made-in-usa](//recordinghacks.com/microphones/tag/made-in-usa "made-in-usa microphones") |

@@ -1,0 +1,5 @@
+## Mics tagged: 6502 AND side-address
+
+|  |  |
+| --- | --- |
+| [Sterling Audio ST66 Tube](http://recordinghacks.com/microphones/Sterling/ST66 "Sterling Audio ST66 Tube - Features, Specifications, Datasheet") | Cardioid  [**Sterling Audio ST66 Tube**](/microphones/Sterling/ST66 "Sterling Audio ST66 Tube - Features, Specifications, Datasheet")  Cardioid Tube Condenser Microphone  [side-address](//recordinghacks.com/microphones/tag/side-address "side-address microphones"), [tube](//recordinghacks.com/microphones/tag/tube "tube microphones"), [transformer-coupled](//recordinghacks.com/microphones/tag/transformer-coupled "transformer-coupled microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [class-a](//recordinghacks.com/microphones/tag/class-a "class-a microphones"), [disk-resonator](//recordinghacks.com/microphones/tag/disk-resonator "disk-resonator microphones"), [6502](//recordinghacks.com/microphones/tag/6502 "6502 microphones") |

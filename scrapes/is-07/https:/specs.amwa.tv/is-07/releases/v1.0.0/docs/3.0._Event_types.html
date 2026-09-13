@@ -1,0 +1,846 @@
+<!DOCTYPE html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Event types | is-07</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="Event types" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="AMWA IS-07 NMOS Event &amp; Tally Specification" />
+<meta property="og:description" content="AMWA IS-07 NMOS Event &amp; Tally Specification" />
+<meta property="og:site_name" content="is-07" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Event types" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"AMWA IS-07 NMOS Event &amp; Tally Specification","headline":"Event types","url":"/is-07/releases/v1.0.0/docs/3.0._Event_types.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/is-07/assets/css/style.css?v=">
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body adaptive-width">
+
+      <div id="logo-banner" class="adaptive-width">
+          
+              <a href="https://specs.amwa.tv/nmos"><img id="nmos-logo" src="/is-07/assets/images/NMOS-logo.png" alt="NMOS logo"/></a>
+              <span id="title">Networked Media Open Specifications</span>
+              <a href="https://www.amwa.tv/"><img id="from-amwa-logo" src="/is-07/assets/images/from-AMWA-logo.png" target="_blank" alt="from AMWA logo"/></a>
+
+          
+      </div>
+
+        <div id="menu-header" class="header adaptive-width">
+
+        
+
+        
+          <span class="dropdown">DOCS
+	<div class="dropdown-content">
+		<p><b>Docs for v1.0.1</b></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/docs/1.0._Overview.html">Overview</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/docs/2.0._Message_types.html">Message types</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/docs/3.0._Event_types.html">Event types</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/docs/4.0._Core_models.html">Core models</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/docs/5.0._Transports.html">Transports</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/docs/5.1._Transport_-_MQTT.html">Transport - MQTT</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/docs/5.2._Transport_-_Websocket.html">Transport - Websocket</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/docs/6.0._Event_and_tally_rest_api.html">Event and tally rest api</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/docs/7.0._Measurement_units_guidelines.html">Measurement units guidelines</a></p>
+		
+	</div>
+</span>
+ 
+        
+        
+          <span class="dropdown-3">APIS
+	<div class="dropdown-3-content"> 
+		<p><b>RAML APIs for v1.0.1</b></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/EventsAPI.html">Events API</a></p>
+		
+		<p><b>JSON Schemas for v1.0.1</b></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/base.html">base</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/command.html">command</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/command_health.html">command_health</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/command_subscription.html">command_subscription</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/error.html">error</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/event.html">event</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/event_boolean.html">event_boolean</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/event_core.html">event_core</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/event_number.html">event_number</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/event_object.html">event_object</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/event_string.html">event_string</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/message.html">message</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/message_connection_status.html">message_connection_status</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/message_health.html">message_health</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/message_shutdown_reboot.html">message_shutdown_reboot</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/number.html">number</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/receiver_transport_params_ext.html">receiver_transport_params_ext</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/sender_transport_params_ext.html">sender_transport_params_ext</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/source.html">source</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/sources.html">sources</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/type.html">type</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/type_boolean.html">type_boolean</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/type_boolean_enum.html">type_boolean_enum</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/type_number.html">type_number</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/type_number_enum.html">type_number_enum</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/type_string.html">type_string</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/type_string_enum.html">type_string_enum</a></p>
+		
+	</div>
+</span>
+
+        
+        
+          <span class="dropdown-3">EXAMPLES
+	<div class="dropdown-3-content"> 
+		<p><b>JSON Examples for v1.0.1</b></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/connection-status-message.html">connection-status-message</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/connectionapi-v1.1-receiver-active-get-mqtt-200.html">connectionapi-v1.1-receiver-active-get-mqtt-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/connectionapi-v1.1-receiver-active-get-websocket-200.html">connectionapi-v1.1-receiver-active-get-websocket-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/connectionapi-v1.1-sender-active-get-mqtt-200.html">connectionapi-v1.1-sender-active-get-mqtt-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/connectionapi-v1.1-sender-active-get-websocket-200.html">connectionapi-v1.1-sender-active-get-websocket-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-base-get-200.html">eventsapi-base-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-sourceid-get-200.html">eventsapi-sourceid-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-sources-get-200.html">eventsapi-sources-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-state-boolean-get-200.html">eventsapi-state-boolean-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-state-number-get-200.html">eventsapi-state-number-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-state-number-measurement-get-200.html">eventsapi-state-number-measurement-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-state-number-rational-get-200.html">eventsapi-state-number-rational-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-state-string-get-200.html">eventsapi-state-string-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-type-boolean-enum-get-200.html">eventsapi-type-boolean-enum-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-type-boolean-get-200.html">eventsapi-type-boolean-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-type-number-enum-get-200.html">eventsapi-type-number-enum-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-type-number-get-200.html">eventsapi-type-number-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-type-number-measurement-get-200.html">eventsapi-type-number-measurement-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-type-string-enum-get-200.html">eventsapi-type-string-enum-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-type-string-get-200.html">eventsapi-type-string-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/health-command.html">health-command</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/health-message.html">health-message</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/reboot-message.html">reboot-message</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/shutdown-message.html">shutdown-message</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/subscription-command.html">subscription-command</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/subscription-unsubscribe-command.html">subscription-unsubscribe-command</a></p>
+		
+	</div>
+</span>
+
+        
+        
+          <span class="dropdown">VERSIONS
+	<div class="dropdown-content"> 
+		<p><b>Branches</b></p>
+		
+		
+			<p><a href="/is-07/branches/v1.0.x">v1.0.x</a></p>
+		
+		
+			<p><b>Releases</b></p>
+			
+			
+				<p><a href="/is-07/releases/v1.0.1">v1.0.1</a></p>
+			
+				<p><a href="/is-07/releases/v1.0.0">v1.0.0</a></p>
+			
+		
+	</div>
+</span>
+
+        
+        
+          <span class="dropdown">IS
+	<div class="dropdown-content">
+		<p><b>Interface Specifications</b></p>
+		
+		
+			<p><a href="https://specs.amwa.tv/is-04">IS-04: Discovery & Registration</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-05">IS-05: Device Connection Management</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-07">IS-07: Event & Tally</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-08">IS-08: Audio Channel Mapping</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-09">IS-09: System Parameters</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-10">IS-10: Authorization</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-11">IS-11: Stream Compatibility Management</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-12">IS-12: Control Protocol</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-13">IS-13: Annotation</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-14">IS-14: Device Configuration</a></p>
+		
+	 </div>
+</span>
+          <span class="dropdown">BCP
+	<div class="dropdown-content">
+		<p><b>Best Common Practices</b></p>
+		
+		
+			<p><a href="https://specs.amwa.tv/bcp-002-01">BCP-002-01: Natural Grouping</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-002-02">BCP-002-02: Asset Distinguishing Information</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-003-01">BCP-003-01: Secure Communications in NMOS Systems</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-003-02">BCP-003-02: Authorization in NMOS Systems</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-003-03">BCP-003-03: Certificate Provisioning in NMOS Systems</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-004-01">BCP-004-01: Receiver Capabilities</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-005-01">BCP-005-01: EDID to Receiver Capabilities Mapping</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-006-01">BCP-006-01: NMOS With JPEG XS</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-006-02">BCP-006-02: NMOS With H.264</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-006-03">BCP-006-03: NMOS With H.265</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-007-01">BCP-007-01: NMOS With NDI</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-008-01">BCP-008-01: NMOS Receiver Status</a></p>
+		
+	 </div>
+</span>
+          <span class="dropdown">MS
+	<div class="dropdown-content">
+		<p><b>Data Model Specifications</b></p>
+		
+		
+			<p><a href="https://specs.amwa.tv/ms-04">MS-04: ID & Timing Model</a></p>
+		
+			<p><a href="https://specs.amwa.tv/ms-05-01">MS-05-01: NMOS Control Architecture</a></p>
+		
+			<p><a href="https://specs.amwa.tv/ms-05-02">MS-05-02: AMWA NMOS Control Framework</a></p>
+		
+			<p><a href="https://specs.amwa.tv/ms-05-03">MS-05-03: AMWA NMOS Control Block Specs</a></p>
+		
+	 </div>
+</span>
+          <span class="dropdown">INFO
+	<div class="dropdown-content">
+		<p><b>Informative Documents</b></p>
+		
+		
+			<p><a href="https://specs.amwa.tv/info-002">INFO-002: Security Implementation Guide</a></p>
+		
+			<p><a href="https://specs.amwa.tv/info-003">INFO-003: Sink Metadata Processing Architecture</a></p>
+		
+			<p><a href="https://specs.amwa.tv/info-004">INFO-004: Implementation Guide for DNS-SD</a></p>
+		
+			<p><a href="https://specs.amwa.tv/info-005">INFO-005: Implementation Guide for NMOS Controllers</a></p>
+		
+			<p><a href="https://specs.amwa.tv/info-006">INFO-006: Implementation guide for NMOS Device Capabilities Control</a></p>
+		
+	 </div>
+</span>
+        
+        
+          <span class="dropdown">REG
+	<div class="dropdown-content">
+		<p><b>Parameter Registers</b></p>
+		
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/common">General Procedures and Criteria</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/capabilities">Capabilities</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/device-control-types">Device Control Types</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/device-types">Device Types</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/flow-attributes">Flow Attributes</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/formats">Formats</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/node-service-types">Node Service Types</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/sender-attributes">Sender Attributes</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/source-attributes">Source Attributes</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/tags">Tags</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/transports">Transports</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/transport-parameters">Transport Parameters</a></p>
+		
+	</div>
+</span>
+
+        
+        
+          <span class="dropdown">F-SETS
+	<div class="dropdown-content">
+		<p><b>Control Feature Sets</b></p>
+		
+		
+			<p><a href="https://specs.amwa.tv/nmos-control-feature-sets/branches/main/identification">Identification</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-control-feature-sets/branches/main/monitoring">Monitoring</a></p>
+		
+	</div>
+</span>
+
+        
+
+          
+
+            <span class="dropdown">DEVEL
+              <div class="dropdown-content">
+                <p><b>Developer Links</b></p>
+                <p><a href="https://github.com/AMWA-TV/is-07">GitHub Repo</a></p>
+                <p><a href="https://specs.amwa.tv/nmos-testing">API Testing Tool</a></p>
+                <p><a href="https://specs.amwa.tv/nmos-dashboard/dashboard.html">CI Dashboard</a></p>
+              </div>
+            </span>
+
+          
+
+          <span class="dropdown">SEARCH
+            <div class="dropdown-content">
+              <script async src="https://cse.google.com/cse.js?cx=70787015d40930818"></script>
+              <div class="gcse-searchbox-only"></div>
+            </div>
+          </span>
+
+        
+          <div class="breadcrumbs">
+            
+            
+            
+            <a href="/is-07/">IS-07</a> â¤
+            
+              
+              <a href="/is-07/releases/"> releases </a> â¤
+            
+              
+              <a href="/is-07/releases/v1.0.0/"> v1.0.0 </a> â¤
+            
+              
+              <a href="/is-07/releases/v1.0.0/docs/"> docs </a> â¤
+            
+            
+              
+                
+                
+                  <span class="version-warning"><a href="/is-07/releases">Viewing old release. Click here for list of published releases.</a></span>
+                
+              
+            
+          </div>
+        
+
+        </div>
+
+      <div class="content">
+        <br/>
+        <h1 id="event-types">Event types</h1>
+
+<p><a href="2.0._Message_types.html">âMessage types </a> Â· <a href=".."> Indexâ </a> Â· <a href="4.0._Core_models.html">Core modelsâ</a></p>
+
+<p>This document specifies the supported event types and the strategies employed to define them.</p>
+
+<p>Other sections can be accessed from the <a href="1.0._Overview.html">Overview</a>.</p>
+
+<h2 id="1-introduction">1. Introduction</h2>
+
+<p>These are the supported event types:</p>
+
+<ul>
+  <li>boolean</li>
+  <li>string</li>
+  <li>number</li>
+  <li>enum</li>
+  <li>object (out of scope for version 1.0 of this specification)</li>
+</ul>
+
+<p>The types are identified by the corresponding values in the event_type field in an event message and the NMOS source. When additional restrictions are applied to an event type, the <em>type definition object</em> will be provided using the Event &amp; Tally REST API (see <a href="6.0._Event_and_tally_rest_api.html">Event &amp; Tally REST API</a>). The type definition object will always define the type of the <code class="language-plaintext highlighter-rouge">value</code> field and can define restrictions on the value.</p>
+
+<h2 id="2-base-types">2. Base types</h2>
+
+<p>The base type payloads always contain the <code class="language-plaintext highlighter-rouge">"value"</code> field and the type of the field in JSON corresponds to the base type.</p>
+
+<h3 id="21-boolean">2.1 boolean</h3>
+
+<p>The <em>boolean</em> event type will be identified as <code class="language-plaintext highlighter-rouge">"boolean"</code> in the NMOS source.</p>
+
+<h4 id="example"><em>Example</em>:</h4>
+
+<p>A simple button indicating its condition as a boolean value (is the button pressed)</p>
+
+<p><em>Event Type</em>:
+<code class="language-plaintext highlighter-rouge">boolean</code></p>
+
+<p><em>Payload</em>:</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
+  </span><span class="nl">"value"</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<p>or</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
+  </span><span class="nl">"value"</span><span class="p">:</span><span class="w"> </span><span class="kc">false</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<p><em>Type definition</em>:</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
+  </span><span class="nl">"type"</span><span class="p">:</span><span class="w"> </span><span class="s2">"boolean"</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<h3 id="22-string">2.2 string</h3>
+
+<p>The <em>string</em> event type will be identified as <code class="language-plaintext highlighter-rouge">"string"</code> in the NMOS source.</p>
+
+<p>The event type may be associated with a type definition object that may apply the following restrictions:</p>
+
+<ul>
+  <li>minimum length [optional]</li>
+  <li>maximum length [optional]</li>
+  <li>pattern (regular expression) [optional]</li>
+</ul>
+
+<h4 id="example-1"><em>Example</em>:</h4>
+
+<p>A simple label on a button or on another UI element.</p>
+
+<p><em>Event Type</em>:
+<code class="language-plaintext highlighter-rouge">string</code></p>
+
+<p><em>Payload</em>:</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
+  </span><span class="nl">"value"</span><span class="p">:</span><span class="w"> </span><span class="s2">"my label"</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<p><em>Type definition</em>:</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
+  </span><span class="nl">"type"</span><span class="p">:</span><span class="w"> </span><span class="s2">"string"</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"min_length"</span><span class="p">:</span><span class="w"> </span><span class="mi">1</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"max_length"</span><span class="p">:</span><span class="w"> </span><span class="mi">30</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<h3 id="23-number">2.3 number</h3>
+
+<p>The <em>number</em> event type will be identified as <code class="language-plaintext highlighter-rouge">"number"</code> in the NMOS source.</p>
+
+<p>In addition to the mandatory <code class="language-plaintext highlighter-rouge">value</code> field, an optional <code class="language-plaintext highlighter-rouge">scale</code> field is introduced to help carrying rational numbers without any loss of the precision. In that case the <code class="language-plaintext highlighter-rouge">value</code> field represents the <em>numerator</em> and the <code class="language-plaintext highlighter-rouge">scale</code> field represents the <em>denominator</em> of the fraction.</p>
+
+<p>The event type may be associated with a type definition object that may apply the following restrictions:</p>
+
+<ul>
+  <li>indicate an optional <code class="language-plaintext highlighter-rouge">scale</code> field for representing rational numbers [optional] (default = 1)</li>
+  <li>indicate minimum value [mandatory]</li>
+  <li>indicate maximum value [mandatory]</li>
+  <li>indicate step value [optional] (default = 1)</li>
+  <li>indicate the measurement unit [optional]</li>
+</ul>
+
+<p>Payload examples:</p>
+
+<h4 id="example-2"><em>Example</em>:</h4>
+
+<p>A simple 32-bit counter.</p>
+
+<p><em>Event Type</em>:
+<code class="language-plaintext highlighter-rouge">number</code></p>
+
+<p><em>Payload</em>:</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
+  </span><span class="nl">"value"</span><span class="p">:</span><span class="w"> </span><span class="mi">16342</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<p><em>Type definition</em>:</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
+  </span><span class="nl">"type"</span><span class="p">:</span><span class="w"> </span><span class="s2">"number"</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"min"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="nl">"value"</span><span class="p">:</span><span class="w"> </span><span class="mi">1</span><span class="w">
+  </span><span class="p">},</span><span class="w">
+  </span><span class="nl">"max"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="nl">"value"</span><span class="p">:</span><span class="w"> </span><span class="mi">4294967295</span><span class="w">
+  </span><span class="p">}</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<h3 id="231-measurements">2.3.1 measurements</h3>
+
+<p>In the case where a unit of measure is specified for the number type, the event type will be identified as <code class="language-plaintext highlighter-rouge">"number/{Name}/{Unit}"</code> in the NMOS source, where <code class="language-plaintext highlighter-rouge">Name</code> is the name of the measurement and <code class="language-plaintext highlighter-rouge">Unit</code> is the measurement unit, for example: <code class="language-plaintext highlighter-rouge">"number/temperature/C"</code>.</p>
+
+<p>The definition of the units of measure is out of scope of this specification but the SI system of units is highly recommended.</p>
+
+<p>The recommended strategy for naming measurement units can be read in the <a href="7.0._Measurement_units_guidelines.html">Measurement units guidelines</a> section.</p>
+
+<h4 id="example-3"><em>Example</em>:</h4>
+
+<p>Temperature sensor with precision of 0.1Â°C</p>
+
+<p><em>Event Type</em>:
+<code class="language-plaintext highlighter-rouge">number/temperature/C</code></p>
+
+<p><em>Payload</em>:</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
+  </span><span class="nl">"value"</span><span class="p">:</span><span class="w"> </span><span class="mi">201</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"scale"</span><span class="p">:</span><span class="w"> </span><span class="mi">10</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<p>(<em>representing the value of 20.1Â°C</em>)</p>
+
+<p>or</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
+  </span><span class="nl">"value"</span><span class="p">:</span><span class="w"> </span><span class="mi">305</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"scale"</span><span class="p">:</span><span class="w"> </span><span class="mi">10</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<p>(<em>representing the value of 30.5Â°C</em>)</p>
+
+<p><em>Type definition</em>:</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
+  </span><span class="nl">"type"</span><span class="p">:</span><span class="w"> </span><span class="s2">"number"</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"min"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="nl">"value"</span><span class="p">:</span><span class="w"> </span><span class="mi">-200</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"scale"</span><span class="p">:</span><span class="w"> </span><span class="mi">10</span><span class="w">
+  </span><span class="p">},</span><span class="w">
+  </span><span class="nl">"max"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="nl">"value"</span><span class="p">:</span><span class="w"> </span><span class="mi">1000</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"scale"</span><span class="p">:</span><span class="w"> </span><span class="mi">10</span><span class="w">
+  </span><span class="p">},</span><span class="w">
+  </span><span class="nl">"step"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="nl">"value"</span><span class="p">:</span><span class="w"> </span><span class="mi">1</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"scale"</span><span class="p">:</span><span class="mi">10</span><span class="w">
+  </span><span class="p">},</span><span class="w">
+  </span><span class="nl">"unit"</span><span class="p">:</span><span class="w"> </span><span class="s2">"C"</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<h4 id="example-4"><em>Example</em>:</h4>
+
+<p>Logarithmic fader reporting its position</p>
+
+<p><em>Event Type</em>:
+<code class="language-plaintext highlighter-rouge">number/attenuation/dB</code></p>
+
+<p><em>Payload</em>:</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
+  </span><span class="nl">"value"</span><span class="p">:</span><span class="w"> </span><span class="mi">0</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<p>or</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
+  </span><span class="nl">"value"</span><span class="p">:</span><span class="w"> </span><span class="mi">-40</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<p><em>Type definition</em>:</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
+  </span><span class="nl">"type"</span><span class="p">:</span><span class="w"> </span><span class="s2">"number"</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"min"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="nl">"value"</span><span class="p">:</span><span class="w"> </span><span class="mi">-80</span><span class="w">
+  </span><span class="p">},</span><span class="w">
+  </span><span class="nl">"max"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="nl">"value"</span><span class="p">:</span><span class="w"> </span><span class="mi">20</span><span class="w">
+  </span><span class="p">},</span><span class="w">
+  </span><span class="nl">"step"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="nl">"value"</span><span class="p">:</span><span class="w"> </span><span class="mi">1</span><span class="w">
+  </span><span class="p">},</span><span class="w">
+  </span><span class="nl">"unit"</span><span class="p">:</span><span class="w"> </span><span class="s2">"dB"</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<h2 id="3-enum">3. enum</h2>
+
+<p>Enums can be defined on top of any of the three base types and provide both the list of allowed values and metadata that describe those values.</p>
+
+<p>The <em>enum</em> event type has to be associated with a type definition object that has to provide the following:</p>
+
+<ul>
+  <li>a label for all the possible value options [mandatory]</li>
+  <li>a description for all possible value options [mandatory]</li>
+</ul>
+
+<p>The <code class="language-plaintext highlighter-rouge">enum</code> event type will be identified as <code class="language-plaintext highlighter-rouge">"{BaseType}/enum/{Name}"</code> in the NMOS source, where <code class="language-plaintext highlighter-rouge">Name</code> is the name of the enum.</p>
+
+<h4 id="example-5"><em>Example</em>:</h4>
+<p>A numerical enum exposing the current studio usage and defining the button labels and description of the states.</p>
+
+<p><em>Event Type</em>:
+<code class="language-plaintext highlighter-rouge">number/enum/StudioCondition</code></p>
+
+<p><em>Payload</em>:</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
+  </span><span class="nl">"value"</span><span class="p">:</span><span class="w"> </span><span class="mi">0</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<p><em>Type definition</em>:</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
+  </span><span class="nl">"type"</span><span class="w"> </span><span class="p">:</span><span class="w">  </span><span class="s2">"number"</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"values"</span><span class="w"> </span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
+    </span><span class="p">{</span><span class="w">
+      </span><span class="nl">"value"</span><span class="p">:</span><span class="w"> </span><span class="mi">0</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"label"</span><span class="p">:</span><span class="w"> </span><span class="s2">"idle"</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"description"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Studio condition is idle"</span><span class="w">
+    </span><span class="p">},</span><span class="w">
+    </span><span class="p">{</span><span class="w">
+      </span><span class="nl">"value"</span><span class="p">:</span><span class="w"> </span><span class="mi">1</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"label"</span><span class="p">:</span><span class="w"> </span><span class="s2">"reh"</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"description"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Studio condition is rehearsal"</span><span class="w">
+    </span><span class="p">},</span><span class="w">
+    </span><span class="p">{</span><span class="w">
+      </span><span class="nl">"value"</span><span class="p">:</span><span class="w"> </span><span class="mi">2</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"label"</span><span class="p">:</span><span class="w"> </span><span class="s2">"tx"</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"description"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Studio condition is tx"</span><span class="w">
+    </span><span class="p">}</span><span class="w">
+  </span><span class="p">]</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<h4 id="example-6"><em>Example</em>:</h4>
+
+<p>An on/off switch with a bit of added metadata.</p>
+
+<p><em>Event Type</em>:
+<code class="language-plaintext highlighter-rouge">boolean/enum/OnOff</code></p>
+
+<p><em>Payload</em>:</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
+  </span><span class="nl">"value"</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<p><em>Type definition</em>:</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
+  </span><span class="nl">"type"</span><span class="w"> </span><span class="p">:</span><span class="w">  </span><span class="s2">"boolean"</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"values"</span><span class="w"> </span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
+    </span><span class="p">{</span><span class="w">
+      </span><span class="nl">"value"</span><span class="p">:</span><span class="w"> </span><span class="kc">false</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"label"</span><span class="p">:</span><span class="w"> </span><span class="s2">"OFF"</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"description"</span><span class="p">:</span><span class="w"> </span><span class="s2">"The device is off"</span><span class="w">
+    </span><span class="p">},</span><span class="w">
+    </span><span class="p">{</span><span class="w">
+      </span><span class="nl">"value"</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"label"</span><span class="p">:</span><span class="w"> </span><span class="s2">"ON"</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"description"</span><span class="p">:</span><span class="w"> </span><span class="s2">"The device is on"</span><span class="w">
+    </span><span class="p">}</span><span class="w">
+  </span><span class="p">]</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<h4 id="example-7"><em>Example</em>:</h4>
+
+<p>String based device status</p>
+
+<p><em>Event Type</em>:
+<code class="language-plaintext highlighter-rouge">string/enum/DeviceStatus</code></p>
+
+<p><em>Payload</em>:</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
+  </span><span class="nl">"value"</span><span class="p">:</span><span class="w"> </span><span class="s2">"ok"</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<p><em>Type definition</em>:</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
+  </span><span class="nl">"type"</span><span class="w"> </span><span class="p">:</span><span class="w">  </span><span class="s2">"string"</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"values"</span><span class="w"> </span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
+    </span><span class="p">{</span><span class="w">
+      </span><span class="nl">"value"</span><span class="p">:</span><span class="w"> </span><span class="s2">"unknown"</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"label"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Device state is unknown"</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"description"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Device state is unknown. Check extension card is plugged in correctly."</span><span class="w">
+    </span><span class="p">},</span><span class="w">
+    </span><span class="p">{</span><span class="w">
+      </span><span class="nl">"value"</span><span class="p">:</span><span class="w"> </span><span class="s2">"ok"</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"label"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Device state is ok"</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"description"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Device state is ok."</span><span class="w">
+    </span><span class="p">},</span><span class="w">
+    </span><span class="p">{</span><span class="w">
+      </span><span class="nl">"value"</span><span class="p">:</span><span class="w"> </span><span class="s2">"warn"</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"label"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Device state is warning"</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"description"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Device state is warning. PSU 1 shows signs of failure."</span><span class="w">
+    </span><span class="p">},</span><span class="w">
+    </span><span class="p">{</span><span class="w">
+      </span><span class="nl">"value"</span><span class="p">:</span><span class="w"> </span><span class="s2">"fail"</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"label"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Device state is fail"</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"description"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Device state is fail. No PTP reference found."</span><span class="w">
+    </span><span class="p">}</span><span class="w">
+  </span><span class="p">]</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<h2 id="4-object-out-of-scope-for-version-10-of-this-specification">4. object (out of scope for version 1.0 of this specification)</h2>
+
+<p><em>The usage of the <code class="language-plaintext highlighter-rouge">object</code> event type is out of scope of this specification for version 1.0</em></p>
+
+<p>The <em>object</em> event type has to be associated with a type definition object that has to provide the object structure. It will consist of fields that can have following types:</p>
+
+<ul>
+  <li>other base types (boolean, number, string, enum)</li>
+  <li>other objects</li>
+  <li>arrays of other base types or objects</li>
+</ul>
+
+<p>This definition file will describe the payload types and metadata associated in detail. The available metadata for each base type will be identical to the metadata defined for standalone types.</p>
+
+<p>The <code class="language-plaintext highlighter-rouge">object</code> event type will be identified as <code class="language-plaintext highlighter-rouge">"object/{Name}"</code> in the NMOS source, where <code class="language-plaintext highlighter-rouge">Name</code> is the name of the object.</p>
+
+<h2 id="event-types-capability-management">Event types capability management</h2>
+
+<p>Sources <code class="language-plaintext highlighter-rouge">"event_type"</code> field always needs to have an exact specific event type (cannot use wildcard).</p>
+
+<p>Receivers <code class="language-plaintext highlighter-rouge">"event_types"</code> field can have a specific event type or may have a derived partial event type using a wildcard (<code class="language-plaintext highlighter-rouge">*</code>).</p>
+
+<p>A wildcard (<code class="language-plaintext highlighter-rouge">*</code>) must replace a whole word and can only be used at the end of an event_type definition.</p>
+
+<p>More details about NMOS resources in the section <a href="4.0._Core_models.html">Core models</a>.</p>
+
+<p>The wildcard allows a smart receiver to advertise a wider capability with a specific category above. This is useful information when building a user interface which handles connection management but also matches capabilities between senders and receivers.</p>
+
+<p>An example of a receiver which may use a wildcard could be a smart software gauge which can auto-calibrate. This could advertise its capability as <code class="language-plaintext highlighter-rouge">number/*</code>.</p>
+
+<p>Another example could be for a temperature receiver which supports any measurement unit. This could advertise its capability as <code class="language-plaintext highlighter-rouge">number/Temperature/*</code>.</p>
+
+<p>A third example could be that of a temperature receiver which only supports degrees Celsius. It would advertise its capability as <code class="language-plaintext highlighter-rouge">number/Temperature/C</code>.</p>
+
+<p>The following examples are invalid uses for a wildcard:</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">number/Tempera*</code></li>
+  <li><code class="language-plaintext highlighter-rouge">number/*/C</code></li>
+</ul>
+
+<p><img src="images/event-types-capability-management.png" alt="Event types capability management" /></p>
+
+<p><a href="2.0._Message_types.html">âMessage types </a> Â· <a href=".."> Indexâ </a> Â· <a href="4.0._Core_models.html">Core modelsâ</a></p>
+
+
+      </div>
+
+      <div class="footer border-top border-gray-light mt-5 pt-3 text-center text-gray">
+          Documentation built at 04:52:40 CDT on 2024-08-29. <br/>
+      
+      (c) AMWA 2024.
+      RAML/JSON licensed under <a href="https://www.apache.org/licenses/LICENSE-2.0.html">Apache 2.0</a>.
+      Documentation licensed under <a href="http://creativecommons.org/licenses/by-nd/4.0/">CC BY-ND 4.0</a>.
+      
+      </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+
+    
+
+
+    <script>
+    window.onscroll = function() {myFunction()};
+
+    var header = document.getElementById("menu-header");
+    var sticky = header.offsetTop;
+
+    function myFunction() {
+      if (window.pageYOffset > sticky) {
+        header.classList.add("sticky");
+      } else {
+        header.classList.remove("sticky");
+      }
+    }
+
+    </script>
+  </body>
+</html>

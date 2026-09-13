@@ -1,0 +1,386 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Schoeps Mikrofone CMC 6 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="CMC 6, Detachable-Capsule Pencil Condenser Microphone , aka: CMC-6U - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/Schoeps/CMC-6" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The CHI series is modeled after the Schoeps Colette series." href="//recordinghacks.com/microphones/3-Zigma/CHI"><img src="//cdn.recordinghacks.com/images/mics/00704/00704_75.jpg" width="75" height="75" alt="The CHI series is modeled after the Schoeps Colette series." title="The CHI series is modeled after the Schoeps Colette series."   ><br /><span>3 Zigma CHI</span></a></li>
+                                                    <li class="mictile"><a title="The Peluso CEMC-6 series is inspired by the CMC 6 and Colette series microphones." href="//recordinghacks.com/microphones/Peluso-Microphone-Lab/CEMC-6"><img src="//cdn.recordinghacks.com/images/mics/00433/00433_75.jpg" width="75" height="75" alt="The Peluso CEMC-6 series is inspired by the CMC 6 and Colette series microphones." title="The Peluso CEMC-6 series is inspired by the CMC 6 and Colette series microphones."   ><br /><span>Peluso CEMC-6</span></a></li>
+                                                    <li class="mictile"><a title="The CMC6 is a newer version of the CMC5, with improve RFI rejection and a 12V powering mode." href="//recordinghacks.com/microphones/Schoeps/CMC-5"><img src="//cdn.recordinghacks.com/images/mics/01146/01146_75.jpg" width="75" height="75" alt="The CMC6 is a newer version of the CMC5, with improve RFI rejection and a 12V powering mode." title="The CMC6 is a newer version of the CMC5, with improve RFI rejection and a 12V powering mode."   ><br /><span>Schoeps CMC 5</span></a></li>
+                                                    <li class="mictile"><a title="The Oktava MK series, like the Schoeps CMC 6, offers a variety of interchangeable amp and capsule combinations." href="//recordinghacks.com/microphones/Oktava/MK-012"><img src="//cdn.recordinghacks.com/images/mics/00447/00447_75.jpg" width="75" height="75" alt="The Oktava MK series, like the Schoeps CMC 6, offers a variety of interchangeable amp and capsule combinations." title="The Oktava MK series, like the Schoeps CMC 6, offers a variety of interchangeable amp and capsule combinations."   ><br /><span>Oktava MK-012</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/Schoeps">Schoeps microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Schoeps Mikrofone CMC 6" href="/microphone-photo/01145/Schoeps/CMC-6.jpg"><img src="//cdn.recordinghacks.com/images/mics/01145/01145_172.jpg" width="172" height="85" alt="Schoeps Mikrofone CMC 6" title="Schoeps Mikrofone CMC 6" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $920</li>
+                                                            </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/pencil-mic" alt="pencil-mic microphones">pencil-mic</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformerless" alt="transformerless microphones">transformerless</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/detachable-capsule" alt="detachable-capsule microphones">detachable-capsule</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/condenser" alt="condenser microphones">condenser</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/colette" alt="colette microphones">colette</a></li></ul>
+                                        
+                                        <h3>CMC 6 Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.schoeps.de/en/products/cmc6">CMC 6 Product Description</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/schoeps/CMC6-Manual.pdf">CMC 6 Manual (2009)</a></li>
+                                                                </ul>                    
+                                        <h3>CMC 6 Awards</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a href="//recordinghacks.com/awards#13">2004 TEC Awards</a> (Nominated)</li>
+                                        </ul>                    
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="1145-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="1145-1" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="1145-2" src="//cdn.recordinghacks.com/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" ><img id="1145-3" src="//cdn.recordinghacks.com/images/icons/patterns/icon_wc.png" width=27 height=27 alt="Wide Cardioid" title="Wide Cardioid" ></span>Schoeps Mikrofone CMC 6</h2>
+                    
+                    <h2 class="sub">                    Detachable-Capsule Pencil Condenser Microphone</h2>
+                    <p>The Schoeps &#8220;Colette&#8221; series of detachable-capsule microphones was introduced in 1973. The CMC 6 is the latest analog head amplifier in the series. It is a high-performance transformerless pencil condenser microphone with 20 compatible capsules. </p><p>Schoeps produces four variations of the CMC 6 head amplifier:</p><ul><li><b>CMC 6</b> (standard) - includes a fixed -12dB/octave  rolloff below 20Hz to prevent pickup of subsonic and mechanical vibration.</li><li><b>CMC 6 Uxt</b> - extends the high-frequency response of all &#8220;axially addressed&#8221; (end-address) capsules to ~40kHz.</li><li><b>CMC &#8220;linear&#8221;</b> - maintains a flat low-end response below 20Hz. By special order, the LF response can be extended (flat) al low as 3Hz.</li><li><b>CMC &#8220;+5 dB&#8221;</b> - raises the sensitivity of the attached capsule by 5dB, and lowers the max SPL by the same amount.</li></ul><p>The CMC 6 head amp, like all the products in Schoeps&#8217; Colette series, is available in either a matte grey or nickel finish, with other finishes available by request. The mic ships in a wooden case with room for two microphones, and includes a mic clip (p/n SG 20).</p><p><em>How is the CMC 6 different from the CMC 5?</em></p><p>A partial listing of the differences follows:</p><ul><li>The CMC 6 is more immune to RFI (radio frequency interference).</li><li>The CMC 5 requires +48V, whereas the CMC 6 can run on either +12V or +48V (with automatic detection and switching).</li><li>The CMC 6 HPF attenuates low frequencies below 20Hz at a slope of 12dB/octave; in the CMC 5, the &#8220;corner&#8221; frequency is 30Hz, and the slope is 6dB/octave.</li></ul><p>At least two revisions of the CMC 6 exist. The newer one, released in 2004, incorporates improved RFI shielding, and can be distinguished by the gold-colored &#8220;shield plate&#8221; on its XLR3M output jack.<p>The <a href="//recordinghacks.com/microphones/Schoeps/CMC-6">Schoeps Mikrofone CMC 6</a> is also known as: CMC-6U.</p><p>The mic was released in 1992.</p>
+                    <h3>Specifications</h3>
+                    <table><tr><th>Compatible Capsules</th></tr><tr><td><table style="width: 440px">                        <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00293/00293_75.jpg" width="75" height="75" alt="Schoeps Mikrofone MK 2" title="Schoeps Mikrofone MK 2"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap5578" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ></span>
+                        <strong>Schoeps Mikrofone MK 2</strong><br />
+                        Omnidirectional capsule<br />
+                        Sensitivity: 16 mV/Pa<br />
+                        Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $842 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00298/00298_75.jpg" width="75" height="75" alt="Schoeps Mikrofone MK 21" title="Schoeps Mikrofone MK 21"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap5579" src="//cdn.recordinghacks.com/images/icons/patterns/icon_wc.png" width=27 height=27 alt="Wide Cardioid" title="Wide Cardioid" ></span>
+                        <strong>Schoeps Mikrofone MK 21</strong><br />
+                        Wide Cardioid capsule<br />
+                        Sensitivity: 13 mV/Pa<br />
+                        Freq. Resp.: 30 - 20,000 Hz<br />
+                        MSRP: $867 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00299/00299_75.jpg" width="75" height="75" alt="Schoeps Mikrofone MK 21H" title="Schoeps Mikrofone MK 21H"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap5580" src="//cdn.recordinghacks.com/images/icons/patterns/icon_wc.png" width=27 height=27 alt="Wide Cardioid" title="Wide Cardioid" ></span>
+                        <strong>Schoeps Mikrofone MK 21H</strong><br />
+                        Wide Cardioid capsule<br />
+                        Sensitivity: 10 mV/Pa<br />
+                        Freq. Resp.: 30 - 20,000 Hz<br />
+                        MSRP: $867 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00300/00300_75.jpg" width="75" height="75" alt="Schoeps Mikrofone MK 22" title="Schoeps Mikrofone MK 22"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap5581" src="//cdn.recordinghacks.com/images/icons/patterns/icon_wc.png" width=27 height=27 alt="Wide Cardioid" title="Wide Cardioid" ></span>
+                        <strong>Schoeps Mikrofone MK 22</strong><br />
+                        Wide Cardioid capsule<br />
+                        Sensitivity: 14 mV/Pa<br />
+                        Freq. Resp.: 40 - 20,000 Hz<br />
+                        MSRP: $867 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00292/00292_75.jpg" width="75" height="75" alt="Schoeps Mikrofone MK 2H" title="Schoeps Mikrofone MK 2H"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap5582" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ></span>
+                        <strong>Schoeps Mikrofone MK 2H</strong><br />
+                        Omnidirectional capsule<br />
+                        Sensitivity: 15 mV/Pa<br />
+                        Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $877 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00294/00294_75.jpg" width="75" height="75" alt="Schoeps Mikrofone MK 2S" title="Schoeps Mikrofone MK 2S"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap5583" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ></span>
+                        <strong>Schoeps Mikrofone MK 2S</strong><br />
+                        Omnidirectional capsule<br />
+                        Sensitivity: 12 mV/Pa<br />
+                        Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $845 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00295/00295_75.jpg" width="75" height="75" alt="Schoeps Mikrofone MK 3" title="Schoeps Mikrofone MK 3"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap5584" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ></span>
+                        <strong>Schoeps Mikrofone MK 3</strong><br />
+                        Omnidirectional capsule<br />
+                        Sensitivity: 10 mV/Pa<br />
+                        Freq. Resp.: 20 - 20,000 Hz<br />
+                        MSRP: $842 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00296/00296_75.jpg" width="75" height="75" alt="Schoeps Mikrofone MK 4" title="Schoeps Mikrofone MK 4"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap5585" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>Schoeps Mikrofone MK 4</strong><br />
+                        Cardioid capsule<br />
+                        Sensitivity: 13 mV/Pa<br />
+                        Freq. Resp.: 40 - 20,000 Hz<br />
+                        MSRP: $768 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00305/00305_75.jpg" width="75" height="75" alt="Schoeps Mikrofone MK 40" title="Schoeps Mikrofone MK 40"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap5586" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>Schoeps Mikrofone MK 40</strong><br />
+                        Cardioid capsule<br />
+                        Sensitivity: 18 mV/Pa<br />
+                        Freq. Resp.: 80 - 20,000 Hz<br />
+                        MSRP: $966 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00301/00301_75.jpg" width="75" height="75" alt="Schoeps Mikrofone MK 41" title="Schoeps Mikrofone MK 41"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap5587" src="//cdn.recordinghacks.com/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" ></span>
+                        <strong>Schoeps Mikrofone MK 41</strong><br />
+                        Supercardioid capsule<br />
+                        Sensitivity: 14 mV/Pa<br />
+                        Freq. Resp.: 40 - 20,000 Hz<br />
+                        MSRP: $989 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00306/00306_75.jpg" width="75" height="75" alt="Schoeps Mikrofone MK 41S" title="Schoeps Mikrofone MK 41S"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap5588" src="//cdn.recordinghacks.com/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" ></span>
+                        <strong>Schoeps Mikrofone MK 41S</strong><br />
+                        Supercardioid capsule<br />
+                        Sensitivity: 13 mV/Pa<br />
+                        Freq. Resp.: 80 - 20,000 Hz<br />
+                        MSRP: $1016 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00302/00302_75.jpg" width="75" height="75" alt="Schoeps Mikrofone MK 41V" title="Schoeps Mikrofone MK 41V"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap5589" src="//cdn.recordinghacks.com/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" ></span>
+                        <strong>Schoeps Mikrofone MK 41V</strong><br />
+                        Supercardioid capsule<br />
+                        Sensitivity: 14 mV/Pa<br />
+                        Freq. Resp.: 40 - 20,000 Hz<br />
+                        MSRP: $1485 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00307/00307_75.jpg" width="75" height="75" alt="Schoeps Mikrofone MK 4A" title="Schoeps Mikrofone MK 4A"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap5590" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>Schoeps Mikrofone MK 4A</strong><br />
+                        Cardioid capsule<br />
+                        Sensitivity: 3 mV/Pa<br />
+                        Freq. Resp.: n/a<br />
+                        MSRP: $818 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00308/00308_75.jpg" width="75" height="75" alt="Schoeps Mikrofone MK 4S" title="Schoeps Mikrofone MK 4S"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap5591" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>Schoeps Mikrofone MK 4S</strong><br />
+                        Cardioid capsule<br />
+                        Sensitivity: 12 mV/Pa<br />
+                        Freq. Resp.: 80 - 20,000 Hz<br />
+                        MSRP: $781 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00297/00297_75.jpg" width="75" height="75" alt="Schoeps Mikrofone MK 4V" title="Schoeps Mikrofone MK 4V"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap5592" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>Schoeps Mikrofone MK 4V</strong><br />
+                        Cardioid capsule<br />
+                        Sensitivity: 13 mV/Pa<br />
+                        Freq. Resp.: 40 - 20,000 Hz<br />
+                        MSRP: $1265 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00309/00309_75.jpg" width="75" height="75" alt="Schoeps Mikrofone MK 4VXS" title="Schoeps Mikrofone MK 4VXS"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap5593" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>Schoeps Mikrofone MK 4VXS</strong><br />
+                        Cardioid capsule<br />
+                        Sensitivity: 10 mV/Pa<br />
+                        Freq. Resp.: n/a<br />
+                        MSRP: $1265 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00304/00304_75.jpg" width="75" height="75" alt="Schoeps Mikrofone MK 5" title="Schoeps Mikrofone MK 5"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap5594" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>
+                        <strong>Schoeps Mikrofone MK 5</strong><br />
+                        Cardioid capsule<br />
+                        Sensitivity: 13 mV/Pa<br />
+                        Freq. Resp.: 40 - 20,000 Hz<br />
+                        MSRP: $1337 | Still In Production</li>
+                        </td></tr>
+                                            <tr><td style="margin-right: 0; padding-right: 0; width: 80px;"><img src="//cdn.recordinghacks.com/images/capsules/00303/00303_75.jpg" width="75" height="75" alt="Schoeps Mikrofone MK 8" title="Schoeps Mikrofone MK 8"  style="padding: 0; margin: 0; border: 1px solid black;" ></td><td><span class="shaft"><img id="cap5595" src="//cdn.recordinghacks.com/images/icons/patterns/icon_sc.png" width=27 height=27 alt="Supercardioid" title="Supercardioid" ></span>
+                        <strong>Schoeps Mikrofone MK 8</strong><br />
+                        Supercardioid capsule<br />
+                        Sensitivity: 10 mV/Pa<br />
+                        Freq. Resp.: 40 - 16,000 Hz<br />
+                        MSRP: $1204 | Still In Production</li>
+                        </td></tr>
+                    </table></td></tr></table>
+                    <table>
+                        <tr>
+                            <th>Pads &amp; Filters</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>n/a                                
+                                </td>
+                            <td>35 Ohms <em class="mute">(Low)</em></td>
+                            <td>                                </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>60g <em class="mute">(2.12oz)</em></td>
+                            <td>116mm <em class="mute">(4.57&#39;&#39;)</em></td>
+                            <td>20mm <em class="mute">(0.79&#39;&#39;)</em></td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                        <li>Requires phantom power </li>
+                                                                                                                                                                                <li>Phantom voltage: 12V, 48Vv</li>
+                                        </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+             
+<script type="text/javascript">
+        YAHOO.namespace("freq");
+
+        function init_freq_graphs() {
+
+                
+            YAHOO.freq.manager = new YAHOO.widget.OverlayManager(); 
+            YAHOO.freq.manager.register([]);
+
+            
+    
+        }
+        YAHOO.util.Event.addListener(window, "load", init_freq_graphs);
+</script>
+
+
+
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('1145-0');uniqueids.push('1145-1');uniqueids.push('1145-2');uniqueids.push('1145-3');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

@@ -1,0 +1,270 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>beyerdynamic MC 930 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="MC 930, Cardioid Pencil Condenser Microphone , aka: MC930 - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/beyerdynamic/MC-930" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>MC 930 Microphone Sets</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="beyerdynamic MC 930 Stereo Set - microphone set" href="//recordinghacks.com/microphones/beyerdynamic/MC930-Stereo"><img src="//cdn.recordinghacks.com/images/sets/00080/00080_75.jpg" width="75" height="75" alt="" title=""   ><br /><span>beyerdynamic MC 930 Stereo Set</span></a></li>
+                                                </ul>
+                        </div>
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The MC910 is the omni version of the MC930; the two mics share capsules and circuits." href="//recordinghacks.com/microphones/beyerdynamic/MC-910"><img src="//cdn.recordinghacks.com/images/mics/00792/00792_75.jpg" width="75" height="75" alt="The MC910 is the omni version of the MC930; the two mics share capsules and circuits." title="The MC910 is the omni version of the MC930; the two mics share capsules and circuits."   ><br /><span>beyerdynamic MC 910</span></a></li>
+                                                    <li class="mictile"><a title="The MC 930 and MC 950 share a capsule and circuit design." href="//recordinghacks.com/microphones/beyerdynamic/MC-950"><img src="//cdn.recordinghacks.com/images/mics/00794/00794_75.jpg" width="75" height="75" alt="The MC 930 and MC 950 share a capsule and circuit design." title="The MC 930 and MC 950 share a capsule and circuit design."   ><br /><span>beyerdynamic MC 950</span></a></li>
+                                                    <li class="mictile"><a title="The TG-X 930 and MC 930 use the same condenser capsule." href="//recordinghacks.com/microphones/beyerdynamic/TG-X-930"><img src="//cdn.recordinghacks.com/images/mics/01055/01055_75.jpg" width="75" height="75" alt="The TG-X 930 and MC 930 use the same condenser capsule." title="The TG-X 930 and MC 930 use the same condenser capsule."   ><br /><span>beyerdynamic TG-X 930</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/beyerdynamic">beyerdynamic microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="beyerdynamic MC 930" href="/microphone-photo/00793/beyerdynamic/MC-930.jpg"><img src="//cdn.recordinghacks.com/images/mics/00793/00793_172.jpg" width="172" height="86" alt="beyerdynamic MC 930" title="beyerdynamic MC 930" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $699</li>
+                                                            </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/pencil-mic" alt="pencil-mic microphones">pencil-mic</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/externally-biased" alt="externally-biased microphones">externally-biased</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformerless" alt="transformerless microphones">transformerless</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/end-address" alt="end-address microphones">end-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/condenser" alt="condenser microphones">condenser</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://recordinghacks.com/2011/06/26/beyerdynamic-mc930-lewitt-lct340-review/">MC 930 Review: Guitars, Perc</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/2011/07/04/beyerdynamic-mc930-review-overheads/">MC 930 Review: Drum OH</a></li>
+                                                                </ul>                    
+                                        <h3>MC 930 Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://north-america.beyerdynamic.com/shop/mp/microphones/vocals-and-instruments/drums/mc-930.html">MC 930 Product Description</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/beyerdynamic/MC910_930_950_BA_DEF_04.pdf">MC 930 Manual</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/beyerdynamic/MC930_DB_E_01.pdf">MC 930 Datasheet</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="793-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>beyerdynamic MC 930</h2>
+                    
+                    <h2 class="sub">                    Cardioid Pencil Condenser Microphone</h2>
+                    <p>The MC 930 is a small-diaphragm, cardioid FET condenser mic designed for accurate, transparent sound. It is part of beyerdynamic&#8217;s &#8220;MC 900&#8221; series, which includes the omni MC910 and hypercardioid MC950. All three have electronically balanced, transformerless output circuits.</p><p>The MC930 was introduced in 2002 (at AES Munich); the 910 and 950 followed late 2008.</p><p>All three mics share the same capsule, amplifier circuitry, and pad/HPF features. The sole differences are the pickup pattern and frequency-response curves.</p><p><img src="//cdn.recordinghacks.com/images/mic_extras/beyerdynamic/MC900_nose.png" width="200" class="thumb shaft" />All three mics have a sintered covering in lieu of a mesh grille. This cover does not need any supporting infrastructure between itself and the diaphragm. As a result, the diaphragm can be mounted closer to the end of the microphone body, avoiding the reflection problems caused by having the outer circumference of the microphone body extend past the diaphragm.</p><p>The cardioid MC 930 has a less full low-end response than the omni MC 910, and a less-boosted HF response. Both mics are essentially flat from 100Hz to 5kHz.</p><p><img src="//cdn.recordinghacks.com/images/mic_extras/beyerdynamic/MC930-Stereo-Set.jpg" width="200" class="thumb shaft" alt="MC 930 Stereo Set" />The MC930 is supplied with a mic clip (p/n MKV 9).</p><p>The MC 930 is available in matched pairs; the &#8220;Stereo Set&#8221; includes two matched mics, foam windscreens, elastic shockmounts, and spare elastic bands, all packed into a padded plastic storage case. </p><p>The stereo set also includes two individual frequency-response graphs, with sensitivity readings. On the set we&#8217;ve seen, the two mics differed in sensitivity by 0.2 mV/Pa.</p><p><img src="//cdn.recordinghacks.com/images/mic_extras/beyerdynamic/EA19-MKV11.jpg" alt="beyerdynamic MKV11 with EA19/25" width="150" class="thumb shift" />The shockmounts included with the stereo kit are unusual 2-part devices, comprised of beyerdynamic&#8217;s standard (albeit large) mic clip (p/n MKV 11), into which is sandwiched a 74mm x 38mm plastic cylinder with notches in the ends to hold the elastics.</p><p>We noted that the frequency-response graph included with the microphone different somewhat significantly from the published graph. Specifically, the presence peak above 10kHz is both higher in amplitude and sharper than is the official graph published by the manufacturer. The graph on this page matches the production sample we reviewed.</p><blockquote><p><cite>Mike Jasper</cite></p><p>The MC930 has one of the sweetest sounds I&#8217;ve ever heard on picked guitar. Unfortunately, I wasn&#8217;t as happy with the strummed sound. But for a lead or a nice arpeggio, you&#8217;d have to spend a lot of money to do better than the MC930.</p></blockquote><p><p>The <a href="//recordinghacks.com/microphones/beyerdynamic/MC-930">beyerdynamic MC 930</a> is also known as: MC930.</p><p>The mic was released in 2002.</p>
+                    <h3>Specifications</h3>
+                                        
+                    <table>
+                                                    <tr><th>Frequency Response - Cardioid<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/1024" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/1/1024.png" width=476 height=159 alt="MC 930 Cardioid Frequency Response Chart" title="MC 930 Cardioid Frequency Response Chart" border=0 /></td></tr>
+                            </table>
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                                                                Cardioid
+                                             (30 mV/Pa; 40 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                    <li>Pad: -15dB<small> (Via Switch)</small></li>
+                                                                        <li>Filter: HPF: -6dB/octave @ 250Hz<small> (Via Switch)</small></li>
+                                                                    </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Capsule Dimensions</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                                                            Diameter n/a<br />
+                                                                                                                                                    </td>
+                            <td>180 Ohms <em class="mute">(Low)</em></td>
+                            <td>Max SPL: 140 dB<br />                                Self-noise: 16.0 dB(A)</td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>115g <em class="mute">(4.06oz)</em></td>
+                            <td>128mm <em class="mute">(5.04&#39;&#39;)</em></td>
+                            <td>21mm <em class="mute">(0.83&#39;&#39;)</em></td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                        <li>Requires phantom power </li>
+                                                                                                                                                                                <li>Phantom voltage: 11-52v</li>
+                                        </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('793-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

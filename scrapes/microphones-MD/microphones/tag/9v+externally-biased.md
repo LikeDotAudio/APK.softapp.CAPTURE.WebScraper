@@ -1,0 +1,5 @@
+## Mics tagged: 9v AND externally-biased
+
+|  |  |
+| --- | --- |
+| [RØDE NT3](http://recordinghacks.com/microphones/Rode/NT3 "RØDE NT3 - Features, Specifications, Datasheet") | Cardioid  [**RØDE NT3**](/microphones/Rode/NT3 "RØDE NT3 - Features, Specifications, Datasheet")  Cardioid Condenser Microphone  [externally-biased](//recordinghacks.com/microphones/tag/externally-biased "externally-biased microphones"), [transformerless](//recordinghacks.com/microphones/tag/transformerless "transformerless microphones"), [end-address](//recordinghacks.com/microphones/tag/end-address "end-address microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [battery-power](//recordinghacks.com/microphones/tag/battery-power "battery-power microphones"), [9v](//recordinghacks.com/microphones/tag/9v "9v microphones") |

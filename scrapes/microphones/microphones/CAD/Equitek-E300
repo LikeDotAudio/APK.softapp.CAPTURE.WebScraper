@@ -1,0 +1,296 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>CAD Audio Equitek E-300 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="Equitek E-300, Multi-Pattern Condenser Microphone  - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/CAD/Equitek-E300" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The E350 was a revised version of the E300, with US-made capsule." href="//recordinghacks.com/microphones/CAD/Equitek-E350"><img src="//cdn.recordinghacks.com/images/mics/01168/01168_75.jpg" width="75" height="75" alt="The E350 was a revised version of the E300, with US-made capsule." title="The E350 was a revised version of the E300, with US-made capsule."   ><br /><span>CAD Equitek E-350</span></a></li>
+                                                    <li class="mictile"><a title="The M37 and Equitek E-300 shared a capsule design." href="//recordinghacks.com/microphones/CAD/M37"><img src="//cdn.recordinghacks.com/images/mics/01411/01411_75.jpg" width="75" height="75" alt="The M37 and Equitek E-300 shared a capsule design." title="The M37 and Equitek E-300 shared a capsule design."   ><br /><span>CAD M37</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/CAD">CAD microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="CAD Audio Equitek E-300" href="/microphone-photo/01167/CAD/Equitek-E300.jpg"><img src="//cdn.recordinghacks.com/images/mics/01167/01167_172.jpg" width="172" height="98" alt="CAD Audio Equitek E-300" title="CAD Audio Equitek E-300" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: n/a</li>
+                                        <li id="none"><em>Discontinued</em></li>                    </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/side-address" alt="side-address microphones">side-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/large-diaphragm" alt="large-diaphragm microphones">large-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/dual-diaphragm" alt="dual-diaphragm microphones">dual-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/multipattern" alt="multipattern microphones">multipattern</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformerless" alt="transformerless microphones">transformerless</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/center-terminated" alt="center-terminated microphones">center-terminated</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/condenser" alt="condenser microphones">condenser</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/hpf" alt="hpf microphones">hpf</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/battery-power" alt="battery-power microphones">battery-power</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/tripolar" alt="tripolar microphones">tripolar</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.soundonsound.com/sos/1997_articles/jun97/cadequitek.html">Sound On Sound, 1997-06</a></li>
+                                                                </ul>                    
+                                        <h3>Equitek E-300 Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="image"><a rel="shadowbox" href="http://recordinghacks.com/images/mic_extras/cad/E300-schematic.png">E300 Schematic</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="1167-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="1167-1" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="1167-2" src="//cdn.recordinghacks.com/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ></span>CAD Audio Equitek E-300</h2>
+                    
+                    <h2 class="sub">                    Multi-Pattern Condenser Microphone</h2>
+                    <p>The Equitek E-300 is a large-diaphragm, multipattern solid-state condenser manufactured in Conneaut, OH by CAD in the late 1990s.</p><p>It used a proprietary, center-terminated capsule that was imported from China. A later revision of this microphone, the E-350, used an &#8220;Optema&#8221; capsule built in CAD&#8217;s factory in Conneaut, OH.</p><p>As part of the original Equitek product line, the E-300 was powered by a pair of internal rechargeable batteries, and used Op Amps in place of FETs within the amplifier circuit. Its output circuit was transformerless.</p><p><img src="//cdn.recordinghacks.com/images/mic_extras/cad/e300-switches.jpg" width="200" class="thumb shaft" alt="E-300 Switches" />Four switches below the headbasket allow the following controls:</p><ul><li>Battery power on/off. The microphone&#8217;s internal batteries can be recharged via phantom power, but the actual power for the capsule is delivered by a pair of internal NiCad batteries.</li><li>Polar Pattern: Omni, Figure-of-8, Cardioid</li><li>High-pass filter</li><li>-20dB pad (non-capacitative)</li></ul><p><img src="//cdn.recordinghacks.com/images/mic_extras/cad/E300-btm.jpg" width="200" class="thumb shaft" alt="E-300 Base" /></p><blockquote><p><cite>CTI Audio, 1998</cite></p><p>The Equitek E300 combines a vintage capsule design with advanced electronics. Typical FET (field effect transistor) condenser microphones use discrete designs. This means they use individual transistors that must be carefully matched for proper characteristics. Even with careful matching, discrete designs are inherently nonlinear. Equitek microphones use a different approach. We do not use any discrete FETs. Instead, we use advanced high speed OpAmps (Operational Amplifiers). These OpAmps are individually laser trimmed for optimum performance and have very high gain. This allows a large amount of negative feedback to be used to significantly reduce any non-linearity. During transients, these OpAmps may require more current than typical phantom power supplies can deliver. The extra current demands are accommodated by our unique power supply design. Instead of using phantom power to operate the microphone, we use it to charge a pair of rechargeable NiCad batteries. This system creates a huge current reserve for the microphone&#8217;s electronics, yet there is no maintenance involved because the microphone automatically keeps the batteries charged during use. The use of OpAmps is not the only unique feature of Equitek microphones. For example, we also employ servo circuitry to minimize DC offset and eliminate interstage coupling capacitors.</p></blockquote><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/cad/E300-side.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/cad/E300-side-sm.jpg" class="thumb shaft" alt="Equitek E-300" width="133" /></a>By late 2001, the E-300 had been replaced in CAD&#8217;s product line by the E-350, which was physically identical (aside from the badge).</p><p>The E-300 shipped with a stand adapter (CAD p/n SM1) and an elastic shockmount (p/n ZM1), packed into a padded plastic storage case.</p><blockquote><p><cite>Sound On Sound, 1997</cite></p><p>It was quite superb on spoken voice, particularly when used very close, and once again, it was very hard to make the thing pop or bump! On dynamic acoustic guitar recordings, it came up trumps, being very accurate and detailed, and coping extremely well with the complexities of 12-string harmonics.</p></blockquote><p><p>Permalink: <a href="//recordinghacks.com/microphones/CAD/Equitek-E300">CAD Audio Equitek-E300</a></p>
+                    <h3>Specifications</h3>
+                                        
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                                                                Omnidirectional
+                                             (17.8 mV/Pa; 10 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                <span class="shaft" id="anchor1623"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show1623">CHART</button></span>                                            Cardioid
+                                             (17.8 mV/Pa; 10 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                                                            Bidirectional
+                                             (17.8 mV/Pa; 10 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                    <li>Pad: -20dB<small> (Via Switch)</small></li>
+                                                                    </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Capsule Dimensions</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                                                                                                        Diaphragm diameter: 28mm<br />
+                                                                                                                                                                                                </td>
+                            <td>200 Ohms <em class="mute">(Low)</em></td>
+                            <td>                                Self-noise: 11.0 dB(A)</td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>855g <em class="mute">(30.16oz)</em></td>
+                            <td>227mm <em class="mute">(8.94&#39;&#39;)</em></td>
+                            <td>63mm <em class="mute">(2.48&#39;&#39;)</em></td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                        <li>Requires phantom power </li>
+                                                                                                <li>Has battery compartment (NiCad) </li>
+                                                                                                                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+             
+<script type="text/javascript">
+        YAHOO.namespace("freq");
+
+        function init_freq_graphs() {
+
+            YAHOO.freq.chartPanel1623 = new YAHOO.widget.Panel("chartPanel1623",  {  context:["anchor1623", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel1623.render();
+                
+            YAHOO.freq.manager = new YAHOO.widget.OverlayManager(); 
+            YAHOO.freq.manager.register([YAHOO.freq.chartPanel1623,
+                                                   ]);
+                    YAHOO.util.Event.addListener("show1623", "click", YAHOO.freq.chartPanel1623.show, YAHOO.freq.chartPanel1623, true);
+            YAHOO.util.Event.addListener("hide1623", "click", YAHOO.freq.chartPanel1623.hide, YAHOO.freq.chartPanel1623, true);
+            YAHOO.util.Event.addListener("focus1623", "click", YAHOO.freq.chartPanel1623.focus, YAHOO.freq.chartPanel1623, true);
+        
+
+
+        }
+        YAHOO.util.Event.addListener(window, "load", init_freq_graphs);
+</script>
+
+
+<div id="chartPanel1623" style="visibility:hidden">
+    <div class="hd"><span>CAD Audio Equitek E-300 Frequency Chart: Cardioid</span></div>
+    <div class="bd">
+    <img name="graph1623" src="http://recordinghacks.com/images/graphs/cad/e300-freq.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+    <script type="text/javascript">
+    function swap_graph(id) {
+        if (1==0) {}
+    }
+    </script>
+
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('1167-0');uniqueids.push('1167-1');uniqueids.push('1167-2');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

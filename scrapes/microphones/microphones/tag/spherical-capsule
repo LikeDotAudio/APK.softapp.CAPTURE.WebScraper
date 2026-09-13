@@ -1,0 +1,173 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>spherical-capsule microphones | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+                
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+			<div id="content">
+                <div id="sidebar">                  
+                    					<h2 class="search">search for mics</h2>
+					<form action="/microphones" method="POST">
+										<script language="JavaScript" type="text/javascript">
+function clearText(field){
+
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+
+}
+					</script>
+						<fieldset>
+						    <input type="text" name="s" size="20" value="Microphone name or model number" style="color: #667;margin-left: 0;margin-bottom: 8px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)"><br />
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<fieldset class="checks">
+							<span class="shaft">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+							</span>
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">&nbsp;<input style="font-size: 8px" type="reset" name="button" value="Reset Form">
+						</fieldset>
+					</form>
+                            <p></p><h3>Definition of "spherical-capsule":</h3><p>Mics tagged <b>spherical capsule</b> employ a small-diaphragm condenser capsule inset into an acrylic (aka perspex or lucite) sphere, usually about 4cm in diameter, so that the diaphragm of the capsule is flush with the face of the sphere. </p><p>This design was developed by Neumann, working in conjunction with NWDR Laboratories (Northwest German Broadcast labs), around 1948. It was first introduced with the M48 capsule head for the company&#8217;s bottle mics such as the CMV 3. It was more famously used in the M50 omnidirectional tube microphone.</p><p>The sphere alters the frequency response of the capsule, essentially emphasizing the high frequency response. The result is extremely well-suited to ambient miking techniques such as orchestral recording, in which the recordist would otherwise need to enhance the HF content via outboard EQ.</p>
+<h3>Refine Search</h3><p>Find mics tagged '<b>spherical-capsule</b> AND:'</p> 
+<p><a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule+side-address" title="Mics tagged spherical-capsule AND side-address">side-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule+transformerless" title="Mics tagged spherical-capsule AND transformerless">transformerless</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule+condenser" title="Mics tagged spherical-capsule AND condenser">condenser</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule+nickel-diaphragm" title="Mics tagged spherical-capsule AND nickel-diaphragm">nickel-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule+titanium-diaphragm" title="Mics tagged spherical-capsule AND titanium-diaphragm">titanium-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule+tec-award" title="Mics tagged spherical-capsule AND tec-award">tec-award</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule+k33" title="Mics tagged spherical-capsule AND k33">k33</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule+k33ti" title="Mics tagged spherical-capsule AND k33ti">k33ti</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule+large-diaphragm" title="Mics tagged spherical-capsule AND large-diaphragm">large-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule+tube" title="Mics tagged spherical-capsule AND tube">tube</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule+6111" title="Mics tagged spherical-capsule AND 6111">6111</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule+5840" title="Mics tagged spherical-capsule AND 5840">5840</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule+ef732" title="Mics tagged spherical-capsule AND ef732">ef732</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule+transformer-coupled" title="Mics tagged spherical-capsule AND transformer-coupled">transformer-coupled</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule+ami" title="Mics tagged spherical-capsule AND ami">ami</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule+small-diameter" title="Mics tagged spherical-capsule AND small-diameter">small-diameter</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule+pvc" title="Mics tagged spherical-capsule AND pvc">pvc</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule+ac701" title="Mics tagged spherical-capsule AND ac701">ac701</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule+kk83" title="Mics tagged spherical-capsule AND kk83">kk83</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule+msc2" title="Mics tagged spherical-capsule AND msc2">msc2</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule+kk50" title="Mics tagged spherical-capsule AND kk50">kk50</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule+kk53" title="Mics tagged spherical-capsule AND kk53">kk53</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule+b4" title="Mics tagged spherical-capsule AND b4">b4</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule+center-terminated" title="Mics tagged spherical-capsule AND center-terminated">center-terminated</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule+single-diaphragm" title="Mics tagged spherical-capsule AND single-diaphragm">single-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule+swivel-head" title="Mics tagged spherical-capsule AND swivel-head">swivel-head</a> </p>
+<h3>Expand Search</h3><p>Find mics tagged '<b>spherical-capsule</b> OR:'</p>
+<p><a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule|side-address" title="Mics tagged spherical-capsule OR side-address">side-address</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule|transformerless" title="Mics tagged spherical-capsule OR transformerless">transformerless</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule|condenser" title="Mics tagged spherical-capsule OR condenser">condenser</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule|nickel-diaphragm" title="Mics tagged spherical-capsule OR nickel-diaphragm">nickel-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule|titanium-diaphragm" title="Mics tagged spherical-capsule OR titanium-diaphragm">titanium-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule|tec-award" title="Mics tagged spherical-capsule OR tec-award">tec-award</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule|k33" title="Mics tagged spherical-capsule OR k33">k33</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule|k33ti" title="Mics tagged spherical-capsule OR k33ti">k33ti</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule|large-diaphragm" title="Mics tagged spherical-capsule OR large-diaphragm">large-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule|tube" title="Mics tagged spherical-capsule OR tube">tube</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule|6111" title="Mics tagged spherical-capsule OR 6111">6111</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule|5840" title="Mics tagged spherical-capsule OR 5840">5840</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule|ef732" title="Mics tagged spherical-capsule OR ef732">ef732</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule|transformer-coupled" title="Mics tagged spherical-capsule OR transformer-coupled">transformer-coupled</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule|ami" title="Mics tagged spherical-capsule OR ami">ami</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule|small-diameter" title="Mics tagged spherical-capsule OR small-diameter">small-diameter</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule|pvc" title="Mics tagged spherical-capsule OR pvc">pvc</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule|ac701" title="Mics tagged spherical-capsule OR ac701">ac701</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule|kk83" title="Mics tagged spherical-capsule OR kk83">kk83</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule|msc2" title="Mics tagged spherical-capsule OR msc2">msc2</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule|kk50" title="Mics tagged spherical-capsule OR kk50">kk50</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule|kk53" title="Mics tagged spherical-capsule OR kk53">kk53</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule|b4" title="Mics tagged spherical-capsule OR b4">b4</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule|center-terminated" title="Mics tagged spherical-capsule OR center-terminated">center-terminated</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule|single-diaphragm" title="Mics tagged spherical-capsule OR single-diaphragm">single-diaphragm</a> <a rel="nofollow" href="//recordinghacks.com/microphones/tag/spherical-capsule|swivel-head" title="Mics tagged spherical-capsule OR swivel-head">swivel-head</a> </p>
+                </div><!-- /#sidebar -->
+                <div id="column" style="width: auto">
+						    <h2>Mics tagged: spherical-capsule</h2>
+			    <table>
+				                    <tr><td><a title="Neumann TLM 50 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Neumann/TLM-50" ><img src="//cdn.recordinghacks.com/images/mics/00916/00916_75.jpg" width="75" height="75" alt="Neumann TLM 50" title="Neumann TLM 50"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="916-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="Neumann TLM 50 - Features, Specifications, Datasheet" href="/microphones/Neumann/TLM-50"><strong>Neumann TLM 50</strong></a><br />
+                        Omnidirectional Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="nickel-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/nickel-diaphragm">nickel-diaphragm</a>, <a title="titanium-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/titanium-diaphragm">titanium-diaphragm</a>, <a title="tec-award microphones"  href="//recordinghacks.com/microphones/tag/tec-award">tec-award</a>, <a title="spherical-capsule microphones"  href="//recordinghacks.com/microphones/tag/spherical-capsule">spherical-capsule</a>, <a title="k33 microphones"  href="//recordinghacks.com/microphones/tag/k33">k33</a>, <a title="k33ti microphones"  href="//recordinghacks.com/microphones/tag/k33ti">k33ti</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Neumann M 150 Tube - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Neumann/M-150" ><img src="//cdn.recordinghacks.com/images/mics/00915/00915_75.jpg" width="75" height="75" alt="Neumann M 150 Tube" title="Neumann M 150 Tube"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="915-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="Neumann M 150 Tube - Features, Specifications, Datasheet" href="/microphones/Neumann/M-150"><strong>Neumann M 150 Tube</strong></a><br />
+                        Omnidirectional Tube Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="large-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/large-diaphragm">large-diaphragm</a>, <a title="tube microphones"  href="//recordinghacks.com/microphones/tag/tube">tube</a>, <a title="transformerless microphones"  href="//recordinghacks.com/microphones/tag/transformerless">transformerless</a>, <a title="titanium-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/titanium-diaphragm">titanium-diaphragm</a>, <a title="tec-award microphones"  href="//recordinghacks.com/microphones/tag/tec-award">tec-award</a>, <a title="spherical-capsule microphones"  href="//recordinghacks.com/microphones/tag/spherical-capsule">spherical-capsule</a>, <a title="6111 microphones"  href="//recordinghacks.com/microphones/tag/6111">6111</a>, <a title="k33 microphones"  href="//recordinghacks.com/microphones/tag/k33">k33</a>, <a title="k33ti microphones"  href="//recordinghacks.com/microphones/tag/k33ti">k33ti</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Bock Audio 50 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/bock-audio/50" ><img src="//cdn.recordinghacks.com/images/mics/00911/00911_75.jpg" width="75" height="75" alt="Bock Audio 50" title="Bock Audio 50"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="911-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="Bock Audio 50 - Features, Specifications, Datasheet" href="/microphones/bock-audio/50"><strong>Bock Audio 50</strong></a><br />
+                        Omnidirectional Tube Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="tube microphones"  href="//recordinghacks.com/microphones/tag/tube">tube</a>, <a title="5840 microphones"  href="//recordinghacks.com/microphones/tag/5840">5840</a>, <a title="ef732 microphones"  href="//recordinghacks.com/microphones/tag/ef732">ef732</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="ami microphones"  href="//recordinghacks.com/microphones/tag/ami">ami</a>, <a title="spherical-capsule microphones"  href="//recordinghacks.com/microphones/tag/spherical-capsule">spherical-capsule</a>, <a title="small-diameter microphones"  href="//recordinghacks.com/microphones/tag/small-diameter">small-diameter</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Neumann M 50 - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Neumann/M-50" ><img src="//cdn.recordinghacks.com/images/mics/00910/00910_75.jpg" width="75" height="75" alt="Neumann M 50" title="Neumann M 50"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="910-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="Neumann M 50 - Features, Specifications, Datasheet" href="/microphones/Neumann/M-50"><strong>Neumann M 50</strong></a><br />
+                        Omnidirectional Tube Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="tube microphones"  href="//recordinghacks.com/microphones/tag/tube">tube</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="pvc microphones"  href="//recordinghacks.com/microphones/tag/pvc">pvc</a>, <a title="ac701 microphones"  href="//recordinghacks.com/microphones/tag/ac701">ac701</a>, <a title="kk83 microphones"  href="//recordinghacks.com/microphones/tag/kk83">kk83</a>, <a title="msc2 microphones"  href="//recordinghacks.com/microphones/tag/msc2">msc2</a>, <a title="spherical-capsule microphones"  href="//recordinghacks.com/microphones/tag/spherical-capsule">spherical-capsule</a>, <a title="kk50 microphones"  href="//recordinghacks.com/microphones/tag/kk50">kk50</a>, <a title="kk53 microphones"  href="//recordinghacks.com/microphones/tag/kk53">kk53</a><br />                        </td></tr>
+	
+                                    <tr><td><a title="Blue Microphones OmniMouse - Features, Specifications, Datasheet" href="http://recordinghacks.com/microphones/Blue-Microphones/OmniMouse" ><img src="//cdn.recordinghacks.com/images/mics/00262/00262_75.jpg" width="75" height="75" alt="Blue Microphones OmniMouse" title="Blue Microphones OmniMouse"   ></a></td>
+                        <td><span class="shaft">
+					    					    <img id="262-0" src="/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" >                        </span>
+                        <a title="Blue Microphones OmniMouse - Features, Specifications, Datasheet" href="/microphones/Blue-Microphones/OmniMouse"><strong>Blue Microphones OmniMouse</strong></a><br />
+                        Omnidirectional Condenser Microphone<br />
+                        <a title="side-address microphones"  href="//recordinghacks.com/microphones/tag/side-address">side-address</a>, <a title="b4 microphones"  href="//recordinghacks.com/microphones/tag/b4">b4</a>, <a title="transformer-coupled microphones"  href="//recordinghacks.com/microphones/tag/transformer-coupled">transformer-coupled</a>, <a title="center-terminated microphones"  href="//recordinghacks.com/microphones/tag/center-terminated">center-terminated</a>, <a title="condenser microphones"  href="//recordinghacks.com/microphones/tag/condenser">condenser</a>, <a title="single-diaphragm microphones"  href="//recordinghacks.com/microphones/tag/single-diaphragm">single-diaphragm</a>, <a title="swivel-head microphones"  href="//recordinghacks.com/microphones/tag/swivel-head">swivel-head</a>, <a title="spherical-capsule microphones"  href="//recordinghacks.com/microphones/tag/spherical-capsule">spherical-capsule</a><br />                        </td></tr>
+	
+                                </table>
+
+
+                 <!-- end of $nada test -->
+                </div><!-- /#column -->
+			</div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('916-0');uniqueids.push('915-0');uniqueids.push('911-0');uniqueids.push('910-0');uniqueids.push('262-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

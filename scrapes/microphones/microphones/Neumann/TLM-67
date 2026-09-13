@@ -1,0 +1,276 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Neumann TLM 67 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="TLM 67, Multi-Pattern Condenser Microphone , aka: TLM67, TLM-67 - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/Neumann/TLM-67" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The capsules in the U87Ai and TLM67 are acoustically identical." href="//recordinghacks.com/microphones/Neumann/U-87-Ai"><img src="//cdn.recordinghacks.com/images/mics/00689/00689_75.jpg" width="75" height="75" alt="The capsules in the U87Ai and TLM67 are acoustically identical." title="The capsules in the U87Ai and TLM67 are acoustically identical."   ><br /><span>Neumann U 87 Ai</span></a></li>
+                                                    <li class="mictile"><a title="The TLM 67 is said to be a modern version of the U 67." href="//recordinghacks.com/microphones/Neumann/U-67"><img src="//cdn.recordinghacks.com/images/mics/01152/01152_75.jpg" width="75" height="75" alt="The TLM 67 is said to be a modern version of the U 67." title="The TLM 67 is said to be a modern version of the U 67."   ><br /><span>Neumann U 67</span></a></li>
+                                                    <li class="mictile"><a title="The U67-CG is built from a TLM 67." href="//recordinghacks.com/microphones/Cathedral-Guitars/CG-U67"><img src="//cdn.recordinghacks.com/images/mics/01621/01621_75.jpg" width="75" height="75" alt="The U67-CG is built from a TLM 67." title="The U67-CG is built from a TLM 67."   ><br /><span>Cathedral Guitars U 67 CG</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/Neumann">Neumann microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Neumann TLM 67" href="/microphone-photo/00506/Neumann/TLM-67.jpg"><img src="//cdn.recordinghacks.com/images/mics/00506/00506_172.jpg" width="172" height="76" alt="Neumann TLM 67" title="Neumann TLM 67" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $3,858</li>
+                                                            </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/side-address" alt="side-address microphones">side-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/externally-biased" alt="externally-biased microphones">externally-biased</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/multipattern" alt="multipattern microphones">multipattern</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/k67" alt="k67 microphones">k67</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformerless" alt="transformerless microphones">transformerless</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/condenser" alt="condenser microphones">condenser</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/hpf" alt="hpf microphones">hpf</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/tec-award" alt="tec-award microphones">tec-award</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.neumann.com/?lang=en&id=current_microphones&cid=tlm67_description">TLM 67 Product Description</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/proaudioreview_ldc_200901.pdf">PAR LDC Shootout, 2009-01</a></li>
+                                                                    <li id="www"><a  href="http://www.proaudioreview.com/article/18510">ProAudioReview, 2008-10</a></li>
+                                                                    <li id="www"><a  href="http://www1.mipa-award.de/2009/winner.htm#Pro%20Audio">TLM67 - 2009 MIPA Award</a></li>
+                                                                </ul>                    
+                                        <h3>TLM 67 Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/neumann/TLM67-brochure.pdf">TLM 67 Product Brochure</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/neumann/TLM67-guide.pdf">TLM 67 User Guide</a></li>
+                                                                </ul>                    
+                                        <h3>TLM 67 Awards</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a href="//recordinghacks.com/awards#6">2009 TEC Awards</a></li>
+                                        </ul>                    
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="506-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="506-1" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ><img id="506-2" src="//cdn.recordinghacks.com/images/icons/patterns/icon_8.png" width=27 height=27 alt="Bidirectional" title="Bidirectional" ></span>Neumann TLM 67</h2>
+                    
+                    <h2 class="sub">                    Multi-Pattern Condenser Microphone</h2>
+                    <p>Billed as a &#8220;contemporary development of the legendary U 67,&#8221; the TLM 67 is a dual-diaphragm, three-pattern, large-diaphragm microphone built on the K67 capsule made famous by Neumann&#8217;s U67.</p><p>Unlike the U67, this is a solid state mic. Whereas the U67 had a tube and transformer, the TLM 67 has neither. Neumann claims its &#8220;new circuit design &#8230; closely reproduces the U 67 sound characteristics.&#8221;</p><p>The <em>TLM</em> model designation stands for <em>transformatorloses Mikrophon,</em> or in English, &#8220;transformerless microphone.&#8221; </p><p>The mic&#8217;s review in PAR offered an explanation of the K67 capsules used in this mic and the U87/Ai:</p><blockquote><p><cite>Juergen Breitlow/Neumann</cite></p><p>The capsules <a href="http://recordinghacks.com/microphones/tag/k67">K67</a>, K87 and <a href="http://recordinghacks.com/microphones/tag/k870">K870</a> are acoustically identical (the K87 and K870 are used in the U 87i and U 87Ai, respectively). There is an electrical difference between the K67 and K870 on one side and the K87 on the other side: The &#8216;half&#8217; electrodes in the K87 are isolated against each other, which requires four wires to connect the capsule to the circuit. In the K67 and K870, the electrodes are electrically connected.</p></blockquote><p>The TLM 67 has a -10dB pad and a switchable high-pass filter (approx. -6dB @ 150Hz), controlled from the back of the microphone body.</p><p>The max SPL (with pad engaged) varies with pickup pattern:</p><ul><li>Cardioid: 115 dB</li><li>Omni: 125 dB</li><li>Figure-8: 125 dB</li></ul><p>However, Neumann recommends avoiding the use of the pad unless the mic, or downstream devices exhibit signs of overload.</p><p><a href="//cdn.recordinghacks.com/images//mic_extras/neumann/neumann_badge_detail.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/neumann/neumann_badge_detail_sm.jpg" width="150" height="120" alt="Neumann TLM67 logo badge" class="thumb shaft" /></a>In celebration of the company&#8217;s 80th anniversary, Neumann has created a commemorative badge bearing the profile of company Georg Neumann.</p><blockquote><p><cite>Pro Audio Review</cite></p><p>The TLM 67 offers the K67 capsule, three patterns, -10 dB pad, an EA 87 suspension mount, and case. Its big, warm sound screamed U 67, even without a tube present.</p><p>The 67 excelled in drum-kit reproduction with a punch in the lows, without tubbiness and with a smoothness of highs that needed no EQ (highly recommended for overheads or room mics). Electric guitar was very nice and smooth, but that low-mid bump often needed subtractive EQ; it is good for jazz or clean tones, not so good for heavy distortion or &#8220;carved out mids&#8221; type tracks.</p></blockquote><p></p><blockquote><p><cite>Pro Audio Review</cite></p><p>For about six years, I&#8217;ve been suggesting that mic design needed to change because, with good digital recording, the extra HF boost needed to overcome analog tape HF loss is no longer needed. The TLM 67 reflects that kind of change in design; it&#8217;s audibly more linear &#8212; and more neutral &#8212; than the <a href="http://recordinghacks.com/microphones/Neumann/U-87-Ai">U87</a>, with more attention to midrange.</p></blockquote><p>The TLM 67 won top honors for studio microphones in the 2009 Musikmesse International Press Awards (see sidebar link).</p><p>The TLM67 won a TEC award in 2009, named as the &#8220;Studio Mic of the Year.&#8221;<p>The <a href="//recordinghacks.com/microphones/Neumann/TLM-67">Neumann TLM 67</a> is also known as: TLM67, TLM-67.</p><p>The mic was released in 2008.</p>
+                    <h3>Specifications</h3>
+                                        
+                    <table>
+                                                    <tr><th>Frequency Response - Omnidirectional<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/0616" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/0/0616.png" width=476 height=159 alt="TLM 67 Omnidirectional Frequency Response Chart" title="TLM 67 Omnidirectional Frequency Response Chart" border=0 /></td></tr>
+                                                        <tr><th>Frequency Response - Cardioid<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/0615" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/0/0615.png" width=476 height=159 alt="TLM 67 Cardioid Frequency Response Chart" title="TLM 67 Cardioid Frequency Response Chart" border=0 /></td></tr>
+                                                        <tr><th>Frequency Response - Bidirectional<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/0617" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/0/0617.png" width=476 height=159 alt="TLM 67 Bidirectional Frequency Response Chart" title="TLM 67 Bidirectional Frequency Response Chart" border=0 /></td></tr>
+                            </table>
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                                                                Omnidirectional
+                                             (10 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                                                            Cardioid
+                                             (18 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                                                            Bidirectional
+                                             (9 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                    <li>Pad: -10dB<small> (Via Switch)</small></li>
+                                                                        <li>Filter: HPF: -6dB @ 150 Hz<small> (Via Switch)</small></li>
+                                                                    </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Capsule Dimensions</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                                                                                                        Capsule diameter: 34mm<br />
+                                                                                Diaphragm gauge: 6 microns                                                                    </td>
+                            <td>50 Ohms <em class="mute">(Low)</em></td>
+                            <td>Max SPL: 115 dB<br />                                Self-noise: 11.0 dB(A)</td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>490g <em class="mute">(17.28oz)</em></td>
+                            <td>200mm <em class="mute">(7.87&#39;&#39;)</em></td>
+                            <td>56mm <em class="mute">(2.20&#39;&#39;)</em></td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                        <li>Requires phantom power </li>
+                                                                                                                                                                                <li>Phantom voltage: 48v</li>
+                                        </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('506-0');uniqueids.push('506-1');uniqueids.push('506-2');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

@@ -1,0 +1,359 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Neumann SM 69 fet | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="SM 69 fet, Multi-Pattern Condenser Stereo Microphone , aka: SM69 - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/Neumann/SM-69-fet" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The USM69 and SM69Fet share capsules and amplifier circuits." href="//recordinghacks.com/microphones/Neumann/USM-69-i"><img src="//cdn.recordinghacks.com/images/mics/01062/01062_75.jpg" width="75" height="75" alt="The USM69 and SM69Fet share capsules and amplifier circuits." title="The USM69 and SM69Fet share capsules and amplifier circuits."   ><br /><span>Neumann USM 69</span></a></li>
+                                                    <li class="mictile"><a title="The SM 69 fet uses the same capsule as the U87." href="//recordinghacks.com/microphones/Neumann/U-87-Ai"><img src="//cdn.recordinghacks.com/images/mics/00689/00689_75.jpg" width="75" height="75" alt="The SM 69 fet uses the same capsule as the U87." title="The SM 69 fet uses the same capsule as the U87."   ><br /><span>Neumann U 87 Ai</span></a></li>
+                                                    <li class="mictile"><a title="The SM 69 fet was a solid-state version of the SM 69." href="//recordinghacks.com/microphones/Neumann/SM-69"><img src="//cdn.recordinghacks.com/images/mics/01067/01067_75.jpg" width="75" height="75" alt="The SM 69 fet was a solid-state version of the SM 69." title="The SM 69 fet was a solid-state version of the SM 69."   ><br /><span>Neumann SM 69</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/Neumann">Neumann microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                            <a name="mods"></a><div class="graybox"><h3>Mods for the SM 69 fet</h3>
+                        <ul class="mod_list">
+                                                    <li style="font-family: Georgia, Serif;"><b>The Mic Shop</b><a href="//recordinghacks.com/microphones/MicShop"><img style="border: 0; padding: 0 0 6px 3px" src="//recordinghacks.com/images/logos/logo_micshop.jpg" height=75 width=75 alt="The Mic Shop" /></a>                            <br />Bill Bradley restores vintage mics in Nashville, TN.</li>
+                                                </ul><br clear="all" />
+                    </div>            
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Neumann SM 69 fet" href="/microphone-photo/01063/Neumann/SM-69-fet.jpg"><img src="//cdn.recordinghacks.com/images/mics/01063/01063_172.jpg" width="172" height="80" alt="Neumann SM 69 fet" title="Neumann SM 69 fet" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: n/a</li>
+                                        <li id="none"><em>Discontinued</em></li>                    </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/side-address" alt="side-address microphones">side-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/large-diaphragm" alt="large-diaphragm microphones">large-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/stereo" alt="stereo microphones">stereo</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/k67" alt="k67 microphones">k67</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformer-coupled" alt="transformer-coupled microphones">transformer-coupled</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/center-terminated" alt="center-terminated microphones">center-terminated</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/condenser" alt="condenser microphones">condenser</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/dual-capsule" alt="dual-capsule microphones">dual-capsule</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/mid-side" alt="mid-side microphones">mid-side</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/xy-stereo" alt="xy-stereo microphones">xy-stereo</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/k870" alt="k870 microphones">k870</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="forum"><a  href="http://www.neumann.com/forums/view.php?bn=neumann_mictec&amp;key=1146577558&amp;v=f">Klaus Heyne: CU48 vs. NS69</a></li>
+                                                                </ul>                    
+                                        <h3>SM 69 fet Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/neumann/file4e6be2790a670">SM 69 fet Brochure(GERMAN)</a></li>
+                                                                    <li id="image"><a rel="shadowbox" href="http://recordinghacks.com/images/mic_extras/neumann/SM69fet-schematic.png">SM 69 Fet Schematic</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/neumann/SM_69_FET_Manual">SM 69 fet Manual</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img src="//cdn.recordinghacks.com/images/icons/patterns/icon_9.png" id="1063-0" width=27 height=27 alt="9 polar patterns" title="Cardioid, Omni, Figure 8, and six intermediate positions" ></span>Neumann SM 69 fet</h2>
+                    
+                    <h2 class="sub">                    Multi-Pattern Condenser Stereo Microphone</h2>
+                    <p>The SM 69 fet was a second-generation large-diaphragm stereo microphone &#8212; essentially a FET version of the SM 69 tube microphone.</p><p>Both used a pair of capsules from Neumann&#8217;s K67 family, mounted one atop another, with the top capsule having the ability to be rotated 270&deg; against the bottom (presumably, -90&deg;&ndash;+180&deg; like the USM 69). The capsule is Neumann&#8217;s K870, a 34mm design with dual 26mm diaphragms made of gold-plated Mylar. The same capsule is used in the U87.</p><p>Each capsule could be switched among Omnidirectional, Cardioid, Figure-8, and six intermediate patterns including Hypercardioid and Wide Cardioid. Pattern switches were not on the microphone body, as with later designs such as the USM 69, but rather on an external power supply and switchbox.</p><p>The following external switchbox options were made:</p><ul><li><b>CU48(i), CK48K</b> - operates via phantom-power supplied by the console or DAW; uses an internal DC-DC converter to create the necessary voltage from the +48V input</li><li><b>NS 69</b> - AC-powered, with 5-pin audio output jack</li><li><b>NS 69 i</b> - AC-powered, with dual 3-pin Switchcraft audio connectors</li></ul><p></p><blockquote><p><cite>Klaus Heyne</cite></p><p>You cannot use the audio straight out of the CU 48 converter box, because you need to remove (decouple) the phantom power DC voltage from the audio (AC) before it can be processed in the mic pre.</p><p>The CU 48 does not provide DC- blocking&#8230; The removal of DC from the AC audio conductors has to be done SOMEWHERE. </p><p>DC-blocking is typically and cheaply done with band-limiting and audio-distorting de-coupling capacitors mounted before the input in the board/mic pre.</p><p>The ultimate performance from an SM69 mic when using a CU48 can ONLY be obtained by hooking it up to a mic pre with transformer inputs.</p></blockquote><p>The combination of multi-pattern support and a rotating top capsule assembly allows the SM 69 fet to support a variety of single-point stereo pickup patterns:</p><ul><li><b>X-Y</b> - With both capsules set to Cardioid, rotate the top capsule 45&deg;&ndash;120&deg;.</li><li><b>Mid-Side</b> - Set the lower capsule (&#8220;Mid&#8221; channel) to Cardioid; set the top (&#8220;Side channel&#8221;) to Figure-8 and rotate it 90&deg;.</li><li><b>Blumlein</b> - With both capsules set to Figure-8, rotate the top capsule 90&deg;.</li></ul><p>Having two capsules in close proximity yields additional benefits, such as having a backup if one capsule or amplifier or downstream input channel dies during a critical recording.</p><blockquote><p><cite>Fletcher</cite></p><p>One trick I love to do with [the SM69 fet] is to put it on a very dynamic singer&#8230; pick which of the two capsules sounds best for when they&#8217;re singing quietly and use the other for when they&#8217;re singing loudly.</p><p>The way I get the two to switch over is to give the one that is meant for the quiet passages about 10db more gain on the mic pre than the one for the louder passages&#8230; then set up a compressor that will pull the output of the &#8220;soft passage&#8221; capsule back about 13&ndash;15db when the singer gets loud&#8230; and sum the output of the two to one channel&#8230; which effectively acts like an &#8220;automatic mixer&#8221; where I can get a very even vocal level without the apparent effects of heavy compression.</p></blockquote><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/neumann/SM69fet-schematic.png"><img src="//cdn.recordinghacks.com/images/mic_extras/neumann/SM69fet-schematic-sm.png" class="thumb shaft" alt="SM 69 fet Schematic" width="200" /></a>The microphone body contains two separate amplifier circuits; the output of each capsule is of course available separately via an XLR3M jack on the external power supply.</p><p><em>How does the <b>SM 69 fet</b> differ from the <b>USM 69</b>?</em></p><ul><li>The polar patterns of the SM 69 fet are selected via &#8220;remote control,&#8221; on an external power supply/switchbox such as Neumann&#8217;s NS 69 (or NS 69 i). This allows the microphone to be used in &#8220;installed&#8221; applications while retaining the ability to change polar patterns. On the USM69, the pattern control switches are on the mic body, and there is no need for an external hardware device.</li><li>The SM 69 fet used a 12-pin Tuchel connector. The USM 69 uses a 5-pin XLR (XLR5M) connector.</li><li>The two capsules of the SM 69 fet provided 9 polar patterns apiece. In the USM69, the pattern switches only support 5 polar patterns.</li><li>The SM 69 fet had higher sensitivity (19 mV/Pa vs. 13 mV/Pa).</li><li>The SM 69 fet has less headroom; its max SPL is 123dB (vs. 132dB).</li><li>The SM 69 fet has been discontinued. As of 2010, the USM 69 i is still manufactured.</li></ul><p>The published frequency-response graphs for the SM 69 fet and USM 69 are identical.</p><p>The SM 69 fet was available in two models:</p><ul><li><b>SM 69 fet</b> - 12-pin Amphenol-Tuchel connector, nickel finish (p/n 06410)</li><li><b>SM 69 fet mt</b> - 12-pin Amphenol-Tuchel connector, matte gray finish (p/n 06412)</li></ul><p><p>The <a href="//recordinghacks.com/microphones/Neumann/SM-69-fet">Neumann SM 69 fet</a> is also known as: SM69.</p><p>The mic was released in 1970.</p>
+                    <h3>Specifications</h3>
+                                        
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                    <span class="shaft" id="anchor1452"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show1452">CHART</button></span>                                            Omnidirectional
+                                             (19 mV/Pa; 40 - 16,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                <span class="shaft" id="anchor1454"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show1454">CHART</button></span>                                            Cardioid
+                                             (19 mV/Pa; 40 - 16,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                <span class="shaft" id="anchor1453"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show1453">CHART</button></span>                                            Hypercardioid
+                                             (19 mV/Pa; 40 - 16,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                <span class="shaft" id="anchor1456"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show1456">CHART</button></span>                                            Bidirectional
+                                             (19 mV/Pa; 40 - 16,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                <span class="shaft" id="anchor1455"><button style="margin: 0; padding: 0; line-height: 6px; font-size: 8px" id="show1455">CHART</button></span>                                            Wide Cardioid
+                                             (19 mV/Pa; 40 - 16,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Capsule Dimensions</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                                                                                                        Diaphragm diameter: 26mm<br />
+                                                                                            Capsule diameter: 34mm<br />
+                                                                                                                                                                                                </td>
+                            <td>200 Ohms <em class="mute">(Low)</em></td>
+                            <td>Max SPL: 123 dB<br />                                Self-noise: 13.0 dB(A)</td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>465g <em class="mute">(16.40oz)</em></td>
+                            <td>260mm <em class="mute">(10.24&#39;&#39;)</em></td>
+                            <td>n/a</td>
+                            <td><ul><li>3-pin XLR male (2)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                        <li>Requires phantom power </li>
+                                                                                                                                                                                <li>Phantom voltage: 48&plusmn;4v</li>
+                                        </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+             
+<script type="text/javascript">
+        YAHOO.namespace("freq");
+
+        function init_freq_graphs() {
+
+            YAHOO.freq.chartPanel1452 = new YAHOO.widget.Panel("chartPanel1452",  {  context:["anchor1452", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel1452.render();
+            YAHOO.freq.chartPanel1454 = new YAHOO.widget.Panel("chartPanel1454",  {  context:["anchor1454", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel1454.render();
+            YAHOO.freq.chartPanel1453 = new YAHOO.widget.Panel("chartPanel1453",  {  context:["anchor1453", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel1453.render();
+            YAHOO.freq.chartPanel1456 = new YAHOO.widget.Panel("chartPanel1456",  {  context:["anchor1456", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel1456.render();
+            YAHOO.freq.chartPanel1455 = new YAHOO.widget.Panel("chartPanel1455",  {  context:["anchor1455", "tl", "tr"], visible:false, width:"400px"  } ); 
+            YAHOO.freq.chartPanel1455.render();
+                
+            YAHOO.freq.manager = new YAHOO.widget.OverlayManager(); 
+            YAHOO.freq.manager.register([YAHOO.freq.chartPanel1452,
+                                                   YAHOO.freq.chartPanel1454,
+                                                   YAHOO.freq.chartPanel1453,
+                                                   YAHOO.freq.chartPanel1456,
+                                                   YAHOO.freq.chartPanel1455,
+                                                   ]);
+                    YAHOO.util.Event.addListener("show1452", "click", YAHOO.freq.chartPanel1452.show, YAHOO.freq.chartPanel1452, true);
+            YAHOO.util.Event.addListener("hide1452", "click", YAHOO.freq.chartPanel1452.hide, YAHOO.freq.chartPanel1452, true);
+            YAHOO.util.Event.addListener("focus1452", "click", YAHOO.freq.chartPanel1452.focus, YAHOO.freq.chartPanel1452, true);
+                    YAHOO.util.Event.addListener("show1454", "click", YAHOO.freq.chartPanel1454.show, YAHOO.freq.chartPanel1454, true);
+            YAHOO.util.Event.addListener("hide1454", "click", YAHOO.freq.chartPanel1454.hide, YAHOO.freq.chartPanel1454, true);
+            YAHOO.util.Event.addListener("focus1454", "click", YAHOO.freq.chartPanel1454.focus, YAHOO.freq.chartPanel1454, true);
+                    YAHOO.util.Event.addListener("show1453", "click", YAHOO.freq.chartPanel1453.show, YAHOO.freq.chartPanel1453, true);
+            YAHOO.util.Event.addListener("hide1453", "click", YAHOO.freq.chartPanel1453.hide, YAHOO.freq.chartPanel1453, true);
+            YAHOO.util.Event.addListener("focus1453", "click", YAHOO.freq.chartPanel1453.focus, YAHOO.freq.chartPanel1453, true);
+                    YAHOO.util.Event.addListener("show1456", "click", YAHOO.freq.chartPanel1456.show, YAHOO.freq.chartPanel1456, true);
+            YAHOO.util.Event.addListener("hide1456", "click", YAHOO.freq.chartPanel1456.hide, YAHOO.freq.chartPanel1456, true);
+            YAHOO.util.Event.addListener("focus1456", "click", YAHOO.freq.chartPanel1456.focus, YAHOO.freq.chartPanel1456, true);
+                    YAHOO.util.Event.addListener("show1455", "click", YAHOO.freq.chartPanel1455.show, YAHOO.freq.chartPanel1455, true);
+            YAHOO.util.Event.addListener("hide1455", "click", YAHOO.freq.chartPanel1455.hide, YAHOO.freq.chartPanel1455, true);
+            YAHOO.util.Event.addListener("focus1455", "click", YAHOO.freq.chartPanel1455.focus, YAHOO.freq.chartPanel1455, true);
+        
+
+
+        }
+        YAHOO.util.Event.addListener(window, "load", init_freq_graphs);
+</script>
+
+
+<div id="chartPanel1452" style="visibility:hidden">
+    <div class="hd"><span>Neumann SM 69 fet Frequency Chart: Omnidirectional</span></div>
+    <div class="bd">
+    <img name="graph1452" src="http://recordinghacks.com/images/graphs/neumann/USM69i-omni.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel1454" style="visibility:hidden">
+    <div class="hd"><span>Neumann SM 69 fet Frequency Chart: Cardioid</span></div>
+    <div class="bd">
+    <img name="graph1454" src="http://recordinghacks.com/images/graphs/neumann/USM69i-cardioid.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel1453" style="visibility:hidden">
+    <div class="hd"><span>Neumann SM 69 fet Frequency Chart: Hypercardioid</span></div>
+    <div class="bd">
+    <img name="graph1453" src="http://recordinghacks.com/images/graphs/neumann/USM69i-hypercardioid.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel1456" style="visibility:hidden">
+    <div class="hd"><span>Neumann SM 69 fet Frequency Chart: Bidirectional</span></div>
+    <div class="bd">
+    <img name="graph1456" src="http://recordinghacks.com/images/graphs/neumann/USM69i-fig8.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+<div id="chartPanel1455" style="visibility:hidden">
+    <div class="hd"><span>Neumann SM 69 fet Frequency Chart: Wide Cardioid</span></div>
+    <div class="bd">
+    <img name="graph1455" src="http://recordinghacks.com/images/graphs/neumann/USM69i-widecardioid.png" width=380>
+        </div>
+    <div class="ft">Click the 'X' at the top right corner to dismiss this window!</div>
+</div>
+    <script type="text/javascript">
+    function swap_graph(id) {
+        if (1==0) {}
+    }
+    </script>
+
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('1063-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

@@ -1,0 +1,273 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>Audix D4 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="D4, Hypercardioid Dynamic Microphone , aka: D-4 - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/Audix/D4" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>D4 Microphone Sets</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="Audix Studio Elite 8 - microphone set" href="//recordinghacks.com/microphones/Audix/Studio-Elite-8"><img src="//cdn.recordinghacks.com/images/sets/00045/00045_75.jpg" width="75" height="75" alt="" title=""   ><br /><span>Audix Studio Elite 8</span></a></li>
+                                                    <li class="mictile"><a title="Audix DP Elite 8 - microphone set" href="//recordinghacks.com/microphones/Audix/DP-Elite-8"><img src="//cdn.recordinghacks.com/images/sets/00064/00064_75.jpg" width="75" height="75" alt="" title=""   ><br /><span>Audix DP Elite 8</span></a></li>
+                                                    <li class="mictile"><a title="Audix DP7 - microphone set" href="//recordinghacks.com/microphones/Audix/DP7"><img src="//cdn.recordinghacks.com/images/sets/00065/00065_75.jpg" width="75" height="75" alt="" title=""   ><br /><span>Audix DP7</span></a></li>
+                                                    <li class="mictile"><a title="Audix DP5A - microphone set" href="//recordinghacks.com/microphones/Audix/DP5A"><img src="//cdn.recordinghacks.com/images/sets/00067/00067_75.jpg" width="75" height="75" alt="" title=""   ><br /><span>Audix DP5A</span></a></li>
+                                                </ul>
+                        </div>
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The D2 and D4 differ primarily in frequency response." href="//recordinghacks.com/microphones/Audix/D2"><img src="//cdn.recordinghacks.com/images/mics/00479/00479_75.jpg" width="75" height="75" alt="The D2 and D4 differ primarily in frequency response." title="The D2 and D4 differ primarily in frequency response."   ><br /><span>Audix D2</span></a></li>
+                                                    <li class="mictile"><a title="The D4 and N/D868 are similar dynamic bass/kick mics." href="//recordinghacks.com/microphones/Electro-Voice/N-D868"><img src="//cdn.recordinghacks.com/images/mics/00367/00367_75.jpg" width="75" height="75" alt="The D4 and N/D868 are similar dynamic bass/kick mics." title="The D4 and N/D868 are similar dynamic bass/kick mics."   ><br /><span>E-V N/D868</span></a></li>
+                                                    <li class="mictile"><a title="The Audix D4 and F12 offer similar frequency response and applications." href="//recordinghacks.com/microphones/Audix/F12"><img src="//cdn.recordinghacks.com/images/mics/00588/00588_75.jpg" width="75" height="75" alt="The Audix D4 and F12 offer similar frequency response and applications." title="The Audix D4 and F12 offer similar frequency response and applications."   ><br /><span>Audix F12</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/Audix">Audix microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="Audix D4" href="/microphone-photo/00478/Audix/D4.jpg"><img src="//cdn.recordinghacks.com/images/mics/00478/00478_172.jpg" width="172" height="101" alt="Audix D4" title="Audix D4" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $299</li>
+                                                            </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/dynamic" alt="dynamic microphones">dynamic</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformerless" alt="transformerless microphones">transformerless</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/end-address" alt="end-address microphones">end-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/kick-drum" alt="kick-drum microphones">kick-drum</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/vlm" alt="vlm microphones">vlm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/alnico" alt="alnico microphones">alnico</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://mixguides.com/microphones/reviews/audio_electrovoice_nd_audix/">MIX, 1998-01</a></li>
+                                                                    <li id="www"><a  href="http://emusician.com/news/emusic_kickin/">Emusician Kick Mic Shootout</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/reviews/audix-d4-om6-review/">Recording Magazine</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/reviews/audix-d-series-drum-microphones-impressive-isolation/">Down Beat review, 2001-07</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/audix/D4_PAR_1997-12.pdf">Pro Audio Review, 1997-12</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/2012/06/08/kick-drum-mic-shootout/">Kick Drum Mic Shootout</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/2011/10/17/the-quest-for-the-ultimate-live-sax-microphone/">D4 in Sax Mic Shootout</a></li>
+                                                                </ul>                    
+                                        <h3>D4 Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="www"><a  href="http://www.audixusa.com/docs_12/units/D4.shtml">Audix D4 Product Description</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/audix/d4_2011.pdf">Audix D4 Cutsheet (2010)</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/audix/D4_spec_sheet_2001.pdf">D4 Cutsheet (2001)</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="478-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_hc.png" width=27 height=27 alt="Hypercardioid" title="Hypercardioid" ></span>Audix D4</h2>
+                    
+                    <h2 class="sub">                    Hypercardioid Dynamic Microphone</h2>
+                    <p>The D4 is a hypercardioid dynamic instrument microphone, designed especially for low-frequency reproduction.</p><p>Its compact design facilitates positioning around a drum kit, which is the D4&#8217;s primary application &#8212; kick drum and low toms. Like all dynamic mics, it handles high SPL without breaking up. </p><p>Its hypercardioid pickup pattern reduces bleed from nearby sources. It has a transformerless, low-impedance, balanced output circuit.</p><p>Like all the D-series mics, the D4 uses Audix&#8217; trademarked <a href="http://recordinghacks.com/microphones/tag/vlm">VLM Very Low Mass diaphragm</a>, which is said to produce faster transient response and more natural sound.</p><blockquote><p><cite>MIX</cite><br />I miked a single-headed kick with the D4 mounted on a 5-inch desk stand, and set up directly in front of the kick without a boom. The results were superb, with excellent off-axis rejection.</p></blockquote><p>The D4 case is identical in size and shape to the D1, D2, and D3. All are milled from a solid block of aluminum and finished in black. The grille is made of &#8220;spring steel&#8221; mesh.</p><p>The D4 can be distinguished from the other models by the logo stamped on the mic, and by the color of the fine-mesh blast screen inside the black grille; on the D4, the inner screen is red, as pictured here.</p><p><a href="http://www.flickr.com/photos/24455487@N05/2873884833/" title="Audix D2 Capsule"><img class="full shaft" src="http://farm4.static.flickr.com/3194/2873884833_85f74d9bc1_t.jpg" width="100" height="87" alt="Audix D2 Capsule" /></a>The headgrille can be removed easily, exposing the dynamic capsule inside. The capsule mechanisms of the D1, D2, and D4 are virtually identical; the capsule diameter is just over 1&#39;&#39;, and the inside diameter (approximate coil diameter) is about 22mm.</p><blockquote><p><cite>Recording Magazine</cite>I put the D4 up against two of my favorites, an old AKG D12 and an <a href="http://recordinghacks.com/microphones/Electro-Voice/RE20">Electro-Voice RE20</a>. While the D12 had a fatter and wider bottom, the D4 had a slightly deeper tone. And the high end on the D4 was much cleaner, minus that D12 midrange honk. Versus the RE20 the D4 had more punch, and again the top end was interestingly different. I certainly found myself using radically different eq than usual, but it still needed a good boost at 60 cycles to put that kick drum right in my chest where I like it.</p></blockquote><p>The mic&#8217;s published frequency-response graph has changed since the mic&#8217;s introduction, although it is not known whether the change is due to component/design alterations or measurement processes. The earlier chart (circa 2001) showed a rising high-frequency response, peaking at +9dB at 10kHz. The current chart shows a less pronounced boost, +6dB at 5kHz, with a secondary peak above 10kHz. Further, the current chart shows a low-frequency rolloff below 70Hz. (See the older chart in the PDF linked from the sidebar.)<p>The <a href="//recordinghacks.com/microphones/Audix/D4">Audix D4</a> is also known as: D-4.</p><p>The mic was released in 1997.</p>
+                    <h3>Specifications</h3>
+                                        
+                    <table>
+                                                    <tr><th>Frequency Response - Hypercardioid<span class="shaft">Click Graph to Compare!</span></th></tr>
+                            <tr><td style="padding:0;border-bottom:0"><a href="/frequency-graphs.php/0568" rel="shadowbox;width=1500;height=800 nofollow"><img src="/images/graphs/_gen/small/0/0568.png" width=476 height=159 alt="D4 Hypercardioid Frequency Response Chart" title="D4 Hypercardioid Frequency Response Chart" border=0 /></td></tr>
+                            </table>
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                                                                Hypercardioid
+                                             (2.1 mV/Pa; 40 - 18,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Coil Diameter</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                    n/a                                </td>
+                            <td>200 Ohms <em class="mute">(Low)</em></td>
+                            <td>Max SPL: 144 dB<br />                                </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>127g <em class="mute">(4.48oz)</em></td>
+                            <td>100mm <em class="mute">(3.94&#39;&#39;)</em></td>
+                            <td>n/a</td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                                                                                                                                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('478-0');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

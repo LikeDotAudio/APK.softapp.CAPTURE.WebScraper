@@ -1,0 +1,5 @@
+## Mics tagged: 5693 AND condenser
+
+|  |  |
+| --- | --- |
+| [Peluso Microphone Lab 22 47 SE](http://recordinghacks.com/microphones/Peluso-Microphone-Lab/22-47-SE "Peluso Microphone Lab 22 47 SE - Features, Specifications, Datasheet") | 9 polar patterns [**Peluso Microphone Lab 22 47 SE**](/microphones/Peluso-Microphone-Lab/22-47-SE "Peluso Microphone Lab 22 47 SE - Features, Specifications, Datasheet")  Multi-Pattern Tube Condenser Microphone  [side-address](//recordinghacks.com/microphones/tag/side-address "side-address microphones"), [large-diaphragm](//recordinghacks.com/microphones/tag/large-diaphragm "large-diaphragm microphones"), [tube](//recordinghacks.com/microphones/tag/tube "tube microphones"), [multipattern](//recordinghacks.com/microphones/tag/multipattern "multipattern microphones"), [center-terminated](//recordinghacks.com/microphones/tag/center-terminated "center-terminated microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [5693](//recordinghacks.com/microphones/tag/5693 "5693 microphones"), [6sj7](//recordinghacks.com/microphones/tag/6sj7 "6sj7 microphones") |

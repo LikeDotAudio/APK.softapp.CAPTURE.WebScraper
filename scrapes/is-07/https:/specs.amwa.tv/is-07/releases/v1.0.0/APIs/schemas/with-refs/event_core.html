@@ -1,0 +1,583 @@
+<!DOCTYPE html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Schema event_core.json | is-07</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="Schema event_core.json" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="AMWA IS-07 NMOS Event &amp; Tally Specification" />
+<meta property="og:description" content="AMWA IS-07 NMOS Event &amp; Tally Specification" />
+<meta property="og:site_name" content="is-07" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Schema event_core.json" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"AMWA IS-07 NMOS Event &amp; Tally Specification","headline":"Schema event_core.json","url":"/is-07/releases/v1.0.0/APIs/schemas/with-refs/event_core.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/is-07/assets/css/style.css?v=">
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body adaptive-width">
+
+      <div id="logo-banner" class="adaptive-width">
+          
+              <a href="https://specs.amwa.tv/nmos"><img id="nmos-logo" src="/is-07/assets/images/NMOS-logo.png" alt="NMOS logo"/></a>
+              <span id="title">Networked Media Open Specifications</span>
+              <a href="https://www.amwa.tv/"><img id="from-amwa-logo" src="/is-07/assets/images/from-AMWA-logo.png" target="_blank" alt="from AMWA logo"/></a>
+
+          
+      </div>
+
+        <div id="menu-header" class="header adaptive-width">
+
+        
+
+        
+          <span class="dropdown">DOCS
+	<div class="dropdown-content">
+		<p><b>Docs for v1.0.1</b></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/docs/1.0._Overview.html">Overview</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/docs/2.0._Message_types.html">Message types</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/docs/3.0._Event_types.html">Event types</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/docs/4.0._Core_models.html">Core models</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/docs/5.0._Transports.html">Transports</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/docs/5.1._Transport_-_MQTT.html">Transport - MQTT</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/docs/5.2._Transport_-_Websocket.html">Transport - Websocket</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/docs/6.0._Event_and_tally_rest_api.html">Event and tally rest api</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/docs/7.0._Measurement_units_guidelines.html">Measurement units guidelines</a></p>
+		
+	</div>
+</span>
+ 
+        
+        
+          <span class="dropdown-3">APIS
+	<div class="dropdown-3-content"> 
+		<p><b>RAML APIs for v1.0.1</b></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/EventsAPI.html">Events API</a></p>
+		
+		<p><b>JSON Schemas for v1.0.1</b></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/base.html">base</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/command.html">command</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/command_health.html">command_health</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/command_subscription.html">command_subscription</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/error.html">error</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/event.html">event</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/event_boolean.html">event_boolean</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/event_core.html">event_core</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/event_number.html">event_number</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/event_object.html">event_object</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/event_string.html">event_string</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/message.html">message</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/message_connection_status.html">message_connection_status</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/message_health.html">message_health</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/message_shutdown_reboot.html">message_shutdown_reboot</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/number.html">number</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/receiver_transport_params_ext.html">receiver_transport_params_ext</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/sender_transport_params_ext.html">sender_transport_params_ext</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/source.html">source</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/sources.html">sources</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/type.html">type</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/type_boolean.html">type_boolean</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/type_boolean_enum.html">type_boolean_enum</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/type_number.html">type_number</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/type_number_enum.html">type_number_enum</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/type_string.html">type_string</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/APIs/schemas/with-refs/type_string_enum.html">type_string_enum</a></p>
+		
+	</div>
+</span>
+
+        
+        
+          <span class="dropdown-3">EXAMPLES
+	<div class="dropdown-3-content"> 
+		<p><b>JSON Examples for v1.0.1</b></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/connection-status-message.html">connection-status-message</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/connectionapi-v1.1-receiver-active-get-mqtt-200.html">connectionapi-v1.1-receiver-active-get-mqtt-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/connectionapi-v1.1-receiver-active-get-websocket-200.html">connectionapi-v1.1-receiver-active-get-websocket-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/connectionapi-v1.1-sender-active-get-mqtt-200.html">connectionapi-v1.1-sender-active-get-mqtt-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/connectionapi-v1.1-sender-active-get-websocket-200.html">connectionapi-v1.1-sender-active-get-websocket-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-base-get-200.html">eventsapi-base-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-sourceid-get-200.html">eventsapi-sourceid-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-sources-get-200.html">eventsapi-sources-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-state-boolean-get-200.html">eventsapi-state-boolean-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-state-number-get-200.html">eventsapi-state-number-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-state-number-measurement-get-200.html">eventsapi-state-number-measurement-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-state-number-rational-get-200.html">eventsapi-state-number-rational-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-state-string-get-200.html">eventsapi-state-string-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-type-boolean-enum-get-200.html">eventsapi-type-boolean-enum-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-type-boolean-get-200.html">eventsapi-type-boolean-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-type-number-enum-get-200.html">eventsapi-type-number-enum-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-type-number-get-200.html">eventsapi-type-number-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-type-number-measurement-get-200.html">eventsapi-type-number-measurement-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-type-string-enum-get-200.html">eventsapi-type-string-enum-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/eventsapi-type-string-get-200.html">eventsapi-type-string-get-200</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/health-command.html">health-command</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/health-message.html">health-message</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/reboot-message.html">reboot-message</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/shutdown-message.html">shutdown-message</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/subscription-command.html">subscription-command</a></p>
+		
+			<p><a href="/is-07/releases/v1.0.1/examples/subscription-unsubscribe-command.html">subscription-unsubscribe-command</a></p>
+		
+	</div>
+</span>
+
+        
+        
+          <span class="dropdown">VERSIONS
+	<div class="dropdown-content"> 
+		<p><b>Branches</b></p>
+		
+		
+			<p><a href="/is-07/branches/v1.0.x">v1.0.x</a></p>
+		
+		
+			<p><b>Releases</b></p>
+			
+			
+				<p><a href="/is-07/releases/v1.0.1">v1.0.1</a></p>
+			
+				<p><a href="/is-07/releases/v1.0.0">v1.0.0</a></p>
+			
+		
+	</div>
+</span>
+
+        
+        
+          <span class="dropdown">IS
+	<div class="dropdown-content">
+		<p><b>Interface Specifications</b></p>
+		
+		
+			<p><a href="https://specs.amwa.tv/is-04">IS-04: Discovery & Registration</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-05">IS-05: Device Connection Management</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-07">IS-07: Event & Tally</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-08">IS-08: Audio Channel Mapping</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-09">IS-09: System Parameters</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-10">IS-10: Authorization</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-11">IS-11: Stream Compatibility Management</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-12">IS-12: Control Protocol</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-13">IS-13: Annotation</a></p>
+		
+			<p><a href="https://specs.amwa.tv/is-14">IS-14: Device Configuration</a></p>
+		
+	 </div>
+</span>
+          <span class="dropdown">BCP
+	<div class="dropdown-content">
+		<p><b>Best Common Practices</b></p>
+		
+		
+			<p><a href="https://specs.amwa.tv/bcp-002-01">BCP-002-01: Natural Grouping</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-002-02">BCP-002-02: Asset Distinguishing Information</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-003-01">BCP-003-01: Secure Communications in NMOS Systems</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-003-02">BCP-003-02: Authorization in NMOS Systems</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-003-03">BCP-003-03: Certificate Provisioning in NMOS Systems</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-004-01">BCP-004-01: Receiver Capabilities</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-005-01">BCP-005-01: EDID to Receiver Capabilities Mapping</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-006-01">BCP-006-01: NMOS With JPEG XS</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-006-02">BCP-006-02: NMOS With H.264</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-006-03">BCP-006-03: NMOS With H.265</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-007-01">BCP-007-01: NMOS With NDI</a></p>
+		
+			<p><a href="https://specs.amwa.tv/bcp-008-01">BCP-008-01: NMOS Receiver Status</a></p>
+		
+	 </div>
+</span>
+          <span class="dropdown">MS
+	<div class="dropdown-content">
+		<p><b>Data Model Specifications</b></p>
+		
+		
+			<p><a href="https://specs.amwa.tv/ms-04">MS-04: ID & Timing Model</a></p>
+		
+			<p><a href="https://specs.amwa.tv/ms-05-01">MS-05-01: NMOS Control Architecture</a></p>
+		
+			<p><a href="https://specs.amwa.tv/ms-05-02">MS-05-02: AMWA NMOS Control Framework</a></p>
+		
+			<p><a href="https://specs.amwa.tv/ms-05-03">MS-05-03: AMWA NMOS Control Block Specs</a></p>
+		
+	 </div>
+</span>
+          <span class="dropdown">INFO
+	<div class="dropdown-content">
+		<p><b>Informative Documents</b></p>
+		
+		
+			<p><a href="https://specs.amwa.tv/info-002">INFO-002: Security Implementation Guide</a></p>
+		
+			<p><a href="https://specs.amwa.tv/info-003">INFO-003: Sink Metadata Processing Architecture</a></p>
+		
+			<p><a href="https://specs.amwa.tv/info-004">INFO-004: Implementation Guide for DNS-SD</a></p>
+		
+			<p><a href="https://specs.amwa.tv/info-005">INFO-005: Implementation Guide for NMOS Controllers</a></p>
+		
+			<p><a href="https://specs.amwa.tv/info-006">INFO-006: Implementation guide for NMOS Device Capabilities Control</a></p>
+		
+	 </div>
+</span>
+        
+        
+          <span class="dropdown">REG
+	<div class="dropdown-content">
+		<p><b>Parameter Registers</b></p>
+		
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/common">General Procedures and Criteria</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/capabilities">Capabilities</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/device-control-types">Device Control Types</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/device-types">Device Types</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/flow-attributes">Flow Attributes</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/formats">Formats</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/node-service-types">Node Service Types</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/sender-attributes">Sender Attributes</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/source-attributes">Source Attributes</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/tags">Tags</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/transports">Transports</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-parameter-registers/branches/main/transport-parameters">Transport Parameters</a></p>
+		
+	</div>
+</span>
+
+        
+        
+          <span class="dropdown">F-SETS
+	<div class="dropdown-content">
+		<p><b>Control Feature Sets</b></p>
+		
+		
+			<p><a href="https://specs.amwa.tv/nmos-control-feature-sets/branches/main/identification">Identification</a></p>
+		
+			<p><a href="https://specs.amwa.tv/nmos-control-feature-sets/branches/main/monitoring">Monitoring</a></p>
+		
+	</div>
+</span>
+
+        
+
+          
+
+            <span class="dropdown">DEVEL
+              <div class="dropdown-content">
+                <p><b>Developer Links</b></p>
+                <p><a href="https://github.com/AMWA-TV/is-07">GitHub Repo</a></p>
+                <p><a href="https://specs.amwa.tv/nmos-testing">API Testing Tool</a></p>
+                <p><a href="https://specs.amwa.tv/nmos-dashboard/dashboard.html">CI Dashboard</a></p>
+              </div>
+            </span>
+
+          
+
+          <span class="dropdown">SEARCH
+            <div class="dropdown-content">
+              <script async src="https://cse.google.com/cse.js?cx=70787015d40930818"></script>
+              <div class="gcse-searchbox-only"></div>
+            </div>
+          </span>
+
+        
+          <div class="breadcrumbs">
+            
+            
+            
+            <a href="/is-07/">IS-07</a> â¤
+            
+              
+              <a href="/is-07/releases/"> releases </a> â¤
+            
+              
+              <a href="/is-07/releases/v1.0.0/"> v1.0.0 </a> â¤
+            
+              
+              <a href="/is-07/releases/v1.0.0/APIs/"> APIs </a> â¤
+            
+              
+              <a href="/is-07/releases/v1.0.0/APIs/schemas/"> schemas </a> â¤
+            
+            
+              
+                
+                
+                  <span class="version-warning"><a href="/is-07/releases">Viewing old release. Click here for list of published releases.</a></span>
+                
+              
+            
+          </div>
+        
+
+        </div>
+
+      <div class="content">
+        <br/>
+        <html>
+<meta charset="UTF-8">
+<h2>Schema event_core.json</h2>
+<p>
+    <a href="../resolved/event_core.html">Resolve referenced schemas (may reorder keys)</a>
+</p>
+<p>
+    <a href="../event_core.json">Get raw JSON</a>
+</p>
+<div id="json-render">
+<script type="text/javascript" src="codemirror/lib/codemirror.js"></script>
+<link rel="stylesheet" href="codemirror/lib/codemirror.css">
+<link rel="stylesheet" href="codemirror/addon/fold/foldgutter.css">
+<script src="codemirror/mode/javascript/javascript.js"></script>
+<script src="codemirror/addon/fold/foldcode.js"></script>
+<script src="codemirror/addon/fold/foldgutter.js"></script>
+<script src="codemirror/addon/fold/brace-fold.js"></script>
+<script src="codemirror/addon/fold/indent-fold.js"></script>
+
+<style>
+  .CodeMirror {
+    border-top: 1px solid black; 
+    border-bottom: 1px solid black;
+    height: 500px;
+  }
+</style>
+
+<textarea id="mytextarea">
+{
+  "$id": "https://www.amwa.tv/event_and_tally/event_core.json",
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "description": "Message that gets sent out when the source state changes",
+  "title": "State change event",
+  "required": [
+    "identity",
+    "timing",
+    "event_type",
+    "payload",
+    "message_type"
+  ],
+  "properties": {
+    "message_type": {
+      "description": "A fixed string showing this is a state message",
+      "type": "string",
+      "pattern": "^state$"
+    },
+    "identity": {
+      "description": "Object describing event identity",
+      "type": "object",
+      "required": [
+        "source_id"
+      ],
+      "properties": {
+        "source_id": {
+          "description": "ID of the source that holds the state that has changed",
+          "type": "string",
+          "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$"
+        },
+        "flow_id": {
+          "description": "ID of the flow carrying the message",
+          "type": "string",
+          "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$"
+        }
+      }
+    },
+    "timing": {
+      "description": "Object describing event timing",
+      "type": "object",
+      "required": [
+        "creation_timestamp"
+      ],
+      "properties": {
+        "creation_timestamp": {
+          "description": "String formatted TAI timestamp (<seconds>:<nanoseconds>) indicating when the message was created",
+          "type": "string",
+          "pattern": "^[0-9]+:[0-9]+$"
+        },
+        "origin_timestamp": {
+          "description": "String formatted TAI timestamp (<seconds>:<nanoseconds>) indicating when the message that triggered this message (if any) was created",
+          "type": "string",
+          "pattern": "^[0-9]+:[0-9]+$"
+        },
+        "action_timestamp": {
+          "description": "String formatted TAI timestamp (<seconds>:<nanoseconds>) indicating when the state change described in the event took or will take place",
+          "type": "string",
+          "pattern": "^[0-9]+:[0-9]+$"
+        }
+      }
+    }
+  }
+}
+</textarea>
+<script>
+window.editor_json = CodeMirror.fromTextArea(mytextarea, {
+    mode: {
+        name: "javascript",
+        json: true
+    },
+    readOnly: true,
+    lineNumbers: true,
+    lineWrapping: true,
+    extraKeys: {"Ctrl-Q": function(cm){ cm.foldCode(cm.getCursor()); }},
+    foldGutter: true,
+    gutters: ["CodeMirror-linenumbers", "CodeMirror-foldgutter"],
+    foldOptions: {
+      widget: (from, to) => {
+        var count = undefined;
+
+        // Get open / close token
+        var startToken = '{', endToken = '}';
+        var prevLine = window.editor_json.getLine(from.line);
+        if (prevLine.lastIndexOf('[') > prevLine.lastIndexOf('{')) {
+          startToken = '[', endToken = ']';
+        }
+
+        // Get json content
+        var internal = window.editor_json.getRange(from, to);
+        var toParse = startToken + internal + endToken;
+
+        // Get key count
+        try {
+          var parsed = JSON.parse(toParse);
+          count = Object.keys(parsed).length;
+        } catch(e) { }
+
+        return count ? `\u21A4${count}\u21A6` : '\u2194';
+        }
+      }
+    }
+  );
+editor_json.foldCode(CodeMirror.Pos(3, 0));
+</script>
+</div>
+</html>
+
+
+      </div>
+
+      <div class="footer border-top border-gray-light mt-5 pt-3 text-center text-gray">
+          Documentation built at 04:52:40 CDT on 2024-08-29. <br/>
+      
+      (c) AMWA 2024.
+      RAML/JSON licensed under <a href="https://www.apache.org/licenses/LICENSE-2.0.html">Apache 2.0</a>.
+      Documentation licensed under <a href="http://creativecommons.org/licenses/by-nd/4.0/">CC BY-ND 4.0</a>.
+      
+      </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+
+    
+
+
+    <script>
+    window.onscroll = function() {myFunction()};
+
+    var header = document.getElementById("menu-header");
+    var sticky = header.offsetTop;
+
+    function myFunction() {
+      if (window.pageYOffset > sticky) {
+        header.classList.add("sticky");
+      } else {
+        header.classList.remove("sticky");
+      }
+    }
+
+    </script>
+  </body>
+</html>

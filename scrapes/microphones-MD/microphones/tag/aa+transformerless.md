@@ -1,0 +1,5 @@
+## Mics tagged: aa AND transformerless
+
+|  |  |
+| --- | --- |
+| [AKG Acoustics C1000 S](http://recordinghacks.com/microphones/AKG-Acoustics/C1000-S "AKG Acoustics C1000 S - Features, Specifications, Datasheet") | CardioidHypercardioid  [**AKG Acoustics C1000 S**](/microphones/AKG-Acoustics/C1000-S "AKG Acoustics C1000 S - Features, Specifications, Datasheet")  Detachable-Capsule Condenser Microphone  [transformerless](//recordinghacks.com/microphones/tag/transformerless "transformerless microphones"), [end-address](//recordinghacks.com/microphones/tag/end-address "end-address microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [hpf](//recordinghacks.com/microphones/tag/hpf "hpf microphones"), [battery-power](//recordinghacks.com/microphones/tag/battery-power "battery-power microphones"), [aa](//recordinghacks.com/microphones/tag/aa "aa microphones") |

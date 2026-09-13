@@ -1,0 +1,288 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en-US">
+    <head>
+        <title>R&#00216;DE NT2 | RecordingHacks.com</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+        <meta name="description" content="NT2, Multi-Pattern Condenser Microphone , aka: NT-2, NT2-NC - detailed microphone profile, specifications, manuals, reviews, frequency-response graphs, self-noise data" />        
+        <!-- CSS sheets -->
+        <link href="//cdn.recordinghacks.com/wp-content/themes/record/present/global_201210_min.css" rel="stylesheet" type="text/css" title="default" media="screen" />
+        
+        
+		        
+        <link rel="canonical" href="https://recordinghacks.com/microphones/Rode/NT2" />
+        <script type="text/javascript" src="//cdn.recordinghacks.com/scripts/rh-min-0.2.js"></script> 
+                    <script type="text/javascript">Shadowbox.init({overlayOpacity: 0.8, animate: false});</script>
+                <script type="text/javascript">
+            function resizeFrame(f) {
+            f.style.height = f.contentWindow.document.body.scrollHeight + "px";
+        }</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ME1V64NMWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ME1V64NMWQ');
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/7652338/MicDB_300x250', [300, 250], 'div-gpt-ad-1688703874336-0').addService(googletag.pubads());
+    googletag.defineSlot('/7652338/MicDB_300x250_B', [300, 250], 'div-gpt-ad-1688704205615-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+    </head>
+    <body class="yui-skin-sam">
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="IDwQz50R"></script>
+
+ 
+            <div id="wrap"  >
+            <div id="masthead">
+                <h1><a href="/" title="RecordingHacks Homepage">recordinghacks</a></h1>
+                <ul>
+                    <li><a href="/" title="RecordingHacks Homepage">home</a></li>
+                    <li class="mic"><a class="act" href="/microphones" title="The Microphone Database">microphones</a></li>
+                    <li class="about"><a href="/about/" title="About This Site">about</a></li>
+                </ul>
+            </div><!-- /#masthead -->
+
+            <div id="content">
+                <div id="dbsidebartwo">
+
+<!-- search form -->
+<div class="graybox"><h3>Search Microphones</h3><form action="/microphones" method="POST" style="background: none">
+<input type="text" name="s" size="20" value="Microphone name or model" style="color: #667;margin: 0 0 8px 10px;width: 18em;font: 10px Verdana, Trebuchet MS, Sans-serif" onFocus="clearText(this)" onBlur="clearText(this)" onClick="document.getElementById('searchform').style.display='block'"><br />
+<div style="display: none;" id="searchform">
+<script language="JavaScript" type="text/javascript">
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+						<fieldset>
+							<select name="type"><option value="0">Any Type</option><option value="1">Condenser</option><option value="3">Dynamic</option><option value="4">Ribbon</option><option value="6">Boundary</option><option value="7">Combination</option><option value="8">Hybrid</option>							</select><br />
+							<select name="pattern">
+								<option value="0">Any Pattern</option><option value="99">Multi-Pattern</option><option value="1">Omnidirectional</option><option value="2">Cardioid</option><option value="3">Hypercardioid</option><option value="4">Bidirectional</option><option value="5">Shotgun</option><option value="6">Supercardioid</option><option value="7">X/Y Stereo</option><option value="8">Mid-Side Stereo</option><option value="9">Wide Cardioid</option><option value="10">Binaural</option><option value="11">Blumlein</option>							</select><br />
+						</fieldset>
+						<table style="width: auto"><tr><td>
+						<fieldset class="checks">
+							<input type="checkbox" name="largediaphragm" value="1" >Large Diaph.<br />
+							<input type="checkbox" name="pencil" value="1" >Pencil Mic<br />
+							<input type="radio" name="transformer" value="1">Transformer...
+						</fieldset></td><td><fieldset class="checks">
+								<input type="checkbox" name="tube" value="1">Tube<br />
+								<input type="checkbox" name="stereo" value="1" >Stereo<br />
+								<input type="radio" name="transformer" value="2">-less
+						</fieldset></td></tr></table>
+						<fieldset class="button">
+							<input type="submit" name="button" value="Start Search">
+						</fieldset>
+					</form></div></div><!-- greybox -->
+<!-- /7652338/MicDB_300x250 -->
+<div id='div-gpt-ad-1688703874336-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688703874336-0'); });
+  </script>
+</div>
+
+
+<br />
+<!-- <div class="graybox" style="margin-top: 10px"><h3>Share This Page</h3>
+<table style="width: auto"><tr>
+<td style="border: 0"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+<td style="border: 0"><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></td>
+</tr></table></div> -->
+
+<!-- /7652338/MicDB_300x250_B -->
+<div id='div-gpt-ad-1688704205615-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1688704205615-0'); });
+  </script>
+</div>
+
+
+
+                    
+                                            <a name="relatedmics"></a><div class="graybox" style="margin-top: 10px" ><h3>Related Microphones</h3>
+                        <ul class="mictiles">
+                                                    <li class="mictile"><a title="The NT2 and NT1 shared a basic circuit design and capsule." href="//recordinghacks.com/microphones/Rode/NT1"><img src="//cdn.recordinghacks.com/images/mics/00966/00966_75.jpg" width="75" height="75" alt="The NT2 and NT1 shared a basic circuit design and capsule." title="The NT2 and NT1 shared a basic circuit design and capsule."   ><br /><span>R&#00216;DE NT1</span></a></li>
+                                                    <li class="mictile"><a title="The NT2-A was a revised, quieter version of the NT2." href="//recordinghacks.com/microphones/Rode/NT2-A"><img src="//cdn.recordinghacks.com/images/mics/00350/00350_75.jpg" width="75" height="75" alt="The NT2-A was a revised, quieter version of the NT2." title="The NT2-A was a revised, quieter version of the NT2."   ><br /><span>R&#00216;DE NT2-A</span></a></li>
+                                                <li class="mictile_vendor" style="width:272px;height: auto;padding: 1em 0;">More <a href="//recordinghacks.com/microphones/Rode">R&#00216;DE microphones</a></li>
+                        </ul>
+                        </div>
+                    
+
+                                
+                    
+                <!-- div class="graybox"><h3>Subscribe via RSS</h3><ul class="man_list" id="icons16">
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/RecordingHacks" title="RecordingHacks Blog" type="application/rss+xml">RecordingHacks Blog; awesome!</a></li>
+                    <li id="rss"><a rel="nofollow alternate" href="http://feeds2.feedburner.com/recordinghacks-new-mics" title="RecordingHacks Mic Database" type="application/rss+xml">Newest Microphones</a></li>
+                    </ul></div -->
+
+                </div><!-- /#sidebar -->
+                <div id="column">
+                <div id="dbsidebarone">
+                    <a rel="shadowbox" title="R&#00216;DE NT2" href="/microphone-photo/00967/Rode/NT2.jpg"><img src="//cdn.recordinghacks.com/images/mics/00967/00967_172.jpg" width="172" height="102" alt="R&#00216;DE NT2" title="R&#00216;DE NT2" class="full"  id="mic1"></a>                
+                    <h3>Pricing &amp; Availability</h3>
+                    <ul class="man_list" id="icons16"><li id="money">MSRP: $749</li>
+                                        <li id="none"><em>Discontinued</em></li>                    </ul>
+
+                                        <h3>Tags</h3>
+                    <ul style="list-style: none outside none"><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/side-address" alt="side-address microphones">side-address</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/large-diaphragm" alt="large-diaphragm microphones">large-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/dual-diaphragm" alt="dual-diaphragm microphones">dual-diaphragm</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/multipattern" alt="multipattern microphones">multipattern</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/k67" alt="k67 microphones">k67</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/transformerless" alt="transformerless microphones">transformerless</a></li><li class="tagbutton"><a href="//recordinghacks.com/microphones/tag/center-terminated" alt="center-terminated microphones">center-terminated</a></li></ul>
+                                        <h3>Reviews &amp; News</h3><ul class="man_list" id="icons16">
+                                            <li id="forum"><a rel="nofollow" href="http://www.gearslutz.com/board/4940162-post15.html">Jim Williams on the NT2</a></li>
+                                                                    <li id="www"><a  href="http://www.soundonsound.com/sos/1995_articles/jun95/rodent2.html">SoundOnSound, 1995-06</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/reviews/rode-nt2-review/">Sound Australasia Rvw, 1996</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/reviews/rode-nt2-review-studio-sound/">Studio Sound Review</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/reviews/rode-nt2-review-audio-media/">Audio Media review</a></li>
+                                                                    <li id="www"><a  href="http://recordinghacks.com/2010/03/31/voiceover-microphone-shootout/">NT2 in VO Shootout</a></li>
+                                                                </ul>                    
+                                        <h3>NT2 Documentation</h3><ul class="man_list" id="icons16">
+                                            <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/rode/NT2-manual.pdf">NT2 Owner&#8217;s Guide</a></li>
+                                                                    <li id="pdf"><a rel="nofollow" href="http://recordinghacks.com/pdf/rode/NT2_Traced_v6.pdf">NT2 Schematic</a></li>
+                                                                </ul>                    
+                                        
+
+
+                </div><!-- /#dbsidebarone -->                
+                
+                                    <h2><span class="shaft"><img id="967-0" src="//cdn.recordinghacks.com/images/icons/patterns/icon_o.png" width=27 height=27 alt="Omnidirectional" title="Omnidirectional" ><img id="967-1" src="//cdn.recordinghacks.com/images/icons/patterns/icon_c.png" width=27 height=27 alt="Cardioid" title="Cardioid" ></span>R&#00216;DE NT2</h2>
+                    
+                    <h2 class="sub">                    Multi-Pattern Condenser Microphone</h2>
+                    <p>The Rode NT2 was a large-diaphragm FET condenser. The most common version of the NT2 used a transformerless circuit adapted from the Schoeps design by Jim Williams, The NT1 and NT2 were companion microphones with similar circuits and similar sound; the primary difference was that the NT2 had an Omni/Cardioid polar pattern switch.</p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/rode/NT2-circuit-3way.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/rode/NT2-circuit-3way-sm.jpg" class="thumb shaft" alt="NT2" width="200" /></a>According to Jim Williams, both circuits used high-quality components, including Hitachi transistors, a JFET from Siliconix, R&ouml;derstein metal-film resistors and Wima polypropylene film caps. Every component on the circuit board was handpicked; as Williams describes them, the NT1 and NT2 were &#8220;pre-modded.&#8221;</p><p>Nonetheless, Williams later posted to public DIY forums about some perceived shortcomings of the NT2. For example, the capsule polarization voltage was too low on most of the microphones. A noise filtering capacitor within the oscillator circuit was not grounded properly. The high-pass filter switch on the NT2 was not designed well, resulting in a very high noise floor when engaged.</p><p>The specs for the mic changed over its lifetime; for example, the self-noise ranged from &#8220;&lt;14dBA&#8221; to 17dBA. Max SPL ranged from 130 dB to 135 dB (or 145 with the pad). Whether these changes were due to circuitry improvements or test methodology changes is unknown.</p><p><a rel="shadowbox" href="http://www.saturn-sound.com/images/rode%20nt2%20-%20inside%20capsule%20assembly.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/rode/NT2-capsule-sm.jpg" width="200" class="thumb shaft" alt="Rode NT2 capsule, from Saturn Sound" /></a>The capsule in both the NT1 and NT2 appear to be derivatives of the Neumann K67; both are center-terminated, and the photos we&#8217;ve seen  reveal the characteristic K67 backplate drilling pattern. The NT2 version would have been a dual-diaphragm capsule, to enable the mic&#8217;s omnidirectional pattern.</p><p>A switch on the mic body enabled either a high-pass filter, or a -10dB pad, or neither. The HPF is reportedly noisy, due to the way it is implemented.</p><p><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/rode/nt2-orig-circuit.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/rode/nt2-orig-circuit-sm.jpg" class="thumb shaft" alt="NT2" width="220" /></a>Pictured at right is what we believe to be one of the first generation Rode NT2 microphones. Note the output transformer. We believe this microphone was designed by Rode prior to 1995. It has been described by Jim Williams as having been based on the U87 circuit. Jim&#8217;s revised NT2 design used a transformerless circuit based on the Schoeps design.</p><p><br clear="all"><a rel="shadowbox" href="//cdn.recordinghacks.com/images//mic_extras/rode/NT2-capsule-wiring.jpg"><img src="//cdn.recordinghacks.com/images/mic_extras/rode/NT2-capsule-wiring.jpg" class="thumb shaft" alt="NT2 Capsule Wiring" width="180" /></a>The mic&#8217;s pad and HPF features are built on a small round PCB with the switches. The image at right identifies the capsule wire connection points.</p><p><br clear="all"><img src="//cdn.recordinghacks.com/images/mic_extras/rode/NT2-kit.jpg" width="224" height="190" alt="Rode NT2 kit" class="thumb shaft" />The NT2 body was made of nickel-plated brass. The mic was sold in two configurations:</p><ul><li><b>NT2</b> - included the SM-1 shockmount with spare elastics, a European thread adapter, a foam windscreen, and a padded aluminum flightcase</li><li><b>NT2-NC</b> - included the SM-1 shockmount, a European thread adapter, and a vinyl storage pouch (p/n ZP-1)</li></ul><p></p><blockquote><p><cite>Rode</cite></p><p>Never lend the <b>NT 2</b> to anyone! Tell them to buy one of their own.</p></blockquote><p></p><blockquote><p><cite>SoundOnSound, 1995</cite></p><p>The NT2 seemed a little more sensitive than my other large-diaphragm models, and the transformerless design certainly translated into a more detailed sound at the high-frequency end of the spectrum.</p></blockquote><p></p><blockquote><p><cite>Studio Sound</cite></p><p>It is honest enough to fit snugly into various specific areas where its undeniable high-mid lift is a pronounced advantage.</p></blockquote><p><span class="photocredit">NT2/U87 photos and history contributed by Steve Puntolillo of Mastercraft Recordings</span><p>The <a href="//recordinghacks.com/microphones/Rode/NT2">R&#00216;DE NT2</a> is also known as: NT-2, NT2-NC.</p>
+                    <h3>Specifications</h3>
+                                        
+                    
+                    <table>
+                        <tr>
+                            <th>Pickup Patterns</th>
+                            <th>Pads &amp; Filters</th>
+                        </tr>
+                        <tr>
+                            <td>
+                                                                                                                                                                Omnidirectional
+                                             (16 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                                                                                                                            Cardioid
+                                             (16 mV/Pa; 20 - 20,000 Hz)                                                                                        <br clear="right" />
+                                                                                                        </td>
+                            <td>
+                                <ul>                                    <li>Pad: -10dB<small> (Via Switch)</small></li>
+                                                                        <li>Filter: HPF<small> (Via Switch)</small></li>
+                                                                    </ul>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Capsule Dimensions</th>
+                            <th>Impedance</th>
+                            <th>SPL/Noise</th>
+                        </tr>
+                        <tr>
+                            <td>                                                                            Diameter n/a<br />
+                                                                                                                                                    </td>
+                            <td>40 Ohms <em class="mute">(Low)</em></td>
+                            <td>Max SPL: 130 dB<br />                                Self-noise: 14.0 dB(A)</td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <th>Weight</th>
+                            <th>Length</th>
+                            <th>Max Diameter</th>
+                            <th>Interface(s)</th>
+                        </tr>
+                        <tr>
+                            <td>530g <em class="mute">(18.70oz)</em></td>
+                            <td>n/a</td>
+                            <td>n/a</td>
+                            <td><ul><li>3-pin XLR male (1)</li></td>
+                        </tr>
+                    </table>                    <table>
+                        <tr>
+                            <th>Power Specifications</th>
+                        </tr>
+                        <tr>
+                            <td><ul>
+                                                                        <li>Requires phantom power </li>
+                                                                                                                                                                                <li>Phantom voltage: 48v</li>
+                                        </ul>
+                            </td>
+                        </tr>
+                    </table>
+<a name="rpd"></a>
+<!-- old price list iframe src="about:blank" onload="resizeFrame(document.getElementById('specframe'))" frameborder="0" scrolling="no" width="100%" vspace="0" hspace="0" class="iframe" name="specframe" id="specframe" marginheight="0" marginwidth="0"></iframe -->
+                    
+                    <p class="bugblock">Did we get anything wrong on this page?
+                    <span class="bugicon"><a href="/helpwanted/" rel="nofollow">Please let us know!</a></span></p>
+                    
+                </div><!-- /#column -->
+            </div><!-- /#content -->
+             
+<script type="text/javascript">
+        YAHOO.namespace("freq");
+
+        function init_freq_graphs() {
+
+                
+            YAHOO.freq.manager = new YAHOO.widget.OverlayManager(); 
+            YAHOO.freq.manager.register([]);
+        
+
+
+        }
+        YAHOO.util.Event.addListener(window, "load", init_freq_graphs);
+</script>
+
+
+    <script type="text/javascript">
+    function swap_graph(id) {
+        if (1==0) {}
+    }
+    </script>
+
+<script type="text/javascript">
+			
+    function init_icon_tooltips() {
+        var uniqueids = [];
+			
+        uniqueids.push('967-0');uniqueids.push('967-1');
+        var icon_tt = new YAHOO.widget.Tooltip("icon_tt", { context:uniqueids, showdelay:100 } ); 
+    }
+
+    YAHOO.util.Event.addListener(window, "load", init_icon_tooltips);
+
+
+</script>
+
+
+ 
+
+			<div class="clean"><!-- this source is kalear --></div><!-- /clean -->
+			<div id="footer">
+				<p class="shaft"><a href="#wrap" title="">scroll to top</a></p>
+				<p><strong>&copy;2008-2025 recordinghacks.com</strong></p>
+
+			</div><!-- /#footer -->
+		</div><!-- /#wrap -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bfg5P46MCr3OUBab7jrHtB"></script>
+</body>
+</html>

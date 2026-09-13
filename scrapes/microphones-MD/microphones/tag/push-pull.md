@@ -1,0 +1,5 @@
+## Mics tagged: push-pull
+
+|  |  |
+| --- | --- |
+| [Sanken Microphone Company, Ltd. CMS-2](http://recordinghacks.com/microphones/Sanken/CMS-2 "Sanken Microphone Company, Ltd. CMS-2 - Features, Specifications, Datasheet") | Mid-Side Stereo  [**Sanken Microphone Company, Ltd. CMS-2**](/microphones/Sanken/CMS-2 "Sanken Microphone Company, Ltd. CMS-2 - Features, Specifications, Datasheet")  Mid-Side Stereo Condenser Microphone  [stereo](//recordinghacks.com/microphones/tag/stereo "stereo microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [mid-side](//recordinghacks.com/microphones/tag/mid-side "mid-side microphones"), [titanium-diaphragm](//recordinghacks.com/microphones/tag/titanium-diaphragm "titanium-diaphragm microphones"), [push-pull](//recordinghacks.com/microphones/tag/push-pull "push-pull microphones") |

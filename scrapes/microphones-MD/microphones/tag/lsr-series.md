@@ -1,0 +1,5 @@
+## Mics tagged: lsr-series
+
+|  |  |
+| --- | --- |
+| [Milab Microphones LSR-1000](http://recordinghacks.com/microphones/Milab/LSR-1000 "Milab Microphones LSR-1000 - Features, Specifications, Datasheet") | Cardioid  [**Milab Microphones LSR-1000**](/microphones/Milab/LSR-1000 "Milab Microphones LSR-1000 - Features, Specifications, Datasheet")  Cardioid Condenser Microphone  [electret](//recordinghacks.com/microphones/tag/electret "electret microphones"), [transformerless](//recordinghacks.com/microphones/tag/transformerless "transformerless microphones"), [end-address](//recordinghacks.com/microphones/tag/end-address "end-address microphones"), [condenser](//recordinghacks.com/microphones/tag/condenser "condenser microphones"), [handheld](//recordinghacks.com/microphones/tag/handheld "handheld microphones"), [lsr-series](//recordinghacks.com/microphones/tag/lsr-series "lsr-series microphones") |
