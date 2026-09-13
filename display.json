@@ -1,0 +1,7 @@
+{
+  "name": "Capture Webscraper",
+  "category": "CAPTURE",
+  "icon": "\ud83d\udcf7",
+  "description": "Data Capture, Ingestion & Scrapers component for APK.audio ecosystem.",
+  "entry": "main.py"
+}
