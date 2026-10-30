@@ -2,6 +2,8 @@
 
 > 📷 **Capture Webscraper** — a polite single-site mirror: fetch one website's HTML, convert each page to Markdown, and stitch the Markdown into size-capped archives.
 
+📚 **Wiki:** [Documentation/README.md](Documentation/README.md) — [principles](Documentation/%F0%9F%8F%9BPhilosophy/PRINCIPLES.md), [architecture](Documentation/%F0%9F%A7%A9Manual%20and%20Artifacts/ARCHITECTURE.md), [delivery](Documentation/%F0%9F%8C%8DPublishing/DELIVERY.md).
+
 ---
 
 ## 🧩 Architectural Role
