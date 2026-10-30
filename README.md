@@ -19,7 +19,7 @@ Three authored files, and a large corpus of other people's pages:
 | `Scraper.py` | The command-line scraper. |
 | `provenance.py` | Builds and writes `<file>.provenance.json` sidecars (source URL, retrieval time, HTTP status, length, SHA-256) against the schema below. Reads its required-field list *from* the schema at import. |
 | `harvest-manifest.schema.json` | JSON Schema (draft 2020-12) for those sidecars, `schemaVersion: 1`. Hand-written, and deliberately not in `contracts/` (its `$comment` says why). |
-| `scrapes/` | Output, tracked: ~342 MB, 8,945 files — `microphones` (3,978) and `microphones-MD` (3,972), AMWA `is-07` / `is-07-MD`, `specs-amwa-tv-is-07` / `-MD`, `specs-amwa-tv-is-12` / `-MD`. 3,245 paths under `scrapes/microphones*/` contain `\|` or `+` (counted with `git ls-files`, 2026-10-30); quote them. The older `scrapes/is-07*` trees encode the source URL in the path (`scrapes/is-07/https:/specs.amwa.tv/…`). None of it carries a `.provenance.json` yet. |
+| `scrapes/` | Output, tracked: ~342 MB, 8,945 files — `microphones` (3,978) and `microphones-MD` (3,972), AMWA `is-07` / `is-07-MD`, `specs-amwa-tv-is-07` / `-MD`, `specs-amwa-tv-is-12` / `-MD`. 3,245 paths under `scrapes/microphones*/` contain `\|` or `+` (counted with `git ls-files`, 2026-10-30); quote them. The older `scrapes/is-07*` trees encode the source URL in the path (`scrapes/is-07/https:/specs.amwa.tv/…`). None of it carries a `.provenance.json`: it was fetched before the manifests were wired. |
 | `display.json` | Manifest for the OS application walker. |
 
 ### What `Scraper.py` does
@@ -63,7 +63,7 @@ What the code actually does, in the ecosystem's vocabulary (`Documentation/🏛P
 ---
 
 ## ⚠️ Known gaps
-* `Scraper.py` imports `provenance` and its docstring says every fetch leaves a manifest, but no code path calls `provenance.write()`; no sidecars are produced.
+* The trees already in `scrapes/` predate the manifests and carry no `.provenance.json`; only new fetches get one (`provenance.write()` in `download_media` and `download_page_worker`).
 * The media prompt makes it unusable unattended.
 
 ## 🛣 Plans

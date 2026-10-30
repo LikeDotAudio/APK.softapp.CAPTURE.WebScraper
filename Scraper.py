@@ -49,15 +49,17 @@ HEADERS = {"User-Agent": USER_AGENT}
 REQUEST_DELAY = 0.5   # Seconds to pause after each request, to stay polite
 NUMBER_DOWNLOAD_THREADS = 4
 
-# The URL is what this is for. `scrapes/` records it TODAY by encoding it in the
-# directory path -- `scrapes/is-07-MD/https:/specs.amwa.tv/is-07/...` -- which is
-# provenance, and is the only provenance this repository has, and is also why four
-# of those paths contain `|` and `+`. A path is not a field.
+# The URL is what this is for. The trees already in `scrapes/` predate the
+# manifests and record it only in the directory path -- `scrapes/is-07-MD/https:/
+# specs.amwa.tv/is-07/...` -- and, because the tree mirrors the site's URL path,
+# tag pages such as `tag/12at7+12ax7` become paths: 3,245 tracked paths under
+# `scrapes/microphones*/` contain `|` or `+` (`git ls-files | grep -c '[|+]'`,
+# 2026-10-30). A path is not a field; every new fetch also gets a manifest.
 
 # What it writes is not source. `scrapes/` is 342 MB and 8,945 tracked files --
 # other people's pages, kept on purpose as the EVENT/intake lane, named in the
-# root `.ignore` so ripgrep and fd de-rank it (CLAUDE.md sections 4 and 1; four
-# paths under it contain `|` and `+`, so quote them). Three files here are
+# root `.ignore` so ripgrep and fd de-rank it (CLAUDE.md sections 4 and 1; the
+# 3,245 paths under it with `|` or `+` must be quoted). Three files here are
 # authored -- this one, `provenance.py` and `harvest-manifest.schema.json` -- and
 # the ratio is the point: the tool is a rounding error in its own directory.
 
@@ -296,7 +298,13 @@ def download_page_worker(base_directory_html, scrape_media_flag, media_directory
                     temp_path = parent_directory + ".tmp"
                     os.rename(parent_directory, temp_path)
                     os.makedirs(parent_directory, exist_ok=True)
-                    os.rename(temp_path, os.path.join(parent_directory, "index.html"))
+                    moved_to = os.path.join(parent_directory, "index.html")
+                    os.rename(temp_path, moved_to)
+                    # its manifest follows it, or the sidecar would name a file
+                    # that is no longer there and the moved page would have none
+                    old_manifest = provenance.manifest_path(parent_directory)
+                    if os.path.isfile(old_manifest):
+                        os.rename(old_manifest, provenance.manifest_path(moved_to))
 
                 if os.path.isdir(resolved_filepath):
                     resolved_filepath = os.path.join(resolved_filepath, 'index.html')
