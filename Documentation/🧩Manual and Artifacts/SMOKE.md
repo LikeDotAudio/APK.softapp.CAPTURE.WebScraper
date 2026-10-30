@@ -12,4 +12,4 @@ Is `CAPTURE.WebScraper` deployed? Written by `.apk.scripts/smoke.py` from the mo
 
 Re-run: `python3 .apk.scripts/smoke.py PODS/POD.THIN/Softapps/CAPTURE/CAPTURE.WebScraper`
 
-<!-- smoke:sig c2c717144e1d since 2026-10-30 12:51 EDT -->
+<!-- smoke:sig 2ee122e9cde4 since 2026-10-30 12:51 EDT -->
