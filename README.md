@@ -34,7 +34,7 @@ Three authored files, and a large corpus of other people's pages:
    * `scrapes/<folder>-MEDIA/…` — media, only if you answered `y`.
 5. Stitches every Markdown file into `scrapes/<folder>-MD/COMBINED_ARCHIVE_partN.md`, starting a new part at 2 MB.
 
-Hard limits, each a constant at the top of `Scraper.py`: 2 MB per fetch (`MAX_FILE_SIZE_MB`), 0.5 s between a worker's requests (`REQUEST_DELAY`), 4 download threads (`NUMBER_DOWNLOAD_THREADS`), no URL whose path starts with a `DISALLOWED_PATHS` prefix, no `NON_PAGE_EXTENSIONS` target parsed as HTML. **`DISALLOWED_PATHS` is one microphone site's `robots.txt`** — replace it before pointing the scraper at any other host.
+Hard limits, each a constant at the top of `Scraper.py`: 2 MB per fetch (`MAX_FILE_SIZE_MB`, enforced by `read_capped`: over-size pages and media are skipped), 0.5 s between a worker's requests (`REQUEST_DELAY`), 4 download threads (`NUMBER_DOWNLOAD_THREADS`), no URL whose path starts with a `DISALLOWED_PATHS` prefix, no `NON_PAGE_EXTENSIONS` target parsed as HTML. **`DISALLOWED_PATHS` is one microphone site's `robots.txt`** — replace it before pointing the scraper at any other host.
 
 ---
 
@@ -46,7 +46,7 @@ Hard limits, each a constant at the top of `Scraper.py`: 2 MB per fetch (`MAX_FI
   ```
   `python3 Scraper.py --help` prints the one-argument usage.
 * **Tests**: none.
-* **Web Portal Entry**: none that opens. `display.json` declares `"entry": "main.py"`, which does not exist, so the OS application walker (`PODS/POD.THIN/WEB.OsApi/SRC/server.py`, `walk_project()`) falls through and lists the folder as a **folder** app.
+* **Web Portal Entry**: none that opens in a browser. `display.json` names `"entry": "Scraper.py"` (`"tech": "python"`), a CLI.
 * **Ports / MQTT**: none. It is a client of whatever site it is pointed at and nothing else.
 * **Remote Repository**: `https://github.com/LikeDotAudio/APK.softapp.CAPTURE.WebScraper.git`
 

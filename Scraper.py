@@ -44,6 +44,10 @@ import provenance
 
 # --- CONFIGURATION ---
 MAX_FILE_SIZE_MB = 2
+# The MUST-NOT above, enforced: read_capped() refuses a fetch whose
+# Content-Length says more, and stops reading one that streams past it. The
+# same number also sizes the stitched Markdown parts.
+MAX_FETCH_BYTES = MAX_FILE_SIZE_MB * 1024 * 1024
 USER_AGENT = "Mozilla/5.0 (X11; Linux x86_64) WebScraper/1.0 (personal archive)"
 HEADERS = {"User-Agent": USER_AGENT}
 REQUEST_DELAY = 0.5   # Seconds to pause after each request, to stay polite
@@ -78,6 +82,35 @@ NON_PAGE_EXTENSIONS = (
     ".mp3", ".wav", ".aif", ".aiff", ".mp4", ".mov", ".css", ".js", ".ico",
 )
 
+# The scheme every link to the site is collapsed to. Set from the start URL in
+# main(), so an http-only site stays http; https is only the default.
+site_scheme = "https"
+
+class TooLarge(Exception):
+    """A fetch that would exceed MAX_FETCH_BYTES."""
+
+def read_capped(response, limit=None):
+    """Return the body of a `stream=True` response, at most `limit` bytes.
+
+    Raises TooLarge on a declared Content-Length over the limit (before reading
+    anything) or once the streamed body passes it, and closes the response.
+    """
+    limit = MAX_FETCH_BYTES if limit is None else limit
+    try:
+        declared = int(response.headers.get('Content-Length') or 0)
+    except ValueError:
+        declared = 0
+    if declared > limit:
+        response.close()
+        raise TooLarge(f"Content-Length {declared} > {limit} bytes")
+    body = bytearray()
+    for chunk in response.iter_content(chunk_size=8192):
+        body += chunk
+        if len(body) > limit:
+            response.close()
+            raise TooLarge(f"body passed {limit} bytes")
+    return bytes(body)
+
 # --- GLOBAL VARIABLES ---
 visited_urls = set()
 visited_lock = threading.Lock() # visited_urls is touched by several threads
@@ -96,10 +129,12 @@ def normalize_url(url):
 
     Sites often mix 'http://', 'https://' and protocol-relative '//host/path'
     links to their own pages. Without collapsing those to one form, the scope
-    check rejects valid pages and visited_urls fails to deduplicate.
+    check rejects valid pages and visited_urls fails to deduplicate. The one
+    form is the START URL's scheme (`site_scheme`), not https always: forcing
+    https made an http-only site impossible to mirror.
     """
     parsed = urlparse(url)
-    scheme = "https"                                  # Force one scheme
+    scheme = site_scheme                              # Force one scheme: the site's
     netloc = parsed.netloc.lower()
     if netloc.startswith("www."): netloc = netloc[4:] # Force one host spelling
     path = parsed.path.rstrip('/') or '/'             # Force one trailing-slash style
@@ -197,6 +232,7 @@ def download_media(soup, current_url, media_directory):
         try:
             response = requests.get(clean_media_url, headers=HEADERS, stream=True, timeout=30)
             response.raise_for_status()
+            body = read_capped(response)
 
             parsed_url = urlparse(clean_media_url)
             path = parsed_url.path.lstrip('/') # Path component for filename
@@ -213,13 +249,14 @@ def download_media(soup, current_url, media_directory):
                 continue
             
             with open(filepath, 'wb') as f:
-                for chunk in response.iter_content(chunk_size=8192):
-                    f.write(chunk)
+                f.write(body)
 
             provenance.write(filepath, clean_media_url, 'Scraper.py',
                              http_status=response.status_code,
                              content_type=response.headers.get('Content-Type'))
 
+        except TooLarge as e:
+            print(f"[Downloader] Skipping media over {MAX_FILE_SIZE_MB} MB '{clean_media_url}': {e}")
         except requests.RequestException as e:
             print(f"[Downloader] Failed to download media '{clean_media_url}': {e}")
         except IOError as e:
@@ -254,19 +291,25 @@ def download_page_worker(base_directory_html, scrape_media_flag, media_directory
         print(f"[Downloader] Downloading: {url}")
 
         try:
-            response = requests.get(url, headers=HEADERS, timeout=20)
+            response = requests.get(url, headers=HEADERS, timeout=20, stream=True)
             response.raise_for_status()
+            if 'html' not in response.headers.get('Content-Type', 'text/html'):
+                response.close()
+                print(f"[Downloader] Skipping non-HTML response: {url}")
+                url_queue.task_done()
+                continue
+            # Decoded the way requests' .text would, from the capped bytes.
+            page_text = read_capped(response).decode(response.encoding or 'utf-8', errors='replace')
+        except TooLarge as e:
+            print(f"[Downloader] Skipping page over {MAX_FILE_SIZE_MB} MB '{url}': {e}")
+            url_queue.task_done()
+            continue
         except requests.RequestException as e:
             print(f"[Downloader] Failed to download '{url}': {e}")
             url_queue.task_done()
             continue
         finally:
             time.sleep(REQUEST_DELAY)
-
-        if 'html' not in response.headers.get('Content-Type', 'text/html'):
-            print(f"[Downloader] Skipping non-HTML response: {url}")
-            url_queue.task_done()
-            continue
 
         # --- Determine the target file path and handle file/directory conflicts ---
         # Mirror the site's own path layout under the output directory.
@@ -322,7 +365,7 @@ def download_page_worker(base_directory_html, scrape_media_flag, media_directory
         # Write the HTML content to the finally resolved filepath.
         try:
             with open(resolved_filepath, 'w', encoding='utf-8') as f:
-                f.write(response.text)
+                f.write(page_text)
             print(f"[Main Thread] Saved HTML to: {resolved_filepath}")
             # Written HERE and not after the loop: the manifest describes the
             # bytes just written, and `resolved_filepath` is rewritten by the
@@ -336,7 +379,7 @@ def download_page_worker(base_directory_html, scrape_media_flag, media_directory
             continue # Skip processing further for this URL
 
         # Parse HTML and find links for recursive downloading
-        soup = BeautifulSoup(response.text, 'html.parser')
+        soup = BeautifulSoup(page_text, 'html.parser')
 
         if scrape_media_flag:
             download_media(soup, url, media_directory)
@@ -424,6 +467,8 @@ if __name__ == "__main__":
     # --- Robust Base URL and Folder Name Determination ---
     initial_url = args.url
     parsed_initial_url = urlparse(initial_url)
+    if parsed_initial_url.scheme in ("http", "https"):
+        site_scheme = parsed_initial_url.scheme
     
     base_url = f"{parsed_initial_url.scheme}://{parsed_initial_url.netloc}"
     

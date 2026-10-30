@@ -14,12 +14,11 @@ The principles this code keeps, each pointed at the line that keeps it. Ecosyste
 | 6 | **One canonical URL per page.** `normalize_url` forces one scheme, drops `www.`, one trailing-slash form; `visited_urls` is claimed under `visited_lock`. | `Scraper.py:94`, `:248` |
 | 7 | **Keep going on errors.** A failed fetch, unwritable path or bad file is printed and skipped. | `download_page_worker` `Scraper.py:230`, `markdown_worker` |
 | 8 | **Machine timestamps carry their zone.** `retrieved_at` is Z-suffixed UTC. | `provenance.py:50` `build` |
+| 9 | **No single fetch exceeds 2 MB.** A declared `Content-Length` over `MAX_FETCH_BYTES` is refused unread; a body that streams past it is dropped; pages and media alike. | `Scraper.py` `read_capped`, `TooLarge` |
+| 10 | **One scheme per site, the start URL's.** `http://`, `https://` and `//` links collapse to it, so an http-only site mirrors. | `Scraper.py` `normalize_url`, `site_scheme` |
 
 ## Where the code still falls short
 
-- **"2 MB per fetch" is not enforced at fetch time.** `MAX_FILE_SIZE_MB` only caps the stitched Markdown parts (`Scraper.py:360–367`); the docstring's MUST-NOT (`Scraper.py:11`) is not kept.
 - **`DISALLOWED_PATHS` is one site's robots.txt** (`Scraper.py:68`); it is wrong for every other host and the code does not read robots.txt.
-- **https is forced** (`normalize_url`), so an http-only site cannot be mirrored.
 - **Interactive.** The media question is `input()` on stdin (`Scraper.py:453`), so it cannot run unattended.
-- `display.json` declares `"entry": "main.py"`, which does not exist.
 - The trees already in `scrapes/` predate the manifests and carry none.

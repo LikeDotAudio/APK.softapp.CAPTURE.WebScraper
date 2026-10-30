@@ -23,7 +23,7 @@ Before pointing it at a new host, replace `DISALLOWED_PATHS` with that host's ro
 | `provenance.py` | `build()` / `write()` of `<file>.provenance.json`; `manifest_path()` = full file name + `.provenance.json`. |
 | `harvest-manifest.schema.json` | JSON Schema (2020-12, `schemaVersion: 1`) for those sidecars; `provenance.py` reads `required` from it. |
 | `scrapes/` | Tracked output corpus (~342 MB, 8,945 files); not source. |
-| `display.json` | OS walker manifest (its `entry: main.py` does not exist). |
+| `display.json` | OS walker manifest; `entry: Scraper.py`, `tech: python`. |
 
 ## Flow
 
@@ -31,7 +31,7 @@ Before pointing it at a new host, replace `DISALLOWED_PATHS` with that host's ro
 url ──▶ normalize + base/folder name ──▶ url_queue
              4 × download_page_worker:
                scope check (base prefix, DISALLOWED_PATHS, NON_PAGE_EXTENSIONS)
-               claim url under visited_lock → GET (20 s timeout) → sleep REQUEST_DELAY
+               claim url under visited_lock → GET (20 s timeout, read_capped ≤ 2 MB) → sleep REQUEST_DELAY
                resolve file/dir conflicts under fs_lock (page + its manifest move to index.html)
                write scrapes/<folder>/<path>  →  provenance.write()
                extract_main_content → md_queue;  links → url_queue;  media → download_media (+ manifest)
