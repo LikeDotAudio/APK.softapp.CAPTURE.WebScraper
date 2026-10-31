@@ -1,9 +1,0 @@
-{
-"type": "number",
-"min": {
-"value": 1
-},
-"max": {
-"value": 4294967295
-}
-}

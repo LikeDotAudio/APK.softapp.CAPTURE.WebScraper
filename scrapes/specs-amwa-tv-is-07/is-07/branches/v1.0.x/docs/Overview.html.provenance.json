@@ -1,0 +1,12 @@
+{
+ "content_length": 19489,
+ "content_type": null,
+ "fetcher": "Scraper.py (before 2.0.0)",
+ "http_status": null,
+ "note": "Backfilled 2026-10-30 by apk_webscraper.backfill: source_url is the URL the mirror path maps back to, retrieved_at is the date git first recorded the file (the fetch was at or before it), http_status and content_type were not recorded.",
+ "provenance": "reconstructed",
+ "retrieved_at": "2026-09-13T16:09:17Z",
+ "schemaVersion": 1,
+ "sha256": "8c1e8777f4e18e20ed6bcb7a7b6b452804a63a7b9daf01c531bf337c2a5d1f09",
+ "source_url": "https://specs.amwa.tv/is-07/branches/v1.0.x/docs/Overview.html"
+}

@@ -1,0 +1,12 @@
+{
+ "content_length": 20897,
+ "content_type": null,
+ "fetcher": "Scraper.py (before 2.0.0)",
+ "http_status": null,
+ "note": "Backfilled 2026-10-30 by apk_webscraper.backfill: the host is RecordingHacks (scrapes/microphones/Datamodel/AUDIT.md) and the scheme https is assumed -- the old layout kept only the path; source_url is that path mapped back, retrieved_at is the date git first recorded the file (the fetch was at or before it), http_status and content_type were not recorded.",
+ "provenance": "reconstructed",
+ "retrieved_at": "2026-09-13T16:09:17Z",
+ "schemaVersion": 1,
+ "sha256": "aeadb8866a5d278c441e199a6446687c8506f3233c07634e02c1080b41d6492a",
+ "source_url": "https://recordinghacks.com/microphones/Sennheiser/e-965"
+}

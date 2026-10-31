@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "apk-webscraper"
+version = "2.0.0"
+description = "CAPTURE.WebScraper: the one polite site mirror of APK.audio (robots.txt, per-host rate limit, size cap, provenance manifests)"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+dependencies = [
+  "requests>=2.31",
+  "beautifulsoup4>=4.12",
+  "markdownify>=0.11",
+  "jsonschema>=4.10",
+]
+
+[project.scripts]
+apk-webscrape = "apk_webscraper.engine:main"
+
+[tool.setuptools]
+packages = ["apk_webscraper"]
+
+[tool.setuptools.package-data]
+apk_webscraper = ["*.json", "*.ini"]

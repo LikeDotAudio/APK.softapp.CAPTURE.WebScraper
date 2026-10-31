@@ -1,0 +1,12 @@
+{
+ "content_length": 61,
+ "content_type": null,
+ "fetcher": "Scraper.py (before 2.0.0)",
+ "http_status": null,
+ "note": "Backfilled 2026-10-30 by apk_webscraper.backfill: source_url is the URL the mirror path maps back to, retrieved_at is the date git first recorded the file (the fetch was at or before it), http_status and content_type were not recorded.",
+ "provenance": "reconstructed",
+ "retrieved_at": "2026-09-13T16:09:17Z",
+ "schemaVersion": 1,
+ "sha256": "6c612c5bb6d7d139d916d6df3d4e44e6c7aef020c2d872566f42b44de2a88f90",
+ "source_url": "https://specs.amwa.tv/is-07/branches/v1.0.x/examples/health-command.json"
+}

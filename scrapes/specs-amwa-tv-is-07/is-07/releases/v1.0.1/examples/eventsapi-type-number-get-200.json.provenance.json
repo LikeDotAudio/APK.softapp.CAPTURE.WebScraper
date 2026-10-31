@@ -1,0 +1,12 @@
+{
+ "content_length": 94,
+ "content_type": null,
+ "fetcher": "Scraper.py (before 2.0.0)",
+ "http_status": null,
+ "note": "Backfilled 2026-10-30 by apk_webscraper.backfill: source_url is the URL the mirror path maps back to, retrieved_at is the date git first recorded the file (the fetch was at or before it), http_status and content_type were not recorded.",
+ "provenance": "reconstructed",
+ "retrieved_at": "2026-09-13T16:09:17Z",
+ "schemaVersion": 1,
+ "sha256": "b05dbc9c663eccdd53c2f4bce6f5cf32fce50cfed283b5045e16a0365707d3b1",
+ "source_url": "https://specs.amwa.tv/is-07/releases/v1.0.1/examples/eventsapi-type-number-get-200.json"
+}

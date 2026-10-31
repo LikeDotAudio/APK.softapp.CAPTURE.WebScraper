@@ -1,0 +1,12 @@
+{
+ "content_length": 29849,
+ "content_type": null,
+ "fetcher": "Scraper.py (before 2.0.0)",
+ "http_status": null,
+ "note": "Backfilled 2026-10-30 by apk_webscraper.backfill: source_url is the URL the mirror path maps back to, retrieved_at is the date git first recorded the file (the fetch was at or before it), http_status and content_type were not recorded.",
+ "provenance": "reconstructed",
+ "retrieved_at": "2026-09-13T16:09:17Z",
+ "schemaVersion": 1,
+ "sha256": "f3fc86cb235659b8cc420a25e9da877d83b2b83df70804720790be4c321404c3",
+ "source_url": "https://specs.amwa.tv/is-07/v1.0.0/docs/6.0._Event_and_tally_rest_api.html"
+}

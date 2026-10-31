@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://apkaudio.contracts/CorpusIndex.schema.json",
+  "title": "CorpusIndex",
+  "description": "scrapes/INDEX.json: every corpus CAPTURE.WebScraper holds, keyed by its folder under scrapes/. Consumers (OS/system/pipeline.json, LIB.NCP) find a corpus by key here rather than by a hard-coded folder path; the folder can then move with one edit to this file. Written by apk_webscraper.engine.update_index on every run.",
+  "type": "object",
+  "required": ["schemaVersion", "corpora"],
+  "additionalProperties": false,
+  "properties": {
+    "schemaVersion": {"const": 1},
+    "corpora": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "required": ["source_url", "html", "markdown", "tool"],
+        "additionalProperties": false,
+        "properties": {
+          "source_url": {"type": "string", "minLength": 1, "description": "The base URL the crawl was scoped to."},
+          "html": {"type": "string", "description": "Folder under scrapes/ holding the fetched pages (with .provenance.json sidecars)."},
+          "markdown": {"type": "string", "description": "Folder under scrapes/ holding the Markdown derivatives."},
+          "media": {"type": ["string", "null"]},
+          "last_run": {"type": ["string", "null"], "description": "UTC, Z-suffixed; null when unknown (corpus predates the index)."},
+          "tool": {"type": "string", "description": "fetcher name and version, as in the manifests' `fetcher`."},
+          "pages": {"type": ["integer", "null"], "minimum": 0},
+          "note": {"type": ["string", "null"]}
+        }
+      }
+    }
+  }
+}

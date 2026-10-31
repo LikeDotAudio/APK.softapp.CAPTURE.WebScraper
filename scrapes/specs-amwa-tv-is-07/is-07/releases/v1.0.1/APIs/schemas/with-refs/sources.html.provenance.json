@@ -1,0 +1,12 @@
+{
+ "content_length": 20328,
+ "content_type": null,
+ "fetcher": "Scraper.py (before 2.0.0)",
+ "http_status": null,
+ "note": "Backfilled 2026-10-30 by apk_webscraper.backfill: source_url is the URL the mirror path maps back to, retrieved_at is the date git first recorded the file (the fetch was at or before it), http_status and content_type were not recorded.",
+ "provenance": "reconstructed",
+ "retrieved_at": "2026-09-13T16:09:17Z",
+ "schemaVersion": 1,
+ "sha256": "be22b62fd68852fad9f0bcc45c55b6a928886bd9d90665349c49a2b9ac08b931",
+ "source_url": "https://specs.amwa.tv/is-07/releases/v1.0.1/APIs/schemas/with-refs/sources.html"
+}

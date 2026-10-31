@@ -1,0 +1,12 @@
+{
+ "content_length": 23051,
+ "content_type": null,
+ "fetcher": "Scraper.py (before 2.0.0)",
+ "http_status": null,
+ "note": "Backfilled 2026-10-30 by apk_webscraper.backfill: the host is RecordingHacks (scrapes/microphones/Datamodel/AUDIT.md) and the scheme https is assumed -- the old layout kept only the path; source_url is that path mapped back, retrieved_at is the date git first recorded the file (the fetch was at or before it), http_status and content_type were not recorded.",
+ "provenance": "reconstructed",
+ "retrieved_at": "2026-09-13T16:09:17Z",
+ "schemaVersion": 1,
+ "sha256": "f2a435184ba21eebe15448647ce76a1df4ab4fe21f7b46bb48068db64a5b8c01",
+ "source_url": "https://recordinghacks.com/microphones/Royer-Labs/R-122V"
+}

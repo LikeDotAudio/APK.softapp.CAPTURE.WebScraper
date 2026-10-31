@@ -7,18 +7,19 @@ The principles this code keeps, each pointed at the line that keeps it. Ecosyste
 | # | Principle | Kept by |
 |---|---|---|
 | 1 | **Every fetch leaves a manifest, and only a fetch does.** Each saved page and media file gets `<file>.provenance.json` (URL, UTC time, status, type, length, SHA-256); the Markdown conversion gets none, because it was not fetched. | `Scraper.py:330` (pages), `Scraper.py:219` (media), the deliberate absence in `markdown_worker` `Scraper.py:137` |
-| 2 | **A manifest follows its file.** When a page file must become a directory, it moves to `<dir>/index.html` and its manifest moves with it. | `Scraper.py:305–307` |
-| 3 | **No half-records.** A manifest missing a required field raises instead of being written; digest and length are read back off the bytes on disk; a backfilled record says `"reconstructed"`. | `provenance.py:74–78`, `:50` `build`, `:82` `write` |
-| 4 | **The schema is the single source.** Required fields are read from `harvest-manifest.schema.json` at import. | `provenance.py:37` |
-| 5 | **Politeness is a constant.** Delay, thread count, disallowed paths and non-page extensions are module constants with their reasons beside them. | `Scraper.py:46–80` |
-| 6 | **One canonical URL per page.** `normalize_url` forces one scheme, drops `www.`, one trailing-slash form; `visited_urls` is claimed under `visited_lock`. | `Scraper.py:94`, `:248` |
-| 7 | **Keep going on errors.** A failed fetch, unwritable path or bad file is printed and skipped. | `download_page_worker` `Scraper.py:230`, `markdown_worker` |
-| 8 | **Machine timestamps carry their zone.** `retrieved_at` is Z-suffixed UTC. | `provenance.py:50` `build` |
-| 9 | **No single fetch exceeds 2 MB.** A declared `Content-Length` over `MAX_FETCH_BYTES` is refused unread; a body that streams past it is dropped; pages and media alike. | `Scraper.py` `read_capped`, `TooLarge` |
-| 10 | **One scheme per site, the start URL's.** `http://`, `https://` and `//` links collapse to it, so an http-only site mirrors. | `Scraper.py` `normalize_url`, `site_scheme` |
+| 2 | **A manifest follows its file.** When a page file must become a directory, it moves to `<dir>/index.html` and its manifest moves with it. | `engine.py` `Crawl.prepare_path` |
+| 3 | **No half-records.** A manifest that breaks the schema in any way raises instead of being written; digest and length are read back off the bytes on disk; a backfilled record says `"reconstructed"` and why. | `provenance.py` `build`/`validate`, `backfill.py` |
+| 4 | **The schema is the single source.** Records are validated against `harvest-manifest.schema.json` itself, not a restatement of it. | `provenance.py` `VALIDATOR` |
+| 5 | **The site says what may be fetched.** Its robots.txt is read and obeyed for every URL; per-site tunables live in `config.ini` keyed by host; nothing about one site is compiled in. | `engine.py` `Fetcher`, `load_rules`; `apk_webscraper/config.ini` |
+| 6 | **Politeness is per host, not per thread.** One rate limiter per host is shared by every worker. | `engine.py` `RateLimiter`, `Fetcher.host` |
+| 7 | **One canonical URL per page.** `normalize_url` forces the start URL's scheme, drops `www.`, one trailing-slash form, the query unless configured; URLs are claimed under `visited_lock`. | `engine.py` `Crawl.normalize_url`, `claim` |
+| 8 | **Keep going on errors.** A failed fetch, unwritable path or bad file is logged and skipped. | `Crawl.process_page`, `markdown_worker` |
+| 9 | **Machine timestamps carry their zone.** `retrieved_at` is Z-suffixed UTC. | `provenance.py` `build` |
+| 10 | **No single fetch exceeds the cap.** A declared `Content-Length` over the cap is refused unread; a body that streams past it is dropped. | `engine.py` `read_capped`, `TooLarge` |
+| 11 | **Stay on the target.** Pages under the start URL only; media from the target host or a configured media host only, saved under that host. | `Crawl.is_in_scope`, `media_allowed_host` |
+| 12 | **One crawler.** Other tools crawl through `apk_webscraper.crawl()` rather than carrying their own. | `apk_webscraper/__init__.py` |
 
 ## Where the code still falls short
 
-- **`DISALLOWED_PATHS` is one site's robots.txt** (`Scraper.py:68`); it is wrong for every other host and the code does not read robots.txt.
-- **Interactive.** The media question is `input()` on stdin (`Scraper.py:453`), so it cannot run unattended.
-- The trees already in `scrapes/` predate the manifests and carry none.
+- SCANALYZER's `Crawler.Like.Audio` still carries its own crawler (handoff filed).
+- No release tags (Needs owner).

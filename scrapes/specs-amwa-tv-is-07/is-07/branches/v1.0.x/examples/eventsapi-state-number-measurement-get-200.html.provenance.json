@@ -1,0 +1,12 @@
+{
+ "content_length": 20258,
+ "content_type": null,
+ "fetcher": "Scraper.py (before 2.0.0)",
+ "http_status": null,
+ "note": "Backfilled 2026-10-30 by apk_webscraper.backfill: source_url is the URL the mirror path maps back to, retrieved_at is the date git first recorded the file (the fetch was at or before it), http_status and content_type were not recorded.",
+ "provenance": "reconstructed",
+ "retrieved_at": "2026-09-13T16:09:17Z",
+ "schemaVersion": 1,
+ "sha256": "934c7e606d45525a8e0ca1af04b26efb3f7e876e9162d25186bd3a7b0b3c54e1",
+ "source_url": "https://specs.amwa.tv/is-07/branches/v1.0.x/examples/eventsapi-state-number-measurement-get-200.html"
+}

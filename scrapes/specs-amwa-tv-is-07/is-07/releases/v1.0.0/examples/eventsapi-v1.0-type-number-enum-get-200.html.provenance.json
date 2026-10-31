@@ -1,0 +1,12 @@
+{
+ "content_length": 20366,
+ "content_type": null,
+ "fetcher": "Scraper.py (before 2.0.0)",
+ "http_status": null,
+ "note": "Backfilled 2026-10-30 by apk_webscraper.backfill: source_url is the URL the mirror path maps back to, retrieved_at is the date git first recorded the file (the fetch was at or before it), http_status and content_type were not recorded.",
+ "provenance": "reconstructed",
+ "retrieved_at": "2026-09-13T16:09:17Z",
+ "schemaVersion": 1,
+ "sha256": "d43a81f380b506595e4d9542f01e89862aa1d8beb60a4426526c087be9c2f62d",
+ "source_url": "https://specs.amwa.tv/is-07/releases/v1.0.0/examples/eventsapi-v1.0-type-number-enum-get-200.html"
+}

@@ -1,0 +1,12 @@
+{
+ "content_length": 68721,
+ "content_type": null,
+ "fetcher": "Scraper.py (before 2.0.0)",
+ "http_status": null,
+ "note": "Backfilled 2026-10-30 by apk_webscraper.backfill: the host is RecordingHacks (scrapes/microphones/Datamodel/AUDIT.md) and the scheme https is assumed -- the old layout kept only the path; source_url is that path mapped back, retrieved_at is the date git first recorded the file (the fetch was at or before it), http_status and content_type were not recorded.",
+ "provenance": "reconstructed",
+ "retrieved_at": "2026-09-13T16:09:17Z",
+ "schemaVersion": 1,
+ "sha256": "877fedfb9e09fe4b33a10056adbdf57a077cf58c84f225ea11595b2511949d66",
+ "source_url": "https://recordinghacks.com/microphones/tag/16-bit|44.1-khz"
+}

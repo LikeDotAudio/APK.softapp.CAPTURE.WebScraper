@@ -1,0 +1,35 @@
+{
+ "corpora": {
+  "microphones": {
+   "html": "microphones",
+   "last_run": null,
+   "markdown": "microphones-MD",
+   "media": null,
+   "note": "Corpus predates the index (2026-10-30): last_run unknown; every fetched file carries a reconstructed .provenance.json.",
+   "pages": 3972,
+   "source_url": "https://recordinghacks.com/microphones",
+   "tool": "Scraper.py (before 2.0.0)"
+  },
+  "specs-amwa-tv-is-07": {
+   "html": "specs-amwa-tv-is-07",
+   "last_run": null,
+   "markdown": "specs-amwa-tv-is-07-MD",
+   "media": null,
+   "note": "Corpus predates the index (2026-10-30): last_run unknown; every fetched file carries a reconstructed .provenance.json.",
+   "pages": 450,
+   "source_url": "https://specs.amwa.tv/is-07",
+   "tool": "Scraper.py (before 2.0.0)"
+  },
+  "specs-amwa-tv-is-12": {
+   "html": "specs-amwa-tv-is-12",
+   "last_run": null,
+   "markdown": "specs-amwa-tv-is-12-MD",
+   "media": null,
+   "note": "Corpus predates the index (2026-10-30): last_run unknown; every fetched file carries a reconstructed .provenance.json.",
+   "pages": 46,
+   "source_url": "https://specs.amwa.tv/is-12",
+   "tool": "Scraper.py (before 2.0.0)"
+  }
+ },
+ "schemaVersion": 1
+}

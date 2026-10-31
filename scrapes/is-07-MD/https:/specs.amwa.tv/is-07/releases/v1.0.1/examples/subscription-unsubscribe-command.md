@@ -1,4 +1,0 @@
-{
-"command": "subscription",
-"sources": []
-}

@@ -1,0 +1,12 @@
+{
+ "content_length": 19843,
+ "content_type": null,
+ "fetcher": "Scraper.py (before 2.0.0)",
+ "http_status": null,
+ "note": "Backfilled 2026-10-30 by apk_webscraper.backfill: the host is RecordingHacks (scrapes/microphones/Datamodel/AUDIT.md) and the scheme https is assumed -- the old layout kept only the path; source_url is that path mapped back, retrieved_at is the date git first recorded the file (the fetch was at or before it), http_status and content_type were not recorded.",
+ "provenance": "reconstructed",
+ "retrieved_at": "2026-09-13T16:09:17Z",
+ "schemaVersion": 1,
+ "sha256": "0a8a7fab18be6a652a2452c052034ae4ddb8fd9a42f8980edf66b06f69576faa",
+ "source_url": "https://recordinghacks.com/microphones/Mojave-Audio/MA-50"
+}

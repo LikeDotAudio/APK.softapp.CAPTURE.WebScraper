@@ -1,0 +1,12 @@
+{
+ "content_length": 13126,
+ "content_type": null,
+ "fetcher": "Scraper.py (before 2.0.0)",
+ "http_status": null,
+ "note": "Backfilled 2026-10-30 by apk_webscraper.backfill: the host is RecordingHacks (scrapes/microphones/Datamodel/AUDIT.md) and the scheme https is assumed -- the old layout kept only the path; source_url is that path mapped back, retrieved_at is the date git first recorded the file (the fetch was at or before it), http_status and content_type were not recorded.",
+ "provenance": "reconstructed",
+ "retrieved_at": "2026-09-13T16:09:17Z",
+ "schemaVersion": 1,
+ "sha256": "c89ef86a85dc06e1270e5a4dc75b3072e56af716327c06521e815e55fcffbae0",
+ "source_url": "https://recordinghacks.com/microphones/tag/6205|resonator"
+}
