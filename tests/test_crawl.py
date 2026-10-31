@@ -169,3 +169,15 @@ def test_two_crawls_share_no_state(make_site, tmp_path, config):
 def test_plan_names_folders_like_the_kept_corpora():
     assert c.plan("https://specs.amwa.tv/is-07/") == ("https://specs.amwa.tv/is-07", "specs-amwa-tv-is-07")
     assert c.plan("https://specs.amwa.tv/is-12/v1.0.0")[1] == "specs-amwa-tv-is-12"
+
+
+def test_page_paths_are_portable(make_site, tmp_path, config):
+    """No name Windows or macOS refuses: `|`, `:`, trailing dot, device names."""
+    site = make_site(three_pages())
+    crawl = c.Crawl(site.url + "/", out=str(tmp_path), config_path=config(), verbose=False)
+    rel = lambda path: os.path.relpath(crawl.page_path(site.url + path), crawl.html_dir).replace(os.sep, "/")
+    assert rel("/tag/603s|end-address") == "tag/603s%7Cend-address"
+    assert rel("/DPA/d:facto") == "DPA/d%3Afacto"
+    assert rel("/tag/smc.") == "tag/smc%2E"
+    assert rel("/aux/con.txt") == "%61ux/%63on.txt"
+    assert c.portable_segment("plain-name.html") == "plain-name.html"

@@ -293,6 +293,33 @@ def sanitize_folder_name(url_part: str) -> str:
     return safe_name.strip("-")
 
 
+# Characters Windows refuses in a file name (macOS Finder also shows `:` as `/`),
+# plus the device names Windows reserves whatever the extension.
+_ILLEGAL_IN_NAME = set('<>:"|?*\\')
+_RESERVED_NAMES = {"con", "prn", "aux", "nul", *(f"com{i}" for i in range(1, 10)),
+                   *(f"lpt{i}" for i in range(1, 10))}
+
+
+def portable_segment(segment: str) -> str:
+    """One path segment as a name every OS can check out.
+
+    URL paths carry `|` (RecordingHacks tag unions), `:` (product names such as
+    DPA `d:facto`) and trailing dots, all illegal on Windows. Each offending
+    character is percent-encoded rather than replaced, so the mapping is
+    lossless (`unquote` reads the URL path back)."""
+    out = "".join(f"%{ord(ch):02X}" if ch in _ILLEGAL_IN_NAME or ord(ch) < 32 else ch for ch in segment)
+    if out and out[-1] in ". ":
+        out = out[:-1] + f"%{ord(out[-1]):02X}"
+    if out.split(".", 1)[0].lower() in _RESERVED_NAMES:
+        out = f"%{ord(out[0]):02X}" + out[1:]
+    return out
+
+
+def portable_path(rel: str) -> str:
+    """`portable_segment` applied to every segment of a `/`-separated path."""
+    return "/".join(portable_segment(part) for part in rel.split("/"))
+
+
 def extract_main_content(soup) -> str:
     """The page's main content, so boilerplate stays out of the Markdown."""
     for junk in soup.find_all(["script", "style", "noscript"]):
@@ -401,7 +428,7 @@ class Crawl:
 
     def page_path(self, url: str) -> str:
         parsed = urlparse(url)
-        rel = parsed.path.lstrip("/") or "index.html"
+        rel = portable_path(parsed.path.lstrip("/")) or "index.html"
         if parsed.query:
             rel += "@" + sanitize_folder_name(parsed.query)
         return os.path.join(self.html_dir, rel)
@@ -520,7 +547,7 @@ class Crawl:
                 self.count("skipped")
                 continue
             filepath = os.path.join(self.media_dir, _host_key(parsed.netloc).replace(":", "_"),
-                                    parsed.path.lstrip("/"))
+                                    portable_path(parsed.path.lstrip("/")))
             filepath = self.prepare_path(filepath)
             if filepath is None:
                 continue

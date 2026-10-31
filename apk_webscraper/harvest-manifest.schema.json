@@ -14,7 +14,7 @@
     },
     "source_url": {
       "type": "string",
-      "description": "The absolute URL fetched, query and fragment included if they were sent. This is the field the whole file exists for: The trees already in `scrapes/` predate manifests and encode it in the DIRECTORY PATH, which is why 3,245 tracked paths under `scrapes/microphones*/` contain `|` or `+` (git ls-files, 2026-10-30) and CLAUDE.md §1 calls them unsafe to touch. Encoding a URL as a path is what a manifest exists to stop.",
+      "description": "The absolute URL fetched, query and fragment included if they were sent. This is the field the whole file exists for: The trees already in `scrapes/` predate manifests and encode it in the DIRECTORY PATH, which is why thousands of tracked paths under `scrapes/microphones*/` carried `|` or `+` (git ls-files, 2026-10-30); since 2026-10-31 the Windows-illegal ones are percent-encoded (`%7C`), and this field still holds the URL as fetched. Encoding a URL as a path is what a manifest exists to stop.",
       "minLength": 1
     },
     "retrieved_at": {

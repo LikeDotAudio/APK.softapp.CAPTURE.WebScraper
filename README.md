@@ -21,7 +21,7 @@ A small package and a large corpus of other people's pages:
 | `Scraper.py` | The CLI (`display.json` entry): a shim over `apk_webscraper.engine.main`. |
 | `apk_webscraper/` | The crawler as a package — `engine.py` (`Fetcher`, `RateLimiter`, `Crawl`, `crawl()`), `provenance.py` (sidecars, validated against the schema), `harvest-manifest.schema.json`, `backfill.py` (reconstructed sidecars), `config.ini` (per-site rules). `import apk_webscraper; apk_webscraper.crawl(url, ...)`. |
 | `corpus-index.schema.json` | Schema of `scrapes/INDEX.json`. |
-| `scrapes/` | Output, tracked: `microphones` / `-MD` (RecordingHacks), `specs-amwa-tv-is-07` / `-MD`, `specs-amwa-tv-is-12` / `-MD`, and `INDEX.json`. Every fetched file has a `.provenance.json` (the pre-2026-10-30 ones `"reconstructed"`). Paths under `scrapes/microphones*/` contain `\|` or `+`; quote them. The old URL-as-path `scrapes/is-07*` trees were folded into `specs-amwa-tv-is-07*` on 2026-10-30. |
+| `scrapes/` | Output, tracked: `microphones` / `-MD` (RecordingHacks), `specs-amwa-tv-is-07` / `-MD`, `specs-amwa-tv-is-12` / `-MD`, and `INDEX.json`. Every fetched file has a `.provenance.json` (the pre-2026-10-30 ones `"reconstructed"`). Characters Windows refuses in a name (`<>:"\|?*`, a trailing dot or space, device names) are percent-encoded per path segment (`tag/603s%7Cend-address`, `DPA/d%3Afacto`; `engine.portable_segment`), so the tree checks out on Windows and macOS; `+` stays as is. The old URL-as-path `scrapes/is-07*` trees were folded into `specs-amwa-tv-is-07*` on 2026-10-30. |
 | `tests/` | pytest, local `http.server` fixtures only. |
 | `pyproject.toml`, `requirements.txt` | Package metadata; pinned deps. |
 | `display.json` | Manifest for the OS application walker. |
@@ -30,7 +30,7 @@ A small package and a large corpus of other people's pages:
 1. Takes one `url`. Derives the base URL and output folder `<host>-<path>` (a trailing `vN.N.N` segment is dropped so every version of a spec lands in one folder).
 2. Reads the host's **robots.txt** before any other request to it, and the host's section of `apk_webscraper/config.ini`.
 3. Runs `threads` page workers over a URL queue and one Markdown worker. Every request goes through `Fetcher.fetch()`: robots + `extra_disallow`, **one rate limiter per host shared by all workers** (`request_delay`, raised by `Crawl-delay`), one timeout, the size cap.
-4. Writes `scrapes/<folder>/…` (HTML, mirroring the URL path; a page that must also be a directory moves to `…/index.html`), a `.provenance.json` beside each, `scrapes/<folder>-MD/…` (Markdown, no manifest), and with `--media` `scrapes/<folder>-MEDIA/<host>/…` (target host or `media_hosts` only).
+4. Writes `scrapes/<folder>/…` (HTML, mirroring the URL path with illegal characters percent-encoded; a page that must also be a directory moves to `…/index.html`), a `.provenance.json` beside each, `scrapes/<folder>-MD/…` (Markdown, no manifest), and with `--media` `scrapes/<folder>-MEDIA/<host>/…` (target host or `media_hosts` only).
 5. Stitches the Markdown into `COMBINED_ARCHIVE_partN.md` and records the corpus in `scrapes/INDEX.json` (source URL, folders, last run, tool version, pages).
 
 Query strings are dropped by default (so tracking and session links do not multiply pages); `keep_query = true` for a site that paginates by `?page=`.

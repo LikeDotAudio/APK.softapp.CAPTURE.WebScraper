@@ -12,6 +12,7 @@ so a record never loses page content.
 """
 
 import os
+from urllib.parse import unquote
 import re
 import json
 import argparse
@@ -412,7 +413,9 @@ def load_brand_names(root):
 def extract(path, root, brand_names=None):
     brand_names = brand_names or {}
     rel = os.path.relpath(path, root)
-    brand_slug, model_slug = rel.split(os.sep)[0], rel.split(os.sep)[-1]
+    # Names on disk are percent-encoded where Windows refuses a character
+    # (`d%3Afacto`, engine.portable_segment); the slug is the URL's.
+    brand_slug, model_slug = (unquote(part) for part in (rel.split(os.sep)[0], rel.split(os.sep)[-1]))
 
     with open(path, encoding='utf-8', errors='replace') as f:
         html = f.read()
