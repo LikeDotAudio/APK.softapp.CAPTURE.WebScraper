@@ -21,5 +21,4 @@ The principles this code keeps, each pointed at the line that keeps it. Ecosyste
 
 ## Where the code still falls short
 
-- SCANALYZER's `Crawler.Like.Audio` still carries its own crawler (handoff filed).
 - No release tags (Needs owner).

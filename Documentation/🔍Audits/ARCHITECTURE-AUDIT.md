@@ -11,9 +11,9 @@ Polite single-site web mirror: fetch one site's HTML (and optionally its own med
 |---|---|---|
 | Target websites | HTTP GET through `Fetcher` (robots.txt, per-host limiter, UA/limits from `config.ini`) | Conformist (to each site's robots policy) |
 | CAPTURE.crawler | `import apk_webscraper` (Web Crawler tab) | Supplier |
-| SCANALYZER Crawler.Like.Audio | none yet — its own copy (handoff filed) | (should be Customer) |
+| SCANALYZER Crawler.Like.Audio | `apk_webscraper.crawl` (SCANALYZER 7d0c59d) | Customer |
 | OS pipeline walker (`PODS/POD.THIN/OS/system/pipeline.json`) | file path `…/scrapes/specs-amwa-tv-is-07` | Customer–Supplier by path; `scrapes/INDEX.json` offered (handoff) |
-| LIB.NCP README | cites `scrapes/specs-amwa-tv-is-12-MD/` | same; index offered (handoff) |
+| LIB.NCP README | cites corpus key `specs-amwa-tv-is-12` in `scrapes/INDEX.json` (LIB.NCP 80717ab) | Customer via the index |
 | OS app walker | [display.json](../../display.json) (`entry: Scraper.py`, `tech: python`) | Published Language |
 | MQTT bus / HTTP gateway | none | n/a |
 
@@ -22,7 +22,7 @@ Polite single-site web mirror: fetch one site's HTML (and optionally its own med
 |---|---|---|
 | Coupling & Cohesion | 3 | Self-contained package; run state in a `Crawl` object; consumers import it or read the corpus index. |
 | Boundary Integrity | 3 | One `Fetcher` holds the politeness contract; robots.txt read from the site; media host-scoped; provenance validated against its schema. |
-| Duplication Control | 2 | One IS-07 layout; CAPTURE.crawler converged; SCANALYZER's crawler copy remains (handoff filed). |
+| Duplication Control | 3 | One IS-07 layout; CAPTURE.crawler and SCANALYZER Crawler.Like.Audio both crawl through `apk_webscraper`. |
 | Testing & Contracts | 3 | 21 pytest tests on local fixtures; full schema validation of every sidecar, written or committed; corpus index has a schema. |
 | Change management | 2 | Tool version in every manifest and the index; consumers' move to the index is handed off; no release tags (Needs owner). |
 Score key: 3 meets the standard · 2 minor gaps · 1 significant gaps · 0 absent / violated.
@@ -30,6 +30,5 @@ Score key: 3 meets the standard · 2 minor gaps · 1 significant gaps · 0 absen
 ## Findings
 1. **GOOD — provenance is a real contract, single-sourced.** Records are validated against `harvest-manifest.schema.json` itself; digest/length are read off the bytes on disk; derivatives get none; a migrated page's manifest moves with it; backfilled ones say `reconstructed`.
 2. **GOOD — politeness is enforced in one place.** `Fetcher.fetch()`: robots.txt, one limiter per host across workers, size cap, one timeout and UA.
-3. **SCANALYZER Crawler.Like.Audio still re-implements the crawl — waiting on SCANALYZER.Like.audio (handoff filed).**
-4. **Consumers still cite corpus folders by path — waiting on root/OS and LIB.NCP (handoffs filed).** `scrapes/INDEX.json` now exists; the paths they use did not change.
-5. **No release tags — Needs owner.**
+3. **`OS/system/pipeline.json` still cites the corpus folder by path — waiting on root/OS (handoff filed).** LIB.NCP now cites the index key; the pipeline path is unchanged and works.
+4. **No release tags — Needs owner.**

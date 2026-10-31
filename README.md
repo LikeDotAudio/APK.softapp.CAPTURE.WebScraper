@@ -44,7 +44,7 @@ Query strings are dropped by default (so tracking and session links do not multi
   python3 Scraper.py https://specs.amwa.tv/is-07/            # pages only; --media for its media; --out, --config, --folder
   ```
   No prompt: it runs unattended.
-* **As a library**: `pip install .` then `apk_webscraper.crawl(url, out=..., media=..., logger=..., on_file=...)` — CAPTURE.crawler's Web Crawler tab does this.
+* **As a library**: `pip install .` then `apk_webscraper.crawl(url, out=..., media=..., logger=..., on_file=...)` — CAPTURE.crawler's Web Crawler tab and SCANALYZER's Crawler.Like.Audio do this.
 * **Tests**: `python3 -m pytest -q tests` — 21 passed on 2026-10-30, no external request.
 * **Backfill**: `python3 -m apk_webscraper.backfill <tree> <url-prefix> [--alias NEW=OLD] [--exclude NAME]`.
 * **Web Portal Entry**: none that opens in a browser. `display.json` names `"entry": "Scraper.py"` (`"tech": "python"`), a CLI.
@@ -66,8 +66,7 @@ What the code actually does, in the ecosystem's vocabulary (`Documentation/🏛P
 ---
 
 ## ⚠️ Known gaps
-* SCANALYZER's `Crawler.Like.Audio` still carries its own crawler (handoff filed).
-* `OS/system/pipeline.json` and LIB.NCP still cite corpus folders by path rather than through `scrapes/INDEX.json` (handoffs filed).
+* `OS/system/pipeline.json` still cites `scrapes/specs-amwa-tv-is-07` by path rather than through `scrapes/INDEX.json` (handoff filed).
 
 ## 🛣 Plans
 Plans live only in `Documentation/🛣Roadmap/roadmap.htm` at the APK.audio root.

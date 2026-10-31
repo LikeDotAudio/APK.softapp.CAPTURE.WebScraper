@@ -5,5 +5,4 @@ What this repo should change to meet the standard, most valuable first. Source: 
 
 | # | Improvement | Category | Effort (S/M/L) | Evidence |
 |---|---|---|---|---|
-| 1 | SCANALYZER `Crawler.Like.Audio` calls `apk_webscraper.crawl()` instead of its own downloader/parser — **Waiting on SCANALYZER.Like.audio (handoff filed)**. This repo's side (the importable package, CAPTURE.crawler converted) is done. | Duplication Control | M | `Crawler.Like.Audio/Thick/src/tabs/WebCrawler/` |
-| 2 | `OS/system/pipeline.json` and LIB.NCP cite corpora through `scrapes/INDEX.json` — **Waiting on root/OS and LIB.NCP (handoffs filed)**; the index exists and the paths they use are unchanged. Release tags: **Needs owner**. | Change management | S | `scrapes/INDEX.json` |
+| 1 | `OS/system/pipeline.json` cites the corpus through `scrapes/INDEX.json` (key `specs-amwa-tv-is-07`) rather than the raw folder — **Waiting on root/OS (handoff filed; root/OS is the peer session's)**. pipeline.json is a placement map keyed by folder path, so this may need a WEB.OsApi rule rather than a JSON edit; the path it uses is unchanged, nothing is broken. Release tags: **Needs owner**. | Change management | S | `OS/system/pipeline.json:353` |
