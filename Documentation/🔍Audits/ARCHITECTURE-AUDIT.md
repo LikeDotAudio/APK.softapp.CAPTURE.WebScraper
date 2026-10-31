@@ -30,5 +30,4 @@ Score key: 3 meets the standard · 2 minor gaps · 1 significant gaps · 0 absen
 ## Findings
 1. **GOOD — provenance is a real contract, single-sourced.** Records are validated against `harvest-manifest.schema.json` itself; digest/length are read off the bytes on disk; derivatives get none; a migrated page's manifest moves with it; backfilled ones say `reconstructed`.
 2. **GOOD — politeness is enforced in one place.** `Fetcher.fetch()`: robots.txt, one limiter per host across workers, size cap, one timeout and UA.
-3. **`OS/system/pipeline.json` still cites the corpus folder by path — waiting on root/OS (handoff filed).** LIB.NCP now cites the index key; the pipeline path is unchanged and works.
 4. **No release tags — Needs owner.**
