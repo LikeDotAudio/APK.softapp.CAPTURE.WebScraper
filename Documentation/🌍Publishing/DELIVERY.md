@@ -16,6 +16,13 @@ How it is built, tested and shipped, and where it lands.
 
 Not automated: the crawl itself, and release tags (Needs owner).
 
+## Delivered 2026-10-31: portable file names (no `:` `|` or case twins)
+
+- The monorepo now checks out on Windows and macOS: no tracked name holds `<>:"|?*`, a trailing dot or space, a device name or a case-only twin. Colon folders became dot folders (the POD.x convention).
+- `engine.portable_segment` / `portable_path`: page and media paths percent-encode `<>:"|?*`, control characters, a trailing dot/space and Windows device names per segment (lossless, `unquote` gives the URL path back). New test `test_page_paths_are_portable`; `pytest tests` 22 passed.
+- Corpus renamed to match (2,399 files): `tag/603s|end-address` → `tag/603s%7Cend-address`, `DPA/d:facto` → `DPA/d%3Afacto`, `tag/smc.` → `tag/smc%2E`. Dropped the lowercase `microphones/shure` page (+ manifest, + `.md`): it was byte-identical to `Shure/index.html` and clashed with it on case-insensitive file systems.
+- `scrapes/microphones/Datamodel/extract.py` unquotes the brand/model slug, so `d:facto` stays `d:facto` in `microphones.json`. README and `harvest-manifest.schema.json` describe the encoding.
+
 ## Delivered from the 2026-10-30 audit
 - **Pipeline cites the corpus index** — root `OS/system/pipeline.json` names `scrapes/INDEX.json#specs-amwa-tv-is-07` (peer session, 2026-10-31); the folder key stays because the pipeline lane requires a folder.
 - **robots.txt and per-site rules** — every fetch (page or media) checks the host's own robots.txt through `urllib.robotparser` (RFC 9309: 4xx = no rules, 5xx/unreachable = disallow all; `Crawl-delay` raises the interval), read before any other request to that host. User-Agent, delay, threads, size cap, timeout, `extra_disallow`, `media_hosts`, `keep_query` are `apk_webscraper/config.ini` sections keyed by host. The compiled-in microphone-site `DISALLOWED_PATHS` is gone — it lives on as `[recordinghacks.com] extra_disallow`. Verified: `tests/test_crawl.py` (`/private` disallowed by robots never requested; Crawl-delay; 5xx/4xx; extra_disallow).
