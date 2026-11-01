@@ -34,3 +34,6 @@ Not automated: the crawl itself, and release tags (Needs owner).
 - **Corpus index and tool version** — `scrapes/INDEX.json` (schema `corpus-index.schema.json`) lists each corpus by folder key and is updated by every run; manifests now carry `fetcher: "Scraper.py 2.0.0"` (`apk_webscraper.__version__`). LIB.NCP now cites the corpus by its index key (LIB.NCP 80717ab); `OS/system/pipeline.json` is still waiting on root/OS (handoff filed); release tags are Needs owner.
 - **Query strings documented and configurable** — `normalize_url` still drops the query by default (dedup); a site that paginates by query sets `keep_query = true` and the query becomes part of the filename (`listing@page-2`). Documented in the engine header, README and ARCHITECTURE. Verified: `test_query_dropped_by_default_kept_when_configured`.
 - **display.json says what it is** — the generic description replaced. The tool is listed in the OS application walker as a Python CLI.
+
+## Releases
+- **Released `2.0.0`, tag `v2.0.0`** (2026-11-01, ROAD-3452, the owner's V2) — no SDK pin; every manifest says 2.0.0; GitHub release `v2.0.0`.
