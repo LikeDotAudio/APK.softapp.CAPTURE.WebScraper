@@ -1,8 +1,8 @@
 {
   "name": "Capture Webscraper",
   "category": "CAPTURE",
-  "group": "Ingest and Capture",
-  "subGroup": "Web Ingest",
+  "group": "Ingest & Capture",
+  "subGroup": "Capture Tools",
   "stage": "10",
   "icon": "📷",
   "description": "A polite single-site mirror (CLI): fetch one site's pages (and, with --media, its own media), obey its robots.txt and a per-host rate limit, write a .provenance.json beside every fetched file, convert pages to Markdown, and index the corpora in scrapes/INDEX.json. Also the apk_webscraper package that CAPTURE.crawler's Web Crawler tab calls.",
