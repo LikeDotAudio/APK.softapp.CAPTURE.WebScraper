@@ -16,7 +16,7 @@ dependencies = [
 ]
 
 [project.scripts]
-apk-webscrape = "apk_webscraper.engine:main"
+apk-webscrape = "apk_webscraper.cli:main"
 
 [tool.setuptools]
 packages = ["apk_webscraper"]

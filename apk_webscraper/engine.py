@@ -681,6 +681,21 @@ def main(argv=None) -> int:
     parser.add_argument("--version", action="version", version=FETCHER)
     parser.set_defaults(media=False)
     args = parser.parse_args(argv)
+    # The mistakes a person makes, said before anything is fetched (ROAD-3522).
+    from .cli_problems import fail
+    parsed = urlparse(args.url)
+    if parsed.scheme not in ("http", "https") or not parsed.netloc:
+        fail("bad_input", detail=f"not an http(s) URL: {args.url!r}", subject="url",
+             fix=["Give the full starting URL, e.g. https://specs.amwa.tv/is-07/"])
+    if args.config and not os.path.isfile(args.config):
+        fail("file_unreadable", detail=f"--config {args.config}: no such file", subject="--config",
+             fix=[f"Check the path, or leave --config out to use {DEFAULT_CONFIG}."])
     stats = crawl(args.url, out=args.out, media=args.media, config_path=args.config, folder=args.folder)
     print(f"Done: {stats}")
+    if not stats.get("pages") and not stats.get("media"):
+        # Nothing saved: an unreachable host, a robots.txt that refuses, or a 4xx/5xx start page.
+        fail("fetch_failed", detail=f"nothing was saved from {args.url} ({stats})", subject=parsed.netloc,
+             fix=["Read the [robots] / [Downloader] lines above: an unreachable host or a robots.txt that "
+                  "disallows the start URL is the usual cause.",
+                  "Check the URL opens in a browser from this machine."])
     return 0

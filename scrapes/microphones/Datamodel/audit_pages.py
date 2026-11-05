@@ -15,7 +15,11 @@ import json
 import sys
 from collections import Counter, defaultdict
 
-from bs4 import BeautifulSoup
+try:
+    from bs4 import BeautifulSoup
+except ImportError as _bs4_missing:      # said plainly at run time (ROAD-3522), not as a traceback
+    BeautifulSoup = None
+    _BS4_MISSING = _bs4_missing
 
 SCRAPE_ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'microphones')
 OUT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -275,5 +279,21 @@ def main():
     print(f'\nWrote {out}')
 
 
-if __name__ == '__main__':
+def _run():
+    if BeautifulSoup is None:
+        raise _BS4_MISSING
+    if not os.path.isdir(SCRAPE_ROOT):
+        fail('file_unreadable', detail=f'{os.path.normpath(SCRAPE_ROOT)}: no such folder', subject='scrape',
+             fix=['Scrape RecordingHacks first (Scraper.py https://recordinghacks.com/microphones/), '
+                  'so its pages sit beside this Datamodel folder.'])
     main()
+
+
+if __name__ == '__main__':
+    # A common mistake (bs4 / jsonschema not installed, no scrape beside this folder)
+    # prints apkaudio_contracts.problems' problem_text, not a traceback: the
+    # repository's apk_webscraper/cli_problems.py, three folders up.
+    import sys
+    sys.path.insert(0, os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..', '..')))
+    from apk_webscraper.cli_problems import fail, guarded
+    sys.exit(guarded(_run))

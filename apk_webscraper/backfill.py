@@ -106,10 +106,25 @@ def main(argv=None) -> int:
     parser.add_argument("--repo", default=os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args(argv)
+    from .cli_problems import fail
+    if not os.path.isdir(os.path.join(args.repo, args.tree)):
+        fail("file_unreadable", detail=f"{os.path.join(args.repo, args.tree)}: no such folder", subject="tree",
+             fix=["Give the corpus folder relative to the repo root (e.g. scrapes/specs-amwa-tv-is-07), "
+                  "or point --repo at the checkout that holds it."])
+    bad = [a for a in args.alias if "=" not in a]
+    if bad:
+        fail("bad_input", detail=f"--alias {bad[0]!r} has no '='", subject="--alias",
+             fix=["Write it as NEWPREFIX=OLDPREFIX."])
     aliases = [tuple(a.split("=", 1)) for a in args.alias]
-    print(backfill(args.repo, args.tree, args.prefix, aliases, args.exclude, args.note, args.dry_run))
+    try:
+        print(backfill(args.repo, args.tree, args.prefix, aliases, args.exclude, args.note, args.dry_run))
+    except subprocess.CalledProcessError as error:
+        fail("bad_input", detail=f"git log failed in {args.repo}: {(error.stderr or '').strip()}", subject="--repo",
+             fix=["Run it inside a git checkout of the corpus (or pass --repo with one): the dates come from git."])
     return 0
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    # A common mistake prints apkaudio_contracts.problems' problem_text (cli_problems.py), not a traceback.
+    from .cli_problems import guarded
+    sys.exit(guarded(main))
