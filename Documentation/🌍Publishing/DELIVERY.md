@@ -16,6 +16,13 @@ How it is built, tested and shipped, and where it lands.
 
 Not automated: the crawl itself, and release tags (Needs owner).
 
+## Delivered 2026-11-03 – 2026-11-04
+
+From this repository's own commits (the commit message is the record):
+
+- chore: update audio agency name (`6bdd3a3`)
+- fix(CAPTURE.WebScraper): a common mistake prints what to do, not a traceback (ROAD-3522) (`f32075d`)
+
 ## Delivered 2026-10-31: portable file names (no `:` `|` or case twins)
 
 - The monorepo now checks out on Windows and macOS: no tracked name holds `<>:"|?*`, a trailing dot or space, a device name or a case-only twin. Colon folders became dot folders (the POD.x convention).
