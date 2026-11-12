@@ -72,5 +72,5 @@ What the code actually does, in the ecosystem's vocabulary (`Documentation/🏛P
 Plans live only in `Documentation/🛣Roadmap/roadmap.htm` at the APK.audio root.
 
 <!-- wiki:smoke -->
-**Smoke test** — ✅ PASS 1/1 since 2026-10-30 12:51 EDT — [results](Documentation/%F0%9F%A7%A9Manual%20and%20Artifacts/SMOKE.md)
+**Smoke test** — ❌ FAIL 1/2 since 2026-11-12 00:15 EST — [results](Documentation/%F0%9F%A7%A9Manual%20and%20Artifacts/SMOKE.md)
 <!-- /wiki:smoke -->
